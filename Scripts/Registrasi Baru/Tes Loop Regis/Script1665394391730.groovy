@@ -17,45 +17,45 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-def name = new String[4]
-	name[0] = 'Nodas Uziel Putra Serpara'
-	name[1] = '!@#$%^&*(){}|:">?<'
-	name[2] = '          '
-	name[3] = 'Burung077'
+def arrName = new String[4]
+	arrName[0] = 'Nodas Uziel Putra Serpara'
+	arrName[1] = '!@#$%^&*(){}|:">?<'
+	arrName[2] = '          '
+	arrName[3] = 'Burung077'
 
-def birds = new String[5]
-	birds[0] = 'nodasputra@gmail.com'
-	birds[1] = 'Danielwibisono539@yahoo.com'
-	birds[2] = 'Daniel123'
-	birds[3] = 'Daniel@abc'
-	birds[4] = 'jeffryreynaldi123@gmail.com@gmail.com'
+def email = new String[5]
+	email[0] = 'nodasputra@gmail.com'
+	email[1] = 'Danielwibisono539@yahoo.com'
+	email[2] = 'Daniel123'
+	email[3] = 'Daniel@abc'
+	email[4] = 'jeffryreynaldi123@gmail.com@gmail.com'
 
-def manuks = new String[6]
-	manuks[0] = '089527607467'
-	manuks[1] = '+6285325110668'
-	manuks[2] = '0853-2511-0668'
-	manuks[3] = '+62 852 354 13 400'
-	manuks[4] = '+625349889'
-	manuks[5] = 'Abc123'
+def noHp = new String[6]
+	noHp[0] = '089527607467'
+	noHp[1] = '+6285325110668'
+	noHp[2] = '0853-2511-0668'
+	noHp[3] = '+62 852 354 13 400'
+	noHp[4] = '+625349889'
+	noHp[5] = 'Abc123'
 	
-def vogels = new String[7]
-	vogels[0] = 'Daniel123'
-	vogels[1] = 'Dab12'
-	vogels[2] = 'ABCDabcd'
-	vogels[3] = '+6222222222222'
-	vogels[4] = '000000000000'
-	vogels[5] = ' '
-	vogels[6] = '?><'
+def password = new String[7]
+	password[0] = 'Daniel123'
+	password[1] = 'Dab12'
+	password[2] = 'ABCDabcd'
+	password[3] = '+6222222222222'
+	password[4] = '000000000000'
+	password[5] = ' '
+	password[6] = '?><'
 
 def myArray = [[100,200,300,400],[1,2,3,4],[99999]];
 	
 for (int i = 0; i < 100; i++) {
-	for(j=0;j<name.size();j++){
+	for(j=0;j<arrName.size();j++){
 	    WebUI.openBrowser('')
 	
 	    WebUI.navigateToUrl('https://internal.assetlogistik.com/register/email')
 	
-	    WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), name[j])
+	    WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), arrName[j])
 	
 	    WebUI.setText(findTestObject('Registrasi Baru/fieldNoWhatsapp'), '085148991030')
 	
@@ -69,14 +69,14 @@ for (int i = 0; i < 100; i++) {
 	
 	    WebUI.delay(7)
 	}
-	for(j=0;j<manuks.size();j++){
+	for(j=0;j<noHp.size();j++){
 		WebUI.openBrowser('')
 	
 		WebUI.navigateToUrl('https://internal.assetlogistik.com/register/email')
 	
-		WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), 'Manuks ni Bos')
+		WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), 'noHp ni Bos')
 	
-		WebUI.setText(findTestObject('Registrasi Baru/fieldNoWhatsapp'), manuks[j])
+		WebUI.setText(findTestObject('Registrasi Baru/fieldNoWhatsapp'), noHp[j])
 	
 		WebUI.setText(findTestObject('Registrasi Baru/fieldEmail'), 'ryukazuandara@gmail.com')
 	
@@ -88,16 +88,16 @@ for (int i = 0; i < 100; i++) {
 	
 		WebUI.delay(7)
 	}
-	for(j=0;j<birds.size();j++){
+	for(j=0;j<email.size();j++){
 		WebUI.openBrowser('')
 	
 		WebUI.navigateToUrl('https://internal.assetlogistik.com/register/email')
 	
-		WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), 'Manuks ni Bos')
+		WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), 'noHp ni Bos')
 	
 		WebUI.setText(findTestObject('Registrasi Baru/fieldNoWhatsapp'), '081252110012')
 	
-		WebUI.setText(findTestObject('Registrasi Baru/fieldEmail'), birds[j])
+		WebUI.setText(findTestObject('Registrasi Baru/fieldEmail'), email[j])
 	
 		WebUI.setText(findTestObject('Registrasi Baru/fieldPassword'), 'Daniel123')
 	
@@ -107,20 +107,20 @@ for (int i = 0; i < 100; i++) {
 	
 		WebUI.delay(7)
 	}
-	for(j=0;j<vogels.size();j++){
+	for(j=0;j<password.size();j++){
 		WebUI.openBrowser('')
 	
 		WebUI.navigateToUrl('https://internal.assetlogistik.com/register/email')
 	
-		WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), 'Manuks ni Bos')
+		WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), 'noHp ni Bos')
 	
 		WebUI.setText(findTestObject('Registrasi Baru/fieldNoWhatsapp'), '081252110012')
 	
 		WebUI.setText(findTestObject('Registrasi Baru/fieldEmail'), 'danielraymond@gmail.com')
 	
-		WebUI.setText(findTestObject('Registrasi Baru/fieldPassword'), vogels[j])
+		WebUI.setText(findTestObject('Registrasi Baru/fieldPassword'), password[j])
 	
-		WebUI.setText(findTestObject('Registrasi Baru/fieldKonfirmasiPassword'), vogels[j])
+		WebUI.setText(findTestObject('Registrasi Baru/fieldKonfirmasiPassword'), password[j])
 	
 		WebUI.click(findTestObject('Registrasi Baru/buttonDaftar2'))
 	
