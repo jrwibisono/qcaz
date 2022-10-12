@@ -17,17 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://qc.assetlogistik.com/login')
-
-WebUI.setText(findTestObject('null'), 'menabungrindu12@gmail.com')
-
-WebUI.setText(findTestObject('null'), 'Daniel123')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.verifyTextPresent('Anda ingin Login sebagai', false)
-
-WebUI.click(findTestObject('null'))
-

@@ -17,17 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('registerSyaratdanKetentuan/Basic Flow - Syarat dan Ketentuan'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://qc.assetlogistik.com/login')
+WebUI.click(findTestObject('Kebijakan Privasi/boxKebijakanPrivasi'))
 
-WebUI.setText(findTestObject('null'), 'menabungrindu12@gmail.com')
+WebUI.delay(1)
 
-WebUI.setText(findTestObject('null'), 'Daniel123')
+WebUI.click(findTestObject('Kebijakan Privasi/checkboxKebijakanPrivasi1'))
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Kebijakan Privasi/checkboxKebijakanPrivasi2'))
 
-WebUI.verifyTextPresent('Anda ingin Login sebagai', false)
-
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Kebijakan Privasi/checkboxKebijakanPrivasi3'))
 

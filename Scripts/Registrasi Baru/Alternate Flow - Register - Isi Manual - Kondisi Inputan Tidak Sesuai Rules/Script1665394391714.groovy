@@ -19,15 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://qc.assetlogistik.com/login')
+WebUI.navigateToUrl('https://internal.assetlogistik.com/landing')
 
-WebUI.setText(findTestObject('null'), 'menabungrindu12@gmail.com')
+WebUI.click(findTestObject('Registrasi Baru/buttonBergabung'))
 
-WebUI.setText(findTestObject('null'), 'Daniel123')
+WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), 'kunto')
 
-WebUI.click(findTestObject('null'))
+WebUI.setText(findTestObject('Registrasi Baru/fieldNoWhatsapp'), '08514899102914134134')
 
-WebUI.verifyTextPresent('Anda ingin Login sebagai', false)
+WebUI.setText(findTestObject('Registrasi Baru/fieldEmail'), 'ryukazu@gmail.com')
 
-WebUI.click(findTestObject('null'))
+WebUI.setText(findTestObject('Registrasi Baru/fieldPassword'), 'Daniel123')
+
+WebUI.setText(findTestObject('Registrasi Baru/fieldKonfirmasiPassword'), 'Daniel123')
+
+WebUI.click(findTestObject('Registrasi Baru/buttonDaftar2'))
 

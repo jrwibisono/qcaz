@@ -17,17 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Registrasi Baru/Basic Flow - Register - Isi Manual'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://qc.assetlogistik.com/login')
+WebUI.click(findTestObject('Syarat dan Ketentuan/boxSyaratdanKetentuan'))
 
-WebUI.setText(findTestObject('null'), 'menabungrindu12@gmail.com')
+WebUI.click(findTestObject('Syarat dan Ketentuan/checkboxSnK'))
 
-WebUI.setText(findTestObject('null'), 'Daniel123')
+WebUI.click(findTestObject('Syarat dan Ketentuan/checkboxSnK2'))
 
-WebUI.click(findTestObject('null'))
-
-WebUI.verifyTextPresent('Anda ingin Login sebagai', false)
-
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Syarat dan Ketentuan/buttonSelanjutnya'))
 

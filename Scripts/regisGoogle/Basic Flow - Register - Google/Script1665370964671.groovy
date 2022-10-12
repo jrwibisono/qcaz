@@ -19,15 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://qc.assetlogistik.com/login')
+WebUI.navigateToUrl('https://internal.assetlogistik.com/landing')
 
-WebUI.setText(findTestObject('null'), 'menabungrindu12@gmail.com')
+WebUI.click(findTestObject('regisGoogle/buttonDaftar'))
 
-WebUI.setText(findTestObject('null'), 'Daniel123')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.verifyTextPresent('Anda ingin Login sebagai', false)
-
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('regisGoogle/buttonDaftarGoogle'))
 
