@@ -17,18 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-def burungs = new String[4]
-	burungs[0] = 'Nodas Uziel Putra Serpara'
-	burungs[1] = '!@#$%^&*(){}|:">?<'
-	burungs[2] = '          '
-	burungs[3] = 'Burung077'
+def name = new String[4]
+	name[0] = 'Nodas Uziel Putra Serpara'
+	name[1] = '!@#$%^&*(){}|:">?<'
+	name[2] = '          '
+	name[3] = 'Burung077'
 
 def birds = new String[5]
 	birds[0] = 'nodasputra@gmail.com'
 	birds[1] = 'Danielwibisono539@yahoo.com'
 	birds[2] = 'Daniel123'
 	birds[3] = 'Daniel@abc'
-	birds[4]= 'jeffryreynaldi123@gmail.com@gmail.com'
+	birds[4] = 'jeffryreynaldi123@gmail.com@gmail.com'
 
 def manuks = new String[6]
 	manuks[0] = '089527607467'
@@ -47,26 +47,27 @@ def vogels = new String[7]
 	vogels[5] = ' '
 	vogels[6] = '?><'
 
+def myArray = [[100,200,300,400],[1,2,3,4],[99999]];
 	
 for (int i = 0; i < 100; i++) {
-	for(j=0;j<burungs.size();j++){
-    WebUI.openBrowser('')
-
-    WebUI.navigateToUrl('https://internal.assetlogistik.com/register/email')
-
-    WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), burungs[j])
-
-    WebUI.setText(findTestObject('Registrasi Baru/fieldNoWhatsapp'), '085148991030')
-
-    WebUI.setText(findTestObject('Registrasi Baru/fieldEmail'), 'ryukazuandara@gmail.com')
-
-    WebUI.setText(findTestObject('Registrasi Baru/fieldPassword'), 'Daniel123')
-
-    WebUI.setText(findTestObject('Registrasi Baru/fieldKonfirmasiPassword'), 'Daniel123')
-
-    WebUI.click(findTestObject('Registrasi Baru/buttonDaftar2'))
-
-    WebUI.delay(7)
+	for(j=0;j<name.size();j++){
+	    WebUI.openBrowser('')
+	
+	    WebUI.navigateToUrl('https://internal.assetlogistik.com/register/email')
+	
+	    WebUI.setText(findTestObject('Registrasi Baru/fieldNama'), name[j])
+	
+	    WebUI.setText(findTestObject('Registrasi Baru/fieldNoWhatsapp'), '085148991030')
+	
+	    WebUI.setText(findTestObject('Registrasi Baru/fieldEmail'), 'ryukazuandara@gmail.com')
+	
+	    WebUI.setText(findTestObject('Registrasi Baru/fieldPassword'), 'Daniel123')
+	
+	    WebUI.setText(findTestObject('Registrasi Baru/fieldKonfirmasiPassword'), 'Daniel123')
+	
+	    WebUI.click(findTestObject('Registrasi Baru/buttonDaftar2'))
+	
+	    WebUI.delay(7)
 	}
 	for(j=0;j<manuks.size();j++){
 		WebUI.openBrowser('')
