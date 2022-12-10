@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>MuatMuat</name>
+   <name>qc5</name>
    <tag></tag>
-   <UUID>f8308447-0802-41b9-a847-2387690ddd95</UUID>
+   <UUID>e10271e9-3450-45b9-bd04-5f794d245b3f</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-<<<<<<< HEAD
-=======
-   <projectFileLocation>C:\Users\HP\Katalon Studio\nodas (6)\MuatMuat.prj</projectFileLocation>
->>>>>>> c47a1c3ed26e1cc72da2a8cccd629f558b13a1dd
+   <projectFileLocation>C:\Users\USER\Katalon Studio\qc5\qc5.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

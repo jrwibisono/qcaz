@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonBankCIMB</name>
+   <tag></tag>
+   <elementGuidId>73a12b7e-8218-4ba1-985f-4fb7f49282e2</elementGuidId>
+   <imagePath>D:\Asset\LogoBank\CIMB-v2.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>D:\Asset\LogoBank\CIMB-v2.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

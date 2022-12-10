@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonBankBRI</name>
+   <tag></tag>
+   <elementGuidId>d9f355a4-3d16-4267-9218-5bf06cb6b135</elementGuidId>
+   <imagePath>D:\Asset\LogoBank\Logo-BRI-Bank-Rakyat-Indonesia-PNG-Terbaru-1140x973.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>D:\Asset\LogoBank\Logo-BRI-Bank-Rakyat-Indonesia-PNG-Terbaru-1140x973.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

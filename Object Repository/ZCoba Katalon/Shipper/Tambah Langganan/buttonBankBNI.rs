@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonBankBNI</name>
+   <tag></tag>
+   <elementGuidId>e1c5cbfe-fcdf-46e8-8c86-b2187b262000</elementGuidId>
+   <imagePath>D:\Asset\LogoBank\800px-BankNegaraIndonesia46-logo.svg.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>D:\Asset\LogoBank\800px-BankNegaraIndonesia46-logo.svg.png</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
