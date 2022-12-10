@@ -21,11 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://internalqc.assetlogistik.com/login')
 
-WebUI.setText(findTestObject('login/email_field'), 'qc7.azlogistik@gmail.com')
+WebUI.setText(findTestObject('Pro - Big FLeets/Shipper/Tender/2 - Proses Tender/Login/Field Email'), 'qc5.azlogistik@gmail.com')
 
-WebUI.setText(findTestObject('login/password_field'), 'Surabaya2022')
+WebUI.setText(findTestObject('Pro - Big FLeets/Shipper/Tender/2 - Proses Tender/Login/Field Password'), 'Az12345678')
 
-WebUI.click(findTestObject('login/button_login'))
-
-WebUI.check(findTestObject('login/check_login'))
+WebUI.click(findTestObject('Pro - Big FLeets/Shipper/Tender/2 - Proses Tender/Login/Btn Masuk'))
 
