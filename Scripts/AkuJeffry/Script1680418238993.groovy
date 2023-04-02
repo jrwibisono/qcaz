@@ -17,15 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://internalqc.assetlogistik.com/login')
-
-WebUI.setText(findTestObject('login/email_field'), 'qc7.azlogistik@gmail.com')
-
-WebUI.setText(findTestObject('login/password_field'), 'Surabaya2022')
-
-WebUI.click(findTestObject('login/button_login'))
-
-WebUI.check(findTestObject('login/check_login'))
-
