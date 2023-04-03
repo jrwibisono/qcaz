@@ -17,15 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Pro - Big Fleets/Shipper/Tender/1 - Info Pra Tender/Masuk sebagai Big Fleets - Shipper/Masuk sebagai Big Fleets - Shipper'), 
+    [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.navigateToUrl('https://qc.assetlogistik.com/login')
+WebUI.click(findTestObject('Pro - Big FLeets/Shipper/Tender/1 - Info Pra Tender/Side Bar Tender - Info Pra Tender/Btn Tender'))
 
-WebUI.setText(findTestObject('login/email_field'), 'qc7.azlogistik@gmail.com')
-
-WebUI.setText(findTestObject('login/password_field'), 'Surabaya2022')
-
-WebUI.click(findTestObject('login/button_login'))
-
-WebUI.check(findTestObject('login/check_login'))
+WebUI.click(findTestObject('Pro - Big FLeets/Shipper/Tender/1 - Info Pra Tender/Side Bar Tender - Info Pra Tender/Btn Info Pra Tender'))
 
