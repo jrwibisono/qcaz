@@ -19,15 +19,16 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://internalqc.assetlogistik.com/login')
+WebUI.navigateToUrl('https://onlinenotepad.org/notepad')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/input_Email sudah terdaftar_inpEmail'), 
-    GlobalVariable.User)
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/Password'), 
-    GlobalVariable.User_Password)
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/Checkbox'))
+WebUI.setText(findTestObject('null'), 
+    'ABC')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/span_Masuk'))
+WebUI.click(findTestObject('null'))
+
+WebUI.closeBrowser()
 

@@ -19,15 +19,12 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://internalqc.assetlogistik.com/login')
+WebUI.navigateToUrl('https://anotepad.com/')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/input_Email sudah terdaftar_inpEmail'), 
-    GlobalVariable.User)
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/00_CetakValidasi/TextField_Judul'), GlobalVariable.CetakValidasiBenar)
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/Password'), 
-    GlobalVariable.User_Password)
+//WebUI.setAttribute(findTestObject('Object Repository/Your_Object'), 'innerHTML', 'Teks yang ingin Anda atur')
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/00_CetakValidasi/TextArea_Notepad'), 'abh')
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/Checkbox'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/span_Masuk'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/00_CetakValidasi/Tombol_Save'))
 
