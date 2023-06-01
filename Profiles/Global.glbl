@@ -39,4 +39,9 @@
       <initValue>'https://elogistik.azlogistik.id/'</initValue>
       <name>URLMuatmuat</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>2</initValue>
+      <name>CS_Loop</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

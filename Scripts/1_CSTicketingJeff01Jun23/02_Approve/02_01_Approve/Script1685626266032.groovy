@@ -19,18 +19,17 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('1_CSTicketingJeff01Jun23/01_Login/01_02_MasukTicketManagement'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-for (int i = 0; i<=10; i++) {	
-	
-	WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/button_Ambil'))
-	
-	WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/button_Ya'))
-	
-	WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/label_Di Setujui'))
-	
-	WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/button_Submit'))
-	
-	WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/button_Ya_1'))
-	
-	WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/a_Open'))
-	
+for (int i = 1; i <= GlobalVariable.CS_Loop; i++) {
+    WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/button_Ambil'))
+
+    WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/button_Ya'))
+
+    WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/label_Di Setujui'))
+
+    WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/button_Submit'))
+
+    WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/button_Ya_1'))
+
+    WebUI.click(findTestObject('Object Repository/1_CSTicketingJeff01Jun23/02_Approve/02_01_Approve/a_Open'))
 }
+
