@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Minta Request</name>
+   <tag></tag>
+   <elementGuidId>01684da2-4e15-40e4-b767-93f657bb4ebd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnMintaRequest']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnMintaRequest</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>71b55dda-455e-4b3d-9cd3-ea50b827f743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tombol-primary-outline-az</value>
+      <webElementGuid>9c45d80c-8a91-497e-bbd1-db78738606da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnMintaRequest</value>
+      <webElementGuid>11768e6a-ffbe-4291-b307-28c7e913fa98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Minta Request
+    </value>
+      <webElementGuid>9c2eedfa-1543-45fd-8764-ae0308e04905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnMintaRequest&quot;)</value>
+      <webElementGuid>c5991a35-139d-4b46-92fb-9cfb73af22b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnMintaRequest']</value>
+      <webElementGuid>a1785564-4a9a-4932-bd48-ae9e95311736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::button[1]</value>
+      <webElementGuid>2ad67764-a3aa-4d82-ab1e-e3b1f78df1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'btnMintaRequest', '&quot;', ')')])[1]/preceding::button[2]</value>
+      <webElementGuid>d952ed2b-0fd5-4de5-b6cc-53c276e969b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Minta Request']/parent::*</value>
+      <webElementGuid>b4492a6c-19de-47fd-af67-64a07c2c367e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>5172425f-c9cb-4e5a-a4b8-7c768b9551a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnMintaRequest' and (text() = '
+        Minta Request
+    ' or . = '
+        Minta Request
+    ')]</value>
+      <webElementGuid>00baea90-15d0-4056-9d1d-e8b2a2bab839</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
