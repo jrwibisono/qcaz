@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Jeffryseller02@gmail.com'</initValue>
+      <initValue>'qc.azlogistik@gmail.com'</initValue>
       <name>UserCSTicketing</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -41,7 +41,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>2</initValue>
+      <initValue>10</initValue>
       <name>CS_Loop</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'JeffryKatalon06'</initValue>
+      <name>UserDaftarWhitelist</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

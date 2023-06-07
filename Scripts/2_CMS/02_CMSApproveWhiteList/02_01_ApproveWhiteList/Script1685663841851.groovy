@@ -35,8 +35,9 @@ WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01
 
 WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/button_Search_btn--icon btn--no-text font-i_19de8c'))
 
-WebUI.setText(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/input_Cookies_token_Search__cookies_token'), 
-    'JeffryLaptopTesting2')
+WebUI.setText(findTestObject('2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/CariData'), GlobalVariable.UserDaftarWhitelist)
 
 WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/button_Search'))
+
+WebUI.click(findTestObject('2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/ApproveButton'))
 

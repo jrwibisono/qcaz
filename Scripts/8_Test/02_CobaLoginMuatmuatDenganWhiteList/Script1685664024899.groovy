@@ -21,12 +21,60 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://elogistik.azlogistik.id/')
 
-WebUI.click(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_muatmuat Website  muatmuat/a_Masuk'))
-
 WebUI.setText(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/input_Margo'), 
-    'JeffryLaptopTesting2')
+    GlobalVariable.UserDaftarWhitelist)
 
 WebUI.click(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/button_Minta Request'))
 
-WebUI.callTestCase(findTestCase('2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+// New Window ------------------------ JEF 7 Juni 2023
+WebUI.executeJavaScript('window.open();', [])
+
+currentWindow = WebUI.getWindowIndex()
+
+//Switches tab #1
+WebUI.switchToWindowIndex(currentWindow + 1)
+
+WebUI.navigateToUrl('https://elogistik.azlogistik.id/Security/login?BackURL=%2Fadmin%2Fpages%2F')
+
+WebUI.setText(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_muatmuat Log in/input_Email_Email'), 
+    'qc.azlogistik@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_muatmuat Log in/input_Kata kunci_Password'), 
+    'qZoovpoGGphsc36T4xpFnA==')
+
+WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_muatmuat Log in/input_Keep me signed in_action_doLogin'))
+
+WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - Pages/span_whitelist'))
+
+WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/button_Search_showFilter'))
+
+WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/button_Search_btn--icon btn--no-text font-i_19de8c'))
+
+WebUI.setText(findTestObject('2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/CariData'), GlobalVariable.UserDaftarWhitelist)
+
+WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/button_Search'))
+
+WebUI.click(findTestObject('2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/ApproveButton'))
+
+// New Window ------------------------ JEF 7 Juni 2023
+WebUI.executeJavaScript('window.open();', [])
+
+currentWindow2 = WebUI.getWindowIndex()
+
+//Switches tab #1
+WebUI.switchToWindowIndex(currentWindow2 + 1)
+
+WebUI.navigateToUrl('https://elogistik.azlogistik.id/')
+
+WebUI.click(findTestObject('8_Test/02_CobaLoginMuatmuatDenganWhiteList/Login'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/input_Email sudah terdaftar_inpEmail'), 
+    GlobalVariable.User)
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/Password'), 
+    GlobalVariable.User_Password)
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/Checkbox'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/span_Masuk'))
 
