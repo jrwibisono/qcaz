@@ -31,22 +31,27 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://cs.muatmuat.com/public/login'</initValue>
+      <initValue>'https://csqc.assetlogistik.com/login'</initValue>
       <name>URLCSTikceting</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://elogistik.azlogistik.id/'</initValue>
+      <initValue>'https://qc.assetlogistik.com'</initValue>
       <name>URLMuatmuat</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>10</initValue>
+      <initValue>100</initValue>
       <name>CS_Loop</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'JeffryKatalon06'</initValue>
       <name>UserDaftarWhitelist</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://internalqc.assetlogistik.com/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
+      <name>URLCMS</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
