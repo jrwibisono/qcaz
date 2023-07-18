@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://elogistik.azlogistik.id/')
+WebUI.navigateToUrl(GlobalVariable.URLMuatmuat)
 
 WebUI.setText(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/input_Margo'), 
     GlobalVariable.UserDaftarWhitelist)
@@ -34,7 +34,7 @@ currentWindow = WebUI.getWindowIndex()
 //Switches tab #1
 WebUI.switchToWindowIndex(currentWindow + 1)
 
-WebUI.navigateToUrl('https://elogistik.azlogistik.id/Security/login?BackURL=%2Fadmin%2Fpages%2F')
+WebUI.navigateToUrl(GlobalVariable.URLCMS)
 
 WebUI.setText(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_muatmuat Log in/input_Email_Email'), 
     'qc.azlogistik@gmail.com')
@@ -64,7 +64,7 @@ currentWindow2 = WebUI.getWindowIndex()
 //Switches tab #1
 WebUI.switchToWindowIndex(currentWindow2 + 1)
 
-WebUI.navigateToUrl('https://elogistik.azlogistik.id/')
+WebUI.navigateToUrl(GlobalVariable.URLMuatmuat)
 
 WebUI.click(findTestObject('8_Test/02_CobaLoginMuatmuatDenganWhiteList/Login'))
 
