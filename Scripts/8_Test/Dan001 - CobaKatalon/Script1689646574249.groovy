@@ -19,7 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.URLMuatmuat)
+WebUI.navigateToUrl('https://shopee.co.id/')
 
-WebUI.click(findTestObject('8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/Login'))
+WebUI.click(findTestObject('Object Repository/8_Test/Dan001 - CobaKatalon/Page_Shopee Indonesia  Situs Belanja Online_073d3b/a_Mulai Berjualan'))
+
+WebUI.click(findTestObject('Object Repository/8_Test/Dan001 - CobaKatalon/Page_Daftar sekarang  Shopee Indonesia/a_Log in'))
+
+WebUI.click(findTestObject('8_Test/Dan001 - CobaKatalon/CobaRegisterShopee'))
 

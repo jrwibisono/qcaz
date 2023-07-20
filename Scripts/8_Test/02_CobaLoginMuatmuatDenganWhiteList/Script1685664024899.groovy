@@ -66,7 +66,7 @@ WebUI.switchToWindowIndex(currentWindow2 + 1)
 
 WebUI.navigateToUrl(GlobalVariable.URLMuatmuat)
 
-WebUI.click(findTestObject('8_Test/02_CobaLoginMuatmuatDenganWhiteList/Login'))
+WebUI.click(findTestObject('8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/Login'))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/input_Email sudah terdaftar_inpEmail'), 
     GlobalVariable.User)
