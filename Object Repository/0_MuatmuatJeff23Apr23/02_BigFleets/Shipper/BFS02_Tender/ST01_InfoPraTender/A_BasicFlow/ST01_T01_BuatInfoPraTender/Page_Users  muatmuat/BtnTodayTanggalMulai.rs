@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanRuteJenisCarrier</name>
+   <name>BtnTodayTanggalMulai</name>
    <tag></tag>
-   <elementGuidId>09d2e89b-f72e-416a-88da-f3de4c9f6b00</elementGuidId>
+   <elementGuidId>de875e19-0ee8-478c-84c2-82e5467e35a6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;select2-jenis-carrier-rute-0-result-kcuo-6&quot;]</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[13]/div[1]/table/tfoot/tr[1]/th</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

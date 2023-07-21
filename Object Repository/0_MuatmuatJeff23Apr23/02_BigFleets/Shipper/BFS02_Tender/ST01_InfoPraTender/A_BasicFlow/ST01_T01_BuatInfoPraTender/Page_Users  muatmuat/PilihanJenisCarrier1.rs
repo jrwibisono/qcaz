@@ -6,12 +6,11 @@
    <elementGuidId>f86c02b4-373a-4cbe-9de9-ad7a882a114a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;select2-jenis-carrier-0-result-d40h-6&quot;]</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/span/span/span[2]/ul/li[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

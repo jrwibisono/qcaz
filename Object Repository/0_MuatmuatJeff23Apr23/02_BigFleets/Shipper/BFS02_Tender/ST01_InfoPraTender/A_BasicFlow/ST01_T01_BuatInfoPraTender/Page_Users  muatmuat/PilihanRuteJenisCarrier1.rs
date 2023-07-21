@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanJenisTruk1</name>
+   <name>PilihanRuteJenisCarrier1</name>
    <tag></tag>
-   <elementGuidId>373ab996-fa17-4fa3-9c14-172de50f22ec</elementGuidId>
+   <elementGuidId>09d2e89b-f72e-416a-88da-f3de4c9f6b00</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li[1]</value>
+         <value>/html/body/span/span/span[2]/ul/li</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
