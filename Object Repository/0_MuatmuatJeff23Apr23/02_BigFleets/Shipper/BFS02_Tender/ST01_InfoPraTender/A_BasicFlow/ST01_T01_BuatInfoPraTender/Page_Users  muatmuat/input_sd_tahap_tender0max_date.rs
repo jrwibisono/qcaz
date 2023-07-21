@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='max-date-1']</value>
+         <value>//*[@id=&quot;max-date-1&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>71cff51d-c642-4fab-ba8a-ef6567092837</webElementGuid>
+      <webElementGuid>c9d3df2d-a4ea-42e4-b04d-71f55457d856</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b30939d4-eb7a-4d9e-8e09-630c58681b69</webElementGuid>
+      <webElementGuid>c7317209-b003-4492-839c-e5d4dd87b903</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>tahap_tender[0][max_date]</value>
-      <webElementGuid>c5e3c453-897a-41ec-9acf-3a6bb0917bb7</webElementGuid>
+      <webElementGuid>0457cc2c-15d6-4f09-88e0-632ef0985ffe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-date-format</name>
       <type>Main</type>
       <value>DD MMM YYYY</value>
-      <webElementGuid>851cd561-0b98-41ae-b863-2a8ada5e2971</webElementGuid>
+      <webElementGuid>8c362483-92b8-4a03-b934-d4435f00173a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-date</name>
       <type>Main</type>
       <value>Tanggal Akhir</value>
-      <webElementGuid>59cc52f1-ecdf-4ec3-a450-196313e88469</webElementGuid>
+      <webElementGuid>a624f1c8-bb10-4a03-81a1-89eec7466578</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>max-date-1</value>
-      <webElementGuid>c5b44149-3a35-4e04-a0d5-6eb6793c1195</webElementGuid>
+      <webElementGuid>50468c05-2166-4e11-a879-cf0ac144883a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tglSelesai input-pratender input-text-pratender form-control input-medium mr-10 max-date datepicker akhir i2 noOverlap</value>
-      <webElementGuid>da1fa49b-e45d-4cd1-9697-cf7f09e381e6</webElementGuid>
+      <webElementGuid>681427b6-06a5-409a-bff9-4420d7f1a071</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Tanggal Akhir</value>
-      <webElementGuid>5f526286-e4d5-4d9b-9542-97db792b6f6c</webElementGuid>
+      <webElementGuid>de3a1767-48a6-41b1-a731-8ac014f7af6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-provide</name>
       <type>Main</type>
       <value>datepicker</value>
-      <webElementGuid>18f2bf78-e138-4649-9b06-4e178baaf034</webElementGuid>
+      <webElementGuid>fd081f2e-32c8-4050-afda-d9ec13e8a70a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>min</name>
       <type>Main</type>
       <value>20 Jul 2023</value>
-      <webElementGuid>600c61a6-bc34-496f-a24b-c9c3ce58001b</webElementGuid>
+      <webElementGuid>b8e05d42-4b31-4716-9420-014923112a79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;max-date-1&quot;)</value>
-      <webElementGuid>f22bbcd1-5d64-4ea3-90fe-ac0c4ec4ca91</webElementGuid>
+      <webElementGuid>835beef0-4662-4c5e-b216-d84ce1c3a501</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='max-date-1']</value>
-      <webElementGuid>f64f94af-4783-4dfe-ae31-02db7d49bba7</webElementGuid>
+      <webElementGuid>fa1899de-8e2a-443e-8e25-db22bf107e26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='area-tahap-tender']/div[2]/div[2]/input[2]</value>
-      <webElementGuid>3be940fe-4a67-443c-81a4-b44abc1df7c4</webElementGuid>
+      <webElementGuid>a2c77f48-d9f8-448f-8498-22614dac6f6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input[2]</value>
-      <webElementGuid>dd8d7932-9046-4889-b9f2-e3e5bb4fcc5c</webElementGuid>
+      <webElementGuid>12049f24-7620-4aae-b1aa-d92a92ae7817</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'tahap_tender[0][max_date]' and @id = 'max-date-1' and @placeholder = 'Tanggal Akhir']</value>
-      <webElementGuid>156b1bf7-b913-456c-9a0c-effb02aeeef1</webElementGuid>
+      <webElementGuid>83e2aa0a-91c0-4870-a1f8-593bbd0cd71a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
