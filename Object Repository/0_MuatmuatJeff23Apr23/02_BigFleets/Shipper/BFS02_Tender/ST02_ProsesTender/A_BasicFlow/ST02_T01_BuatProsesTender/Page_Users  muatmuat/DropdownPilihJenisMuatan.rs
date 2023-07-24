@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanRuteJenisTruk1</name>
+   <name>DropdownPilihJenisMuatan</name>
    <tag></tag>
-   <elementGuidId>de73fae4-ea55-47c9-9336-912a51606e22</elementGuidId>
+   <elementGuidId>f1fcb15d-1254-436e-b413-4fd934a6ebc8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li</value>
+         <value>//*[@id=&quot;select2-jenis-muatan-container&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

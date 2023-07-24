@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanRuteJenisTruk1</name>
+   <name>DateSeleksiPemenangAkhir</name>
    <tag></tag>
-   <elementGuidId>de73fae4-ea55-47c9-9336-912a51606e22</elementGuidId>
+   <elementGuidId>e030ca45-8560-4b2d-a170-ba947a6ecd62</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li</value>
+         <value>//*[@id=&quot;max-date-3&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

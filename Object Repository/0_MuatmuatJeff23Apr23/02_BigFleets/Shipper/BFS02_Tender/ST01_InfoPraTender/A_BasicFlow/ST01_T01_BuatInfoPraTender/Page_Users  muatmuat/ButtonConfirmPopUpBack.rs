@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanRuteJenisTruk1</name>
+   <name>ButtonConfirmPopUpBack</name>
    <tag></tag>
-   <elementGuidId>de73fae4-ea55-47c9-9336-912a51606e22</elementGuidId>
+   <elementGuidId>fb10a7f0-8c2c-4472-b5d1-ba3509179de3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li</value>
+         <value>//*[@id=&quot;modalconfirmback&quot;]/div/div/div[2]/div[2]/button[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

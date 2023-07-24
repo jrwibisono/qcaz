@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanRuteJenisTruk1</name>
+   <name>ButtonBackFromForm</name>
    <tag></tag>
-   <elementGuidId>de73fae4-ea55-47c9-9336-912a51606e22</elementGuidId>
+   <elementGuidId>73010fe5-83ce-4db3-8344-dff0613eb6c1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li</value>
+         <value>/html/body/div[14]/div[2]/div[2]/div/div/div/a</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

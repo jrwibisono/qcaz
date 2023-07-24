@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='jumlah_truck-0']</value>
+         <value>//*[@id=&quot;jumlah_truck-0&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1a4d96f7-a079-4627-874d-4a39af534524</webElementGuid>
+      <webElementGuid>152d4583-bf2f-4e9b-9954-5de8cbf96425</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>aeafbe02-dec6-42b3-bafa-41ed56976602</webElementGuid>
+      <webElementGuid>c25033d5-2479-4228-80a2-55775ee452a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>unit_truk[0][jumlah_truck]</value>
-      <webElementGuid>59f995ea-8448-444a-a5f6-fc075e227c44</webElementGuid>
+      <webElementGuid>4af3d0b6-0bd1-4c7f-9b1d-132eb2fdf2ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>formatNumber jumlah-truk input-text-pratender form-control  fs-12 fc-1b ff-demi</value>
-      <webElementGuid>31700f36-1fb9-4064-88ca-a55911f6cf0e</webElementGuid>
+      <webElementGuid>dcdde5fc-5670-48c1-8135-4a1a6c75a5f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>jumlah_truck-0</value>
-      <webElementGuid>53a63db9-5703-4bff-ad4a-5f493258a92e</webElementGuid>
+      <webElementGuid>0088f48e-728d-48ab-879f-9aab7536cc13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>min</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>a1c4a436-9ec2-4ec1-8f17-b99d57f5628b</webElementGuid>
+      <webElementGuid>646f83fd-137f-4b20-8416-b856270fd159</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;jumlah_truck-0&quot;)</value>
-      <webElementGuid>43851ac8-34b2-4504-9bdf-d552f0c08808</webElementGuid>
+      <webElementGuid>bc26f72d-500f-4a2a-a988-9915b7618c09</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='jumlah_truck-0']</value>
-      <webElementGuid>09a61ea3-4339-4c74-ad1b-7778af5c9158</webElementGuid>
+      <webElementGuid>fe63ab0f-eed6-4b8a-a4d2-0faa03109d3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='unit-truk-0']/div/div[2]/input</value>
-      <webElementGuid>388b8393-45bc-4074-af76-5077437e4b95</webElementGuid>
+      <webElementGuid>f1e444df-2402-4d62-8809-a4967fbe9acb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div/div[2]/input</value>
-      <webElementGuid>4188482c-9d10-443b-b509-6ae325939fe2</webElementGuid>
+      <webElementGuid>3f631e8a-110d-4a2c-83a0-163ee653e3c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'unit_truk[0][jumlah_truck]' and @id = 'jumlah_truck-0']</value>
-      <webElementGuid>f72625ab-9fac-4587-b578-284c415ebdd4</webElementGuid>
+      <webElementGuid>c70aa489-dbf9-4790-a45d-719978898295</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
