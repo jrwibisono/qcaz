@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bak Terbuka</name>
+   <tag></tag>
+   <elementGuidId>8a4bc79d-2b45-47a5-892e-d7d2df710b5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.tambahan.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-frontend']/div/div/div/div/div[2]/div/div[8]/div[2]/div/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a183f0be-cbcb-490c-9efb-da05525e77a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tambahan active</value>
+      <webElementGuid>e4173f8b-6c9d-4752-8fa8-cb84997159fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>87c3d0f0-a457-44e5-8f0d-1caf0312b791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bak Terbuka</value>
+      <webElementGuid>9d72a488-d76b-4bdd-8322-8ed4ee704bc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-frontend&quot;)/div[@class=&quot;container px-5&quot;]/div[@class=&quot;d-flex  mb-3&quot;]/div[1]/div[1]/div[@class=&quot;card card-container&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;ml-3 pr-0&quot;]/div[1]/div[@class=&quot;pilih-carrier&quot;]/div[@class=&quot;d-flex flex-column ff-medium fs-12 fc-1b lh-normal&quot;]/span[@class=&quot;tambahan active&quot;]</value>
+      <webElementGuid>21ec0270-9236-457f-846c-01a9f9a3d841</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-frontend']/div/div/div/div/div[2]/div/div[8]/div[2]/div/div[2]/div/span</value>
+      <webElementGuid>0fa56aaf-8837-43b3-9ab2-ab6e93a7a006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih jenis Carrier'])[2]/following::span[1]</value>
+      <webElementGuid>43bea013-6f4c-4873-b386-dff5f3b2df16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih jenis Carrier'])[1]/following::span[1]</value>
+      <webElementGuid>63386ab2-b28d-445e-a517-f3c6e8cb5b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Box'])[1]/preceding::span[1]</value>
+      <webElementGuid>451aefda-d48e-41ff-9524-b3835a5c5690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Los Bak / Flatbed'])[1]/preceding::span[2]</value>
+      <webElementGuid>cecf1908-1635-4067-b948-93135c34e51e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bak Terbuka']/parent::*</value>
+      <webElementGuid>1415e6c5-ce3c-4864-8534-7aceb110ecde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/div[2]/div/span</value>
+      <webElementGuid>17398151-8d59-4c15-9e28-4539142deee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Bak Terbuka' or . = 'Bak Terbuka')]</value>
+      <webElementGuid>517a0e6f-2567-44ee-a994-a23c03bab861</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

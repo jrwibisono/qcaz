@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Colt Diesel Engkel</name>
+   <tag></tag>
+   <elementGuidId>88401237-9c24-4f6f-a791-7b481c7b4e82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-column.ff-medium.fs-12.fc-1b.lh-normal.HeadTruckDropdown > span.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-frontend']/div/div/div/div/div[2]/div/div[6]/div[2]/div/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>be0b8cd0-6a20-4902-87bf-06e2f5bd3784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>ff200d15-81d5-4995-a9e9-04b69ad21ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>5c2307ab-5f78-4054-a399-be9128e6d0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Colt Diesel Engkel</value>
+      <webElementGuid>8baefcda-3c35-4a21-9b38-0c36a647b55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-frontend&quot;)/div[@class=&quot;container px-5&quot;]/div[@class=&quot;d-flex  mb-3&quot;]/div[1]/div[1]/div[@class=&quot;card card-container&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;ml-3 pr-0&quot;]/div[1]/div[@class=&quot;pilih-truk&quot;]/div[@class=&quot;d-flex flex-column ff-medium fs-12 fc-1b lh-normal HeadTruckDropdown&quot;]/span[@class=&quot;active&quot;]</value>
+      <webElementGuid>a77416e1-a48a-43f5-b3d2-52b1aa11b1d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-frontend']/div/div/div/div/div[2]/div/div[6]/div[2]/div/div[2]/div/span</value>
+      <webElementGuid>dec8ba05-cacc-414a-917e-7606d9cb4dda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Truk'])[1]/following::span[1]</value>
+      <webElementGuid>06cd0a3f-f7ca-4fb5-bb89-ea8722fb98c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Truk'])[1]/following::span[1]</value>
+      <webElementGuid>068fd274-71fc-4abb-9a38-7388c0c625eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colt Diesel Double'])[1]/preceding::span[1]</value>
+      <webElementGuid>bf3ef250-25f4-402f-ab93-a8388dfa1019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medium Truck Rigid 4 x 2'])[1]/preceding::span[2]</value>
+      <webElementGuid>7cbaaa1e-b53f-4074-839f-c9acc0ffffd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Colt Diesel Engkel']/parent::*</value>
+      <webElementGuid>ccdab021-55f2-4a92-944c-0ae2a695ebad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div[2]/div/span</value>
+      <webElementGuid>3ccd1b19-f828-4d7f-a25b-c289b6364d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Colt Diesel Engkel' or . = 'Colt Diesel Engkel')]</value>
+      <webElementGuid>4fb6e013-52ac-450f-9ae9-f569d6c8126c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
