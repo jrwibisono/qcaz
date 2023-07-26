@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Trial 7 Days_fa fa-arrow-left</name>
+   <tag></tag>
+   <elementGuidId>23eabebb-fde8-4a4e-bd8f-de38189bfc42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-arrow-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>485fd302-4ae9-4bd6-bea9-370a5eec19f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-arrow-left</value>
+      <webElementGuid>48262fdb-374d-4ac1-a078-e15f8b9d77e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>040dcee9-b1f0-4097-8f23-91cbec740f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md content-menu right-content pb-5 mb-5 fiContainer&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;back-task&quot;]/a[@class=&quot;text-back d-flex&quot;]/div[1]/i[@class=&quot;fa fa-arrow-left&quot;]</value>
+      <webElementGuid>e537dec4-b059-4323-83f7-9bce5330565a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/i</value>
+      <webElementGuid>60ed98b3-1909-4018-84a3-7f99eb9d139d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -37,10 +37,12 @@ WebUI.switchToWindowIndex(currentWindow + 1)
 WebUI.navigateToUrl(GlobalVariable.URLCMS)
 
 WebUI.setText(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_muatmuat Log in/input_Email_Email'), 
-    'qc.azlogistik@gmail.com')
+    'qc.katalon01@gmail.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_muatmuat Log in/input_Kata kunci_Password'), 
-    'qZoovpoGGphsc36T4xpFnA==')
+    'CxznB8Z9LyAJ+B7hPICjAQ==')
+
+WebUI.click(findTestObject('2_CMS/01_LoginCMS/01_01_LoginCMS/Page_muatmuat Log in/CheckboxKeepMeSignedIn'))
 
 WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_muatmuat Log in/input_Keep me signed in_action_doLogin'))
 

@@ -51,10 +51,8 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/th_Today'))
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/InputWaktuBatasMaksimalPengisian'))
-
-WebUI.sendKeys(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/InputWaktuBatasMaksimalPengisian'), 
-    Keys.chord(Keys.ARROW_DOWN, Keys.ENTER))
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/InputWaktuBatasMaksimalPengisian'), 
+    '2359')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/div_Pilih Jenis Truk'))
 
@@ -86,7 +84,7 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFlee
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/button_Tambah'))
 
-WebUI.waitForJQueryLoad(60)
+WebUI.waitForJQueryLoad(0)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/img'))
 
