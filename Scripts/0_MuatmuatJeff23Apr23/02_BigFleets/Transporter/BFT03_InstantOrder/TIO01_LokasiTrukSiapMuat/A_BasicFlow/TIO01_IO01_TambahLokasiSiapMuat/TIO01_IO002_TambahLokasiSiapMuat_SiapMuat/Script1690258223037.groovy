@@ -79,7 +79,7 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFlee
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/button_Tambah'))
 
-WebUI.waitForJQueryLoad(60)
+not_run: WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/img'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/img'))
 

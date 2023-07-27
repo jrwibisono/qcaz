@@ -24,16 +24,18 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Big Fleets Main Dashboard  muatmuat/a_Info Permintaan Muat'))
 
-WebUI.navigateToUrl('https://qc.assetlogistik.com/bigfleets/permintaanMuatAktifGrid')
+not_run: WebUI.navigateToUrl(GlobalVariable.URLPermintaanMuatAktif)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/a_Buat Info Permintaan Muat'))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input__pickUpAddress0'), 
     'Kenjeran')
 
-WebUI.waitForJQueryLoad(60)
+WebUI.delay(1)
 
-WebUI.sendKeys(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input__pickUpAddress0'), 
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/SelectPickupAddress0'))
+
+not_run: WebUI.sendKeys(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input__pickUpAddress0'), 
     Keys.chord(Keys.ARROW_DOWN, Keys.ENTER))
 
 not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/div_Kenjeran, Surabaya, Jawa Timur, Indonesia'))
@@ -54,12 +56,19 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/th_Today'))
 
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/InputWaktuPickupContainer'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/InputWaktuPickup'), 
+    '2000')
+
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input__addressBongkar0'), 
     'alun contong')
 
-WebUI.waitForJQueryLoad(60)
+WebUI.delay(1)
 
-WebUI.sendKeys(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input__addressBongkar0'), 
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/SelectPickupAddress0'))
+
+not_run: WebUI.sendKeys(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input__addressBongkar0'), 
     Keys.chord(Keys.ARROW_DOWN, Keys.ENTER))
 
 not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/div_Alun-alun Contong, Surabaya, Jawa Timur_d59d33'))
@@ -78,9 +87,24 @@ not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input__tgl_akan_siap_muat_1'))
 
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/th_Today'))
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/InputWaktuBongkarContainer'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/InputWaktuBongkar'), 
+    '2359')
+
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/span_Jenis Truk'))
 
+WebUI.sendKeys(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/InputJenisTruk'), 
+    Keys.chord(Keys.ARROW_DOWN, Keys.ENTER))
+
+WebUI.delay(1)
+
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/span_Jenis Carrier'))
+
+WebUI.sendKeys(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/InputJenisCarrier'), 
+    Keys.chord(Keys.ARROW_DOWN, Keys.ENTER))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input__jumlah_truck'), 
     '20')
@@ -88,9 +112,11 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFlee
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/textarea__deskripsimuatan'), 
     'Kayu Jati')
 
-WebUI.setText(findTestObject('Page_Users  muatmuat/input_(opsional)_berat'), '20')
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/InputBeratOpsional'), 
+    '20')
 
-WebUI.setText(findTestObject('Page_Users  muatmuat/input_(opsional)_volume'), '20')
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/InputVolumeOpsional'), 
+    '20')
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input_(opsional)_dimensi'), 
     '20x20x20')
@@ -111,9 +137,9 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/button_Buat Info Permintaan Muat'))
 
-WebUI.waitForJQueryLoad(240)
+not_run: WebUI.waitForJQueryLoad(240)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/img'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/img'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/i_Trial 7 Days_fa fa-arrow-left'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/i_Trial 7 Days_fa fa-arrow-left'))
 

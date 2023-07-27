@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='berat']</value>
+         <value>//*[@id=&quot;form-frontend&quot;]/div/div[4]/div/div[2]/div[2]/div[2]/div/div[1]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>18d5db89-6c04-4157-822b-ea7e5aea3ca9</webElementGuid>
+      <webElementGuid>f9fd5fef-a8c0-4433-af8e-9ec5f5150290</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>c3eb1e13-5f0b-41e7-9834-802a68ba1ed3</webElementGuid>
+      <webElementGuid>a6892d01-05a4-452e-bfbc-bf10ebe37071</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>berat</value>
-      <webElementGuid>bd488700-95b2-477c-94f5-23cce9b928bb</webElementGuid>
+      <webElementGuid>13914f1a-d021-4de4-bc46-acfcc9dfdc8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control w-50 fs-10 ff-demi formatBerat satuan_berat h-100</value>
-      <webElementGuid>cb260723-7468-4434-8844-9a8cbf9aa86e</webElementGuid>
+      <webElementGuid>bf91d881-8ed1-48ac-9465-93628e8bdefd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form-frontend&quot;)/div[@class=&quot;container px-0 d-flex&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;card card-container&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mb-20&quot;]/div[@class=&quot;col-lg-9 pl-0&quot;]/div[@class=&quot;row pl-15&quot;]/div[@class=&quot;d-flex pl-0 text-icon-center&quot;]/input[@class=&quot;form-control w-50 fs-10 ff-demi formatBerat satuan_berat h-100&quot;]</value>
-      <webElementGuid>1895dfa6-ac06-4a29-b7e0-80826046dbad</webElementGuid>
+      <webElementGuid>abfa7427-ebab-43cb-bd37-89f6aed9e913</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='berat']</value>
-      <webElementGuid>03da0bf9-450b-4174-b97a-52bb8869f1fb</webElementGuid>
+      <webElementGuid>66585624-089e-4d5d-8c25-4a1d0b5947ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-frontend']/div/div[4]/div/div[2]/div[2]/div[2]/div/div/input</value>
-      <webElementGuid>3e8092e2-d193-4c2f-853d-9e6d72429bb6</webElementGuid>
+      <webElementGuid>ad85ffb6-4406-46dd-8782-d207b7b8f023</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/input</value>
-      <webElementGuid>148f7d87-ebec-4482-a304-fb995f1a11e4</webElementGuid>
+      <webElementGuid>18c4c2c4-5c65-4124-8702-cffe8d828e01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'berat']</value>
-      <webElementGuid>dcd89734-06d3-4827-97e2-a49513eb15a0</webElementGuid>
+      <webElementGuid>da88fdd0-a287-49ec-bcda-fcab7ecd8664</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

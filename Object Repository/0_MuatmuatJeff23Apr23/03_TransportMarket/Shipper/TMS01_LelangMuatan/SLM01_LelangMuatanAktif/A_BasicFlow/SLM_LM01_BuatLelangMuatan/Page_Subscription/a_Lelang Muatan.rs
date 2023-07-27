@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='btn-lelang']</value>
+         <value>//*[@id=&quot;btn-lelang&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>d75637d2-dd47-4400-a331-7a7363901eed</webElementGuid>
+      <webElementGuid>3446248e-7811-4dc3-a519-e9cb3bc1deee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-lelang</value>
-      <webElementGuid>b4a64ad4-dc90-4bc6-9c77-a58b30c2c622</webElementGuid>
+      <webElementGuid>0eb221cb-3b37-49d7-988d-a9470a5298aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-id</name>
       <type>Main</type>
       <value>LM</value>
-      <webElementGuid>17586298-328a-4581-a5cb-73c270fbdcb8</webElementGuid>
+      <webElementGuid>828d7800-1ca3-4236-8fe3-5588356b4749</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-sidebar  fw-medium fs-12</value>
-      <webElementGuid>8232d96d-ae90-4a00-b421-767b519779a4</webElementGuid>
+      <webElementGuid>e38ca119-d413-4e7d-b50b-edb3c16cb493</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-href</name>
       <type>Main</type>
       <value>/traffic/redirect_zo</value>
-      <webElementGuid>733fb8d8-5e9f-4fda-98c7-2d98eb27d1e7</webElementGuid>
+      <webElementGuid>70199da4-699b-4e3f-8980-de5faee0dfcd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>e5a49903-adeb-4e4a-85c8-907996559b7a</webElementGuid>
+      <webElementGuid>3335964e-266f-4e6c-804e-9322ca9257be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Lelang Muatan</value>
-      <webElementGuid>6d2bd552-ed88-4215-a38c-ff89b8f0ae4e</webElementGuid>
+      <webElementGuid>5266410f-79f7-4ca6-853a-9e52b1b08107</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-lelang&quot;)</value>
-      <webElementGuid>65e927d4-4e25-41ed-bb13-c1332305acd1</webElementGuid>
+      <webElementGuid>dcd59d8e-cab8-421a-a5f7-0fb21f8d028e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='btn-lelang']</value>
-      <webElementGuid>52ee3879-f9dd-4371-a841-9b639fb6d064</webElementGuid>
+      <webElementGuid>7d6ee7a6-fb10-442f-8e77-e8eeaa4dd3bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sidebar-menu']/div[4]/a</value>
-      <webElementGuid>61ae9c08-845a-40a0-9002-1ca519562e96</webElementGuid>
+      <webElementGuid>a8fd1ada-dc9d-4254-b90d-c0287909c175</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Lelang Muatan')]</value>
-      <webElementGuid>26cf3f37-f7f3-435d-bed3-47abfc7bd9a9</webElementGuid>
+      <webElementGuid>1336ab11-6617-42e8-866e-9d62581c07ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription'])[1]/following::a[3]</value>
-      <webElementGuid>c0b709a2-1e8f-4d88-ab14-1e1e815b000f</webElementGuid>
+      <webElementGuid>5b638364-07ef-46a4-980e-3d73fb385b8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ke Transporter'])[1]/following::a[4]</value>
-      <webElementGuid>f1c45c2d-e116-45d2-ac48-816ae55e2b54</webElementGuid>
+      <webElementGuid>4dde6bc0-59cd-4336-a4c8-3197fdcf6c5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Berlangganan'])[2]/preceding::a[1]</value>
-      <webElementGuid>ecdcc2f3-098e-48a3-aa1f-88fbb88a75c7</webElementGuid>
+      <webElementGuid>6bf2a045-e503-447e-8ddd-46874d08cbc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Langganan'])[1]/preceding::a[1]</value>
-      <webElementGuid>9dd5ea2a-1716-429a-9963-7e378aded2ad</webElementGuid>
+      <webElementGuid>91a5231e-8e5c-42e9-bc2a-9f18a941b621</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Lelang Muatan']/parent::*</value>
-      <webElementGuid>1a4d7759-4336-4171-8204-893d7ff74312</webElementGuid>
+      <webElementGuid>33398ac0-a254-4296-a6b1-f902226736c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +150,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[3]</value>
-      <webElementGuid>bc578233-013d-4b46-ad1b-741938cc101b</webElementGuid>
+      <webElementGuid>9984de8d-d3d9-4efd-abcb-7c8354a7e96e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +158,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div/div[2]/div[4]/a</value>
-      <webElementGuid>dd004f09-0d8a-4f63-87ba-60a7e7ad8f0c</webElementGuid>
+      <webElementGuid>dc1f4016-5030-463e-890f-bafddce99d03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +166,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'btn-lelang' and @href = '#' and (text() = 'Lelang Muatan' or . = 'Lelang Muatan')]</value>
-      <webElementGuid>5ee9baab-5c5a-4160-9d94-3e47f8ca3628</webElementGuid>
+      <webElementGuid>791ba3c5-b2d8-491d-bc1d-76cd7b376058</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

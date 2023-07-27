@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>Global</name>
+   <name>GlobalQC</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'ABCD'</initValue>
@@ -11,12 +11,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'hendorphin@azlogistik.net'</initValue>
+      <initValue>'jeffryreynaldi123@gmail.com'</initValue>
       <name>User</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Saturnus95'</initValue>
+      <initValue>'Daniel123'</initValue>
       <name>User_Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -31,12 +31,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://csqc.assetlogistik.com/login'</initValue>
+      <initValue>'http://cs.azlogistik.id/public/public'</initValue>
       <name>URLCSTikceting</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://qc.assetlogistik.com'</initValue>
+      <initValue>'http://bf.azlogistik.id/'</initValue>
       <name>URLMuatmuat</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -51,7 +51,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://internalqc.assetlogistik.com/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
+      <initValue>'https://rc.azlogistik.id/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
       <name>URLCMS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://bf.azlogistik.id/bigfleets/permintaanMuatAktifGrid'</initValue>
+      <name>URLPermintaanMuatAktif</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
