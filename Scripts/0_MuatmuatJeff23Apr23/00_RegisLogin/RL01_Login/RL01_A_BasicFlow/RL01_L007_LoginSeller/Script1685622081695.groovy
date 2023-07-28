@@ -17,3 +17,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_Login'), [:], 
+    FailureHandling.CONTINUE_ON_FAILURE)
+
+not_run: WebUI.navigateToUrl('https://internalqc.assetlogistik.com/dashboard/home')
+
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L07_LoginSeller/Page_Home  muatmuat/input_Darimana Anda mengetahui muatmuat_rad_de3e7c'))
+
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L07_LoginSeller/Page_Home  muatmuat/div_Lanjutkan'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L07_LoginSeller/Page_Home  muatmuat/img'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L07_LoginSeller/Page_Home  muatmuat/a_SellerPartner Center'))
+
