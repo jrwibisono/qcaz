@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanJenisMuatan</name>
+   <name>DropdownSetKotaPickup</name>
    <tag></tag>
-   <elementGuidId>15012cb6-f7b7-41c3-9411-da53b1b8f43d</elementGuidId>
+   <elementGuidId>c03a319e-a4c1-41de-acc3-86e8fe1e6d08</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li[1]</value>
+         <value>//*[@id=&quot;main-window&quot;]/div[4]/div[2]/div/div[2]/div[1]/div[1]/div[2]/div[2]/span/span[1]/span/span[2]/b</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

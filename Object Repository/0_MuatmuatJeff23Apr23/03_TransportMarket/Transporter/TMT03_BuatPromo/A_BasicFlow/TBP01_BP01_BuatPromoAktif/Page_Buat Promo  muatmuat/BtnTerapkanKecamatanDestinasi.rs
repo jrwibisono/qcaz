@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanJenisMuatan</name>
+   <name>BtnTerapkanKecamatanDestinasi</name>
    <tag></tag>
-   <elementGuidId>15012cb6-f7b7-41c3-9411-da53b1b8f43d</elementGuidId>
+   <elementGuidId>3b19eeaa-9f6b-455b-b6d8-5dca2a50d592</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li[1]</value>
+         <value>//*[@id=&quot;modal_kecamatan_destination&quot;]/div/div/div/div[4]/button[2]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

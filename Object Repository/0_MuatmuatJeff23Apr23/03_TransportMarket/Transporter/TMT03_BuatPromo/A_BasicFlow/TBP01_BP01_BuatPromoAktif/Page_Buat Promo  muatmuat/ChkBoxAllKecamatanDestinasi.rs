@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanJenisMuatan</name>
+   <name>ChkBoxAllKecamatanDestinasi</name>
    <tag></tag>
-   <elementGuidId>15012cb6-f7b7-41c3-9411-da53b1b8f43d</elementGuidId>
+   <elementGuidId>29606880-e9f4-4499-8744-caf7e43197ee</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li[1]</value>
+         <value>//*[@id=&quot;modal_kecamatan_destination&quot;]/div/div/div/div[3]/div[1]/div/input</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

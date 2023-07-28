@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanJenisMuatan</name>
+   <name>BtnPilihKecamatanDestinasi</name>
    <tag></tag>
-   <elementGuidId>15012cb6-f7b7-41c3-9411-da53b1b8f43d</elementGuidId>
+   <elementGuidId>9582d1cb-b1d1-4192-8acb-850616c856fb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li[1]</value>
+         <value>//*[@id=&quot;select2-destination_kecamatan-container&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Harga Promo (Rp)_btn-remove pointer</name>
+   <tag></tag>
+   <elementGuidId>cab1e67c-33e1-4478-abe7-80bd6ec90025</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fleet_list']/div[4]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8ed79763-8e90-4ad1-8048-6da93f38d865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-remove pointer</value>
+      <webElementGuid>fb2a1748-4859-4118-8fed-cb679550dd8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>26</value>
+      <webElementGuid>a9ba70ae-a2e8-4a9d-8b47-8dce50ef1a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/images/ic_btn_remove.svg</value>
+      <webElementGuid>07112e2f-fdb1-458a-b75c-4769504fb3a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fleet_list&quot;)/div[@class=&quot;d-flex align-items-center armada-item&quot;]/img[@class=&quot;btn-remove pointer&quot;]</value>
+      <webElementGuid>8579bea9-7063-4570-a4c1-5b3e5a23260c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fleet_list']/div[4]/img</value>
+      <webElementGuid>b6fd314d-265b-4c1c-ac69-08d3c3ec6920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[4]/img</value>
+      <webElementGuid>ef64aebc-9149-4577-8a0e-c869ad771dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/images/ic_btn_remove.svg']</value>
+      <webElementGuid>99f18a09-6c84-4ccd-a15b-0a76cd2b8626</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

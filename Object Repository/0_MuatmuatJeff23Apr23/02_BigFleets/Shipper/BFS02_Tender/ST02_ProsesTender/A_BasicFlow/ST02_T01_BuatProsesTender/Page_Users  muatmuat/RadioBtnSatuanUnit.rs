@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>PilihanJenisMuatan</name>
+   <name>RadioBtnSatuanUnit</name>
    <tag></tag>
-   <elementGuidId>15012cb6-f7b7-41c3-9411-da53b1b8f43d</elementGuidId>
+   <elementGuidId>6b8c1225-2a50-4f12-9af6-a5029dc0a4ca</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li[1]</value>
+         <value>//*[@id=&quot;unit-truk&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

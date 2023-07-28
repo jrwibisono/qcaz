@@ -60,6 +60,8 @@ WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01
 
 WebUI.delay(5)
 
+WebUI.waitForJQueryLoad(60)
+
 WebUI.click(findTestObject('2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/ApproveButton'))
 
 // New Window ------------------------ JEF 7 Juni 2023
