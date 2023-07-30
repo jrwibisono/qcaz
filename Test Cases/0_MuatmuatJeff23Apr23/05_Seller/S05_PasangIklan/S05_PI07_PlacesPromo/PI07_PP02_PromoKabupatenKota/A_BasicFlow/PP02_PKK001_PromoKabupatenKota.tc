@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>PP02_PKK001_PromoKabupaten</name>
+   <name>PP02_PKK001_PromoKabupatenKota</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>af228b7a-35f6-442a-a3c5-33b920792db9</testCaseGuid>
