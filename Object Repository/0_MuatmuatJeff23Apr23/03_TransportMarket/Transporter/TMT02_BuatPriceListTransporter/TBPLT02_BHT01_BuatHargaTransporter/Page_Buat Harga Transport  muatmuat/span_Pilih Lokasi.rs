@@ -6,12 +6,12 @@
    <elementGuidId>12f36f00-542b-476a-8273-28fc35625da3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='select2-pickup_city-container']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#select2-pickup_city-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;select2-pickup_city-container&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>13f1a13e-374e-4e64-aa40-108803b877f9</webElementGuid>
+      <webElementGuid>09c2402e-9d14-4216-aa0c-f214f665f2e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>74df53fd-0dc0-4bbb-877e-c8ad818cd1b7</webElementGuid>
+      <webElementGuid>82981af1-4578-4282-b20e-083a806682d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-pickup_city-container</value>
-      <webElementGuid>d4fbe4cf-a064-447f-925d-825f336d528b</webElementGuid>
+      <webElementGuid>8cbf88c8-875c-4e3a-8a0e-4243972088ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih Lokasi</value>
-      <webElementGuid>bd403a98-bf31-4633-b037-3d1ece9d6dcd</webElementGuid>
+      <webElementGuid>a1a38f21-1f65-430e-ac32-4ed51e8858bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-pickup_city-container&quot;)</value>
-      <webElementGuid>aea69eff-4c08-4cc7-9d33-951169427af6</webElementGuid>
+      <webElementGuid>5974523b-2407-4856-8ccf-c5ad1e91a7c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-pickup_city-container']</value>
-      <webElementGuid>eded51ba-9c66-47f9-9850-9b63a4f261e8</webElementGuid>
+      <webElementGuid>6c6d1227-bb59-4776-9acb-ac4cdc29a592</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='main-window']/div[4]/div[2]/div/div[2]/div/div/div[2]/div[2]/span/span/span/span</value>
-      <webElementGuid>6fdba0df-6138-470d-b6f4-9c6e5ce87e76</webElementGuid>
+      <webElementGuid>99fdb685-0159-40b6-b0e2-dfe3fc4eb5d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota / Kabupaten*'])[1]/following::span[4]</value>
-      <webElementGuid>9477c0e1-f3c1-4c8f-8bdc-3a1559dc76a6</webElementGuid>
+      <webElementGuid>20231736-d800-4b38-ab20-cab42641ada9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jatim2'])[2]/following::span[6]</value>
-      <webElementGuid>d9605def-57ec-408e-820b-b2ac8eaebbda</webElementGuid>
+      <webElementGuid>a1a7f21f-268d-473b-9ba3-77bcad5cd4aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinsi'])[1]/preceding::span[6]</value>
-      <webElementGuid>1be249ff-eebd-4335-9dea-33ce256c8908</webElementGuid>
+      <webElementGuid>2f9dfef6-177b-4a08-9912-c2b7dd1bd21a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/span/span/span/span</value>
-      <webElementGuid>5fd9777e-f0ab-4bd0-b67e-517c34030d11</webElementGuid>
+      <webElementGuid>9bcacec9-6915-40fe-ac7c-3804c233c87b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-pickup_city-container' and (text() = 'Pilih Lokasi' or . = 'Pilih Lokasi')]</value>
-      <webElementGuid>f3f7c94f-53ea-4c88-8c75-7925a6e36e43</webElementGuid>
+      <webElementGuid>634473db-beaa-4038-8f92-6e6053053f93</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

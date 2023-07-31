@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_concat(id(, , select2-pickup_city-con_6839a5</name>
+   <name>input_Alamat_ff-medium fs-12</name>
    <tag></tag>
-   <elementGuidId>2c6d62ba-cf1c-4413-8363-8552b87c6b12</elementGuidId>
+   <elementGuidId>e0cf7e45-75b2-4f3b-a2de-e6e3359684aa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@type='search']</value>
+         <value>//input[@type='text']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input.select2-search__field</value>
+         <value>input.ff-medium.fs-12</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,102 +22,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>96fb85b6-a083-4d51-85c9-e3f95ef52e22</webElementGuid>
+      <webElementGuid>504b5e0c-d05e-4788-a461-ac134763b70d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>select2-search__field</value>
-      <webElementGuid>9868a369-036b-46e4-9ab6-720e9556d34c</webElementGuid>
+      <value>ff-medium fs-12</value>
+      <webElementGuid>72a7ab84-cb68-414b-a685-f66b5527c9ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>search</value>
-      <webElementGuid>b943f49c-4060-429e-8054-86a3ad8e0053</webElementGuid>
+      <value>text</value>
+      <webElementGuid>bc6ec65f-caad-45b8-8e7f-36e5ddf347d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>data-feform_column</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>2ab91c55-4b55-4c4b-8ad1-950f85cf8bc8</webElementGuid>
+      <value>Alamat</value>
+      <webElementGuid>5add9f22-5eec-4c02-85d3-8a035038662e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Alamat</value>
+      <webElementGuid>64c60e2a-6eaf-4e8b-a7dc-27dd47f5133c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>data-alert_max_char</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>7a22b236-a063-4ffc-88f3-27ff95f2708f</webElementGuid>
+      <value>Maksimal Input Adalah 150 Karakter</value>
+      <webElementGuid>fcb01f36-97ad-4335-8d81-51dd49f7bbb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocorrect</name>
+      <name>data-alert_min_char</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>b2d8d2eb-fe16-46cb-becd-ec4083f79892</webElementGuid>
+      <value>Minimal Input Adalah 50 Karakter</value>
+      <webElementGuid>9b585bdc-ec28-4a33-a27d-0636694cda12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocapitalize</name>
+      <name>data-max_char</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>8e75cf50-1779-4c78-8eca-eacf211aec61</webElementGuid>
+      <value>150</value>
+      <webElementGuid>9d0b762d-ede5-405a-b049-b71d8b0ebd07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>spellcheck</name>
+      <name>data-min_char</name>
       <type>Main</type>
-      <value>false</value>
-      <webElementGuid>e5eb19f2-7554-489a-9ba3-b31054096103</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>textbox</value>
-      <webElementGuid>d650c1a5-3876-4d13-b562-f99e9e648c94</webElementGuid>
+      <value>1</value>
+      <webElementGuid>e60e5429-9592-4d78-a5f6-cd3d1b833a37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-search select2-search--dropdown&quot;]/input[@class=&quot;select2-search__field&quot;]</value>
-      <webElementGuid>9640270d-22db-421e-b158-412cdccbbdc9</webElementGuid>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField component-262 component-input-border&quot;]/input[@class=&quot;ff-medium fs-12&quot;]</value>
+      <webElementGuid>1b02ad8d-95e9-439f-9a10-99028e46f4cc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@type='search']</value>
-      <webElementGuid>1aebd11a-e015-430e-8ce7-664b4ac3c377</webElementGuid>
+      <value>//input[@type='text']</value>
+      <webElementGuid>95fdd3fd-1aa3-4407-aeab-98f706be3c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[3]/div[2]/input</value>
+      <webElementGuid>e3bfbdfe-56d5-4967-bcfe-3648eece09e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span/input</value>
-      <webElementGuid>b4358915-b714-4365-9c25-db209d2d0710</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>ab0e8050-e652-43e4-b380-0002045ef5d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'search']</value>
-      <webElementGuid>128553cf-f91b-408f-bf69-93915ba310c8</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Masukkan Alamat']</value>
+      <webElementGuid>d60954a7-acab-4c89-8ef8-f3e71601bac5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

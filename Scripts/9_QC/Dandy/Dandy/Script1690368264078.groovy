@@ -17,3 +17,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+//for (def index : (0..0)) {
+//}
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L003_LoginBFShipper'), 
+    [:], FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST02_ProsesTender/A_BasicFlow/ST02_T01_BuatProsesTender/ST02_T000_List_ProsesTender'), 
+    [:], FailureHandling.CONTINUE_ON_FAILURE)
+
+for (int i = 1; i <= 5; i++) {
+    GlobalVariable.ProsesTenderNama = ('Hantar Jati Unit ' + i)
+
+    WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST02_ProsesTender/A_BasicFlow/ST02_T01_BuatProsesTender/ST02_T010_Part_BuatProsesTender_Unit_Transporter_1'), 
+        [:], FailureHandling.CONTINUE_ON_FAILURE)
+}
+
+for (int i = 1; i <= 5; i++) {
+    GlobalVariable.ProsesTenderNama = ('Hantar Jati Berat ' + i)
+
+    WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST02_ProsesTender/A_BasicFlow/ST02_T01_BuatProsesTender/ST02_T011_Part_BuatProsesTender_Berat_Transporter_1'), 
+        [:], FailureHandling.CONTINUE_ON_FAILURE)
+}
+
+for (int i = 1; i <= 5; i++) {
+    GlobalVariable.ProsesTenderNama = ('Hantar Jati Volume ' + i)
+
+    WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST02_ProsesTender/A_BasicFlow/ST02_T01_BuatProsesTender/ST02_T012_Part_BuatProsesTender_Volume_Transporter_1'), 
+        [:], FailureHandling.CONTINUE_ON_FAILURE)
+}
+

@@ -52,13 +52,15 @@ WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01
 
 WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/button_Search_btn--icon btn--no-text font-i_19de8c'))
 
-WebUI.delay(2)
+WebUI.delay(5)
+
+WebUI.waitForJQueryLoad(60)
 
 WebUI.setText(findTestObject('2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/CariData'), GlobalVariable.UserDaftarWhitelist)
 
 WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/button_Search'))
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.waitForJQueryLoad(60)
 

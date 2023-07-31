@@ -54,4 +54,9 @@
       <initValue>'https://internalqc.assetlogistik.com/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
       <name>URLCMS</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Hantar Jati'</initValue>
+      <name>ProsesTenderNama</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
