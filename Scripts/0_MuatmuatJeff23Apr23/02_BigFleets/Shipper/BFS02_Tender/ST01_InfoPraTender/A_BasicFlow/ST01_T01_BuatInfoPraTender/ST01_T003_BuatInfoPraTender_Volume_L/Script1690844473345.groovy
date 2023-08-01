@@ -45,22 +45,24 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/BtnTodayTanggalAkhir'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/input_Jumlah_unit_truk0jumlah_truck'), 
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/RadBtnVolume'))
+
+not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/input_Jumlah_unit_truk0jumlah_truck'), 
     '20')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/span_Pilih Jenis Truk'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/span_Pilih Jenis Truk'))
 
-WebUI.waitForJQueryLoad(60)
+not_run: WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/PilihanJenisTruk1'))
+not_run: WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/PilihanJenisTruk1'))
 
-WebUI.waitForJQueryLoad(60)
+not_run: WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/span_Pilih Jenis Carrier'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/span_Pilih Jenis Carrier'))
 
-WebUI.waitForJQueryLoad(60)
+not_run: WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/PilihanJenisCarrier1'))
+not_run: WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/PilihanJenisCarrier1'))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/Page_Users  muatmuat/input_Muatan_nama_muatan'), 
     'Kayu Jati')

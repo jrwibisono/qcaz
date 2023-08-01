@@ -48,7 +48,11 @@ WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01
 
 WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - Pages/span_whitelist'))
 
+WebUI.delay(5)
+
 WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/button_Search_showFilter'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/button_Search_btn--icon btn--no-text font-i_19de8c'))
 

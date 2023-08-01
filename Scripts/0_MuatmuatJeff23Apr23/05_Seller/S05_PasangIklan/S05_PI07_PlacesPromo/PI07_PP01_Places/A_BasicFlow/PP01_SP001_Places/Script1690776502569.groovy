@@ -34,12 +34,19 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Upload'))
 
+WebUI.waitForPageLoad(120)
+
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFotoLogoPerusahaan'), 
     'C://Users/USER/Downloads/RestAreaNgawi.jpeg')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/span_Pilih Kategori Iklan Anda'))
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/KategoriPlaces1'))
+
+not_run: WebUI.sendKeys(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/span_Pilih Kategori Iklan Anda'), 
+    Keys.chord(Keys.ENTER))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Alamat_ff-medium fs-12'), 
     'Kedungdoro 102, Surabaya, Jawa Timur')
@@ -101,7 +108,10 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/
 not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Upload File Video'))
 
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFileVideo'), 
-    'C://Users/USER/Downloads/RestAreaNgawi.jpeg')
+    'C://Users/USER/Downloads/REST AREA KM 754 & KM 753.mp4')
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/InputTextVideoPlaces'), 
+    'Video Tour Tempat Kami')
 
 not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Upload File Promo'))
 
