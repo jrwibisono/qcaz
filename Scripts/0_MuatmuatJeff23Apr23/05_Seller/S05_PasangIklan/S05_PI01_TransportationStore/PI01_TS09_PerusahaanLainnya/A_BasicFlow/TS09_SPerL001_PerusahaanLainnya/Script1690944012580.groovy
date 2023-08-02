@@ -40,7 +40,8 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS09_PerusahaanLainnya/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS09_PerusahaanLainnya/A_BasicFlow/Page_LayananIklan/button_Upload'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS09_PerusahaanLainnya/A_BasicFlow/Page_LayananIklan/button_Upload'), 
+    '')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS09_PerusahaanLainnya/A_BasicFlow/Page_LayananIklan/button_Crop'))
 
