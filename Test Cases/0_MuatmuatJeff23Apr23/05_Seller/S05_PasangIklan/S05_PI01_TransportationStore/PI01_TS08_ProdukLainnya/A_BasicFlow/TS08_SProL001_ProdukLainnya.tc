@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TS01_SKK001_KendaraanKargo</name>
+   <name>TS08_SProL001_ProdukLainnya</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>29e54756-20db-42f9-9248-e377afa5006c</testCaseGuid>
+   <testCaseGuid>b53603b8-d1ae-46fb-9078-f50331a0a470</testCaseGuid>
 </TestCaseEntity>
