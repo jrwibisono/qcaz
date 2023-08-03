@@ -3,7 +3,7 @@
    <description></description>
    <name>input__ff-medium fs-12</name>
    <tag></tag>
-   <elementGuidId>14b04da8-a8f5-49b0-bcbb-1bf81bfab2bb</elementGuidId>
+   <elementGuidId>7c4d95d2-f45e-43ed-9e32-44670d809394</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/input</value>
+         <value>//input[@type='text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6e23fbc5-36e7-499d-8b40-6dabad7ab674</webElementGuid>
+      <webElementGuid>79e0b12a-2027-4731-b163-baa8fb2d1284</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ff-medium fs-12</value>
-      <webElementGuid>861be728-65b2-4be3-af3f-3262d29e4456</webElementGuid>
+      <webElementGuid>eea52189-03b4-4071-8b96-a63584295908</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>12a34080-ad34-4076-8031-9649cd027fb0</webElementGuid>
+      <webElementGuid>86f77e7b-76f3-4811-8d9c-a124f7576c59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,39 +46,39 @@
       <name>data-feform_column</name>
       <type>Main</type>
       <value>Judul</value>
-      <webElementGuid>71db508e-8b6e-4f10-87d7-1b1feed7ab01</webElementGuid>
+      <webElementGuid>7c9fbf19-ec52-48c0-b2ae-ca582dae1e20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Masukkan Judul Iklan</value>
-      <webElementGuid>b0a340a6-dd40-4817-a279-a1314897e357</webElementGuid>
+      <value>Judul </value>
+      <webElementGuid>e4f1095c-271c-4def-abfd-27f8963cd560</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-alert_max_char</name>
       <type>Main</type>
-      <value>Maksimal Karakter Melebihi Batas Ketentuan!</value>
-      <webElementGuid>e066cacc-ade0-4cdc-a536-8cf48f725c96</webElementGuid>
+      <value>Maksimal 255 karakter!</value>
+      <webElementGuid>5cfe6ef6-ded4-4175-9f48-ea4032fd1452</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-alert_min_char</name>
       <type>Main</type>
-      <value>Minimal Karakter Kurang Dari Ketentuan!</value>
-      <webElementGuid>8353cabd-e593-40a9-b067-b3f4eb0bdf68</webElementGuid>
+      <value>Minimal 3 karakter!</value>
+      <webElementGuid>9350f530-04c9-4d20-be59-e73382313ba0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-alert_required</name>
       <type>Main</type>
-      <value>Anda Belum Memasukkan Judul Iklan!</value>
-      <webElementGuid>b3d1bb5c-f57c-44f9-923d-a709959b84e4</webElementGuid>
+      <value>Wajib diisi!</value>
+      <webElementGuid>cbbbdb14-50b7-42ba-9bc6-fb83a8234d7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-max_char</name>
       <type>Main</type>
       <value>255</value>
-      <webElementGuid>e216c0d1-38b4-4c8e-907e-0da8bf92d5c0</webElementGuid>
+      <webElementGuid>5881925b-e745-45f3-b8f5-2d68c4510964</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>data-min_char</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>691646d3-155f-49cc-99ac-74dc6d053884</webElementGuid>
+      <webElementGuid>ea060847-586c-4792-9a68-36ab689752c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField component-262 component-input-border&quot;]/input[@class=&quot;ff-medium fs-12&quot;]</value>
-      <webElementGuid>ccc519e3-bc72-4982-a917-70c7e4c22e1f</webElementGuid>
+      <webElementGuid>b4c114bd-8172-4c80-a376-d50d28e41681</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='text']</value>
-      <webElementGuid>4ff64d25-b933-48f6-a166-ce7e548239ef</webElementGuid>
+      <webElementGuid>784be9b3-f27e-4187-884a-76d29e76b789</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div/div[2]/input</value>
-      <webElementGuid>50125eab-6305-4ce3-b5b6-9faf960552e2</webElementGuid>
+      <webElementGuid>ee346521-e4d3-4eb5-9d52-2c2f80a5d5cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,14 +126,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>da34874a-47b4-4edb-a111-3326e64ee9ee</webElementGuid>
+      <webElementGuid>988e85f1-f161-415b-9782-2840f906ed7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Masukkan Judul Iklan']</value>
-      <webElementGuid>4339edfc-8904-47e8-acbe-dd017a222082</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Judul ']</value>
+      <webElementGuid>93e2fc13-1ddf-44ba-99bb-464c4f9569d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

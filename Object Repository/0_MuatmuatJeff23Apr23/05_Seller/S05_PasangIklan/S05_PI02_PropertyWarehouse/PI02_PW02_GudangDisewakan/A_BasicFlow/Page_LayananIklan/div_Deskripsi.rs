@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Jenis Truk - Carrier_1</name>
+   <name>div_Deskripsi</name>
    <tag></tag>
-   <elementGuidId>4f8eb4b3-34cf-487e-9ef6-c40067eb3f9e</elementGuidId>
+   <elementGuidId>aee9550a-006a-46f8-b4ff-c65d62fcaf17</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>span.select2-selection__placeholder</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[5]/div[2]/div[2]/span/span[1]/span/span[1]</value>
+         <value>//div[@id='PasangIklanForm']/div[15]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>f588ab6d-6b83-4f6b-800f-55e7710892bb</webElementGuid>
+      <value>div</value>
+      <webElementGuid>2ad60824-60fb-4c8f-a361-3818fdea29e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>select2-selection__placeholder</value>
-      <webElementGuid>a55d6e36-12f7-4d89-b062-87ad83a93720</webElementGuid>
+      <value>ComponentTitle ff-demi mb-8 lh-normal</value>
+      <webElementGuid>9a2bc0b8-5b76-431f-8a76-3f6683177087</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Jenis Truk - Carrier</value>
-      <webElementGuid>c546440c-3c5e-4745-87e3-7a4288cbf5ea</webElementGuid>
+      <value>Deskripsi*</value>
+      <webElementGuid>fa4b31b3-aa20-430b-b89d-7ec3b02c6a61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-9l4g-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
-      <webElementGuid>442dd4f6-c623-4400-b2e9-d1c1e3b46a2b</webElementGuid>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentTitle ff-demi mb-8 lh-normal&quot;]</value>
+      <webElementGuid>96ee7518-b4dd-467d-8e25-ac888d565265</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='select2-9l4g-container']/span</value>
-      <webElementGuid>2fc2bf53-a9cd-418d-9866-2cfa0c4e78f8</webElementGuid>
+      <value>//div[@id='PasangIklanForm']/div[15]/div</value>
+      <webElementGuid>5a389e44-b682-4b59-9f21-151ea2d7f52d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Truk Lainnya'])[1]/following::span[5]</value>
-      <webElementGuid>f6d75905-0be5-4bc3-a164-5a67d9dcc906</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[1]/following::div[2]</value>
+      <webElementGuid>4aa603f3-d23d-4f2f-9125-f8c0660fd4a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colt Diesel Double'])[2]/following::span[7]</value>
-      <webElementGuid>29cd069f-52a2-4461-a7d5-3726e46cd83e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Sewa Per Tahun'])[1]/following::div[4]</value>
+      <webElementGuid>5c97a5be-860c-4769-8408-bfa0b1ecfa48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Carrier Lainnya'])[1]/preceding::span[3]</value>
-      <webElementGuid>ac6d15f9-f46c-4eab-93f2-2d837dea5812</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Deskripsi']/parent::*</value>
+      <webElementGuid>2887604e-26d2-409f-86e0-a57ee7ce31d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span/span/span/span/span</value>
-      <webElementGuid>d74af617-0324-40e7-8f54-76c70e117d11</webElementGuid>
+      <value>//div[15]/div</value>
+      <webElementGuid>33545dd3-bfe3-49cd-bc5c-0f5e2bb9152a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Jenis Truk - Carrier' or . = 'Jenis Truk - Carrier')]</value>
-      <webElementGuid>c75b4d4d-bbc6-4da3-8180-458e420c09c2</webElementGuid>
+      <value>//div[(text() = 'Deskripsi*' or . = 'Deskripsi*')]</value>
+      <webElementGuid>36ad1b8a-1730-4f5c-acd4-541c48dae0aa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

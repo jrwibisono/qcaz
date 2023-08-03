@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Merk Truk</name>
+   <name>span_Hadap</name>
    <tag></tag>
-   <elementGuidId>b5fc49d4-6e65-4dad-9853-525671ee2b7a</elementGuidId>
+   <elementGuidId>122c9dea-72c5-4ecf-ba0e-8557822f0bda</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#select2-ba26-container</value>
+         <value>#select2-3t7n-container</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[6]/div[3]/div/span/span[1]/span/span[1]</value>
+         <value>//span[@id='select2-3t7n-container']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f20be5ed-2535-4861-aaa7-f484dcac4c2e</webElementGuid>
+      <webElementGuid>d6213ce9-177f-4bd5-b808-7b34cabe300a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>ca8c4b21-d8d5-45f6-b0f4-1c60d1b21765</webElementGuid>
+      <webElementGuid>7c457e3e-c64b-4b2d-9b8e-50eba5aa3cdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-ba26-container</value>
-      <webElementGuid>463b3526-255c-4927-86d3-1fedabaf70a6</webElementGuid>
+      <value>select2-3t7n-container</value>
+      <webElementGuid>eb091301-6485-4b67-8e08-5758ffe34a57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>ba746e63-aaf2-4b6d-9392-f9a4b000f518</webElementGuid>
+      <webElementGuid>f04c959d-6a67-497c-803b-aa2af678810f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,70 +54,62 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1ecdede6-3bf9-4ce4-a5d3-ed68ead0c991</webElementGuid>
+      <webElementGuid>561e00ab-8fee-4007-b122-af0acd2a7295</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Merk Truk</value>
-      <webElementGuid>9d579d02-3d1c-4117-8167-d98d1a73a998</webElementGuid>
+      <value>Hadap</value>
+      <webElementGuid>f60bf491-9dd6-4e14-ac16-e3a543055063</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-ba26-container&quot;)</value>
-      <webElementGuid>37ba2685-7fe9-47e6-b754-2bd1d7bb18ed</webElementGuid>
+      <value>id(&quot;select2-3t7n-container&quot;)</value>
+      <webElementGuid>eb98e73c-4586-44f9-95d5-40f74081fe65</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='select2-ba26-container']</value>
-      <webElementGuid>3ae36cbf-0d9e-4dda-93be-0ab13ce561ea</webElementGuid>
+      <value>//span[@id='select2-3t7n-container']</value>
+      <webElementGuid>9116f7d1-6a13-4415-bab3-fceb35abbc1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='PasangIklanForm']/div[6]/div[3]/div/span/span/span/span</value>
-      <webElementGuid>6f3dbd11-c9b6-45a8-8cd8-191436129ca8</webElementGuid>
+      <value>//div[@id='PasangIklanForm']/div[7]/div[2]/div/span/span/span/span</value>
+      <webElementGuid>bf627e1a-8211-4acc-9a50-02ba949346ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Merk Truk'])[1]/following::span[4]</value>
-      <webElementGuid>c9657eb3-a778-465f-9975-7065d85e3f38</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merk Lainnya'])[1]/preceding::span[4]</value>
-      <webElementGuid>267bef33-4b70-4c3d-b271-60ce2cde2419</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::span[4]</value>
+      <webElementGuid>a7a28f96-8f9e-4ce7-9dc8-3ab0f48cba70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/span/span/span/span</value>
-      <webElementGuid>861ec6aa-8d03-49d4-9fd1-70c9e975dc5c</webElementGuid>
+      <value>//div[7]/div[2]/div/span/span/span/span</value>
+      <webElementGuid>cc9e31f6-4af7-4005-9edf-25f42ac11f8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'select2-ba26-container' and (text() = 'Merk Truk' or . = 'Merk Truk')]</value>
-      <webElementGuid>63ed9b5d-b21a-4505-9363-b94319513e2c</webElementGuid>
+      <value>//span[@id = 'select2-3t7n-container' and (text() = 'Hadap' or . = 'Hadap')]</value>
+      <webElementGuid>8aededd6-fa1a-4b69-83fe-d971febed6bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

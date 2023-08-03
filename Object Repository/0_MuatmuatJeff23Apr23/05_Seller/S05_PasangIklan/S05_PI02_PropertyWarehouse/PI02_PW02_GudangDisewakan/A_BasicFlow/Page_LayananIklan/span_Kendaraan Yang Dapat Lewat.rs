@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Merk Truk</name>
+   <name>span_Kendaraan Yang Dapat Lewat</name>
    <tag></tag>
-   <elementGuidId>b5fc49d4-6e65-4dad-9853-525671ee2b7a</elementGuidId>
+   <elementGuidId>2ffe42f4-3d4a-4413-be38-a352fa913c37</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#select2-ba26-container</value>
+         <value>#select2-8asz-container</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[6]/div[3]/div/span/span[1]/span/span[1]</value>
+         <value>//span[@id='select2-8asz-container']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f20be5ed-2535-4861-aaa7-f484dcac4c2e</webElementGuid>
+      <webElementGuid>ed5f8ca5-2974-4f60-a0f3-8e7c875b4adb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>ca8c4b21-d8d5-45f6-b0f4-1c60d1b21765</webElementGuid>
+      <webElementGuid>86aba530-1937-434e-934a-d8a94b1b72d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-ba26-container</value>
-      <webElementGuid>463b3526-255c-4927-86d3-1fedabaf70a6</webElementGuid>
+      <value>select2-8asz-container</value>
+      <webElementGuid>33f583bd-7368-4804-832a-ccbb27ebcde4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>ba746e63-aaf2-4b6d-9392-f9a4b000f518</webElementGuid>
+      <webElementGuid>1d7dfaf6-68be-4ed5-b795-56a71e8ed66c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,70 +54,70 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1ecdede6-3bf9-4ce4-a5d3-ed68ead0c991</webElementGuid>
+      <webElementGuid>1eb52312-7b66-46fc-ad7a-bbc0366edea3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Merk Truk</value>
-      <webElementGuid>9d579d02-3d1c-4117-8167-d98d1a73a998</webElementGuid>
+      <value>Kendaraan Yang Dapat Lewat</value>
+      <webElementGuid>522d0634-b14a-431d-a85d-c06cda50fa1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-ba26-container&quot;)</value>
-      <webElementGuid>37ba2685-7fe9-47e6-b754-2bd1d7bb18ed</webElementGuid>
+      <value>id(&quot;select2-8asz-container&quot;)</value>
+      <webElementGuid>f4f0d198-39b8-4b82-b607-2ac947868d81</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='select2-ba26-container']</value>
-      <webElementGuid>3ae36cbf-0d9e-4dda-93be-0ab13ce561ea</webElementGuid>
+      <value>//span[@id='select2-8asz-container']</value>
+      <webElementGuid>ecba9c9c-9eb2-469b-be94-30cfb78c4059</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='PasangIklanForm']/div[6]/div[3]/div/span/span/span/span</value>
-      <webElementGuid>6f3dbd11-c9b6-45a8-8cd8-191436129ca8</webElementGuid>
+      <value>//div[@id='PasangIklanForm']/div[6]/div[2]/div/span/span/span/span</value>
+      <webElementGuid>2813bdd7-7923-4aaf-b5cd-141b8c0fbaf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Merk Truk'])[1]/following::span[4]</value>
-      <webElementGuid>c9657eb3-a778-465f-9975-7065d85e3f38</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::span[4]</value>
+      <webElementGuid>e6c55a70-8f0c-4bca-9c9e-d83042f9618f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merk Lainnya'])[1]/preceding::span[4]</value>
-      <webElementGuid>267bef33-4b70-4c3d-b271-60ce2cde2419</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kendaraan Yang Dapat Lewat Lainnya'])[1]/preceding::span[4]</value>
+      <webElementGuid>ffea8a57-1d27-4a01-9b9a-7253aa4de42b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/span/span/span/span</value>
-      <webElementGuid>861ec6aa-8d03-49d4-9fd1-70c9e975dc5c</webElementGuid>
+      <value>//span/span/span/span</value>
+      <webElementGuid>d9fa10e6-ddf2-4a4c-8a82-73e3c86eac67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'select2-ba26-container' and (text() = 'Merk Truk' or . = 'Merk Truk')]</value>
-      <webElementGuid>63ed9b5d-b21a-4505-9363-b94319513e2c</webElementGuid>
+      <value>//span[@id = 'select2-8asz-container' and (text() = 'Kendaraan Yang Dapat Lewat' or . = 'Kendaraan Yang Dapat Lewat')]</value>
+      <webElementGuid>832d168f-51eb-42de-955c-8f3b35779988</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

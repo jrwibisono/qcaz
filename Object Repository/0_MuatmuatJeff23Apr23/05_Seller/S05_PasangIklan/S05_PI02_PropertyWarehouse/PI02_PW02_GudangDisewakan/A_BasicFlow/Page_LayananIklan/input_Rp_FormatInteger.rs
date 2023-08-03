@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__ff-medium fs-12</name>
+   <name>input_Rp_FormatInteger</name>
    <tag></tag>
-   <elementGuidId>14b04da8-a8f5-49b0-bcbb-1bf81bfab2bb</elementGuidId>
+   <elementGuidId>acf3177b-f048-4a72-a53f-a0413ce9aedb</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input.ff-medium.fs-12</value>
+         <value>input.FormatInteger</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/input</value>
+         <value>(//input[@type='text'])[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6e23fbc5-36e7-499d-8b40-6dabad7ab674</webElementGuid>
+      <webElementGuid>0079f200-a480-4899-b9b5-7ce8313d1cb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ff-medium fs-12</value>
-      <webElementGuid>861be728-65b2-4be3-af3f-3262d29e4456</webElementGuid>
+      <value>FormatInteger</value>
+      <webElementGuid>c8aaf51a-284b-4faa-987f-eb6b9bd00704</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,102 +38,94 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>12a34080-ad34-4076-8031-9649cd027fb0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-feform_column</name>
-      <type>Main</type>
-      <value>Judul</value>
-      <webElementGuid>71db508e-8b6e-4f10-87d7-1b1feed7ab01</webElementGuid>
+      <webElementGuid>6dd38e24-59b9-4e5f-b099-ffeb9bf060db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Masukkan Judul Iklan</value>
-      <webElementGuid>b0a340a6-dd40-4817-a279-a1314897e357</webElementGuid>
+      <value>Masukkan harga sewa</value>
+      <webElementGuid>9f68c31d-975a-4c84-95ae-9615458dcd0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-alert_max_char</name>
+      <name>data-feform_column</name>
       <type>Main</type>
-      <value>Maksimal Karakter Melebihi Batas Ketentuan!</value>
-      <webElementGuid>e066cacc-ade0-4cdc-a536-8cf48f725c96</webElementGuid>
+      <value>Harga</value>
+      <webElementGuid>4b498248-6461-465d-ae06-dd4e4d2214bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-alert_min_char</name>
+      <name>data-alert_max_value</name>
       <type>Main</type>
-      <value>Minimal Karakter Kurang Dari Ketentuan!</value>
-      <webElementGuid>8353cabd-e593-40a9-b067-b3f4eb0bdf68</webElementGuid>
+      <value>Harga maksimal Rp 99.999.999.999!</value>
+      <webElementGuid>2ed01cd9-10e4-4369-832f-5ca6718f3673</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-alert_required</name>
+      <name>data-alert_min_value</name>
       <type>Main</type>
-      <value>Anda Belum Memasukkan Judul Iklan!</value>
-      <webElementGuid>b3d1bb5c-f57c-44f9-923d-a709959b84e4</webElementGuid>
+      <value>Harga minimal Rp 100.000!</value>
+      <webElementGuid>cb87feb8-822a-45d4-ac2d-24012bc179da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-max_char</name>
+      <name>data-max_value</name>
       <type>Main</type>
-      <value>255</value>
-      <webElementGuid>e216c0d1-38b4-4c8e-907e-0da8bf92d5c0</webElementGuid>
+      <value>99999999999</value>
+      <webElementGuid>458e22f0-9d00-4c9f-a398-69c79347a9c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-min_char</name>
+      <name>data-min_value</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>691646d3-155f-49cc-99ac-74dc6d053884</webElementGuid>
+      <value>100000</value>
+      <webElementGuid>419eff73-90c5-417c-a972-6541831cffdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField component-262 component-input-border&quot;]/input[@class=&quot;ff-medium fs-12&quot;]</value>
-      <webElementGuid>ccc519e3-bc72-4982-a917-70c7e4c22e1f</webElementGuid>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField d-flex ff-medium fs-12 component-262 component-input-border-container&quot;]/input[@class=&quot;FormatInteger&quot;]</value>
+      <webElementGuid>84ae0ee9-cf3c-4df1-a0fc-2b19f48bcda0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@type='text']</value>
-      <webElementGuid>4ff64d25-b933-48f6-a166-ce7e548239ef</webElementGuid>
+      <value>(//input[@type='text'])[7]</value>
+      <webElementGuid>e21260dc-9e65-46c3-b9de-ba3b8e37ffbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='PasangIklanForm']/div/div[2]/input</value>
-      <webElementGuid>50125eab-6305-4ce3-b5b6-9faf960552e2</webElementGuid>
+      <value>//div[@id='PasangIklanForm']/div[14]/div[2]/input</value>
+      <webElementGuid>6154b189-0af1-4a05-8183-7f5ce9f086a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>da34874a-47b4-4edb-a111-3326e64ee9ee</webElementGuid>
+      <value>//div[14]/div[2]/input</value>
+      <webElementGuid>3275d0eb-9a39-4cb4-90dd-6acd1ff8692e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Masukkan Judul Iklan']</value>
-      <webElementGuid>4339edfc-8904-47e8-acbe-dd017a222082</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Masukkan harga sewa']</value>
+      <webElementGuid>b6316c7f-37bf-4e7b-9b22-6756167a6cc9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

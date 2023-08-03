@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>PW01_SGudDis001_GudangDisewakan</name>
+   <name>TS01_SKK001_01_Part_KendaraanKargo</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>256abfa4-14b6-48ac-a2c6-7bdd1c1106af</testCaseGuid>
+   <testCaseGuid>055ed132-ec7e-414f-ab6a-43b0d29d663c</testCaseGuid>
 </TestCaseEntity>
