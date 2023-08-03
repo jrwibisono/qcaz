@@ -22,9 +22,9 @@ WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan
 
 //int a = 1
 
-for (int i = 1; i <= 100; i++) {	
+for (int i = 25; i <= 100; i++) {	
 	
-	GlobalVariable.JudulIklan = ('Kendaraan Kargo Automate ' + i)
+	GlobalVariable.JudulIklan = ('Kendaraan Kargo Automate 3rd ' + i)
 	
 //	if(i % 10 == 0) {
 //		a++
