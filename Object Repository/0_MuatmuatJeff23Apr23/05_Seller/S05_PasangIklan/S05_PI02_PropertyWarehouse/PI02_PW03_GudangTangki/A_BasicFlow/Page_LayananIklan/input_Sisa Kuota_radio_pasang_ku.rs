@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Sisa Kuota_radio_pasang_ku</name>
    <tag></tag>
-   <elementGuidId>11cf3873-9a04-4b16-8670-bf53197e936e</elementGuidId>
+   <elementGuidId>0f430402-feaa-42e7-ad5a-5b56b3dbf5af</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>77b0fa40-143d-44f6-81b1-4b1b5bdeead8</webElementGuid>
+      <webElementGuid>45be40ce-9585-47fb-9671-b4c179e54bce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>b5f4f424-6d9e-481a-a6ec-1e3b07ddf5d8</webElementGuid>
+      <webElementGuid>ea67c9b2-9f30-4867-8614-7e2848fdd506</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>23798</value>
-      <webElementGuid>0801c9b0-071d-481a-8cef-63a7ed97bd6e</webElementGuid>
+      <value>23898</value>
+      <webElementGuid>6c8922d0-8f1c-47c6-98b5-7c6b2c1146d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>radio_pasang_ku</value>
-      <webElementGuid>9af5346c-ae42-4464-b8b3-fda37246ddf5</webElementGuid>
+      <webElementGuid>a1104e4a-b189-499d-9026-2eb5f919f14f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mr-6</value>
-      <webElementGuid>766d2bdf-cc16-4195-9a53-a25c61dcba62</webElementGuid>
+      <webElementGuid>7233c8cd-59ff-42cd-b6dd-c036265aa585</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;bg-menu-big&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;alertfe&quot;]/div[@class=&quot;alert-custom&quot;]/div[@class=&quot;body-alert&quot;]/div[@class=&quot;isi-body&quot;]/div[@class=&quot;bdr-12 bdr-86&quot;]/div[@class=&quot;isi-pilih-paket&quot;]/div[@class=&quot;ff-medium fc-86 fs-14 d-flex flex-row&quot;]/div[@class=&quot;align-items-center d-flex&quot;]/input[@class=&quot;mr-6&quot;]</value>
-      <webElementGuid>8255bdb2-6e99-42f0-92c3-cc5baf42023f</webElementGuid>
+      <webElementGuid>e41fbe47-5e3f-48d4-85a9-1b6ab018ae74</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='radio_pasang_ku']</value>
-      <webElementGuid>67a452b9-8d6f-44ae-beff-5763e2a8a62a</webElementGuid>
+      <webElementGuid>eb452b18-238b-4b7c-8820-e8995dbed1ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>a7b7b18d-e0c1-439c-9d0e-fade65f181e5</webElementGuid>
+      <webElementGuid>438bfed8-6da6-4b2d-81d9-b1ef7441a9a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'radio_pasang_ku']</value>
-      <webElementGuid>db51507d-4bc0-4366-8b7f-e6f0bf95582e</webElementGuid>
+      <webElementGuid>6e3ad817-c066-4cea-986a-6f82612fbefc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
