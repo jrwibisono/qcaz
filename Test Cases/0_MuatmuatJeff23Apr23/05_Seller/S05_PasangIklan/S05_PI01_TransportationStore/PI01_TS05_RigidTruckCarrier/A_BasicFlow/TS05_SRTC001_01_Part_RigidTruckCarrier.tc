@@ -4,5 +4,9 @@
    <name>TS05_SRTC001_01_Part_RigidTruckCarrier</name>
    <tag></tag>
    <comment></comment>
+<<<<<<< HEAD
    <testCaseGuid>84c0a880-aefd-45f2-bd7e-bc5ab3be285e</testCaseGuid>
+=======
+   <testCaseGuid>9c634a45-62eb-44c1-bbe3-bffb1f9b5904</testCaseGuid>
+>>>>>>> 93b01fe0d3fef5cf8149356bf70bcd7d404a7c7a
 </TestCaseEntity>
