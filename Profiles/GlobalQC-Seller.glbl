@@ -46,12 +46,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'JeffryKatalon07'</initValue>
+      <initValue>'DandyKatalon09'</initValue>
       <name>UserDaftarWhitelist</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://internalqc.assetlogistik.com/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
       <name>URLCMS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ini Iklan'</initValue>
+      <name>JudulIklan</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
