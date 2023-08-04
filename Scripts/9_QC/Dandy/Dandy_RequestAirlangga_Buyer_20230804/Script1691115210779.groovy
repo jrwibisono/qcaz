@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS03_TokoSukuCadang/A_BasicFlow/TS03_STSC000_TokoSukuCadang'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-for (int i = 1; i <= 5; i++) {
+for (int i = 2; i <= 5; i++) {
 	
 	GlobalVariable.JudulIklan = ('Toko Suku Cadang Automate ' + i)
 	

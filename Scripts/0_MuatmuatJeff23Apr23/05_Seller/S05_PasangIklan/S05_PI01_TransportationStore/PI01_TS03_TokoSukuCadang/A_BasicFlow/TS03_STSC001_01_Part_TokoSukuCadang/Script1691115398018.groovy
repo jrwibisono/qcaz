@@ -30,6 +30,12 @@ WebUI.waitForPageLoad(60)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS03_TokoSukuCadang/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
 
+WebUI.delay(5)
+
+not_run: WebUI.waitForJQueryLoad(60)
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS03_TokoSukuCadang/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
+
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS03_TokoSukuCadang/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS03_TokoSukuCadang/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
@@ -113,7 +119,7 @@ WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S0
     'Video Toko')
 
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS03_TokoSukuCadang/A_BasicFlow/Page_LayananIklan/UploadFilePromoTSC1'), 
-    'C://DANDY/Kerjaan/Bahan Otomasi/videoUploadBawah10mb.mp4')
+    'C://DANDY/Kerjaan/Bahan Otomasi/FotoTSC.jpg')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS03_TokoSukuCadang/A_BasicFlow/Page_LayananIklan/button_Crop'))
 
@@ -124,7 +130,7 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/
     'Dapatkan hadiah menarik setiap pembelian suku cadang di atas 1 Milyar')
 
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS03_TokoSukuCadang/A_BasicFlow/Page_LayananIklan/UploadKatalogBrosur1'), 
-    'C://DANDY/Kerjaan/Bahan Otomasi/ef1710en.pdf')
+    'C://DANDY/Kerjaan/Bahan Otomasi/FotoTSC.jpg')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS03_TokoSukuCadang/A_BasicFlow/Page_LayananIklan/button_Crop'))
 
