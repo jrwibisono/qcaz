@@ -20,3 +20,11 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L007_LoginSeller'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_Seller/span_Layanan Iklan'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_Seller/div_Repair  Maintenance Services'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_Seller/span_Bengkel'))
+
+WebUI.navigateToUrl('https://xdemoiklan.assetlogistik.id/layananiklan/iklanDashboard?SubKategoriID=11&KategoriID=23&sub_text=Bengkel&layanan_text=Repair%20%26%20Maintenance%20Services&no')
+
