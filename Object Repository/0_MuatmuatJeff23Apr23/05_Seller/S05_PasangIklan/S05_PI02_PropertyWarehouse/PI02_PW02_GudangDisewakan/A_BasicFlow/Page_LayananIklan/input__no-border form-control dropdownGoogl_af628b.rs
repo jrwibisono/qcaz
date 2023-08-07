@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[8]</value>
+         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[16]/div/div[2]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5d6fe542-4976-4f79-b83c-ea4e3c9cbcb8</webElementGuid>
+      <webElementGuid>ed2fb191-f798-4e7c-82ec-c0282ee8f3be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6511ec58-d6c7-4133-8852-2412c0d7fb0b</webElementGuid>
+      <webElementGuid>6e746bf2-6680-40f6-97c4-aaf8c5f802ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>no-border form-control dropdownGoogle ff-medium fs-12 fc-1b</value>
-      <webElementGuid>8b927bf8-7fbf-4507-941b-c775ec2d40eb</webElementGuid>
+      <webElementGuid>5cf1e5cf-0989-4f38-bf2a-dbf16189b11b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Pilih Lokasi</value>
-      <webElementGuid>ba11a742-a6f2-4910-b64d-0913a33685c2</webElementGuid>
+      <webElementGuid>2f40dc7f-e10e-4b66-89fc-046b066e8809</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-search</name>
       <type>Main</type>
       <value>kecamatan</value>
-      <webElementGuid>e9826034-511a-4554-a34c-992827b529eb</webElementGuid>
+      <webElementGuid>8160ef2d-c1a3-4a04-92bf-3fa5fa55e846</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-feform_column</name>
       <type>Main</type>
       <value>LokasiIklan</value>
-      <webElementGuid>93a763ba-f8fa-48d2-9a73-472051280d9a</webElementGuid>
+      <webElementGuid>a7e66db5-25ad-420f-be37-2b2bc8b018ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-alert_required</name>
       <type>Main</type>
       <value>Wajib diisi!</value>
-      <webElementGuid>16fd520f-702b-40aa-b765-7f007540d201</webElementGuid>
+      <webElementGuid>117cded1-5584-475e-8d65-d1e227ad4aca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>26916499-b18d-4d1f-b09d-59e9744fb906</webElementGuid>
+      <webElementGuid>357bb740-cbe7-4c40-be50-df7e8c98ce48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;parentDropdownGoogle d-flex flex-column&quot;]/div[@class=&quot;input-group mt-8 ComponentField component-input-border-container flex-middle&quot;]/input[@class=&quot;no-border form-control dropdownGoogle ff-medium fs-12 fc-1b&quot;]</value>
-      <webElementGuid>8eca18f1-c8a7-4ae6-b4e5-978b63e37fc2</webElementGuid>
+      <webElementGuid>de61e783-1d3f-46ee-9855-aa7e7fcbe135</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[8]</value>
-      <webElementGuid>c11982c2-3aef-4610-a571-676bcec3ba52</webElementGuid>
+      <webElementGuid>39a641e2-d3cd-4428-b707-fa339ab377d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[16]/div/div[2]/input</value>
-      <webElementGuid>9f21f28f-a3d0-4c4c-9808-b930b27987c5</webElementGuid>
+      <webElementGuid>1bf3db5d-346f-46d8-a971-657b1a15c2c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[16]/div/div[2]/input</value>
-      <webElementGuid>1078546c-5e8f-4b80-bfcc-a5eaa1c4baaf</webElementGuid>
+      <webElementGuid>5b21e71a-e787-47b9-805c-779557ad857f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Pilih Lokasi']</value>
-      <webElementGuid>aaf6e236-d99a-4ac7-856f-5cf3f0f0176e</webElementGuid>
+      <webElementGuid>ca1e8a4f-92e4-46bb-880d-9a4b7af6b065</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

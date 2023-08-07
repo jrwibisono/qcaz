@@ -13,8 +13,12 @@
          <key>XPATH</key>
          <value>//div[@id='detail-kategori']/a/span</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Gudang Barang Cair' or . = 'Gudang Barang Cair')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1fd92bcf-6a91-4669-abc6-711f9b464e79</webElementGuid>
+      <webElementGuid>35366a80-5525-431e-9f1d-996972eae3db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fc-86 ff-demi fs-14 lh-normal truncate</value>
-      <webElementGuid>ccc712b7-f4f4-47a8-aaf6-a0b170093df9</webElementGuid>
+      <webElementGuid>b7cec634-985a-4601-91f8-9d5aeb402957</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Gudang Barang Cair</value>
-      <webElementGuid>ba3d537e-53f1-43db-ae8f-928f1d9c6232</webElementGuid>
+      <webElementGuid>38b38ea9-2f55-48f2-9a61-6d521a4ff6da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;detail-kategori&quot;)/a[@class=&quot;btn-bar sidebar-widget d-flex align-items-center justify-content-between&quot;]/span[@class=&quot;fc-86 ff-demi fs-14 lh-normal truncate&quot;]</value>
-      <webElementGuid>36e8cf01-3fa7-494e-812d-2dc321391193</webElementGuid>
+      <webElementGuid>aa8f699a-c022-4460-b989-d5f27688589d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detail-kategori']/a/span</value>
-      <webElementGuid>dc07ca15-e789-45fa-9f00-6b43d9543436</webElementGuid>
+      <webElementGuid>b9fdf079-915b-4b74-a0d0-6b32ae20a8c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Iklan Anda di Kategori'])[1]/following::span[1]</value>
-      <webElementGuid>63b1e5e9-8d77-43d9-ad7a-d6962e440772</webElementGuid>
+      <webElementGuid>afb1215b-63dd-44ca-9f32-9bdfca614382</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Gudang Dijual'])[1]/preceding::span[1]</value>
-      <webElementGuid>43d8a486-fc89-4ff3-985e-51980b4f942f</webElementGuid>
+      <webElementGuid>f31bdd48-3b02-4f03-9e8e-1db3b91e2f8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Gudang Disewakan'])[1]/preceding::span[2]</value>
-      <webElementGuid>b39e43f0-5e63-4300-b187-6b29ffc54836</webElementGuid>
+      <webElementGuid>69ad617f-1645-4c00-9b1a-d05a50ea871d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Gudang Barang Cair']/parent::*</value>
-      <webElementGuid>be14448d-c51e-4ac9-ba93-838dfcafc9d2</webElementGuid>
+      <webElementGuid>209f76c4-8786-426b-9469-25ca75583ce8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/span</value>
-      <webElementGuid>9cbebf64-1dcf-4686-8831-eaebf6dc4d44</webElementGuid>
+      <webElementGuid>3017f8d8-11a8-47aa-b717-a27ed0d835f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Gudang Barang Cair' or . = 'Gudang Barang Cair')]</value>
-      <webElementGuid>329ffdcf-074b-43e5-b598-20254659b2d2</webElementGuid>
+      <webElementGuid>7fc163d7-215b-4a74-8822-a937f6bddade</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

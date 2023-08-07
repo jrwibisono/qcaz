@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='select2-zu2o-container']</value>
+         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[10]/div/div[2]/div/div/div[1]/span/span[1]/span/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8fef2405-a730-429d-9043-bfb46fc91142</webElementGuid>
+      <webElementGuid>7ede8b92-eb41-4710-9473-f10e52d907c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>534f8371-85de-49a8-8215-ea9f75415141</webElementGuid>
+      <webElementGuid>fb7073a0-a7de-47a1-b8b5-ab6bf841a3bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-zu2o-container</value>
-      <webElementGuid>1172ceba-fb98-44e4-afcb-658642de16c6</webElementGuid>
+      <webElementGuid>8614764d-038b-45a7-a390-24ed5e1fb477</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>629ca919-b474-456e-a73a-eeb0991b816c</webElementGuid>
+      <webElementGuid>a239dcfc-44c3-4f53-a9c2-56f589803d0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>2019c267-ff0b-43e0-ae81-a355ae908915</webElementGuid>
+      <webElementGuid>a2abd7e5-7026-46b7-b463-e6228a358f24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tipe Tangki</value>
-      <webElementGuid>143758b3-cc81-4f03-9929-ff681e661a2b</webElementGuid>
+      <webElementGuid>b8318b8b-cf77-4fb2-aa1b-8dbe50c14f9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-zu2o-container&quot;)</value>
-      <webElementGuid>0acf27dc-67e8-4cf2-a474-843e4ecdd197</webElementGuid>
+      <webElementGuid>f6622390-1b1a-4526-b01c-5637aa9bd82a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-zu2o-container']</value>
-      <webElementGuid>4f275067-60eb-4fe6-b86f-dd2889d0786a</webElementGuid>
+      <webElementGuid>a2573a76-bd41-4b72-8928-7796899611bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[10]/div/div[2]/div/div/div/span/span/span/span</value>
-      <webElementGuid>3f928b83-caf9-418b-82c3-91e2f61d7dad</webElementGuid>
+      <webElementGuid>e941ea8c-aec6-453d-8e6d-aafce9c96147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::span[4]</value>
-      <webElementGuid>26c1c8e2-942f-44c6-9bfd-7a4d97a3da2f</webElementGuid>
+      <webElementGuid>b5edc657-adc2-48eb-b415-ce701c65b010</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div/div[2]/div/div/div/span/span/span/span</value>
-      <webElementGuid>5ea75261-2526-422d-a78b-fc3ec3c96dd5</webElementGuid>
+      <webElementGuid>9d99739c-5c59-424f-b34e-3ef45a5d5d88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-zu2o-container' and (text() = 'Tipe Tangki' or . = 'Tipe Tangki')]</value>
-      <webElementGuid>6c1d89db-4876-4c11-ab49-6cdf9b3814c4</webElementGuid>
+      <webElementGuid>197c2283-a05c-4184-ad6c-d88725f08d2e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

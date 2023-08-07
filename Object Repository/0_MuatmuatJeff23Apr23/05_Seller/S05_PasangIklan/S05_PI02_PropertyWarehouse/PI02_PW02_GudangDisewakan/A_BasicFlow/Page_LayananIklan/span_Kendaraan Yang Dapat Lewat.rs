@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='select2-8asz-container']</value>
+         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[6]/div[2]/div/span/span[1]/span/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ed5f8ca5-2974-4f60-a0f3-8e7c875b4adb</webElementGuid>
+      <webElementGuid>11fe30e3-46ba-410b-a95b-4d3f930e5d06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>86aba530-1937-434e-934a-d8a94b1b72d6</webElementGuid>
+      <webElementGuid>3d353562-0f42-442d-b21f-3929c0b0c48e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-8asz-container</value>
-      <webElementGuid>33f583bd-7368-4804-832a-ccbb27ebcde4</webElementGuid>
+      <webElementGuid>af97a027-1a34-498f-909c-e334ea3d8761</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>1d7dfaf6-68be-4ed5-b795-56a71e8ed66c</webElementGuid>
+      <webElementGuid>73fa202e-b4df-42b8-b8a9-04676f80999d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1eb52312-7b66-46fc-ad7a-bbc0366edea3</webElementGuid>
+      <webElementGuid>5d12626b-f6e4-448d-9e4f-290866566ac9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Kendaraan Yang Dapat Lewat</value>
-      <webElementGuid>522d0634-b14a-431d-a85d-c06cda50fa1a</webElementGuid>
+      <webElementGuid>848f6234-47e5-4e3c-90e9-b3397925d878</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-8asz-container&quot;)</value>
-      <webElementGuid>f4f0d198-39b8-4b82-b607-2ac947868d81</webElementGuid>
+      <webElementGuid>33f98576-ebe8-4eaa-bbcb-9be88dc28ba3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-8asz-container']</value>
-      <webElementGuid>ecba9c9c-9eb2-469b-be94-30cfb78c4059</webElementGuid>
+      <webElementGuid>04b985d9-3657-4abc-862f-618597c9e596</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[6]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>2813bdd7-7923-4aaf-b5cd-141b8c0fbaf2</webElementGuid>
+      <webElementGuid>27a75bfd-2c7d-4b88-b3ac-46206ec8c949</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::span[4]</value>
-      <webElementGuid>e6c55a70-8f0c-4bca-9c9e-d83042f9618f</webElementGuid>
+      <webElementGuid>56281539-8614-4a0d-abaa-f16565c71647</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kendaraan Yang Dapat Lewat Lainnya'])[1]/preceding::span[4]</value>
-      <webElementGuid>ffea8a57-1d27-4a01-9b9a-7253aa4de42b</webElementGuid>
+      <webElementGuid>895bf632-1474-4680-a427-40ddd66bbcb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span</value>
-      <webElementGuid>d9fa10e6-ddf2-4a4c-8a82-73e3c86eac67</webElementGuid>
+      <webElementGuid>159f902e-7b9a-4a4e-ad02-d7ad962e6457</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-8asz-container' and (text() = 'Kendaraan Yang Dapat Lewat' or . = 'Kendaraan Yang Dapat Lewat')]</value>
-      <webElementGuid>832d168f-51eb-42de-955c-8f3b35779988</webElementGuid>
+      <webElementGuid>71a9567d-76c9-419f-b7bb-238245acd541</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

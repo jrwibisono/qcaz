@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='select2-ummy-container']</value>
+         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[4]/div[2]/div/span/span[1]/span/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>81407b2d-17b7-4542-a116-ac417d32279b</webElementGuid>
+      <webElementGuid>3995afd9-a591-4a20-8fa8-736940ac2ac6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>780c145d-872f-4fcf-ab5f-4afc400fa84c</webElementGuid>
+      <webElementGuid>e58385b7-c67a-4e05-abf6-0e8bc54bd8b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-ummy-container</value>
-      <webElementGuid>725d0575-f6be-4cea-b9ab-385edbe6949e</webElementGuid>
+      <webElementGuid>0fc49e9a-beec-4615-ad7e-5dba9cd4510a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>8eca26a2-059f-4b00-a69d-d225600be802</webElementGuid>
+      <webElementGuid>ffec7bea-1a86-40ce-a6a9-e39f0db5d755</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>c290e36f-905d-4246-813e-512ac57d6c00</webElementGuid>
+      <webElementGuid>7e1914c2-4f0a-48a1-9b49-b6e8d7717e7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tahun Berdiri</value>
-      <webElementGuid>b7acad4e-49f2-48a2-b089-4b17c27aa79d</webElementGuid>
+      <webElementGuid>c5de9633-711e-4eec-b1a7-d7710b31f4f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-ummy-container&quot;)</value>
-      <webElementGuid>fb44dad8-c1a9-4d73-b952-e73599923f82</webElementGuid>
+      <webElementGuid>b975bd88-049e-4e43-adb8-97c4a4929d40</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-ummy-container']</value>
-      <webElementGuid>60618d18-5e01-4bda-a909-01cbcbc3f356</webElementGuid>
+      <webElementGuid>947bbb79-59cd-41f7-8108-41c6ef6e30fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[4]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>20d5e44f-04fe-4c49-b04b-3a9902417d95</webElementGuid>
+      <webElementGuid>51cd4bfd-058e-4d87-8346-ef3e7f64d7c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[4]</value>
-      <webElementGuid>f2c577e2-8d8a-4bc9-bdef-ff0786d43323</webElementGuid>
+      <webElementGuid>44a61214-e790-4e6d-af6b-f6fe0beaba13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span</value>
-      <webElementGuid>6a9217a2-5c02-4a27-b611-7289d8f7a043</webElementGuid>
+      <webElementGuid>54bbe5d3-276b-4887-9dd3-bad4ae5883ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-ummy-container' and (text() = 'Tahun Berdiri' or . = 'Tahun Berdiri')]</value>
-      <webElementGuid>915fd9ad-9d33-46c9-8a24-0e9a1ed3522d</webElementGuid>
+      <webElementGuid>228f818e-2f20-4859-9013-9b2fb3a3fd54</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='select2-vtt5-container']</value>
+         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[10]/div[2]/div/span/span[1]/span/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>58bdee98-5de3-4441-b8b8-3a1861f27a01</webElementGuid>
+      <webElementGuid>6c5ead06-ca6a-4bbd-813e-bdb129f7dccf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>fe813386-c46a-41a0-9be6-337fd542aeb8</webElementGuid>
+      <webElementGuid>65e316e8-18b5-4529-a9d2-d04c97fd3751</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-vtt5-container</value>
-      <webElementGuid>dd511141-54b3-461a-a273-9d704c990ef8</webElementGuid>
+      <webElementGuid>51bfdc21-289b-4e07-8a2e-7928cd6a12cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>389c453a-4d8c-490e-ae63-a50262874839</webElementGuid>
+      <webElementGuid>3b64a742-a57f-40b2-82d7-61a465e1d8a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>54a24511-4e7d-4dc2-93f4-a78b74bb0164</webElementGuid>
+      <webElementGuid>93706758-d642-452a-b8a8-22a0b4444898</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tahun Terakhir Renovasi</value>
-      <webElementGuid>8907fdca-91fc-43b6-b533-a4b0e7241a2d</webElementGuid>
+      <webElementGuid>b8bed53b-4cdc-4f13-ab45-27d757dcecd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-vtt5-container&quot;)</value>
-      <webElementGuid>522016de-0e87-45de-957e-1797c85cfaeb</webElementGuid>
+      <webElementGuid>365754e2-f957-4e6c-9b03-89f6015f7df1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-vtt5-container']</value>
-      <webElementGuid>dbf4c4c2-8d00-4e12-9ba9-053443fac2d9</webElementGuid>
+      <webElementGuid>4fe2ee27-c7d5-40b8-86d0-7c23ba8e84de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[10]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>95cbb791-d929-4bfd-a0ed-78a377aacd28</webElementGuid>
+      <webElementGuid>0cbb5560-62eb-4c39-ad93-d1695f939441</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahun Terakhir Renovasi'])[1]/following::span[4]</value>
-      <webElementGuid>3b04328a-5ed7-408c-bd68-c7c704ac798e</webElementGuid>
+      <webElementGuid>b4f8c4cd-a00a-439c-9507-6a76fb384430</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::span[10]</value>
-      <webElementGuid>95c73331-a06d-4d74-b106-da31c0af802b</webElementGuid>
+      <webElementGuid>119730fe-1b42-4f34-a96c-fa298d8cdb2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>0a6c78bb-56bd-4c96-b220-c51cdf26c6ce</webElementGuid>
+      <webElementGuid>24e6e2f8-a7c2-4409-aed3-1029b3c2144f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-vtt5-container' and (text() = 'Tahun Terakhir Renovasi' or . = 'Tahun Terakhir Renovasi')]</value>
-      <webElementGuid>e1e74b42-118b-4737-9c48-438c93636b1a</webElementGuid>
+      <webElementGuid>87dcb858-9d82-4507-95b2-56a6c3b609be</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

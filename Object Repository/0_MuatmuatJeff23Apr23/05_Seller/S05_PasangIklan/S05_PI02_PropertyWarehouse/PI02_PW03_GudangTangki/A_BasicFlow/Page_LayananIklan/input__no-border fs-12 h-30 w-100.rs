@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[13]</value>
+         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[16]/div[2]/div/div/div[1]/div[2]/div[2]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>373dd645-2c85-4a5a-882b-c887a919921d</webElementGuid>
+      <webElementGuid>e0e736ce-7d15-441d-b90c-3c90013c9aaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>no-border fs-12 h-30 w-100</value>
-      <webElementGuid>ff685e73-9886-4928-9a52-e154a53e1771</webElementGuid>
+      <webElementGuid>5defb36a-0ff1-45c0-a502-eebbd9cdec94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>7fff41fe-2ff8-4e49-9173-38b984b06d90</webElementGuid>
+      <webElementGuid>a6f2f696-3513-4a16-80a0-414799b6a244</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan Caption</value>
-      <webElementGuid>c2ca451c-1c0b-4a93-8a7f-eb60415edd66</webElementGuid>
+      <webElementGuid>aea51a4a-e60b-4927-85ba-2cf0db183564</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>data-child_column_name</name>
       <type>Main</type>
       <value>caption</value>
-      <webElementGuid>9a970614-574b-4098-9371-bbac127358d0</webElementGuid>
+      <webElementGuid>d6bac123-c7a9-475e-b33c-e3adec280c9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>data-group</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>193929eb-be10-49ea-8daf-5ace52f4fb84</webElementGuid>
+      <webElementGuid>2dd5392c-0307-4528-90e3-74426e3d73d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>data-alert_limit_ext_video</name>
       <type>Main</type>
       <value>Ekstensi File tidak sesuai</value>
-      <webElementGuid>1e664468-b502-482a-ba41-083982a0a031</webElementGuid>
+      <webElementGuid>4968259c-5e65-4f81-9232-6e182f6af187</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>data-alert_max_char_caption</name>
       <type>Main</type>
       <value>Karakter melebihi batas</value>
-      <webElementGuid>f16f9bc1-ecee-4a2b-8c56-a4f6a45cc175</webElementGuid>
+      <webElementGuid>a77232df-2691-497a-8d89-41dc188dc490</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>data-alert_max_video_size</name>
       <type>Main</type>
       <value>Ukuran File melebihi batas</value>
-      <webElementGuid>aa3d9b31-3cbd-400f-913b-0242f9512274</webElementGuid>
+      <webElementGuid>935234c1-bfa9-4f83-ba9f-da8af7e98bb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>data-alert_min_char_caption</name>
       <type>Main</type>
       <value>Field harus diisi</value>
-      <webElementGuid>854298e0-fd18-4172-a182-c0ebdee238e2</webElementGuid>
+      <webElementGuid>927b7610-4afc-4a6b-9ad8-25732cd61b4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>data-alert_required</name>
       <type>Main</type>
       <value>Field Harus Diisi</value>
-      <webElementGuid>e47f53df-5a0b-4745-854b-19cdadf6c17a</webElementGuid>
+      <webElementGuid>8c7624ad-0e8e-4939-bb09-c45c50399215</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>data-limit_ext_video</name>
       <type>Main</type>
       <value>All, MP4, MKV</value>
-      <webElementGuid>2b285d36-5dc2-4589-b620-9c23743b3527</webElementGuid>
+      <webElementGuid>e2131650-2963-4b6f-96dd-7313c8142f3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>data-max_char_caption</name>
       <type>Main</type>
       <value>250</value>
-      <webElementGuid>5a3e8b25-7148-44b2-88eb-8abe7b8409b5</webElementGuid>
+      <webElementGuid>f72cb6ac-a393-49ec-963f-77078141872c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>data-max_col_galeri</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>37657ddf-5f4a-4754-9d4b-965a6994f66f</webElementGuid>
+      <webElementGuid>f7a6b1f6-797f-4889-aa21-0d7719a920f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +133,7 @@
       <name>data-max_video_size</name>
       <type>Main</type>
       <value>25</value>
-      <webElementGuid>5f78aa16-c029-46bf-8dce-ff4bee268245</webElementGuid>
+      <webElementGuid>55035a01-730e-40b0-a44e-04e4401997a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -142,7 +141,7 @@
       <name>data-min_char_caption</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>9dac7e92-0e74-474f-a786-f2b2a15f2b87</webElementGuid>
+      <webElementGuid>09c58af9-37e6-4b1a-8183-071150d023b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -150,7 +149,7 @@
       <name>data-min_char_var</name>
       <type>Main</type>
       <value>min_char_caption</value>
-      <webElementGuid>d44cf52f-0014-4c36-adf6-1f170122b932</webElementGuid>
+      <webElementGuid>a7bb1d8c-8410-46ae-b15f-3e046a89dc92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -158,7 +157,7 @@
       <name>data-max_char_var</name>
       <type>Main</type>
       <value>max_char_caption</value>
-      <webElementGuid>66a0262e-c0b6-4b03-af50-475c7d95a610</webElementGuid>
+      <webElementGuid>8cff2a7b-9af7-4650-a1b0-a65ba3fe1a71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -166,7 +165,7 @@
       <name>data-alert_min_char_var</name>
       <type>Main</type>
       <value>alert_min_char_caption</value>
-      <webElementGuid>57434a4b-fa52-4e50-8591-1dd23a855f98</webElementGuid>
+      <webElementGuid>375c91c8-ecc5-4610-9241-523fdbf74fc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -174,7 +173,7 @@
       <name>data-alert_max_char_var</name>
       <type>Main</type>
       <value>alert_max_char_caption</value>
-      <webElementGuid>2c24155c-4b7f-4f7b-9ad3-2cb417d927fe</webElementGuid>
+      <webElementGuid>95bd7a45-223e-4dc7-afd9-9f825631fc6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -182,7 +181,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-12&quot;]/div[@class=&quot;d-flex flex-column PlusMinComponentContainer&quot;]/div[@class=&quot;PlusMinComponent d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[2]/div[@class=&quot;d-flex component-input-border-container mb-8 h-32&quot;]/input[@class=&quot;no-border fs-12 h-30 w-100&quot;]</value>
-      <webElementGuid>d2abae8e-d991-4aa3-9252-eca79205bbec</webElementGuid>
+      <webElementGuid>42347a31-302e-4699-bacc-4dcdf0b13f7d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -190,7 +189,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[13]</value>
-      <webElementGuid>d25ea01c-2b8c-45fb-a87d-de293263a79c</webElementGuid>
+      <webElementGuid>912376c5-ba65-4a8f-a5e8-bafbe1395fa9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +197,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[17]/div[2]/div/div/div/div[2]/div[2]/input</value>
-      <webElementGuid>9aae3d03-a93e-4a5d-bd5b-4dc939ef71f0</webElementGuid>
+      <webElementGuid>36f558df-0b97-4de8-a134-14348cbc9234</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,7 +205,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[17]/div[2]/div/div/div/div[2]/div[2]/input</value>
-      <webElementGuid>bd5dc4cf-14af-417b-a65a-e2c5f06e8555</webElementGuid>
+      <webElementGuid>4078d285-a67b-4f99-93b9-f719f8f8fe79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,6 +213,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Masukkan Caption']</value>
-      <webElementGuid>4d640fec-95d7-4597-aab7-b9ac61ac175c</webElementGuid>
+      <webElementGuid>71799f45-9a63-42ff-8cd0-7098753be078</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
