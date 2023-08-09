@@ -17,12 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_Login'), [:], 
-    FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L04_LoginBFTransporter/Page_Home  muatmuat/div_Big Fleets'))
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L03_LoginBFShipper/Page_Home  muatmuat/BtnSkipPopUp'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L04_LoginBFTransporter/Page_Dashboard  muatmuat/div_Transporter'))
-

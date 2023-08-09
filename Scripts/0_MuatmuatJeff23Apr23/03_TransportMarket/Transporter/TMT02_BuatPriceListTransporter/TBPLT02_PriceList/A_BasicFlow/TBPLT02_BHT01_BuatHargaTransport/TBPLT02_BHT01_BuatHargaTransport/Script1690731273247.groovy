@@ -78,7 +78,7 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_Transport
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport  muatmuat/span_Pilih Lokasi_1'))
 
 WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport  muatmuat/InputSearchDestinasiKota'), 
-    'Sidoarjo')
+    'Surabaya')
 
 WebUI.delay(2)
 
@@ -110,6 +110,9 @@ WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport  muatmuat/input_Harge Per Unit (Rp)_custom-input-form_1baf9c'), 
     '2000000')
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport  muatmuat/InputHargaTruck2'), 
+    '4000000')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport  muatmuat/span_Pilih Jenis Pembayaran'))
 

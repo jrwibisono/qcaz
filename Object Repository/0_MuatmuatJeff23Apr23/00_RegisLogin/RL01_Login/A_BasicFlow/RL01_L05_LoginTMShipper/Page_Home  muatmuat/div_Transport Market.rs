@@ -6,15 +6,19 @@
    <elementGuidId>a9758059-72e2-4ec8-9027-e03e15dd8688</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a:nth-of-type(3) > div.card-border > div</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='generated_menu']/div/a[3]/div/div</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Transport Market' or . = 'Transport Market')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3) > div.card-border > div</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>44e7757d-ae69-46d6-ba86-cf54b24255cf</webElementGuid>
+      <webElementGuid>c0cd6a18-5cfc-4a1e-b8c4-dc44b05e7401</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Transport Market</value>
-      <webElementGuid>baed1199-6af6-47f5-b4e6-4f9ba2f57f96</webElementGuid>
+      <webElementGuid>1d9f3da0-3403-400c-a6d5-98d88c5b2db1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;generated_menu&quot;)/div[1]/a[3]/div[@class=&quot;card-border&quot;]/div[1]</value>
-      <webElementGuid>d9439fd0-002c-4e0e-aa8d-e6cbd066a84c</webElementGuid>
+      <webElementGuid>2c32158c-5c24-4269-9193-8a4d34d488ce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='generated_menu']/div/a[3]/div/div</value>
-      <webElementGuid>bf9b3db1-87f2-4bb1-a4f3-29f055a42bfe</webElementGuid>
+      <webElementGuid>ed9dd2dc-2b6c-4802-847f-b0a1a589ee9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Temukan jasa pengurusan dan moda transportasi lainnya.'])[1]/following::div[2]</value>
-      <webElementGuid>d8611ec7-e1c4-47b7-97ec-6900acd9e05f</webElementGuid>
+      <webElementGuid>525fbafa-ab3d-498b-8493-5f5a7c1612bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Intermodal Transportation'])[1]/following::div[3]</value>
-      <webElementGuid>7218e217-97ac-4db5-a85a-15b63e506129</webElementGuid>
+      <webElementGuid>63d35595-eb20-4084-a788-57945dce98c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasar yang mempertemukan Shipper dan Transporter.'])[1]/preceding::div[1]</value>
-      <webElementGuid>556e817a-4614-4041-b349-d2907a9223c2</webElementGuid>
+      <webElementGuid>fad5f669-eb02-4e1a-853a-730968ab6f64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transportation Store'])[1]/preceding::div[2]</value>
-      <webElementGuid>d05c9522-c259-4725-a119-fa9973858cd2</webElementGuid>
+      <webElementGuid>e1fde908-fbbd-43c5-9b0c-ebc2d9554a41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Transport Market']/parent::*</value>
-      <webElementGuid>858aa6f9-307a-4c14-89d2-d2e88bc276e9</webElementGuid>
+      <webElementGuid>6bee4a7f-9c98-465a-a1fc-927c73c7de89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[3]/div/div</value>
-      <webElementGuid>006378cf-9ca0-4098-b0ab-2a82e33eebd8</webElementGuid>
+      <webElementGuid>fb7b93cf-6764-496a-9043-8e977e8f7666</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Transport Market' or . = 'Transport Market')]</value>
-      <webElementGuid>1a3ce6ed-0a18-473d-93eb-30c201b74969</webElementGuid>
+      <webElementGuid>ca2d8b8a-ed6f-4ae9-9222-c90a511ad52f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

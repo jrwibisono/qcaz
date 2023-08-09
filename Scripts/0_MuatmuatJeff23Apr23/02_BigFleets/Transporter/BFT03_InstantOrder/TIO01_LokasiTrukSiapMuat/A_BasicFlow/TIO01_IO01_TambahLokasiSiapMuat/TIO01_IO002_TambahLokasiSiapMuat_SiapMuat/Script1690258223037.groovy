@@ -24,7 +24,7 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Big Fleets Main Dashboard  muatmuat/a_Lokasi Truk Siap Muat'))
 
-WebUI.navigateToUrl('https://qc.assetlogistik.com/bigfleets/location_ready')
+not_run: WebUI.navigateToUrl('https://qc.assetlogistik.com/bigfleets/location_ready')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/a_Tambah Lokasi'))
 

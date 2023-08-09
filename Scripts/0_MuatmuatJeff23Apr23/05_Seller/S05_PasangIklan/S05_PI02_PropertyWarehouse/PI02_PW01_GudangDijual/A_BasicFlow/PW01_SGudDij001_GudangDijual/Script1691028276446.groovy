@@ -32,7 +32,7 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_Seller/span_Gudang Dijual'))
 
-WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=15&KategoriID=26&sub_text=Gudang%20Dijual&layanan_text=Property%20%26%20Warehouse&no')
+not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=15&KategoriID=26&sub_text=Gudang%20Dijual&layanan_text=Property%20%26%20Warehouse&no')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
 
@@ -40,7 +40,7 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
 
-WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/pasangIklan?SubKategoriID=15&KategoriID=26&sub_text=Gudang%20Dijual&layanan_text=Property%20%26%20Warehouse&detail_pembelian=23798')
+not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/pasangIklan?SubKategoriID=15&KategoriID=26&sub_text=Gudang%20Dijual&layanan_text=Property%20%26%20Warehouse&detail_pembelian=23798')
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'), 
     'Coba Gudang Dijual')

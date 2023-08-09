@@ -22,5 +22,7 @@ WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L03_LoginBFShipper/Page_Home  muatmuat/div_Big FleetsKomunitas eksklusif untuk BIG_d7e5d3'))
 
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L03_LoginBFShipper/Page_Home  muatmuat/BtnSkipPopUp'))
+
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L03_LoginBFShipper/Page_Dashboard  muatmuat/div_Shipper'))
 

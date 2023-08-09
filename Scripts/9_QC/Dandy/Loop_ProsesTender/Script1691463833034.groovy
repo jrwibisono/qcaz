@@ -17,59 +17,59 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//for (def index : (0..0)) {
-//}
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L003_LoginBFShipper'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST02_ProsesTender/A_BasicFlow/ST02_T01_BuatProsesTender/ST02_T000_List_ProsesTender'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-for (int i = 1; i <= 2; i++) {
-    GlobalVariable.ProsesTenderNama = ('Hantar Jati Unit ' + i)
+not_run: for (int i = 1; i <= 2; i++) {
+    GlobalVariable.ProsesTenderNama = ('Auto Katalon ' + i)
 
     if (i == 1) {
-        GlobalVariable.TransporterTujuan1 = 'PT Tujuh'
+        GlobalVariable.TransporterTujuan1 = 'FASatu'
 
         GlobalVariable.LokasiPickupTender = 'Surabaya'
 
         GlobalVariable.LokasiDestinasiTender = 'Malang'
 
-        GlobalVariable.JumlahSatuan = '300'
-    } else {
-        GlobalVariable.TransporterTujuan1 = 'PT Sebelas'
-
-        GlobalVariable.LokasiPickupTender = 'Malang'
-
-        GlobalVariable.LokasiDestinasiTender = 'Semarang'
-
-        GlobalVariable.JumlahSatuan = '100'
+        GlobalVariable.JumlahSatuan = '10'
     }
     
+    //	else {
+    //        GlobalVariable.TransporterTujuan1 = 'PT Sebelas'
+    //
+    //        GlobalVariable.LokasiPickupTender = 'Malang'
+    //
+    //        GlobalVariable.LokasiDestinasiTender = 'Semarang'
+    //
+    //        GlobalVariable.JumlahSatuan = '2000'
+    //    }
     WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST02_ProsesTender/A_BasicFlow/ST02_T01_BuatProsesTender/ST02_T007_1_PartBuatProsesTender_Unit_Kirim_Satu_Transporter'), 
         [:], FailureHandling.CONTINUE_ON_FAILURE)
 }
 
-not_run: for (int i = 1; i <= 2; i++) {
-    GlobalVariable.ProsesTenderNama = ('Hantar Jati Berat ' + i)
+for (int i = 1; i <= 2; i++) {
+    GlobalVariable.ProsesTenderNama = ('Tender Katalon ' + i)
 
-    if (i == 1) {
-        GlobalVariable.TransporterTujuan1 = 'PT Tujuh'
+//    if (i == 1) {
+    GlobalVariable.TransporterTujuan1 = 'muatmuat003'
 
-        GlobalVariable.LokasiPickupTender = 'Semarang'
+    GlobalVariable.LokasiPickupTender = 'Semarang'
 
-        GlobalVariable.LokasiDestinasiTender = 'Surakarta'
+    GlobalVariable.LokasiDestinasiTender = 'Surakarta'
 
-        GlobalVariable.JumlahSatuan = '300'
-    } else {
-        GlobalVariable.TransporterTujuan1 = 'PT Sebelas'
-
-        GlobalVariable.LokasiPickupTender = 'Surakarta'
-
-        GlobalVariable.LokasiDestinasiTender = 'Semarang'
-
-        GlobalVariable.JumlahSatuan = '300'
-    }
+    GlobalVariable.JumlahSatuan = '300'
+//    } 
+//	else {
+//        GlobalVariable.TransporterTujuan1 = 'PT Sebelas'
+//
+//        GlobalVariable.LokasiPickupTender = 'Surakarta'
+//
+//        GlobalVariable.LokasiDestinasiTender = 'Semarang'
+//
+//        GlobalVariable.JumlahSatuan = '300'
+//    }
     
     WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST02_ProsesTender/A_BasicFlow/ST02_T01_BuatProsesTender/ST02_T008_1_PartBuatProsesTender_Berat_Kirim_Satu_Transporter'), 
         [:], FailureHandling.CONTINUE_ON_FAILURE)

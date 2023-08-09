@@ -110,7 +110,7 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFlee
     '20')
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/textarea__deskripsimuatan'), 
-    'Kayu Jati')
+    'Katalon')
 
 WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/InputBeratOpsional'), 
     '20')
@@ -131,7 +131,15 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input_Pilih_pilihSemua'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input_Pilih_pilihSemua'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input_Pilih_pilihSemua'), 
+    '')
+
+WebUI.waitForJQueryLoad(60, FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/input_Pilih_pilihSemua'), 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS03_InstantOrder/SIO02_InfoPermintaanMuat/A_BasicFlow/SIO02_IO01_BuatInfoPermintaanMuat/Page_Users  muatmuat/button_Terapkan'))
 

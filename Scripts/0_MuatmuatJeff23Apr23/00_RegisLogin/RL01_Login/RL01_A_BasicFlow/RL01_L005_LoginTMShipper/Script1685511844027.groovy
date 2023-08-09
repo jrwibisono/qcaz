@@ -22,5 +22,7 @@ WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L05_LoginTMShipper/Page_Home  muatmuat/div_Transport Market'))
 
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L06_LoginTMTransporter/Page_Home  muatmuat/BtnDaftar'))
+
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L05_LoginTMShipper/Page_Dashboard  muatmuat/div_Shipper'))
 

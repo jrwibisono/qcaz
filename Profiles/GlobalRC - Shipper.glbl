@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>GlobalRC - Otomasi1</name>
+   <name>GlobalRC - Shipper</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
@@ -11,7 +11,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'fadua@gmail.com'</initValue>
+      <initValue>'anggrek@yopmail.com'</initValue>
       <name>User</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -46,7 +46,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'JeffryKatalon07'</initValue>
+      <initValue>'DandyKatalon09'</initValue>
       <name>UserDaftarWhitelist</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -63,35 +63,5 @@
       <description></description>
       <initValue>'http://tmlelang.azlogistik.id/lelang/lelangAktif'</initValue>
       <name>URLListLelangMuatan</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Hantar Jati Diri'</initValue>
-      <name>ProsesTenderNama</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'FASatu'</initValue>
-      <name>TransporterTujuan1</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'PT Sembilan'</initValue>
-      <name>TransporterTujuan2</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'100'</initValue>
-      <name>JumlahSatuan</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Surabaya'</initValue>
-      <name>LokasiPickupTender</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Semarang'</initValue>
-      <name>LokasiDestinasiTender</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

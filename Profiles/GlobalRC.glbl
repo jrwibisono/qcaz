@@ -31,7 +31,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://cs.azlogistik.id/public/public'</initValue>
+      <initValue>'http://cs.azlogistik.id/public'</initValue>
       <name>URLCSTikceting</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

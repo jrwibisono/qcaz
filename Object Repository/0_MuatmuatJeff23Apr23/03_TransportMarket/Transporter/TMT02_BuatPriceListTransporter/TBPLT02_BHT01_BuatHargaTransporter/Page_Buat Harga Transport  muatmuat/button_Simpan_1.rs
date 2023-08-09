@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@onclick=&quot;simpan_location('pickup')&quot;]</value>
+         <value>/html/body/div[5]/div[4]/div[2]/div/div[2]/div[4]/button</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eb040db7-707c-4454-b4cc-dceee8254573</webElementGuid>
+      <webElementGuid>8281763c-ff8d-4d2f-acea-a73181294566</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flexible-button tombol-primary-az m-0</value>
-      <webElementGuid>c5753186-31a3-4c33-9a78-969b0eac36d7</webElementGuid>
+      <webElementGuid>2d1dd097-fb64-403a-bc90-5edeabcd7728</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>simpan_location('pickup')</value>
-      <webElementGuid>5a5471de-4ae2-41ee-a0c4-087d2eb25c26</webElementGuid>
+      <webElementGuid>0ff87455-bd58-4de8-a0c2-5452723ee341</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Simpan</value>
-      <webElementGuid>c181e87c-09a6-453d-b095-ee6b6488f270</webElementGuid>
+      <webElementGuid>c37947a9-a8e0-4701-bda6-0703a3e336b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pickup_location_toolbar&quot;)/button[@class=&quot;flexible-button tombol-primary-az m-0&quot;]</value>
-      <webElementGuid>b42c2f37-e116-4d7d-a023-e45a9b8aa91d</webElementGuid>
+      <webElementGuid>f45c0af9-8e39-4dd4-b5e4-98650403c1c8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@onclick=&quot;simpan_location('pickup')&quot;]</value>
-      <webElementGuid>c1777473-ad72-4e8e-9879-7c8ff9a3c15a</webElementGuid>
+      <webElementGuid>87c86f28-9d0d-4428-9c64-02f9d2f1f18a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='pickup_location_toolbar']/button[2]</value>
-      <webElementGuid>331d0b2b-fe84-4be0-b815-db0b6fa67d81</webElementGuid>
+      <webElementGuid>e18b0eb9-5471-42b8-95ff-1a15fe564b66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
-      <webElementGuid>b073a702-8522-4946-9395-f661427a10eb</webElementGuid>
+      <webElementGuid>47a5a286-8c17-4143-9fdd-d1340d274e20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Kecamatan'])[1]/following::button[2]</value>
-      <webElementGuid>777968e8-66d5-4433-9760-306d742585df</webElementGuid>
+      <webElementGuid>993eccd1-40cc-4262-8cce-db35e403dea8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi/Area Destinasi'])[2]/preceding::button[1]</value>
-      <webElementGuid>753f1f36-4f4f-4a85-a891-088febeec7e1</webElementGuid>
+      <webElementGuid>7a3b1439-968c-4e00-b2d0-f2b96ea785a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lokasi*'])[2]/preceding::button[1]</value>
-      <webElementGuid>c7a9d920-33e7-44ba-a697-10ad6846f251</webElementGuid>
+      <webElementGuid>f6d6a0e8-4028-4ce7-9f68-8629cd796d70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button[2]</value>
-      <webElementGuid>54c32449-c3dc-434f-b409-4480a097dbd6</webElementGuid>
+      <webElementGuid>a7859856-a7de-4165-a909-826e2b3fc037</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Simpan' or . = 'Simpan')]</value>
-      <webElementGuid>860532a5-f782-4d14-af71-50885224c38a</webElementGuid>
+      <webElementGuid>a1e7b1d3-5329-4504-9683-f11ce203f561</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
