@@ -6,11 +6,11 @@
    <elementGuidId>c30da372-0e38-4c7c-816a-f8db69d7b85c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[8]/div[1]/table/tfoot/tr[1]/th</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/div[9]/div[1]/table/tfoot/tr[1]/th</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

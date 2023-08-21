@@ -17,30 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/ST01_T000_List_BuatInfoPraTender'), 
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/SKH01_KH000_ListBuatKontrakBaru'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-for(int i = 1; i <= 4; i++) {
+for(int i = 1; i <= 20; i++) {
+	GlobalVariable.NomorReferensiKH = 'KH/230815/'+i
 	
-	switch(i) {
-		case 1:
-			GlobalVariable.NamaTender = 'Tender Jati'
-			GlobalVariable.NamaMuatan = 'Jati'
-		break
-		case 2:
-			GlobalVariable.NamaTender = 'Tender Besi'
-			GlobalVariable.NamaMuatan = 'Besi'
-		break
-			case 3:
-			GlobalVariable.NamaTender = 'Tender Tepung'
-			GlobalVariable.NamaMuatan = 'Tepung'
-		break
-		case 4:
-			GlobalVariable.NamaTender = 'Tender Beras'
-			GlobalVariable.NamaMuatan = 'Beras'
-		break
-	}
-	
-	WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/ST01_T001A_01_Part_BuatInfoPraTender_Unit_SatuTransporter'),
+	WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/SKH01_KH001_01_Part_BuatKontrakBaru'),
 		[:], FailureHandling.CONTINUE_ON_FAILURE)
 }
+
+
