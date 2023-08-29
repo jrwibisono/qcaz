@@ -27,12 +27,12 @@ WebUI.setText(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenga
 WebUI.click(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/button_Minta Request'))
 
 // New Window ------------------------ JEF 7 Juni 2023
-WebUI.executeJavaScript('window.open();', [])
+not_run: WebUI.executeJavaScript('window.open();', [])
 
-currentWindow = WebUI.getWindowIndex()
+not_run: currentWindow = WebUI.getWindowIndex()
 
 //Switches tab #1
-WebUI.switchToWindowIndex(currentWindow + 1)
+not_run: WebUI.switchToWindowIndex(currentWindow + 1)
 
 WebUI.navigateToUrl(GlobalVariable.URLCMS)
 

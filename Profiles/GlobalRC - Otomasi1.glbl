@@ -11,7 +11,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'fadua@gmail.com'</initValue>
+      <initValue>'clara1@yopmail.com'</initValue>
       <name>User</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -71,7 +71,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'FASatu'</initValue>
+      <initValue>'PT CLARA 4'</initValue>
       <name>TransporterTujuan1</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -93,5 +93,10 @@
       <description></description>
       <initValue>'Semarang'</initValue>
       <name>LokasiDestinasiTender</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TENDER'</initValue>
+      <name>NamaTender</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

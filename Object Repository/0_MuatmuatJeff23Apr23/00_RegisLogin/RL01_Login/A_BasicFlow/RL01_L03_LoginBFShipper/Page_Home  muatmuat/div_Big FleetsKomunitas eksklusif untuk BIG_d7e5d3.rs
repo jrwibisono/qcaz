@@ -6,12 +6,12 @@
    <elementGuidId>198a40e8-b1a4-4a11-9a07-8e7076513eae</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='generated_menu']/div/a/div</value>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Big Fleets' or . = 'Big Fleets')]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Big Fleets' or . = 'Big Fleets')]</value>
+         <key>XPATH</key>
+         <value>//div[@id='generated_menu']/div/a/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,12 +21,12 @@
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a5ecc1c0-f1aa-441f-8459-74c4aeb3dcde</webElementGuid>
+      <webElementGuid>e25a109b-0dde-4d7a-a0d2-415ebcbf08bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-border</value>
-      <webElementGuid>f6161305-2849-4cd5-b0f7-0855ad149e0f</webElementGuid>
+      <webElementGuid>6c38a5ad-9ce1-4c2d-92bb-9d0bea5d9c9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Big Fleets</value>
-      <webElementGuid>021a0b9c-ec67-481a-b8d6-97e6c2b9c378</webElementGuid>
+      <webElementGuid>63e2e1ed-56b1-41c7-a00f-e5d84d4e218a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;generated_menu&quot;)/div[1]/a[1]/div[@class=&quot;card-border&quot;]</value>
-      <webElementGuid>ae4e38d5-9969-40f5-b3a9-4abd6bf52d4c</webElementGuid>
+      <webElementGuid>9609bc19-23fa-4c7a-bba7-bf79ecf52ee4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='generated_menu']/div/a/div</value>
-      <webElementGuid>c683e76c-61ee-46e3-907f-d3b311a01150</webElementGuid>
+      <webElementGuid>a2f41baa-31d8-488b-8ca5-25add984ad0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Kebutuhan Logistik Anda'])[1]/following::div[3]</value>
-      <webElementGuid>7f31221d-bcfd-4d6e-8d63-45bededb38e6</webElementGuid>
+      <webElementGuid>98dbabf5-c025-402f-9d50-e330d5340e0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Semoga harimu menyenangkan di tempat kerja'])[1]/following::div[5]</value>
-      <webElementGuid>33f7be17-b843-4ca3-9120-e13adce43519</webElementGuid>
+      <webElementGuid>d571ed09-3c55-4611-aeb8-31a172bcafd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/a/div</value>
-      <webElementGuid>1a4a1fd2-ca7d-499a-a2e5-43a13df8d4fa</webElementGuid>
+      <webElementGuid>8b9a447e-c494-48ee-9a6d-1d863eba555d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Big FleetsKomunitas eksklusif untuk BIG Shipper dan Transporter.' or . = 'Big FleetsKomunitas eksklusif untuk BIG Shipper dan Transporter.')]</value>
-      <webElementGuid>637a5a1b-2666-4a1c-82b4-bde84d4a1702</webElementGuid>
+      <webElementGuid>067fd822-4fbe-4a91-8a1a-38d9c0297bc6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

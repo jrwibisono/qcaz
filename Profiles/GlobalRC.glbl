@@ -11,12 +11,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'bougenville@yopmail.com'</initValue>
+      <initValue>'dandy1@yopmail.com'</initValue>
       <name>User</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Az12345678'</initValue>
+      <initValue>'Gundam00'</initValue>
       <name>User_Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -63,5 +63,10 @@
       <description></description>
       <initValue>'http://tmlelang.azlogistik.id/lelang/lelangAktif'</initValue>
       <name>URLListLelangMuatan</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://rc.azlogistik.id/tan/viewotp?data=77788899931'</initValue>
+      <name>UrlCekOTP</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

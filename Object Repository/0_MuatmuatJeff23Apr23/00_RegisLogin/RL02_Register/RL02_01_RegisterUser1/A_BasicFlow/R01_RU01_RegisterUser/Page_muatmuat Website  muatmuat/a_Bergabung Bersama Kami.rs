@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bergabung Bersama Kami</name>
+   <tag></tag>
+   <elementGuidId>cbf21fb3-6b16-4195-83e5-4c4de1b1910e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='masukBergabung']/ul/li/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.tombol-primary-az.margin-remover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5906700f-567b-4919-aec1-77f6ee6e597a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://rc.azlogistik.id/register/email</value>
+      <webElementGuid>3fd69432-d010-4784-b48f-9ecef27e7903</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tombol-primary-az margin-remover</value>
+      <webElementGuid>6c647718-ba87-4b55-ae37-00923fcbfbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bergabung Bersama Kami</value>
+      <webElementGuid>c992c2d7-0e97-4dc9-9d71-f3f8318d94de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;header-container&quot;]/div[@class=&quot;fixed-top main-header&quot;]/div[1]/nav[@id=&quot;masukBergabung&quot;]/ul[1]/li[1]/div[@class=&quot;login-register-container&quot;]/a[@class=&quot;tombol-primary-az margin-remover&quot;]</value>
+      <webElementGuid>c3bbd24e-601c-4a98-b4cd-77df57de165c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='masukBergabung']/ul/li/div/a[2]</value>
+      <webElementGuid>28303d66-9fc0-4b18-a95b-292e79be4e13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bergabung Bersama Kami')]</value>
+      <webElementGuid>d9ff79d9-5747-4cdc-895b-e0bc3f4f7437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::a[1]</value>
+      <webElementGuid>63bfe4cd-e88c-4949-a3f1-5508f09a0b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[1]/following::a[2]</value>
+      <webElementGuid>2390d556-2002-412b-a9f4-364af730230b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke Main Menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>b442e735-1cf0-4218-9529-21446de57995</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jalan Mudah Bersama'])[1]/preceding::a[4]</value>
+      <webElementGuid>55ecd635-5965-4175-8acc-60c2e3213dd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bergabung Bersama Kami']/parent::*</value>
+      <webElementGuid>bb216b98-6a4d-4c80-b317-119e891232fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://rc.azlogistik.id/register/email')]</value>
+      <webElementGuid>b38fb66a-9cc5-4059-981e-8098e4e88479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>01132e8d-99b9-4762-84d6-f407c557628f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://rc.azlogistik.id/register/email' and (text() = 'Bergabung Bersama Kami' or . = 'Bergabung Bersama Kami')]</value>
+      <webElementGuid>7f48595e-c432-43c1-b846-4ecbd8ba71fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

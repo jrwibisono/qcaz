@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 WebUI.delay(2)
 
 WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/Page_Form Kontrak Harga  muatmuat/PopUpPilihTransporter_Search_Fill'), 
-    'ervin empat')
+    'PT No BF Trans')
 
 WebUI.delay(2)
 

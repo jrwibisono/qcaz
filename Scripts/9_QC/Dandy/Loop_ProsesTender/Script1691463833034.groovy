@@ -27,7 +27,9 @@ not_run: for (int i = 1; i <= 2; i++) {
     GlobalVariable.ProsesTenderNama = ('Auto Katalon ' + i)
 
     if (i == 1) {
-        GlobalVariable.TransporterTujuan1 = 'FASatu'
+        GlobalVariable.TransporterTujuan1 = 'Dandy'
+		
+//		GlobalVariable.NamaTender = ''
 
         GlobalVariable.LokasiPickupTender = 'Surabaya'
 
@@ -49,17 +51,22 @@ not_run: for (int i = 1; i <= 2; i++) {
         [:], FailureHandling.CONTINUE_ON_FAILURE)
 }
 
-for (int i = 1; i <= 2; i++) {
-    GlobalVariable.ProsesTenderNama = ('Tender Katalon ' + i)
+// 
+for (int i = 1; i <= 6; i++) {
+    GlobalVariable.ProsesTenderNama = ('Tender Katalon Berat Terbuka' + i)
 
 //    if (i == 1) {
-    GlobalVariable.TransporterTujuan1 = 'muatmuat003'
+    GlobalVariable.TransporterTujuan1 = 'CLARA empat'
 
     GlobalVariable.LokasiPickupTender = 'Semarang'
 
-    GlobalVariable.LokasiDestinasiTender = 'Surakarta'
+    GlobalVariable.LokasiDestinasiTender = 'Surabaya'
 
-    GlobalVariable.JumlahSatuan = '300'
+    GlobalVariable.JumlahSatuan = '10000'
+	
+	if(i > 3) {
+		GlobalVariable.TransporterTujuan1 = 'CLARA 6'
+	}
 //    } 
 //	else {
 //        GlobalVariable.TransporterTujuan1 = 'PT Sebelas'

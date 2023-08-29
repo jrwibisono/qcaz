@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL_02_R001_Register_User0</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f57e81f1-582e-4155-a72f-496bea0f5a50</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d678ae42-a0b6-4c26-bd11-a1617411bfd0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'77788899933'</defaultValue>
+      <description></description>
+      <id>d678ae42-a0b6-4c26-bd11-a1617411bfd0</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+</TestCaseEntity>

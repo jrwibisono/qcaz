@@ -20,7 +20,7 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/SKH01_KH000_ListBuatKontrakBaru'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-for(int i = 1; i <= 20; i++) {
+for(int i = 1; i <= 5; i++) {
 	GlobalVariable.NomorReferensiKH = 'KH/230815/'+i
 	
 	WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/SKH01_KH001_01_Part_BuatKontrakBaru'),
