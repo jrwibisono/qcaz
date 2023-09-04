@@ -14,8 +14,7 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-
-import bsh.Variable
+import bsh.Variable as Variable
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
@@ -90,7 +89,7 @@ currentWindow2 = WebUI.getWindowIndex()
 WebUI.switchToWindowIndex(currentWindow2 + 1)
 
 //Cek URL CEK OTP NE
-GlobalVariable.UrlCekOTP = "https://rc.azlogistik.id/tan/viewotp?data="+noTelp
+GlobalVariable.UrlCekOTP = ('https://rc.azlogistik.id/tan/viewotp?data=' + noTelp)
 
 WebUI.navigateToUrl(GlobalVariable.UrlCekOTP)
 
@@ -100,29 +99,29 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogi
 
 WebUI.switchToWindowTitle('Verifikasi Email | muatmuat')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField1'), 
+not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField1'), 
     '2')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField2'), 
+not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField2'), 
     '8')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField3'), 
+not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField3'), 
     '3')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField4'), 
+not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField4'), 
     '7')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField5'), 
+not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField5'), 
     '3')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField6'), 
+not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField6'), 
     '2')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuat referral_code  muatmuat/button_Lanjutkan'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuat referral_code  muatmuat/button_Lanjutkan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/input_Darimana Anda mengetahui muatmuat_rad_de3e7c'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/input_Darimana Anda mengetahui muatmuat_rad_de3e7c'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/div_Lanjutkan'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/div_Lanjutkan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/img'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/img'))
 
