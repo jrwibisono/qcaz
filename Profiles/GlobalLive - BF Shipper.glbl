@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>GlobalRC - CS</name>
+   <name>GlobalLive - BF Shipper</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
@@ -11,32 +11,32 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'bougenville@yopmail.com'</initValue>
+      <initValue>'dandy.christopher09@gmail.com'</initValue>
       <name>User</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Az12345678'</initValue>
+      <initValue>'Gundam00'</initValue>
       <name>User_Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dandy.christopher09@gmail.com'</initValue>
+      <initValue>'katalon@gmail.com'</initValue>
       <name>UserCSTicketing</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Saturnus96'</initValue>
+      <initValue>'Az12345678'</initValue>
       <name>PasswordCSTicketing</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://cs.azlogistik.id/public'</initValue>
+      <initValue>'https://cs.muatmuat.com/public/login'</initValue>
       <name>URLCSTikceting</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://bf.azlogistik.id/'</initValue>
+      <initValue>'https://elogistik.azlogistik.id/'</initValue>
       <name>URLMuatmuat</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -51,7 +51,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://rc.azlogistik.id/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
+      <initValue>'https://elogistik.azlogistik.id/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
       <name>URLCMS</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -63,10 +63,5 @@
       <description></description>
       <initValue>'http://tmlelang.azlogistik.id/lelang/lelangAktif'</initValue>
       <name>URLListLelangMuatan</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Lelang 1'</initValue>
-      <name>NamaLelang</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
