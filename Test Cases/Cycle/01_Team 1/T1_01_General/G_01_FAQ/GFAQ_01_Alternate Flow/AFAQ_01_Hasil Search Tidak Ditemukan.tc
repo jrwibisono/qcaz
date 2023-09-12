@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Testing</name>
+   <name>AFAQ_01_Hasil Search Tidak Ditemukan</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>271f1e21-130a-4da0-8821-fd323191b49d</testCaseGuid>
+   <testCaseGuid>bb39bad2-9403-4c0b-b6cb-c68491271994</testCaseGuid>
 </TestCaseEntity>
