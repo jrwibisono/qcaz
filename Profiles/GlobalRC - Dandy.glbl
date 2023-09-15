@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>GlobalXdemo-Seller-Main</name>
+   <name>GlobalRC - Dandy</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
@@ -31,12 +31,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://csqc.assetlogistik.com/login'</initValue>
+      <initValue>'http://cs.azlogistik.id/public'</initValue>
       <name>URLCSTikceting</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://xdemobf.assetlogistik.id'</initValue>
+      <initValue>'http://bf.azlogistik.id/'</initValue>
       <name>URLMuatmuat</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -46,17 +46,27 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'DandyKatalon627'</initValue>
+      <initValue>'DandyKatalon88'</initValue>
       <name>UserDaftarWhitelist</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://xdemo.assetlogistik.id/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
+      <initValue>'https://rc.azlogistik.id/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
       <name>URLCMS</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Kendaraan Kargo Hasil Automate'</initValue>
-      <name>JudulIklan</name>
+      <initValue>'http://bf.azlogistik.id/bigfleets/permintaanMuatAktifGrid'</initValue>
+      <name>URLPermintaanMuatAktif</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://tmlelang.azlogistik.id/lelang/lelangAktif'</initValue>
+      <name>URLListLelangMuatan</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://rc.azlogistik.id/tan/viewotp?data=77788899931'</initValue>
+      <name>UrlCekOTP</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

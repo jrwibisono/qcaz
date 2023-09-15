@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Approve</name>
+   <tag></tag>
+   <elementGuidId>1a18a731-f34e-4cf7-a7a3-bf34cf6429a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.ss-gridfield-item.even > td.col-statusButton > a.btn.btn-success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a2f5a4bc-089b-4729-89bd-e1756da72c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success</value>
+      <webElementGuid>cab97049-d16b-4ad4-b252-7946bf02e42d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://rc.azlogistik.id/admin/whitelist/dbt_whitelist/setStatus?ID=1969&amp;status=1</value>
+      <webElementGuid>970c5d70-6144-472f-a19d-0f14a7aef824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve</value>
+      <webElementGuid>4f7f08cd-e372-4e59-988f-9f6d8a0bf150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Form_EditForm_dbt_whitelist&quot;)/table[@class=&quot;table grid-field__table&quot;]/tbody[@class=&quot;ss-gridfield-items&quot;]/tr[@class=&quot;ss-gridfield-item even&quot;]/td[@class=&quot;col-statusButton&quot;]/a[@class=&quot;btn btn-success&quot;]</value>
+      <webElementGuid>435ee52b-a804-4fb2-92a2-aa9db0fe1f82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='Form_EditForm_dbt_whitelist']/table/tbody/tr[2]/td[5]/a</value>
+      <webElementGuid>4c6fd1e6-54f3-4550-9ce1-7121c907770b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Approve')])[2]</value>
+      <webElementGuid>6bfcd09d-1395-406f-9f8c-463fb6e36a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DandyKatalon09'])[1]/following::a[1]</value>
+      <webElementGuid>952ce562-fbf9-473c-a9f9-3a338cab2c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::a[1]</value>
+      <webElementGuid>c491c682-1f5c-4526-a531-cd600b338b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[2]/preceding::a[1]</value>
+      <webElementGuid>d33ae54f-dde0-400b-bff3-b55c50eeb455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View actions'])[2]/preceding::a[2]</value>
+      <webElementGuid>774dcfd9-c256-4bdc-91df-149af3a610a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://rc.azlogistik.id/admin/whitelist/dbt_whitelist/setStatus?ID=1969&amp;status=1')]</value>
+      <webElementGuid>30abdb27-7190-4fbf-b97d-1f3505b4fc68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[5]/a</value>
+      <webElementGuid>597065b3-a4eb-4fb7-9efc-46177edd650a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://rc.azlogistik.id/admin/whitelist/dbt_whitelist/setStatus?ID=1969&amp;status=1' and (text() = 'Approve' or . = 'Approve')]</value>
+      <webElementGuid>9c7c12df-8d3f-435a-8e9f-bbca38524cf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
