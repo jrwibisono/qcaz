@@ -6,12 +6,12 @@
    <elementGuidId>289db997-0366-4a79-974c-7f6c9e07f6f0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>button.search-form__submit.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ff877c43-5ed1-45d8-bbb5-c2f52a3078f7</webElementGuid>
+      <webElementGuid>c31624e3-b0c2-497d-bc72-b13c702e457f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>cbe83b3a-26ad-496e-b79d-7572a9ecccff</webElementGuid>
+      <webElementGuid>d9816761-4361-4d40-9971-a90dc0b6a0e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>search-form__submit btn btn-primary</value>
-      <webElementGuid>5321496b-9feb-4d4c-a21a-0bdde87d61a4</webElementGuid>
+      <webElementGuid>1d9a5de1-c8c2-46bd-bf5a-820ec7dde39b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>e6fead1b-a770-4211-8f90-8c5d8fae5838</webElementGuid>
+      <webElementGuid>1c851957-56ef-4560-a182-e3dfe841b7e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dbt_whitelistSearch_ExtraFields&quot;)/div[@class=&quot;search-form__wrapper&quot;]/button[@class=&quot;search-form__submit btn btn-primary&quot;]</value>
-      <webElementGuid>bc531014-ad37-410d-be68-86de09123073</webElementGuid>
+      <webElementGuid>a8d90528-5bb3-4135-bd4d-6a9187456aca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>53b63cbe-fdd2-46e1-84d1-2409f3b19cf6</webElementGuid>
+      <webElementGuid>4c2f780f-838d-475e-8658-5513434134ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='dbt_whitelistSearch_ExtraFields']/div/button</value>
-      <webElementGuid>5ebf2f38-8e7e-423a-99c9-e16a1e9a04d0</webElementGuid>
+      <webElementGuid>5c087644-c9f6-4ad8-8cb3-d6401101ca90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Device_name'])[1]/following::button[1]</value>
-      <webElementGuid>9da484d2-baee-43b8-b740-f935405eb8c3</webElementGuid>
+      <webElementGuid>20e7b85e-0d25-4c9f-ac31-4d82ae7d741b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name_by_operator'])[1]/following::button[1]</value>
-      <webElementGuid>fb801df2-f1d1-43de-931f-82748275770d</webElementGuid>
+      <webElementGuid>ba9cec9f-228c-4ef3-8771-415df7d92bec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::button[1]</value>
-      <webElementGuid>fd5769de-e470-4173-a4f2-c035b236b903</webElementGuid>
+      <webElementGuid>a360c5d5-0722-4349-8d0f-5de4acedb4dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Dbt_whitelist'])[1]/preceding::button[4]</value>
-      <webElementGuid>2b751e82-8e0f-46c2-97ea-65c421bcc706</webElementGuid>
+      <webElementGuid>a1b66dca-922d-4f2d-9608-fd2db833dccd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div/button</value>
-      <webElementGuid>f723e078-00a7-44b8-ac8a-04980288ea4c</webElementGuid>
+      <webElementGuid>d0e7ae30-fe7e-4c49-9577-b6e44ee2fa20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Search' or . = 'Search')]</value>
-      <webElementGuid>a9a4ef46-3e95-4081-aff6-8fe1e7800c3f</webElementGuid>
+      <webElementGuid>641ffaf8-0d9d-4b7b-b400-0dc47f4bbc6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

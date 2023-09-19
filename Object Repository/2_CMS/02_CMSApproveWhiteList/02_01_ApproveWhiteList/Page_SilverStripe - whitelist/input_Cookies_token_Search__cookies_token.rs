@@ -6,12 +6,12 @@
    <elementGuidId>56238591-fd2e-419a-bf8d-b8bb10a4f5a8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='Form_Dbt_whitelistsSearchForm_Search_cookies_token']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#Form_Dbt_whitelistsSearchForm_Search_cookies_token</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='Form_Dbt_whitelistsSearchForm_Search_cookies_token']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>90648a27-6605-40c3-bcd7-ef60b4e52a27</webElementGuid>
+      <webElementGuid>bfda9e00-a0b7-483c-89aa-d2e0bae0c2e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Form_Dbt_whitelistsSearchForm_Search_cookies_token</value>
-      <webElementGuid>35ba287a-9288-44a6-9094-387aeeab7cd1</webElementGuid>
+      <webElementGuid>d8a2e86a-7225-434f-aa5a-5d7b658b8e07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Search__cookies_token</value>
-      <webElementGuid>c3dd999d-29ff-4ba0-9841-a116777d883b</webElementGuid>
+      <webElementGuid>107a0ba0-8112-4a77-a88a-01d165c871e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>5ef45f53-2bb9-46f6-9c6e-ab943f8ca4a0</webElementGuid>
+      <webElementGuid>f56efc88-c7f1-472a-91c9-8be550c88c68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>6a83d806-7e09-444a-b2a2-47c005808d9f</webElementGuid>
+      <webElementGuid>5bcb963a-7ef2-4541-9bab-f93e5fc75054</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value> text stacked form-control</value>
-      <webElementGuid>4ea75724-c776-49df-be79-37b183cf5aac</webElementGuid>
+      <webElementGuid>f335c88a-68a9-434a-9f22-ae521eeca968</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Form_Dbt_whitelistsSearchForm_Search_cookies_token&quot;)</value>
-      <webElementGuid>65fc85dc-6bea-41d8-97bf-0635279d63c5</webElementGuid>
+      <webElementGuid>573e3c62-0c31-409c-b5ce-4f7d55ad868f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Form_Dbt_whitelistsSearchForm_Search_cookies_token']</value>
-      <webElementGuid>aa548708-d583-41fb-9ccc-fe64d339085a</webElementGuid>
+      <webElementGuid>4d085bd2-e265-400a-a337-51497b209567</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='Form_Dbt_whitelistsSearchForm_Search_cookies_token_Holder']/div/input</value>
-      <webElementGuid>2216ad04-58d3-4a03-8218-f458fd82e7e7</webElementGuid>
+      <webElementGuid>ce23433a-8350-401d-b25c-8fc0afdeea88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fieldset/div/div/input</value>
-      <webElementGuid>b09cd05e-126e-44e6-a898-5a91fc390f69</webElementGuid>
+      <webElementGuid>beecbd1b-11b5-4ef6-9647-eacb78847e99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'Form_Dbt_whitelistsSearchForm_Search_cookies_token' and @name = 'Search__cookies_token' and @type = 'text']</value>
-      <webElementGuid>1de14a30-a8a8-4baf-9b00-69573116907e</webElementGuid>
+      <webElementGuid>0ff0d6cf-9dea-4ad5-9195-952eb43ce3dd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

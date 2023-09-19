@@ -6,12 +6,12 @@
    <elementGuidId>288b60ea-a282-41f2-8c9a-25c2f4757abe</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;MemberLoginForm_LoginForm_Email&quot;]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#MemberLoginForm_LoginForm_Email</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;MemberLoginForm_LoginForm_Email&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9d16b588-a0cd-4af1-94cc-ec7a366d252b</webElementGuid>
+      <webElementGuid>c6ee1eff-73aa-4a0b-a1ee-a1d44a695b03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>cd41b75a-7520-4525-b921-15bca8727bfa</webElementGuid>
+      <webElementGuid>9936ecec-9678-4c8e-b946-e54ed8904472</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Email</value>
-      <webElementGuid>34f7d754-70bd-4415-96fa-68464501e5a5</webElementGuid>
+      <webElementGuid>8222b65f-985d-4cb6-9fab-fe4afbfd7c4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8b9ddccd-45a0-4d40-9698-03642dba8ce8</webElementGuid>
+      <webElementGuid>b10b9d30-d916-489f-a9ca-fabdc2dbc7cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>MemberLoginForm_LoginForm_Email</value>
-      <webElementGuid>932199a8-aef7-48de-a56e-69fa5f985ef9</webElementGuid>
+      <webElementGuid>c40eb3f3-b986-40b3-bf9a-4ab1577d3be6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autofocus</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>3717182e-f4cb-415d-860f-9036a6fdb359</webElementGuid>
+      <webElementGuid>52184b81-e2bb-4bca-a4ea-f53972293d6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>90a8ba55-cbb6-4780-95c7-c2e28391ba49</webElementGuid>
+      <webElementGuid>9b0529ed-5eb5-4572-ab27-d5b48d8274e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-required</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b735768e-c255-45e0-9b42-249464b70dfc</webElementGuid>
+      <webElementGuid>59b30b5e-f211-4d42-b2ae-0004afea4f13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;MemberLoginForm_LoginForm_Email&quot;)</value>
-      <webElementGuid>f5a5045c-bbe0-4cba-bf82-4057ec55a926</webElementGuid>
+      <webElementGuid>f371d3b5-fcd0-446b-9962-32d44c63db28</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='MemberLoginForm_LoginForm_Email']</value>
-      <webElementGuid>7f464703-eeb1-474a-8053-d19cbeaa857d</webElementGuid>
+      <webElementGuid>c248d216-a783-46a5-bf50-381dd2b0128a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='MemberLoginForm_LoginForm_Email_Holder']/div/input</value>
-      <webElementGuid>3b995a72-5765-4de5-a7ad-128b14e950fe</webElementGuid>
+      <webElementGuid>58821333-e58a-4ead-a8d6-f163e937a969</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>cbe68168-d1d5-4d78-addf-2330a0beabfa</webElementGuid>
+      <webElementGuid>8cae3790-6dae-4507-9879-850000fcf762</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'Email' and @id = 'MemberLoginForm_LoginForm_Email']</value>
-      <webElementGuid>5cf4a1d6-e367-499c-a7e2-46028f765251</webElementGuid>
+      <webElementGuid>98dbaa94-c452-42ac-9b30-acab113f81e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

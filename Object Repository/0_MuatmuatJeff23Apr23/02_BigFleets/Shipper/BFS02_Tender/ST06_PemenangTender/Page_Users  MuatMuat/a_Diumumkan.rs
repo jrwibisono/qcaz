@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Diumumkan</name>
+   <tag></tag>
+   <elementGuidId>63bf2d61-acfc-4bec-a501-2544bf9c9899</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.tab-page-bigfleet.btn-aktif</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Diumumkan')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>380fbfc5-50f3-4d10-b0c0-89c39c3571b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://bf.azlogistik.id/bigfleets/pemenangTenderDiumumkanGrid</value>
+      <webElementGuid>0da9ea23-ec6f-4349-8ed7-c987b610c232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-page-bigfleet btn-aktif</value>
+      <webElementGuid>19664c20-619e-4d6a-a8f7-c50590c81c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Diumumkan </value>
+      <webElementGuid>548bad13-cb8d-4a4e-96bc-8eae4954a283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md content-menu right-content pb-5 mb-5 fiContainer&quot;]/div[@class=&quot;row title-page mx-0 lh-1&quot;]/div[@class=&quot;col-7&quot;]/a[@class=&quot;tab-page-bigfleet btn-aktif&quot;]</value>
+      <webElementGuid>af9593db-9dc1-4fd8-bc73-658cc83a571f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Diumumkan')])[2]</value>
+      <webElementGuid>5adb4f92-f618-47b4-acc7-4f7e60670dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum Diumumkan'])[1]/following::a[1]</value>
+      <webElementGuid>9ccc406a-c5c1-4c00-8376-97603273d306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trial 7 Days'])[1]/following::a[2]</value>
+      <webElementGuid>8fc690f2-8a88-42b1-9681-25c3a1d7221a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/preceding::a[1]</value>
+      <webElementGuid>5508928e-7dc1-4c33-a601-ef1419b7052c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urutkan'])[1]/preceding::a[2]</value>
+      <webElementGuid>a99ea8ea-05cf-4589-98c4-af505445dd41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Diumumkan']/parent::*</value>
+      <webElementGuid>a4aed9f6-f9a3-4441-9ab5-ba1854ea7073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/bigfleets/pemenangTenderDiumumkanGrid')]</value>
+      <webElementGuid>929d8a71-0666-452d-bcb7-8ffaf19eaf1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/a[2]</value>
+      <webElementGuid>813e0806-7fe7-4c2f-a4b2-0d626071c4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://bf.azlogistik.id/bigfleets/pemenangTenderDiumumkanGrid' and (text() = 'Diumumkan ' or . = 'Diumumkan ')]</value>
+      <webElementGuid>2f9ae17e-090b-40e5-ab63-4556234e9405</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

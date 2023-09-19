@@ -10,7 +10,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div[3]/div[2]/div/form/fieldset/fieldset/table/tbody/tr/td[5]/a[1]</value>
+         <value>//*[@id=&quot;Form_EditForm_dbt_whitelist&quot;]/table/tbody/tr[1]/td[5]/a[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

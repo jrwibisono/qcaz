@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='select2-jenis-truk-rute-0-container']/span</value>
+         <value>//span[@id=&quot;select2-jenis-truk-0-container&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>d3eec8f9-7a53-4c91-8dcb-088ddbac7d13</webElementGuid>
+      <webElementGuid>ea290733-ba41-4d26-ac98-78b52c3903dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__placeholder</value>
-      <webElementGuid>af4d1fd1-37fc-4e79-9623-afcf483ad760</webElementGuid>
+      <webElementGuid>67ec62cb-2472-4cf4-bb2e-9a77efa0ac9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih truk</value>
-      <webElementGuid>404e60e8-4440-4904-bdbb-13bfc04c7df5</webElementGuid>
+      <webElementGuid>98d1f76e-3100-4c88-82a4-dde82e62ff81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-jenis-truk-rute-0-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
-      <webElementGuid>d1843f5c-7617-4a90-b29f-1164760f32e2</webElementGuid>
+      <webElementGuid>13e61cc8-9e6e-4868-b749-207ba5c75c09</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='select2-jenis-truk-rute-0-container']/span</value>
-      <webElementGuid>fc0c995e-355b-4cb1-8988-ac75461c0174</webElementGuid>
+      <webElementGuid>7e472751-f0e3-431a-b75e-05ce95ff1f2c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota Prabumulih'])[1]/following::span[5]</value>
-      <webElementGuid>43923952-5041-4e07-94ab-4515d330100d</webElementGuid>
+      <webElementGuid>d8220980-7b34-4a32-a97d-0100efcd1a5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota Jakarta Barat'])[1]/following::span[5]</value>
-      <webElementGuid>f6732092-f1ac-4e14-b2f2-0d74dc4c7e25</webElementGuid>
+      <webElementGuid>398ceda1-8c12-4c0f-8bc1-d367b43fb628</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih carrier'])[1]/preceding::span[3]</value>
-      <webElementGuid>948c3672-4294-4d2f-aac6-9cf5ce7979cd</webElementGuid>
+      <webElementGuid>29fc701a-c5d6-45a7-9545-61e1fe8047b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit'])[3]/preceding::span[10]</value>
-      <webElementGuid>ecebe2b0-0f1f-42a7-b7c4-a5a0f17e9fe8</webElementGuid>
+      <webElementGuid>aa96ad99-37a5-4883-ad63-45d987cf51af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Pilih truk']/parent::*</value>
-      <webElementGuid>cb561ef7-a262-47d1-bf52-a38ee5542fe9</webElementGuid>
+      <webElementGuid>d46e05f3-6223-4af8-86a4-1c53508f8a2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span/span</value>
-      <webElementGuid>aab4f885-51c7-474d-91d6-4ff3e5ef3536</webElementGuid>
+      <webElementGuid>80cc24a5-a0c3-4dc8-b35f-20e9e8df53cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Pilih truk' or . = 'Pilih truk')]</value>
-      <webElementGuid>3f34fb54-acb5-4a05-aca2-0642f6e0bc3a</webElementGuid>
+      <webElementGuid>2935c15f-8857-478f-8731-c7b2cdf8bb98</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

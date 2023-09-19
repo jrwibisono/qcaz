@@ -6,12 +6,12 @@
    <elementGuidId>e7be9e80-d709-4edb-916e-208b3426a2d9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='MemberLoginForm_LoginForm_action_doLogin']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#MemberLoginForm_LoginForm_action_doLogin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='MemberLoginForm_LoginForm_action_doLogin']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>48ce2c6f-a267-420c-9293-e739e314dab7</webElementGuid>
+      <webElementGuid>e7f9366d-0deb-467b-9699-0e952a168b36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>c1174e63-cbc4-4766-b3ad-831a48def872</webElementGuid>
+      <webElementGuid>7fcc0f82-57aa-4180-a6bc-941e48a994be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>action_doLogin</value>
-      <webElementGuid>ac816a5d-2acf-4439-9aba-bf5ef16154d2</webElementGuid>
+      <webElementGuid>e15aaea0-9971-43df-97cf-f70457b9bb10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Masuk</value>
-      <webElementGuid>ce44c862-3a17-4cd6-9957-2477d1157ea6</webElementGuid>
+      <webElementGuid>0e44db2b-72e5-4b98-8280-e5e21eb5c38f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>class</name>
       <type>Main</type>
       <value>action</value>
-      <webElementGuid>ae3705be-284c-479e-bdb3-dc890e24379c</webElementGuid>
+      <webElementGuid>099b66a0-e3bc-4be9-9ba6-3bffcbfda0d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>MemberLoginForm_LoginForm_action_doLogin</value>
-      <webElementGuid>a1681023-45f9-4019-8ff8-e2be30b31fec</webElementGuid>
+      <webElementGuid>0a9663fc-040d-4a1c-9494-c63347421b82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;MemberLoginForm_LoginForm_action_doLogin&quot;)</value>
-      <webElementGuid>8fcb868f-8367-4c27-ba6d-593a52672abc</webElementGuid>
+      <webElementGuid>2d4b1bef-7d69-4c67-9fa8-74554a5e443a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='MemberLoginForm_LoginForm_action_doLogin']</value>
-      <webElementGuid>bc2e0003-44ac-4d84-8f4e-cca608082e72</webElementGuid>
+      <webElementGuid>21f247d6-09b9-4580-9fcc-1f8ce6ef86a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='MemberLoginForm_LoginForm']/div/input</value>
-      <webElementGuid>4fc6c668-a13c-4f55-b8e2-383b4ca107e3</webElementGuid>
+      <webElementGuid>ec20e241-76d6-441e-86e2-dfba6afcaecb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/input</value>
-      <webElementGuid>4aad3da5-fa51-48a1-8d4f-700d8c125f90</webElementGuid>
+      <webElementGuid>d7bda1f5-0280-49f4-943b-1f68d1dc55f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'action_doLogin' and @id = 'MemberLoginForm_LoginForm_action_doLogin']</value>
-      <webElementGuid>f45fa90f-3e44-49ce-9f26-6106bc6bb7a9</webElementGuid>
+      <webElementGuid>15bec7c9-7ad2-4055-87a6-40910b7e3021</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

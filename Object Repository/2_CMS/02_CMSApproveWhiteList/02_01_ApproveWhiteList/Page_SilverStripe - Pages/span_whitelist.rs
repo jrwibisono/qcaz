@@ -6,12 +6,12 @@
    <elementGuidId>6946f929-c515-4d51-bbdd-298a9b05a818</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//li[@id='Menu-dbt_whitelistAdmin']/a/span[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#Menu-dbt_whitelistAdmin > a > span.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='Menu-dbt_whitelistAdmin']/a/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>43656427-816d-4f7d-ba11-e4782d136f0d</webElementGuid>
+      <webElementGuid>6f7f2d06-c3c0-47f3-9224-bdb5c827a25b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>13a26b02-7b35-4782-ac1f-16a32b45d68c</webElementGuid>
+      <webElementGuid>efd7b84f-71b5-43aa-8483-eeac91b2eff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>whitelist</value>
-      <webElementGuid>c3374875-c3aa-4896-a3a3-eeb978d0df31</webElementGuid>
+      <webElementGuid>855eae1a-8daa-4de2-8f74-84d423babb30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Menu-dbt_whitelistAdmin&quot;)/a[1]/span[@class=&quot;text&quot;]</value>
-      <webElementGuid>3b4e84d3-3d40-4908-83ed-827dc04d5762</webElementGuid>
+      <webElementGuid>473ac25c-69f3-4ecd-bb46-cbbfbae55663</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='Menu-dbt_whitelistAdmin']/a/span[2]</value>
-      <webElementGuid>81a35182-72eb-4521-8853-5c21d811a8a3</webElementGuid>
+      <webElementGuid>ee719271-54a6-4eda-a732-3be6cf5da23b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutorial Type'])[1]/following::span[2]</value>
-      <webElementGuid>5326d4fd-3fca-4289-8a68-e28d762ad18d</webElementGuid>
+      <webElementGuid>458b8407-14b3-4c67-bbb9-1d45de8b8176</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutorial Step'])[1]/following::span[4]</value>
-      <webElementGuid>831d395b-9ea2-4498-a1a5-cbbdec8a3bbc</webElementGuid>
+      <webElementGuid>d4d31ca6-9209-4001-a5b0-0f2cfa27b14c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/preceding::span[2]</value>
-      <webElementGuid>68166504-c4e5-41aa-b8e6-48e2aae42ebf</webElementGuid>
+      <webElementGuid>f673fa88-43c3-495b-9aae-8f24e58588b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SilverStripe'])[1]/preceding::span[4]</value>
-      <webElementGuid>4a049927-f0b7-4632-818b-b9efba2b6c38</webElementGuid>
+      <webElementGuid>ccc59a9c-60ec-44bd-8fd2-039e582df8bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='whitelist']/parent::*</value>
-      <webElementGuid>16686825-e87c-4aac-b056-ae07c4ff9fe5</webElementGuid>
+      <webElementGuid>c1710e2c-16ae-4604-8288-6766c0cdc23d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[39]/a/span[2]</value>
-      <webElementGuid>a1f9d66a-3e2a-45ea-b51b-d4f73585eca6</webElementGuid>
+      <webElementGuid>72cba815-b032-443e-b0cf-ef72414539ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'whitelist' or . = 'whitelist')]</value>
-      <webElementGuid>e4cc8503-1815-447b-9cb3-e38f35952e58</webElementGuid>
+      <webElementGuid>97549ce5-64cc-4869-b096-ab8b9b789d26</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
