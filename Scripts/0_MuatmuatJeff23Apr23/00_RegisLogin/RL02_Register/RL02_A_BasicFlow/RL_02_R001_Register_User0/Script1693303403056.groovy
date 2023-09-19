@@ -18,6 +18,8 @@ import bsh.Variable as Variable
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+int noTelp = 77788899938;
+
 WebUI.openBrowser('')
 
 'Panggil ketika butuh whitelist'
@@ -28,22 +30,34 @@ WebUI.navigateToUrl(GlobalVariable.URLMuatmuat)
 
 WebUI.navigateToUrl('https://rc.azlogistik.id/')
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_muatmuat Website  muatmuat/a_Bergabung Bersama Kami'))
 
 WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/inputRegisterUsername'), 
-    'Dandy Zwei und Dreizig')
+    'Dandy Acht und Dreizig')
+
+WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/input_Email sudah terdaftar_inpNomorTelepon'), 
     noTelp)
 
+WebUI.delay(2)
+
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/input_Email sudah terdaftar_inpEmail'), 
-    'dandy32@yopmail.com')
+    'dandy38@yopmail.com')
+
+WebUI.delay(2)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/input_Email sudah terdaftar_inpPassword'), 
     'NokjRRQ1061C/z540kKphA==')
 
+WebUI.delay(2)
+
 WebUI.setEncryptedText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/input_Email sudah terdaftar_inpKonfirmasiPassword'), 
     'NokjRRQ1061C/z540kKphA==')
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/div_Daftar'))
 
@@ -93,35 +107,56 @@ GlobalVariable.UrlCekOTP = ('https://rc.azlogistik.id/tan/viewotp?data=' + noTel
 
 WebUI.navigateToUrl(GlobalVariable.UrlCekOTP)
 
+String stringOTP = WebUI.getText(findTestObject('Object Repository/8_Test/CobaAmbilText/Page_/body_MessageCode200,TextOK (uc131uacf5),Dat_598ef3'))
+
+not_run: WebUI.verifyMatch(OTP, '{"Message":{"Code":200,"Text":"OK (성공)"},"Data":{"Pin":"574248","Created":"2023-08-09 17:21:01"},"Type":"TAN_Backdoor_OTP"}"', 
+    false)
+
+String[] OTP
+
+OTP = stringOTP.split('"')
+
+//for(String values : OTP) {
+//	println(values);
+//}
+String realOTP = OTP[13]
+
+println(realOTP)
+
+String[] splitOTP = realOTP.split('')
+
+//for (String values : splitOTP) {
+//	println(values)
+//}
 not_run: WebUI.switchToWindowTitle('')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_/body_MessageCode200,TextOK (uc131uacf5),Dat_559c02'))
 
 WebUI.switchToWindowTitle('Verifikasi Email | muatmuat')
 
-not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField1'), 
-    '2')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField1'), 
+    splitOTP[0])
 
-not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField2'), 
-    '8')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField2'), 
+    splitOTP[1])
 
-not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField3'), 
-    '3')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField3'), 
+    splitOTP[2])
 
-not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField4'), 
-    '7')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField4'), 
+    splitOTP[3])
 
-not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField5'), 
-    '3')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField5'), 
+    splitOTP[4])
 
-not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField6'), 
-    '2')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField6'), 
+    splitOTP[5])
 
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuat referral_code  muatmuat/button_Lanjutkan'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuat referral_code  muatmuat/button_Lanjutkan'))
 
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/input_Darimana Anda mengetahui muatmuat_rad_de3e7c'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/input_Darimana Anda mengetahui muatmuat_rad_de3e7c'))
 
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/div_Lanjutkan'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/div_Lanjutkan'))
 
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/img'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/img'))
 

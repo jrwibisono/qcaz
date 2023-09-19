@@ -6,15 +6,19 @@
    <elementGuidId>cbf21fb3-6b16-4195-83e5-4c4de1b1910e</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;masukBergabung&quot;]/ul/li/div/a[2][count(. | //*[(text() = 'Bergabung Bersama Kami' or . = 'Bergabung Bersama Kami')]) = count(//*[(text() = 'Bergabung Bersama Kami' or . = 'Bergabung Bersama Kami')])]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//nav[@id='masukBergabung']/ul/li/div/a[2]</value>
+         <value>//*[@id=&quot;masukBergabung&quot;]/ul/li/div/a[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>a.tombol-primary-az.margin-remover</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +26,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>5906700f-567b-4919-aec1-77f6ee6e597a</webElementGuid>
+      <webElementGuid>2275761a-99fc-43c6-9b54-35677515ffe7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
       <value>https://rc.azlogistik.id/register/email</value>
-      <webElementGuid>3fd69432-d010-4784-b48f-9ecef27e7903</webElementGuid>
+      <webElementGuid>9a440649-80fd-4d18-a013-4c459e346d21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tombol-primary-az margin-remover</value>
-      <webElementGuid>6c647718-ba87-4b55-ae37-00923fcbfbe4</webElementGuid>
+      <webElementGuid>b4fa58c5-1335-482f-8880-5a7ef65df4b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +50,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Bergabung Bersama Kami</value>
-      <webElementGuid>c992c2d7-0e97-4dc9-9d71-f3f8318d94de</webElementGuid>
+      <webElementGuid>53bad680-7966-4be9-9a1b-0d3486732a2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;header-container&quot;]/div[@class=&quot;fixed-top main-header&quot;]/div[1]/nav[@id=&quot;masukBergabung&quot;]/ul[1]/li[1]/div[@class=&quot;login-register-container&quot;]/a[@class=&quot;tombol-primary-az margin-remover&quot;]</value>
-      <webElementGuid>c3bbd24e-601c-4a98-b4cd-77df57de165c</webElementGuid>
+      <value>//*[@id=&quot;masukBergabung&quot;]/ul/li/div/a[2]</value>
+      <webElementGuid>58749692-7a25-4b0c-b9b5-d943f33e0bd3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//nav[@id='masukBergabung']/ul/li/div/a[2]</value>
-      <webElementGuid>28303d66-9fc0-4b18-a95b-292e79be4e13</webElementGuid>
+      <webElementGuid>adcb6948-aa13-45ed-9319-e298a72a02ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Bergabung Bersama Kami')]</value>
-      <webElementGuid>d9ff79d9-5747-4cdc-895b-e0bc3f4f7437</webElementGuid>
+      <webElementGuid>f8d8d2f5-b3c0-47ac-b392-6dbf2844e001</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::a[1]</value>
-      <webElementGuid>63bfe4cd-e88c-4949-a3f1-5508f09a0b15</webElementGuid>
+      <webElementGuid>176274c6-ce9b-4fe4-8a52-8b825a2aa786</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[1]/following::a[2]</value>
-      <webElementGuid>2390d556-2002-412b-a9f4-364af730230b</webElementGuid>
+      <webElementGuid>e4fe5fdc-f396-4e31-ad84-35ae0c5f47d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke Main Menu'])[1]/preceding::a[1]</value>
-      <webElementGuid>b442e735-1cf0-4218-9529-21446de57995</webElementGuid>
+      <webElementGuid>139f4b9c-9ce2-47c0-b666-c40deac477b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +106,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jalan Mudah Bersama'])[1]/preceding::a[4]</value>
-      <webElementGuid>55ecd635-5965-4175-8acc-60c2e3213dd2</webElementGuid>
+      <webElementGuid>3c5fcb5f-0d53-400b-8cb4-3ffd694358fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Bergabung Bersama Kami']/parent::*</value>
-      <webElementGuid>bb216b98-6a4d-4c80-b317-119e891232fb</webElementGuid>
+      <webElementGuid>17253fab-c6cb-4c3c-a394-5249a357b90b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +122,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://rc.azlogistik.id/register/email')]</value>
-      <webElementGuid>b38fb66a-9cc5-4059-981e-8098e4e88479</webElementGuid>
+      <webElementGuid>d90ccf9a-4f48-4add-8116-23315b6db839</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +130,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>01132e8d-99b9-4762-84d6-f407c557628f</webElementGuid>
+      <webElementGuid>9ea4edc7-9e57-4d49-b642-290ae6bc9797</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +138,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://rc.azlogistik.id/register/email' and (text() = 'Bergabung Bersama Kami' or . = 'Bergabung Bersama Kami')]</value>
-      <webElementGuid>7f48595e-c432-43c1-b846-4ecbd8ba71fc</webElementGuid>
+      <webElementGuid>a4b08659-1256-421b-9157-015a6695a329</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
