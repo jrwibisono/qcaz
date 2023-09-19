@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Kontrak Harga</name>
    <tag></tag>
-   <elementGuidId>a2a2aaec-cc2d-4c64-b152-92291f77ff7b</elementGuidId>
+   <elementGuidId>7d56eb97-9234-4e40-bcc8-8f061dd51cb2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>

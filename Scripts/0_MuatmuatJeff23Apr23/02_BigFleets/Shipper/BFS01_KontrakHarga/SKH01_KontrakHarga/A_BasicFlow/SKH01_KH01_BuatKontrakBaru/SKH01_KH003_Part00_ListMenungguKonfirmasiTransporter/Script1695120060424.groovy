@@ -17,5 +17,5 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS_Transporter/Page_Big Fleets Main Dashboard  MuatMuat/a_Transporter'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/Page_Kontrak Harga  MuatMuat/div_Menunggu Konfirmasi Transporter'))
 

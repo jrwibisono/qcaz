@@ -17,5 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS_Transporter/Page_Big Fleets Main Dashboard  MuatMuat/a_Transporter'))
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L004_LoginBFTransporter'), 
+    [:], FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT05_MitraSisiShipper/Page_Big Fleets Main Dashboard  MuatMuat/a_Manajemen Mitra'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT05_MitraSisiShipper/Page_Mitra  MuatMuat/div_Permintaan Kepada Shipper'))
 

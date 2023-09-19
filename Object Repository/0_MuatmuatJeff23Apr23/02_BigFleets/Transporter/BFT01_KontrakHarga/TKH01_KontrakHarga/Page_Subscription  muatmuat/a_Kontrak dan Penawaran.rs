@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Kontrak dan Penawaran</name>
    <tag></tag>
-   <elementGuidId>4fce543d-8de3-4aba-8ac0-6bcc6ab7982f</elementGuidId>
+   <elementGuidId>7ed76377-dc66-42da-b40f-6bc3c8c0d0b7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
