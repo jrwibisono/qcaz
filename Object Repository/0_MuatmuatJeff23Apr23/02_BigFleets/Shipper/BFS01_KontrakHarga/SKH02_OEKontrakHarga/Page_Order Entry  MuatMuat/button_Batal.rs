@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Kontrak Harga</name>
+   <name>button_Batal</name>
    <tag></tag>
-   <elementGuidId>2e33b67e-3a9f-4840-97ba-c8660bdca4b1</elementGuidId>
+   <elementGuidId>a64fc55a-3d7c-4974-b15f-b3e0bd54455a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#Contract > a</value>
+         <value>#toggle-section-2</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//button[@id='toggle-section-2']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,95 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>b43bc8c4-ff7b-44e8-9d54-6020c33200ee</webElementGuid>
+      <value>button</value>
+      <webElementGuid>3ed9c645-759a-4bcf-97ef-9b82bf29cc3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>toggle-section-2</value>
+      <webElementGuid>fc8861b4-3b2b-4ba2-9fae-963b23f0e07b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-accordion ff-demi-az fs-14 active</value>
+      <webElementGuid>ed1c1949-c56f-4e11-a160-a9fea971db5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Kontrak Harga</value>
-      <webElementGuid>4b80bf85-2c3e-4bfe-92a3-036abbbd3f07</webElementGuid>
+      <value>Batal</value>
+      <webElementGuid>821541c7-656e-4bd3-8679-bbb7db5144fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;Contract&quot;)/a[1]</value>
-      <webElementGuid>f741332a-1cbd-43d6-94fe-8b1e83a7e843</webElementGuid>
+      <value>id(&quot;toggle-section-2&quot;)</value>
+      <webElementGuid>88c5d001-99dd-4184-890f-ccbc7f9fdcf1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='toggle-section-2']</value>
+      <webElementGuid>76e471d5-1606-4028-abe4-bac549762432</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='Contract']/a</value>
-      <webElementGuid>ee488f33-782d-4b57-8a16-361ee2dd99b6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Kontrak Harga')]</value>
-      <webElementGuid>23f1951e-f476-4399-b67b-9c86fdf4b2dd</webElementGuid>
+      <value>//div[@id='section-atas']/div/div[2]/button[2]</value>
+      <webElementGuid>d0768142-b716-4b68-a904-afb6e7023913</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transporter'])[1]/following::a[1]</value>
-      <webElementGuid>06d5dcf0-fd64-4e0a-b8e1-5ea3c549d54d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[1]/following::button[1]</value>
+      <webElementGuid>0641398e-cc6e-4377-8bfa-f375411b3f36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription'])[1]/following::a[2]</value>
-      <webElementGuid>49ef2ba8-96ca-46b6-98b6-36bd46060f25</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat'])[1]/following::button[2]</value>
+      <webElementGuid>1bb05889-d90e-461e-9dd3-23efcd302902</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak dan Penawaran'])[1]/preceding::a[1]</value>
-      <webElementGuid>37daa0f3-d21d-48af-9564-ef800d0da650</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry KH'])[1]/preceding::a[2]</value>
-      <webElementGuid>97fcd305-c065-4fa6-a709-d825f05efaca</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Kontrak Harga']/parent::*</value>
-      <webElementGuid>c7eff149-2353-4558-a90b-20a33cc5d470</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan Jumlah Detail'])[1]/preceding::button[1]</value>
+      <webElementGuid>3e9a1e13-52bb-4f2a-adf2-07064c66a29b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/a</value>
-      <webElementGuid>a90b2044-fd6e-4b79-a0ff-ed7c56195361</webElementGuid>
+      <value>//div[2]/div/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>55b639a6-79b7-4b37-bde1-2a2d7f3f1a4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = 'Kontrak Harga' or . = 'Kontrak Harga')]</value>
-      <webElementGuid>9013d6d9-4557-4369-a10c-67ef2493a912</webElementGuid>
+      <value>//button[@id = 'toggle-section-2' and (text() = 'Batal' or . = 'Batal')]</value>
+      <webElementGuid>7b2b3233-e54b-4e76-bc95-9121dfbb38ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

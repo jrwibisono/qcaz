@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Kontrak dan Penawaran</name>
+   <name>a_Order Entry</name>
    <tag></tag>
-   <elementGuidId>cd8160e7-2123-4d4c-9f53-48437aa24ba9</elementGuidId>
+   <elementGuidId>46c9cf27-7757-449d-83bb-b57cbd7f9c7f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#title-kontrak</value>
+         <value>#OEKHSidebarID > a.fs-12.ff-medium-az</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='title-kontrak']</value>
+         <value>//li[@id='OEKHSidebarID']/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2443e998-0461-486e-a4e7-987f86b4c125</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>title-kontrak</value>
-      <webElementGuid>c00d112b-c573-4013-a5e6-78a634ca1825</webElementGuid>
+      <webElementGuid>5a98f8cb-f803-426a-8918-18908186c134</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://qc.assetlogistik.com/kontrak-harga/</value>
-      <webElementGuid>4655f927-a895-4a1b-bf9c-da869907fbdb</webElementGuid>
+      <value>https://bf.azlogistik.id/order-entry?TipeOE=2&amp;isMenu=1</value>
+      <webElementGuid>eeadd835-a31e-4154-ae2e-2ef428017594</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,110 +38,102 @@
       <name>class</name>
       <type>Main</type>
       <value>fs-12 ff-medium-az</value>
-      <webElementGuid>5ea9a897-a589-463d-a5e9-86ac98c5016b</webElementGuid>
+      <webElementGuid>1a656fbe-eaae-4407-bb16-b7aeea181ff1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Kontrak dan Penawaran</value>
-      <webElementGuid>a8265b3b-819e-4e1b-a83f-1321bd360009</webElementGuid>
+      <value>Order Entry</value>
+      <webElementGuid>6532f85c-50c1-4f6a-9546-3c261f11870f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;title-kontrak&quot;)</value>
-      <webElementGuid>02285d8b-1cf0-40bc-aebb-9690473f8a48</webElementGuid>
+      <value>id(&quot;OEKHSidebarID&quot;)/a[@class=&quot;fs-12 ff-medium-az&quot;]</value>
+      <webElementGuid>64fdad2e-456b-498e-a01d-dd0ef5b4ee52</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//a[@id='title-kontrak']</value>
-      <webElementGuid>9112109d-b2e4-4908-8d9b-cb6e7dc6b496</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='KontrakPenawaran']/a</value>
-      <webElementGuid>4adcfd43-970b-4f79-a407-dc71896ab9c8</webElementGuid>
+      <value>//li[@id='OEKHSidebarID']/a</value>
+      <webElementGuid>11fbb849-4cb5-492d-ba9d-51f8442b7227</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Kontrak dan Penawaran')]</value>
-      <webElementGuid>d7e29687-22d7-4956-a8c9-352000d45383</webElementGuid>
+      <value>//a[contains(text(),'Order Entry')]</value>
+      <webElementGuid>58aa89ae-7407-4b29-af17-d7c6e3340d49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak Harga'])[1]/following::a[1]</value>
-      <webElementGuid>2404336f-4e72-4850-9c92-adcdba5299ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak dan Penawaran'])[1]/following::a[1]</value>
+      <webElementGuid>ccdf141f-7624-4fc7-9830-ff50c1a32a50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transporter'])[1]/following::a[2]</value>
-      <webElementGuid>c74d814b-0a2f-4dd3-9fb1-196b9401e8e7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak Harga'])[1]/following::a[2]</value>
+      <webElementGuid>47cdf8f8-e219-4587-b7f6-50d0ca03a5ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry KH'])[1]/preceding::a[1]</value>
-      <webElementGuid>08292c75-a089-4344-8f5c-b0bd124eb554</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tender'])[1]/preceding::a[1]</value>
+      <webElementGuid>819d5a74-f0a8-4c3c-9e39-3c5d898842c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Mitra'])[1]/preceding::a[2]</value>
-      <webElementGuid>f4fc015f-1477-4b43-aa3a-f00c8e83410c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Pra Tender'])[1]/preceding::a[2]</value>
+      <webElementGuid>2ac5ba02-150e-4f24-ab93-f9b39d71fbd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Kontrak dan Penawaran']/parent::*</value>
-      <webElementGuid>12fd9666-6967-472f-9688-b5b0ab5d5432</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Order Entry']/parent::*</value>
+      <webElementGuid>bef33cff-f685-4de2-b6b5-4757cb609641</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://qc.assetlogistik.com/kontrak-harga/')]</value>
-      <webElementGuid>a3d7cf43-ff37-46af-bd34-131459a6fd91</webElementGuid>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/order-entry?TipeOE=2&amp;isMenu=1')]</value>
+      <webElementGuid>4717745c-24a6-4375-8172-baaa130fbcbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ul/div/ul/li/a</value>
-      <webElementGuid>6e2e23cf-9876-45a7-be19-ac121fcc3eae</webElementGuid>
+      <value>//ul/div/ul/li[2]/a</value>
+      <webElementGuid>9868c93a-e558-44e8-84c8-c231035078a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'title-kontrak' and @href = 'https://qc.assetlogistik.com/kontrak-harga/' and (text() = 'Kontrak dan Penawaran' or . = 'Kontrak dan Penawaran')]</value>
-      <webElementGuid>c92f199c-8c41-4e1b-87a0-ca89ea13fc2a</webElementGuid>
+      <value>//a[@href = 'https://bf.azlogistik.id/order-entry?TipeOE=2&amp;isMenu=1' and (text() = 'Order Entry' or . = 'Order Entry')]</value>
+      <webElementGuid>c2f24088-4d79-4023-b536-bf02f05ab051</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -24,3 +24,7 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/Page_Big Fleets Main Dashboard  MuatMuat/a_Kontrak dan Penawaran'))
 
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/Page_Kontrak Harga  MuatMuat/div_Riwayat'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/Page_Kontrak Harga  MuatMuat/button_Selesai'))
+

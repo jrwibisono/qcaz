@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Kontrak Harga</name>
    <tag></tag>
-   <elementGuidId>2e33b67e-3a9f-4840-97ba-c8660bdca4b1</elementGuidId>
+   <elementGuidId>bc0d363d-87d2-432c-8b91-188a317002f1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#Contract > a</value>
+         <value>#Contract > div.d-flex.align-items-center > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//li[@id='Contract']/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b43bc8c4-ff7b-44e8-9d54-6020c33200ee</webElementGuid>
+      <webElementGuid>ff8cfcda-f9e4-487d-9bf8-ed75934888a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,23 +30,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Kontrak Harga</value>
-      <webElementGuid>4b80bf85-2c3e-4bfe-92a3-036abbbd3f07</webElementGuid>
+      <webElementGuid>8640c3be-b4ce-44b3-94eb-6e86bb740b24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;Contract&quot;)/a[1]</value>
-      <webElementGuid>f741332a-1cbd-43d6-94fe-8b1e83a7e843</webElementGuid>
+      <value>id(&quot;Contract&quot;)/div[@class=&quot;d-flex align-items-center&quot;]/a[1]</value>
+      <webElementGuid>088e4313-0fa8-42dc-9d05-27b2b9b188f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='Contract']/a</value>
-      <webElementGuid>ee488f33-782d-4b57-8a16-361ee2dd99b6</webElementGuid>
+      <value>//li[@id='Contract']/div[2]/a</value>
+      <webElementGuid>7516deae-d95f-4181-8f86-6b8e6e5f577a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,23 +54,23 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Kontrak Harga')]</value>
-      <webElementGuid>23f1951e-f476-4399-b67b-9c86fdf4b2dd</webElementGuid>
+      <webElementGuid>9d9ca831-763f-4abc-a977-19e7bb495bb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transporter'])[1]/following::a[1]</value>
-      <webElementGuid>06d5dcf0-fd64-4e0a-b8e1-5ea3c549d54d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Mitra dan Grup'])[1]/following::a[1]</value>
+      <webElementGuid>b35755e3-2e5d-4492-86b7-b103b784cbb6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription'])[1]/following::a[2]</value>
-      <webElementGuid>49ef2ba8-96ca-46b6-98b6-36bd46060f25</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transporter'])[1]/following::a[2]</value>
+      <webElementGuid>b21a0e70-2b2b-4092-a917-03cd840eabec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,15 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak dan Penawaran'])[1]/preceding::a[1]</value>
-      <webElementGuid>37daa0f3-d21d-48af-9564-ef800d0da650</webElementGuid>
+      <webElementGuid>05e7a631-caf9-4be3-99c6-cd31137a12a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry KH'])[1]/preceding::a[2]</value>
-      <webElementGuid>97fcd305-c065-4fa6-a709-d825f05efaca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry'])[1]/preceding::a[2]</value>
+      <webElementGuid>0fe43a16-fc38-4abb-b00c-d686ee71990f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,15 +94,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Kontrak Harga']/parent::*</value>
-      <webElementGuid>c7eff149-2353-4558-a90b-20a33cc5d470</webElementGuid>
+      <webElementGuid>7ed05cf4-426d-4556-9fc1-3a2eab3c0edd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/a</value>
-      <webElementGuid>a90b2044-fd6e-4b79-a0ff-ed7c56195361</webElementGuid>
+      <value>//li[5]/div[2]/a</value>
+      <webElementGuid>30e8c56e-4139-4f04-8790-97e575c34352</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = 'Kontrak Harga' or . = 'Kontrak Harga')]</value>
-      <webElementGuid>9013d6d9-4557-4369-a10c-67ef2493a912</webElementGuid>
+      <webElementGuid>0ba4ba8f-92ce-4026-af0b-acae38fb0f1f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Kontrak Harga</name>
+   <name>a_Manajemen Mitra dan Grup</name>
    <tag></tag>
-   <elementGuidId>2e33b67e-3a9f-4840-97ba-c8660bdca4b1</elementGuidId>
+   <elementGuidId>86eb2c64-304b-4d9d-a396-2debe67cb12b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#Contract > a</value>
+         <value>#ManajemenMitra > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//li[@id='ManajemenMitra']/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,39 +22,47 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b43bc8c4-ff7b-44e8-9d54-6020c33200ee</webElementGuid>
+      <webElementGuid>f6c9436b-76c2-4f09-abc4-35ae7d3acca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://bf.azlogistik.id/mitra/menuMitra</value>
+      <webElementGuid>1e1521fb-aa07-48b7-b843-300a815be205</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Kontrak Harga</value>
-      <webElementGuid>4b80bf85-2c3e-4bfe-92a3-036abbbd3f07</webElementGuid>
+      <value>Manajemen Mitra dan Grup</value>
+      <webElementGuid>eb2561c5-6614-4b8c-8970-604a6ad2b2af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;Contract&quot;)/a[1]</value>
-      <webElementGuid>f741332a-1cbd-43d6-94fe-8b1e83a7e843</webElementGuid>
+      <value>id(&quot;ManajemenMitra&quot;)/a[1]</value>
+      <webElementGuid>03619a26-0cbe-404d-b156-ddb83d1d97c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='Contract']/a</value>
-      <webElementGuid>ee488f33-782d-4b57-8a16-361ee2dd99b6</webElementGuid>
+      <value>//li[@id='ManajemenMitra']/a</value>
+      <webElementGuid>fc5337bc-5a0c-4763-a1d1-af654bed7cc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Kontrak Harga')]</value>
-      <webElementGuid>23f1951e-f476-4399-b67b-9c86fdf4b2dd</webElementGuid>
+      <value>//a[contains(text(),'Manajemen Mitra dan Grup')]</value>
+      <webElementGuid>521ecbea-de7b-4c39-99aa-c18fe1986c81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transporter'])[1]/following::a[1]</value>
-      <webElementGuid>06d5dcf0-fd64-4e0a-b8e1-5ea3c549d54d</webElementGuid>
+      <webElementGuid>f5001be1-2205-40c5-ae6c-247483600417</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,31 +78,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription'])[1]/following::a[2]</value>
-      <webElementGuid>49ef2ba8-96ca-46b6-98b6-36bd46060f25</webElementGuid>
+      <webElementGuid>bf9356f4-324f-4fd8-8d54-e77d317dcc93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak dan Penawaran'])[1]/preceding::a[1]</value>
-      <webElementGuid>37daa0f3-d21d-48af-9564-ef800d0da650</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak Harga'])[1]/preceding::a[1]</value>
+      <webElementGuid>1285bc42-31d7-4646-a7b4-6674ec105a30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry KH'])[1]/preceding::a[2]</value>
-      <webElementGuid>97fcd305-c065-4fa6-a709-d825f05efaca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak dan Penawaran'])[1]/preceding::a[2]</value>
+      <webElementGuid>3817f920-a317-4207-bde1-d2226f0a6a2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Kontrak Harga']/parent::*</value>
-      <webElementGuid>c7eff149-2353-4558-a90b-20a33cc5d470</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Manajemen Mitra dan Grup']/parent::*</value>
+      <webElementGuid>f8281d94-f0f3-4d9e-9574-b15e903ebe93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/mitra/menuMitra')]</value>
+      <webElementGuid>22ce516d-0b42-4b25-8519-46ed66ff62bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +118,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>a90b2044-fd6e-4b79-a0ff-ed7c56195361</webElementGuid>
+      <webElementGuid>ab02544d-8773-4487-b7b5-8203d4d0634d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = 'Kontrak Harga' or . = 'Kontrak Harga')]</value>
-      <webElementGuid>9013d6d9-4557-4369-a10c-67ef2493a912</webElementGuid>
+      <value>//a[@href = 'https://bf.azlogistik.id/mitra/menuMitra' and (text() = 'Manajemen Mitra dan Grup' or . = 'Manajemen Mitra dan Grup')]</value>
+      <webElementGuid>55471e76-f0c7-435a-a9ca-70ca57873cce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
