@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ST01_T003_BuatInfoPraTender_Volume_L</name>
+   <name>Test_IPT_ProsesTender</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0d2b3f1f-ba14-48fd-a8a0-77ee241debce</testCaseGuid>
+   <testCaseGuid>f37f6f14-a836-411c-ba2e-217f50546649</testCaseGuid>
 </TestCaseEntity>
