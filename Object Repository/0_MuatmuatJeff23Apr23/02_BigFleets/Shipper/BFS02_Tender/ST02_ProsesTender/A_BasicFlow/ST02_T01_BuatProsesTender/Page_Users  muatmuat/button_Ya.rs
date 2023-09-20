@@ -6,12 +6,12 @@
    <elementGuidId>def49109-b0a5-497a-bc69-a0eb60880868</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[10]</value>
+         <key>CSS</key>
+         <value>#modalConfirmPratenderOverride > div.modal-dialog.modal-dialog-centered.justify-content-center > div.modal-content > div.modal-body > div.d-flex.justify-content-center > button.btn-outline-blue.tombol-putih.btn-fix.ff-demi.yes-confirm-finished.btn-check-click.yes-btn</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-outline-primary.btn-fix.ff-demi.yes-confirm-back.btn-aktif-click</value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[21]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>14c9ea4c-6242-43fb-a67c-84d8d635888c</webElementGuid>
+      <webElementGuid>24353a6e-5289-4d72-adb4-e9ce5463b29f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b759c91f-282c-4edd-ba4c-cd8fa3e664d2</webElementGuid>
+      <webElementGuid>ecb5cd23-4051-42b2-b2bb-450354ddf7e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>modal</value>
-      <webElementGuid>cf89105d-c339-4b93-bfda-c64d8684ede2</webElementGuid>
+      <webElementGuid>884c58c4-4cbe-4127-9036-114886428cb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,8 +53,8 @@
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-outline-primary btn-fix ff-demi yes-confirm-back btn-aktif-click</value>
-      <webElementGuid>6b31d5ee-f6ac-4a6a-9eb1-1654a85a24c6</webElementGuid>
+      <value>btn-outline-blue tombol-putih btn-fix ff-demi yes-confirm-finished btn-check-click yes-btn</value>
+      <webElementGuid>60ea498f-b0ae-43a2-9eb9-27e765b8e428</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,18 +70,82 @@
       <name>text</name>
       <type>Main</type>
       <value>Ya</value>
-      <webElementGuid>93ff175a-e69e-4038-b1e2-9d9bd08e7f24</webElementGuid>
+      <webElementGuid>0da4c836-15de-488b-b31e-c932a4cc47b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modalconfirmback&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered modal-md&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body modal-confirm-body text-center&quot;]/div[@class=&quot;d-flex justify-content-center modal-confirm-btn&quot;]/button[@class=&quot;btn btn-outline-primary btn-fix ff-demi yes-confirm-back btn-aktif-click&quot;]</value>
-      <webElementGuid>6806e108-f83b-4d66-9868-be72a451811b</webElementGuid>
+      <value>id(&quot;modalConfirmPratenderOverride&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered justify-content-center&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;d-flex justify-content-center&quot;]/button[@class=&quot;btn-outline-blue tombol-putih btn-fix ff-demi yes-confirm-finished btn-check-click yes-btn&quot;]</value>
+      <webElementGuid>194217e5-ef29-4842-9219-b875bd74eedc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[21]</value>
+      <webElementGuid>093ad9b2-4e92-464a-b923-684dbac1c7b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modalConfirmPratenderOverride']/div/div/div[2]/div[2]/button[2]</value>
+      <webElementGuid>65a65cb5-d05c-4e2b-92ff-82ad959ca31d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[3]/following::button[1]</value>
+      <webElementGuid>13a36531-7685-4090-a0d8-e93481781a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah anda yakin pilih info pratender ini? Data akan terisi dari nomor pratender yg dipilih'])[1]/following::button[2]</value>
+      <webElementGuid>869f5c83-dcc9-4372-8eb6-5391bcac3306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahapan yang akan Anda lalui dalam Proses Tender'])[1]/preceding::button[1]</value>
+      <webElementGuid>92e6d1f8-d4ef-4c0e-916e-70151d358ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Pra Tender'])[1]/preceding::button[1]</value>
+      <webElementGuid>21c3dc33-2561-401f-a96a-0da95219576c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/div[2]/div[2]/button[2]</value>
+      <webElementGuid>bdc50d09-c9c9-42bb-a40e-a025d7013a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Ya' or . = 'Ya')]</value>
+      <webElementGuid>99e039aa-d0eb-434f-9b57-9e070d3e0644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -143,13 +207,5 @@
       <type>Main</type>
       <value>//div[2]/button[2]</value>
       <webElementGuid>1c70b662-15da-4293-b2a1-6ed118f6959f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Ya' or . = 'Ya')]</value>
-      <webElementGuid>bb8031d2-cc38-4b32-aa61-3f7aee765872</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

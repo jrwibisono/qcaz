@@ -6,12 +6,12 @@
    <elementGuidId>70b2d838-26a1-458d-8044-e596141f9ce5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='form-submit']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#form-submit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='form-submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>efe72a5e-de66-4b0b-8427-d32a9cd0d029</webElementGuid>
+      <webElementGuid>678bd0f3-b606-45a4-ac02-faeab081ac81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5ae7baf5-b7d7-4af1-b930-dd2da715a8c7</webElementGuid>
+      <webElementGuid>09523871-5370-47e0-9ff3-f59ffc6cc0b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>form-submit</value>
-      <webElementGuid>77f30062-2b99-40ab-87f3-a62bad1bb116</webElementGuid>
+      <webElementGuid>189e9323-ee64-4638-be86-7596d96b4d36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn upload-btn btn-fi btn-flex</value>
-      <webElementGuid>3ce718af-38de-4335-92a2-8bb99378a2f0</webElementGuid>
+      <webElementGuid>c0461d74-c3a6-45a0-bd6c-46a3589f928d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Buat</value>
-      <webElementGuid>379d20d3-417e-4c75-b77c-b54b0109d4f3</webElementGuid>
+      <webElementGuid>2256525d-5730-4e0c-9a13-4c8056deba3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form-submit&quot;)</value>
-      <webElementGuid>56997455-193d-49c6-b268-b8905b4ff1e5</webElementGuid>
+      <webElementGuid>bb48e6e8-b752-4e2e-b973-4336de862781</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='form-submit']</value>
-      <webElementGuid>a2fe7b71-80bb-4fcf-9764-127e6a9e8a52</webElementGuid>
+      <webElementGuid>8be503dc-0af4-4e80-841d-c3008415a7e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-frontend']/div/div[5]/div/button</value>
-      <webElementGuid>1c38b31a-bfa4-4566-80ed-977fe24b6d7e</webElementGuid>
+      <webElementGuid>06433990-8978-4a53-b6f2-9f043330118e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan :'])[1]/following::button[1]</value>
-      <webElementGuid>dbbb02f6-0a6a-4a60-a2d7-1aa6f38f398a</webElementGuid>
+      <webElementGuid>efb5face-aecf-4dcf-93e4-2f475efae073</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[2]/following::button[1]</value>
-      <webElementGuid>31eea39f-d0f7-4264-8924-d56fa9e10085</webElementGuid>
+      <webElementGuid>c3424710-3005-4fd1-be11-207642d3ef4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi Destinasi / Bongkar'])[1]/preceding::button[2]</value>
-      <webElementGuid>54cd5480-52b4-4802-9286-646711569d7a</webElementGuid>
+      <webElementGuid>566e9b82-57a6-44ca-9afa-9d65846a1358</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi Pick Up / Muat'])[1]/preceding::button[3]</value>
-      <webElementGuid>712d6910-3e44-473d-9e94-65e9dfdef73f</webElementGuid>
+      <webElementGuid>34dd3f54-3b1b-42cf-b1ee-88d8c7f7e534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Buat']/parent::*</value>
-      <webElementGuid>b1e1b298-ea16-4cce-a50a-3ca644a38097</webElementGuid>
+      <webElementGuid>0ab05a6e-74b7-46af-9b71-c4c30f3636e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/button</value>
-      <webElementGuid>357bc50d-a5c4-4007-93d5-c65c77577e2d</webElementGuid>
+      <webElementGuid>83eb6eaa-9330-4487-909a-22c821e76620</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'form-submit' and (text() = 'Buat' or . = 'Buat')]</value>
-      <webElementGuid>58ff6e64-8952-4478-8b6f-d9cd1accb598</webElementGuid>
+      <webElementGuid>94aa12f6-e3b2-4ad1-b6f2-8c926da4e136</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

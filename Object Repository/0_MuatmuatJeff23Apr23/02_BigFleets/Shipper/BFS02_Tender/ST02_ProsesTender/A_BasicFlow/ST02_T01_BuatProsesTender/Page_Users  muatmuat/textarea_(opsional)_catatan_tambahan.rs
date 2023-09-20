@@ -6,12 +6,12 @@
    <elementGuidId>1a0442d9-d448-4fcd-8493-a317d67c2318</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//textarea[@name='catatan_tambahan']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>textarea[name=&quot;catatan_tambahan&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='catatan_tambahan']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>8d256c7e-082d-4313-9193-884965266bda</webElementGuid>
+      <webElementGuid>59e48e8d-e8d7-4345-9492-c73fd3a66e43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>catatan_tambahan</value>
-      <webElementGuid>68e8971c-a785-4021-ae1a-b3d9f9cd4cb6</webElementGuid>
+      <webElementGuid>8249ab8b-182d-4383-870d-7b9c956d5cff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>textarea-pratender ff-demi fs-12 fc-1B</value>
-      <webElementGuid>d78d8874-bc2a-46ea-9559-1cd539c27be1</webElementGuid>
+      <webElementGuid>84503620-9f81-44d2-a051-6df545d21e62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan peringatan penting untuk diperhatikan oleh peserta tender Contoh : Pengumpulan persyaratan tender melalui email tender@semenindo.com</value>
-      <webElementGuid>e29fad90-d86e-4724-99ae-059c38869f5c</webElementGuid>
+      <webElementGuid>a2bcaa32-c5dc-462b-9652-e5e6d384bef0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form-frontend&quot;)/div[@class=&quot;container px-0&quot;]/div[@class=&quot;card card-pratender mt-24&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row row-pratender&quot;]/div[@class=&quot;col text-label&quot;]/textarea[@class=&quot;textarea-pratender ff-demi fs-12 fc-1B&quot;]</value>
-      <webElementGuid>14392e9c-b3fd-406f-8435-5441a31543df</webElementGuid>
+      <webElementGuid>76070b1c-9c47-44ed-8fc4-9a2415efd936</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@name='catatan_tambahan']</value>
-      <webElementGuid>17d62781-d9b5-425c-8781-d89dbccddca0</webElementGuid>
+      <webElementGuid>92f6364e-6137-4110-9f85-f2c6585df783</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-frontend']/div/div[4]/div/div[2]/div[2]/textarea</value>
-      <webElementGuid>91942ab9-026f-453a-abc0-136ecdb5293e</webElementGuid>
+      <webElementGuid>f2ef64e8-f156-43d1-a1fe-5337eea9beb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/textarea</value>
-      <webElementGuid>09fefa2e-8170-40fb-8edf-b8fa8354b837</webElementGuid>
+      <webElementGuid>ccea75d5-e5f6-419b-bf34-557dab9c8f19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@name = 'catatan_tambahan' and @placeholder = 'Masukkan peringatan penting untuk diperhatikan oleh peserta tender Contoh : Pengumpulan persyaratan tender melalui email tender@semenindo.com']</value>
-      <webElementGuid>9059cc7a-5b39-4734-963f-fea5e3acb340</webElementGuid>
+      <webElementGuid>a1e49a2d-3ea0-4409-ac7e-5ccd690ce475</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
