@@ -54,24 +54,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>25374896-9c71-4fd8-8b27-a92660cf90ca</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS_ManajemenMitradanGrup/SMMG01_Mitra/SM02_ListGrup/A_BasicFlow/SM02_G002_Part00_FormTambahGrup</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>fdabf2a2-eefd-42ad-8cc2-2fd12021083b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/SKH01_KH000_Part00_ListBuatKontrakBaru</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>1a5e7eae-0cf0-4703-aa90-4c47858dd6e3</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/SKH01_KH001_Part00_BuatKontrakBaru</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -100,6 +86,34 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH01_KontrakHarga/A_BasicFlow/SKH01_KH01_BuatKontrakBaru/SKH01_KH005_Part00_ListRiwayatSelesai</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c009ba1c-f1cc-493c-81f0-3247cd4a7ac8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH02_OEKontrakHarga/A_BasicFlow/TKH02_OEKH01_ListOEKHTransporter/TKH02_OEKH002_Part00_ListDalamProses</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>599dcd78-5c5e-45f7-8b4f-baf61c2b9bff</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH02_OEKontrakHarga/A_BasicFlow/TKH02_OEKH01_ListOEKHTransporter/TKH02_OEKH001_Part00_ListInputDataKonfirmasiOE</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ce1dfce0-ac5f-44ae-a12c-a58d6e200769</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH02_OEKontrakHarga/A_BasicFlow/TKH02_OEKH01_ListOEKHTransporter/TKH02_OEKH003_Part00_ListRiwayatSelesai</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b0470afe-21f8-4d51-82df-ef2c353c1edf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH02_OEKontrakHarga/A_BasicFlow/TKH02_OEKH01_ListOEKHTransporter/TKH02_OEKH004_Part00_ListRiwayatBatal</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

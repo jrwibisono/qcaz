@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Kontrak dan Penawaran</name>
+   <name>a_Info Permintaan Muat</name>
    <tag></tag>
-   <elementGuidId>4fce543d-8de3-4aba-8ac0-6bcc6ab7982f</elementGuidId>
+   <elementGuidId>31da607a-5537-4189-8792-bfe426ea5f2e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;title-kontrak&quot;]</value>
+         <key>CSS</key>
+         <value>#InfoPermintaanMuat</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#title-kontrak</value>
+         <key>XPATH</key>
+         <value>//a[@id='InfoPermintaanMuat']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,126 +22,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>bd506ac2-1e34-40f9-ab41-f28892ab5cf1</webElementGuid>
+      <webElementGuid>25f54bff-2081-44f8-bd65-72be104c2fef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>title-kontrak</value>
-      <webElementGuid>a961bdb9-530d-4abb-b0bd-d41547253dc7</webElementGuid>
+      <value>InfoPermintaanMuat</value>
+      <webElementGuid>9539f7fc-a413-4a46-ab93-5b62f10d57d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://qc.assetlogistik.com/kontrak-harga/</value>
-      <webElementGuid>483fdff6-5a00-45d1-8628-caa58ce2d155</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>fs-12 ff-medium-az</value>
-      <webElementGuid>f3e5d424-70c0-4a6a-9527-715d050ee982</webElementGuid>
+      <value>https://bf.azlogistik.id/bigfleets/permintaanMuatAktifGrid</value>
+      <webElementGuid>434c359e-a2c7-40f9-ac0e-3dd104fe6f02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Kontrak dan Penawaran</value>
-      <webElementGuid>6dd4b0c5-e24c-4506-874b-64e2a345589b</webElementGuid>
+      <value>Info Permintaan Muat</value>
+      <webElementGuid>528b82f2-1dbb-49cd-837a-1558064e0c70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;title-kontrak&quot;)</value>
-      <webElementGuid>8e008893-e8ee-4da9-bd60-88d8c54e8eab</webElementGuid>
+      <value>id(&quot;InfoPermintaanMuat&quot;)</value>
+      <webElementGuid>9c31d2a1-30a4-4699-a5c7-5f2e920502d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='title-kontrak']</value>
-      <webElementGuid>7f499fdf-bbe5-4aab-a9b4-676ac77f6b1a</webElementGuid>
+      <value>//a[@id='InfoPermintaanMuat']</value>
+      <webElementGuid>74911693-d2b8-42fa-9ed8-f4ba9a00f0ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='KontrakPenawaran']/a</value>
-      <webElementGuid>5cf7ab41-7289-4b06-bed2-bad6d721247a</webElementGuid>
+      <value>//li[@id='InfoPermintaanMuatSidebar']/a</value>
+      <webElementGuid>8f428aeb-9b2f-4f3c-85f3-df16c14bf6a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Kontrak dan Penawaran')]</value>
-      <webElementGuid>1ef38d0e-4cb5-4e3b-8f61-1a1bb870894b</webElementGuid>
+      <value>//a[contains(text(),'Info Permintaan Muat')]</value>
+      <webElementGuid>21177b8b-8c00-4ae3-b673-41e8f3b55cab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak Harga'])[1]/following::a[1]</value>
-      <webElementGuid>4c9eb0a5-5767-434a-9dc5-409b8348d130</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(12)'])[1]/following::a[1]</value>
+      <webElementGuid>915ad821-edd0-4001-8115-b310a8e0ed41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Mitra'])[1]/following::a[2]</value>
-      <webElementGuid>d85512a8-3dd0-4461-b632-8aea841677d7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi Truk Siap Muat'])[1]/following::a[1]</value>
+      <webElementGuid>76a14834-b357-4413-8fa8-c4ed05672145</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry KH'])[1]/preceding::a[1]</value>
-      <webElementGuid>d21ae507-e18e-4328-9f30-f3849c53635e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(3)'])[2]/preceding::a[1]</value>
+      <webElementGuid>2c3c96a0-ea87-403e-8e18-d5ba4e55d571</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Kontrak dan Penawaran']/parent::*</value>
-      <webElementGuid>88301310-93ff-469e-8ee5-282bf304c9da</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry'])[3]/preceding::a[1]</value>
+      <webElementGuid>25e0438c-8328-4632-a341-4295b4ac4df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Info Permintaan Muat']/parent::*</value>
+      <webElementGuid>14e0fa89-ada3-4edd-bf77-cc90fff299d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://qc.assetlogistik.com/kontrak-harga/')]</value>
-      <webElementGuid>46e17e82-959b-4631-829f-cdf515001379</webElementGuid>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/bigfleets/permintaanMuatAktifGrid')]</value>
+      <webElementGuid>c972f75a-4c6e-4739-8212-32e01d9d34c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ul/div/ul/li/a</value>
-      <webElementGuid>d270dfcf-cfa9-4730-b2b5-73ffb0035a58</webElementGuid>
+      <value>//div[3]/ul/li[2]/a</value>
+      <webElementGuid>b058359d-f7fc-4c68-8d23-828b98ef2623</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'title-kontrak' and @href = 'https://qc.assetlogistik.com/kontrak-harga/' and (text() = 'Kontrak dan Penawaran' or . = 'Kontrak dan Penawaran')]</value>
-      <webElementGuid>5c6e34a6-dbcb-474d-8967-c320b48fbdc3</webElementGuid>
+      <value>//a[@id = 'InfoPermintaanMuat' and @href = 'https://bf.azlogistik.id/bigfleets/permintaanMuatAktifGrid' and (text() = 'Info Permintaan Muat' or . = 'Info Permintaan Muat')]</value>
+      <webElementGuid>c010fdf8-a415-498c-a9e6-f69f8b46c386</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Kontrak dan Penawaran</name>
+   <name>div_Riwayat</name>
    <tag></tag>
-   <elementGuidId>4fce543d-8de3-4aba-8ac0-6bcc6ab7982f</elementGuidId>
+   <elementGuidId>bf9affc0-3fd1-4910-a0f8-ea7a8575fcdb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;title-kontrak&quot;]</value>
+         <key>CSS</key>
+         <value>#history-header</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#title-kontrak</value>
+         <key>XPATH</key>
+         <value>//div[@id='history-header']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,127 +21,128 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>bd506ac2-1e34-40f9-ab41-f28892ab5cf1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>title-kontrak</value>
-      <webElementGuid>a961bdb9-530d-4abb-b0bd-d41547253dc7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>https://qc.assetlogistik.com/kontrak-harga/</value>
-      <webElementGuid>483fdff6-5a00-45d1-8628-caa58ce2d155</webElementGuid>
+      <value>div</value>
+      <webElementGuid>176e16d7-0ec6-4d76-9106-0141ae4eaced</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>fs-12 ff-medium-az</value>
-      <webElementGuid>f3e5d424-70c0-4a6a-9527-715d050ee982</webElementGuid>
+      <value>col-md-3 tab-folder tab-folder-kontrak-harga history-menu-header tab-folder-inactive</value>
+      <webElementGuid>a96fa43e-8eb5-46fd-b3d1-4003cdf0fbe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>history-header</value>
+      <webElementGuid>a8dc8941-6193-48b8-b290-1399d62ca8f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>474f8537-5d77-4699-bcf4-1c52a5f2cd56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Kontrak dan Penawaran</value>
-      <webElementGuid>6dd4b0c5-e24c-4506-874b-64e2a345589b</webElementGuid>
+      <value>
+								Riwayat
+								
+							</value>
+      <webElementGuid>608b73f3-17d1-4782-b339-c6fc40cc0fb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;title-kontrak&quot;)</value>
-      <webElementGuid>8e008893-e8ee-4da9-bd60-88d8c54e8eab</webElementGuid>
+      <value>id(&quot;history-header&quot;)</value>
+      <webElementGuid>78a85ff1-9368-4968-af68-9660c970bd00</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//a[@id='title-kontrak']</value>
-      <webElementGuid>7f499fdf-bbe5-4aab-a9b4-676ac77f6b1a</webElementGuid>
+      <value>//div[@id='history-header']</value>
+      <webElementGuid>8b6c8b5e-cbfe-4501-9690-091ab83eb086</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='KontrakPenawaran']/a</value>
-      <webElementGuid>5cf7ab41-7289-4b06-bed2-bad6d721247a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Kontrak dan Penawaran')]</value>
-      <webElementGuid>1ef38d0e-4cb5-4e3b-8f61-1a1bb870894b</webElementGuid>
+      <value>//div[@id='summary-header']/div[4]</value>
+      <webElementGuid>d57e3670-85ac-4c9b-84af-f91bdf55cacd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak Harga'])[1]/following::a[1]</value>
-      <webElementGuid>4c9eb0a5-5767-434a-9dc5-409b8348d130</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu Konfirmasi Shipper'])[1]/following::div[1]</value>
+      <webElementGuid>c59a5eff-92b1-4192-9466-41f19e511259</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Mitra'])[1]/following::a[2]</value>
-      <webElementGuid>d85512a8-3dd0-4461-b632-8aea841677d7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu Konfirmasi Anda'])[1]/following::div[3]</value>
+      <webElementGuid>b73fb5c5-1da7-447f-b8b5-b85bd1503932</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry KH'])[1]/preceding::a[1]</value>
-      <webElementGuid>d21ae507-e18e-4328-9f30-f3849c53635e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan Jumlah Detail'])[1]/preceding::div[3]</value>
+      <webElementGuid>ddb4339f-197b-48d3-9e52-c7c1f44402b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Kontrak dan Penawaran']/parent::*</value>
-      <webElementGuid>88301310-93ff-469e-8ee5-282bf304c9da</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak dan Penawaran'])[3]/preceding::div[9]</value>
+      <webElementGuid>43e4d5b0-d0d4-4837-87cf-9a5702ed5b1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://qc.assetlogistik.com/kontrak-harga/')]</value>
-      <webElementGuid>46e17e82-959b-4631-829f-cdf515001379</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Riwayat']/parent::*</value>
+      <webElementGuid>8980b153-098d-43d4-b90c-c3e907249a8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//ul/div/ul/li/a</value>
-      <webElementGuid>d270dfcf-cfa9-4730-b2b5-73ffb0035a58</webElementGuid>
+      <value>//div[2]/div/div/div/div/div[4]</value>
+      <webElementGuid>a303d733-fc93-4bfc-a9eb-522c11e775ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'title-kontrak' and @href = 'https://qc.assetlogistik.com/kontrak-harga/' and (text() = 'Kontrak dan Penawaran' or . = 'Kontrak dan Penawaran')]</value>
-      <webElementGuid>5c6e34a6-dbcb-474d-8967-c320b48fbdc3</webElementGuid>
+      <value>//div[@id = 'history-header' and (text() = '
+								Riwayat
+								
+							' or . = '
+								Riwayat
+								
+							')]</value>
+      <webElementGuid>4f2b0d1a-0222-4453-88e6-1f2f9b52fee6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
