@@ -17,12 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L003_LoginBFShipper'), 
-    [:], FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH02_OEKontrakHarga/Page_Big Fleets Main Dashboard  MuatMuat/a_Kontrak Harga'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH02_OEKontrakHarga/Page_Big Fleets Main Dashboard  MuatMuat/a_Order Entry'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH02_OEKontrakHarga/Page_Order Entry  MuatMuat/div_Dalam Proses'))
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH02_OEKontrakHarga/Page_Order Entry  MuatMuat/img'))
 
