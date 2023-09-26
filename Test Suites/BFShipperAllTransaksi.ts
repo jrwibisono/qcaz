@@ -123,4 +123,11 @@
       <testCaseId>Test Cases/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH02_OEKontrakHarga/A_BasicFlow/SKH02_OEKH01_OEKontrakHarga/SKH02_OEKH005_Part00_ListRiwayatBatal</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>48556f07-d694-41d9-b7ac-2a6be61b0557</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/ST01_T000_Part00_List_BuatInfoPraTender</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
