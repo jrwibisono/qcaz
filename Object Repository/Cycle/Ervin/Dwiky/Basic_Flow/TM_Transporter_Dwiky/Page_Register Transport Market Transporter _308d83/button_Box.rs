@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Box</name>
+   <tag></tag>
+   <elementGuidId>0da2959f-d657-4774-8351-af4f915800a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[22]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selectHeadCarrier0 > button.justify-content-between.ff-demi-az.tombol-disable-outline-az-2.d-flex.dropdown-toggle.dropdown-select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>800f70d4-5037-4a38-91e3-e6d93c836bfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e5237ef9-129a-44f2-9d58-f3c7dafae2c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>justify-content-between ff-demi-az tombol-disable-outline-az-2 d-flex dropdown-toggle dropdown-select</value>
+      <webElementGuid>b9bc3326-2934-45ae-935e-71837c8d5003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>50a1cef9-e143-476e-a9b6-c577c54a315b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>81922bc5-a73f-45d0-8c52-6f478d05be44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>29b582dc-533e-4e33-ab25-f2178ca0b9cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Box 
+                    
+                </value>
+      <webElementGuid>b7a9fa97-4ea7-4738-8914-5e372a9335a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selectHeadCarrier0&quot;)/button[@class=&quot;justify-content-between ff-demi-az tombol-disable-outline-az-2 d-flex dropdown-toggle dropdown-select&quot;]</value>
+      <webElementGuid>6e1a2007-5188-4e05-b4e2-a3e3c7ba6e7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[22]</value>
+      <webElementGuid>884ca750-50c1-4969-9048-5ce35f7f00c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='selectHeadCarrier0']/button</value>
+      <webElementGuid>3f25e74e-3d4d-4731-a4bd-12e434781361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tractor Head 4x2'])[1]/following::button[1]</value>
+      <webElementGuid>4293b735-1404-4186-b600-65b5215a1c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medium Truck 4 x 2 + Gandengan'])[1]/following::button[1]</value>
+      <webElementGuid>10cb50f8-2ba3-4a55-9a9f-99feedaff2b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bak / Dump'])[1]/preceding::button[1]</value>
+      <webElementGuid>c7c458bc-470c-424d-8ce4-40968f6786d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[2]/button</value>
+      <webElementGuid>c6e9e379-1a2b-44d4-b157-ee83af6e61e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                    Box 
+                    
+                ' or . = '
+                    Box 
+                    
+                ')]</value>
+      <webElementGuid>8b54d1e6-7e66-4d48-b645-0e6884eead4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

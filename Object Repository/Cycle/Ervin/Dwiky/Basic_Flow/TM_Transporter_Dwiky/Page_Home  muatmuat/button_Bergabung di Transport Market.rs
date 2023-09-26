@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Bergabung di Transport Market</name>
+   <tag></tag>
+   <elementGuidId>41f4a837-82e5-4e9d-95e1-6257bfd109e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnJoinTM']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnJoinTM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c3537f87-36c5-48f0-8b1b-e3c82e6abbee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1d163ffd-2242-4e12-ac49-5f12f24248c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnJoinTM</value>
+      <webElementGuid>f67a7830-0d9b-4768-b90c-de83349fc723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tombol-primary-outline-az tombol-confirmationyesno-modal mx-0</value>
+      <webElementGuid>c8f4649a-61a4-43c3-b477-30e941ac5ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                         Bergabung di Transport Market
+                        </value>
+      <webElementGuid>7fc2d0ec-e622-4c83-af31-e009f1ae5d00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnJoinTM&quot;)</value>
+      <webElementGuid>063be9d3-4bfa-4816-99e6-f6762763d50f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnJoinTM']</value>
+      <webElementGuid>72429b4a-6b47-4304-8f17-098078d60bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ModalUser0']/div/div/div[2]/div[5]/div[2]/button</value>
+      <webElementGuid>3e07e6b2-28f6-4cca-a1da-2852acf40a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bergabung di Big Fleets'])[1]/following::button[1]</value>
+      <webElementGuid>6e608081-8e22-48ee-989f-144331c7fb4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang!'])[1]/following::button[2]</value>
+      <webElementGuid>1c044cfb-43ab-46c2-99aa-f83b73baff42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*S&amp;K : Berlaku pada periode daftar sampai dengan 30 Jun 2024'])[1]/preceding::button[1]</value>
+      <webElementGuid>d16c4a95-ca2e-46c8-9fdb-e5ca317bb652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bergabung di Transport Market']/parent::*</value>
+      <webElementGuid>906b1704-16fc-4c69-8ecf-a193480d4f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/button</value>
+      <webElementGuid>e0078bef-6154-4d0e-b0bd-ecd65714c2eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'btnJoinTM' and (text() = '
+                         Bergabung di Transport Market
+                        ' or . = '
+                         Bergabung di Transport Market
+                        ')]</value>
+      <webElementGuid>7ba15a36-f65d-4b78-b45a-0cd3de588b50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

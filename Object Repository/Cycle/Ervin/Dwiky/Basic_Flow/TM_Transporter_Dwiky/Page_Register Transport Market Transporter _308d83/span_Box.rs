@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Box</name>
+   <tag></tag>
+   <elementGuidId>e21f48e8-f955-477e-a1f6-7be3ce1a6ce1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jenis-carrier-dropdown-0']/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>60e2374a-598a-4161-9231-b7a3595d1f59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-medium-az fs-12-az</value>
+      <webElementGuid>7b9ecbf9-88d7-4495-b092-01b31ce16260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Box</value>
+      <webElementGuid>89af7769-9939-4bd7-98b2-9cf3a2cb575f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jenis-carrier-dropdown-0&quot;)/div[@class=&quot;d-flex dropdown-item dropdown-item-jenis-carrier align-items-center&quot;]/span[@class=&quot;ff-medium-az fs-12-az&quot;]</value>
+      <webElementGuid>5d37901d-c88a-4961-8f84-56d40b28f3d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jenis-carrier-dropdown-0']/div[3]/span</value>
+      <webElementGuid>6541e624-557e-4ea8-a3a5-06d9f5d43bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bak Terbuka'])[1]/following::span[1]</value>
+      <webElementGuid>777db6e2-7b9f-41fa-8b2f-b3511e1b9b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bak / Dump'])[1]/following::span[2]</value>
+      <webElementGuid>5c36140f-ff83-4ebe-aeed-032b0e1151a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curtain'])[1]/preceding::span[1]</value>
+      <webElementGuid>b844eac2-b0f7-4c5e-ac68-e7f62381de01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dropside'])[1]/preceding::span[2]</value>
+      <webElementGuid>5820bba8-6df7-4fd4-bf8e-3f54391aed89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Box']/parent::*</value>
+      <webElementGuid>1142ca8f-88a2-434d-a904-bb1c65e8ddbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[3]/span</value>
+      <webElementGuid>b7941663-7f9b-4d22-a12c-3927fe1b7bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Box' or . = 'Box')]</value>
+      <webElementGuid>929835f5-f020-43d8-b4d2-d9757c8beb69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
