@@ -6,12 +6,12 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'D:\\Katalon muatmuat\\Apk\\muatmuatRC_0926202301.apk'</initValue>
+      <initValue>'D:\\Work\\AZlogistik\\Project\\Katalon\\Apk\\muatmuatTransporterRC_0926202301.apk'</initValue>
       <name>Apk</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'monyet@yopmail.com'</initValue>
+      <initValue>'085086087006'</initValue>
       <name>EmailOrWhatsapp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
