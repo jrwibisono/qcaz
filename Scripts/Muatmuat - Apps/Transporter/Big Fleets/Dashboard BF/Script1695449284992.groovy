@@ -19,12 +19,12 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Transporter/Login'), [:])
 
-if (findTestObject('Object Repository/Muatmuat - Apps/Transporter/Login/Radio Button Survey')) {
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Login/Radio Button Survey'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Login/Radio Button Survey'), 0)
+	
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Login/Button Submit Survey'), 0)
+	
 	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Dashboard BF/Menu Big Fleets'), 0)
 } else {
-	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Login/Radio Button Survey'), 0)
-
-	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Login/Button Submit Survey'), 0)
-
 	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Dashboard BF/Menu Big Fleets'), 0)
 }

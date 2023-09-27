@@ -21,7 +21,9 @@ Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Big Fleets/
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Transporter/Menu Transporter'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Transporter/Button Mengerti'), 0)
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Transporter/Button Mengerti'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Transporter/Button Mengerti'), 0)
+}
 
 //Mobile.closeApplication()
 

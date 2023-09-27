@@ -6,17 +6,22 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'D:\\Katalon muatmuat\\Apk\\muatmuatTransporterRC_0921202302.apk'</initValue>
+      <initValue>'D:\\Katalon muatmuat\\Apk\\muatmuatRC_2309202301.apk'</initValue>
       <name>Apk</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'085086087006'</initValue>
+      <initValue>'085086087001'</initValue>
       <name>EmailOrWhatsapp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'Az12345678'</initValue>
       <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>Timeout</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

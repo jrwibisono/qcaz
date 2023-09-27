@@ -23,6 +23,8 @@ Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/LTSM/Menu LTSM'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/LTSM/Button Lewati'), 0)
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/LTSM/Button Lewati'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/LTSM/Button Lewati'), 0)
+}
 
 //Mobile.closeApplication()
