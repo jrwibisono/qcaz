@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Salin Iklan</name>
+   <tag></tag>
+   <elementGuidId>0228af3a-87ca-4d8b-837f-5a2292064045</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ff-medium.lh-normal.fs-12.SalinIklan.fc-1b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif'])[2]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c5180180-1219-4076-a2a7-97f3147c54a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-medium lh-normal fs-12 SalinIklan  fc-1b</value>
+      <webElementGuid>c95e1b17-ac94-4721-8d7e-0363f8bc42f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-subkat-id</name>
+      <type>Main</type>
+      <value>21</value>
+      <webElementGuid>d101160d-daff-461a-b9eb-ff4caaebe206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-feformparentid</name>
+      <type>Main</type>
+      <value>121</value>
+      <webElementGuid>d11be65e-5498-4f06-84fd-beef365e3102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menuid</name>
+      <type>Main</type>
+      <value>688</value>
+      <webElementGuid>5f6f7d19-2d8d-4f2f-a98b-4acdc809a180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Salin Iklan</value>
+      <webElementGuid>30dbacb0-295d-4a09-a2a0-dd25cd8d5486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;bg-menu-big&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;p-34-32 w-100 big-parent&quot;]/div[@class=&quot;bg-white bdr-12 w-100 p-16-16 mt-24&quot;]/div[6]/div[@class=&quot;isi-paket-card-parent&quot;]/div[@class=&quot;mt-16 isi-paket-card d-flex flex-row&quot;]/div[@class=&quot;card-kanan bdr-86 bdr-12 w-100&quot;]/div[@class=&quot;w-100 d-flex justify-content-between mb-12&quot;]/div[@class=&quot;d-flex flex-row align-items-center&quot;]/div[@class=&quot;klik-titik3&quot;]/div[@class=&quot;bdr-002 bdr-6 d-flex flex-column bg-white&quot;]/div[@class=&quot;ff-medium lh-normal fs-12 SalinIklan  fc-1b&quot;]</value>
+      <webElementGuid>eab75b23-3b8e-4f01-a26f-2ab4323bf1be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif'])[2]/following::div[3]</value>
+      <webElementGuid>9904472f-4013-4cb0-be4c-829196414b1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksi Lainnya'])[1]/following::div[5]</value>
+      <webElementGuid>2c61bdbb-79c5-4cc2-8700-1cbfdd314e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-Aktifkan'])[1]/preceding::div[1]</value>
+      <webElementGuid>7ab95f55-2ab6-4037-91de-8e9500bd8258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktifkan'])[1]/preceding::div[2]</value>
+      <webElementGuid>a2ab8e13-487f-440f-9050-968d654f9be9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Salin Iklan']/parent::*</value>
+      <webElementGuid>9dc39db7-50ea-4d78-9606-bd01c7f9ae17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>eccc4448-fa69-4dea-9616-a353ee00cf09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Salin Iklan' or . = 'Salin Iklan')]</value>
+      <webElementGuid>5049e691-bf34-443e-9800-1182015e0edd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
