@@ -29,6 +29,8 @@ Mobile.delay(1)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Tender/Order Entry/Menu Order Entry'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Tender/Order Entry/Button Close Popup'), 0)
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Tender/Order Entry/Button Close Popup'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Tender/Order Entry/Button Close Popup'), 0)
+}
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Tender/Order Entry/Input Data Konfirmasi OE/Tab Input Data Konfirmasi OE'), 0)

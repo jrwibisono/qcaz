@@ -21,9 +21,11 @@ Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Transporter/Big Fle
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Subscription/Menu Subscription'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Subscription/Button Lewati 1'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Subscription/Button Lewati 2'), 0)
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Subscription/Button Lewati 1'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Subscription/Button Lewati 1'), 0)
+	
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Transporter/Big Fleets/Subscription/Button Lewati 2'), 0)
+}
 
 //Mobile.closeApplication()
 
