@@ -76,7 +76,7 @@ for (def row = 1; row <= findTestData('property_warehouse_produk_lainnya').getRo
 
     WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/btn_unggah_iklan'))
 
-    WebUI.waitForJQueryLoad(60)
+    WebUI.waitForJQueryLoad(120)
 
     WebUI.waitForPageLoad(60)
 
