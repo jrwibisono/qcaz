@@ -6,12 +6,11 @@
    <elementGuidId>2ef46721-6b96-44ad-bd4c-76e45e0c589f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[3]/div/div[2]/div/div/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='PasangIklanForm']/div[3]/div/div[2]/div/div/div</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b64fc785-aa9c-4a46-997f-bbbc560dcc95</webElementGuid>
+      <webElementGuid>45858b9b-5a3e-4fc2-a9d7-25bab24f614a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-center uploadFile </value>
-      <webElementGuid>7e8b2153-68c3-4c52-a95b-0788c53e6cf4</webElementGuid>
+      <webElementGuid>bb527eeb-553c-4d2a-950d-5b09f07e402a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>data-hitung</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f3b03a28-8df1-43c9-b9a4-f95873125567</webElementGuid>
+      <webElementGuid>18a4c5cb-cbb2-4744-b6b3-45b8330680d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +49,7 @@
 								
 								Masukkan Video
 							</value>
-      <webElementGuid>978bdd09-70c4-4cd9-adfe-8d5f6276c14a</webElementGuid>
+      <webElementGuid>e2a1c1a2-4321-4a7e-955c-9b3d65569f48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;w-100 bg-white&quot;]/div[@class=&quot;componentContainer mt-20 row mx-0&quot;]/div[@class=&quot;d-flex p-0 FileUploadContainer&quot;]/div[@class=&quot;ComponentField bg-white px-0 d-flex align-items-center justify-content-center FileUpload UploadVideo&quot;]/div[@class=&quot;text-center uploadFile&quot;]</value>
-      <webElementGuid>143581fa-1fcb-4647-92bd-a3095b6bec29</webElementGuid>
+      <webElementGuid>7417509a-3784-412a-9d2a-502904a91b2c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[3]/div/div[2]/div/div/div</value>
-      <webElementGuid>1828a97f-36f7-4cb6-94df-bf9ed0ce34a0</webElementGuid>
+      <webElementGuid>5b60da7f-e1d5-4f0c-9edf-17e6e8234d52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Format file harus MKV/MP4/AVI/MOV'])[1]/following::div[6]</value>
-      <webElementGuid>ecf219ed-7cfd-46b0-b1ea-223893ac9212</webElementGuid>
+      <webElementGuid>60bab4c3-e5e1-443a-850c-67344d631fe3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +81,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/div/div[2]/div/div/div</value>
-      <webElementGuid>997ed4dd-dc3f-44ff-8d3d-9a9089d1bcff</webElementGuid>
+      <webElementGuid>0460e362-a094-47a5-87d3-fe8f4b9c23f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +97,6 @@
 								
 								Masukkan Video
 							')]</value>
-      <webElementGuid>31d48926-f41c-4b29-88cc-a8bb529e9a91</webElementGuid>
+      <webElementGuid>87c71802-d7d2-431b-84ed-986c85e0c36c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

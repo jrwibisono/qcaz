@@ -32,39 +32,54 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_Seller/span_Produk Lainnya'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/button_Pasang Iklan'))
+for (def row = 1; row <= findTestData('property_warehouse_produk_lainnya').getRowNumbers(); row++) {
+    WebUI.waitForPageLoad(60)
 
-WebUI.delay(5)
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/button_Pasang Iklan'))
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
+    WebUI.delay(5)
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/button_Gunakan'))
+    WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
 
-WebUI.waitForPageLoad(5)
+    WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/button_Gunakan'))
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/input__ff-medium fs-12'), 
-    'forklift electric counter balance 2.5 ton noblelift')
+    WebUI.waitForPageLoad(5)
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/div_Masukkan Foto'))
+    WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/input__ff-medium fs-12'), 
+        findTestData('property_warehouse_produk_lainnya').getValue(1, row))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/button_Crop'))
+    WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/upload_foto1'), 
+        findTestData('property_warehouse_produk_lainnya').getValue(2, row))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/div_Masukkan Foto'))
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/button_Crop'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/button_Crop'))
+    WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/upload_foto2'), 
+        findTestData('property_warehouse_produk_lainnya').getValue(3, row))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/div_Masukkan Video'))
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/button_Crop'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/div_Masukkan Video'))
+    not_run: WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/div_Masukkan Video'), 
+        '')
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/input_harga'), 
-    '90000000')
+    WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/input_harga'), 
+        findTestData('property_warehouse_produk_lainnya').getValue(4, row))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/textarea_text'), 
-    'spesifikasi forklift electric counter balance 2.0 ton noblelift harga grosir 2022\n\nelectric forklift truck NOBLELIFT cap 2 s/d3 ton harga terbaru Jakarta')
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/textarea_text'), 
+        findTestData('property_warehouse_produk_lainnya').getValue(5, row))
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
-    'tangerang')
+    WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
+        findTestData('property_warehouse_produk_lainnya').getValue(6, row))
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/div_Kec. Tangerang, Kota Tangerang'))
+    WebUI.waitForJQueryLoad(5)
+
+    WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/div_Kec. Tangerang, Kota Tangerang'))
+
+    WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/btn_unggah_iklan'))
+
+    WebUI.waitForJQueryLoad(60)
+
+    WebUI.waitForPageLoad(60)
+
+    WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW05_ProdukLainnya/Page_LayananIklan/btn_kembali_halaman_awal'))
+}
 
