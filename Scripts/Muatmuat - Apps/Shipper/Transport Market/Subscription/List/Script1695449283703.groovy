@@ -21,6 +21,8 @@ Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Transport M
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Transport Market/Subscription/Menu Subscription'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Transport Market/Subscription/Button Lewati'), 0)
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Transport Market/Subscription/Button Lewati'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Transport Market/Subscription/Button Lewati'), 0)
+}
 
 //Mobile.closeApplication()

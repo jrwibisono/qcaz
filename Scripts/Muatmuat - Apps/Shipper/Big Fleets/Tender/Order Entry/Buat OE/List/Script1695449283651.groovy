@@ -25,7 +25,9 @@ Mobile.swipe(720, 1430, 720, 1066)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/Order Entry/Menu Order Entry'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/Order Entry/Button Close Popup'), 0)
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/Order Entry/Button Close Popup'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/Order Entry/Button Close Popup'), 0)
+}
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/Order Entry/Buat OE/Tab Buat OE'), 0)
 

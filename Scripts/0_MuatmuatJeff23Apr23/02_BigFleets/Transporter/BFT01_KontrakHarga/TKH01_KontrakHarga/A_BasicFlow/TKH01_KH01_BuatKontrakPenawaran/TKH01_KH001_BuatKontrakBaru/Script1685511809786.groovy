@@ -35,7 +35,7 @@ WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/PupUpPilihShipper_Pilih_RadioButton_JeffryMuncul'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/PopUpPilihShipperPilihRadioButton'))
 
 WebUI.delay(1)
 
@@ -81,7 +81,7 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/a_Box'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/input_Towing_ff-medium-az fc-black-az fspla_82b264'), 
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/input_Towing'), 
     '90.0000')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/div_SK Kontrak Harga_alert-form-target'))

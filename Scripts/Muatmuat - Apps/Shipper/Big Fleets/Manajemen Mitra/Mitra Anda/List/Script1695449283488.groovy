@@ -21,7 +21,9 @@ Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Big Fleets/
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Manajemen Mitra/Menu Manajemen Mitra'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Manajemen Mitra/Button Lewati'), 0)
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Manajemen Mitra/Button Lewati'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Manajemen Mitra/Button Lewati'), 0)
+}
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Manajemen Mitra/Mitra Anda/Tab Mitra Anda'), 0)
 
