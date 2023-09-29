@@ -6,12 +6,12 @@
    <elementGuidId>45b58f25-4b85-4bea-a22b-aebd1c4bb909</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@type='search']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>input.select2-search__field.no-border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/span/span/span[1]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>39c81de8-44c9-4c3a-a173-32558b95632f</webElementGuid>
+      <webElementGuid>5b97ef61-be40-48d5-9417-113768ce5de2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-search__field no-border</value>
-      <webElementGuid>4366d02c-d9a3-47a4-bebe-8345f365126c</webElementGuid>
+      <webElementGuid>b505d26b-9999-4781-b33a-ecc81ef5441b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>3a87cfa4-0781-4acb-ba5f-f8b0b6508459</webElementGuid>
+      <webElementGuid>03044406-95c7-4ae4-8386-82ae0044c3ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>67fb0bf0-71ed-40cf-816f-ddf1aae25538</webElementGuid>
+      <webElementGuid>6b807f78-4d95-4025-8e00-9c38c1a2ab66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>1154c86a-1254-4b00-ae05-58cd5e359838</webElementGuid>
+      <webElementGuid>1c0b6dc6-77f7-4a86-ac70-ffcb0a12a019</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c4238d3c-aaef-423e-bee4-5702467ed8e0</webElementGuid>
+      <webElementGuid>5d6e2b69-8fa4-4844-8ac7-5ef228bbc9f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>deb10d2d-f52e-4bd2-be63-1a5fda1cfcac</webElementGuid>
+      <webElementGuid>573f0a1b-9b93-45fd-8491-487a8479e57f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a73a3da2-6d0e-4e45-a8f1-8a00eb11b275</webElementGuid>
+      <webElementGuid>d7cf5e39-b154-4f69-bdd2-812c245e98f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>role</name>
       <type>Main</type>
       <value>searchbox</value>
-      <webElementGuid>faaefae0-61ec-4ba1-805b-1becb7e84956</webElementGuid>
+      <webElementGuid>abcdec0a-40f7-4262-8cc3-b707012b87ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>d86bb86b-31d6-4d5d-b14d-4b81721c635a</webElementGuid>
+      <webElementGuid>b7b33859-70c9-4b63-b4a2-d1bcd1b70381</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>select2-ni7s-results</value>
-      <webElementGuid>c48b57dc-4d36-4d5b-84d0-e0b2e51c960e</webElementGuid>
+      <webElementGuid>f2ea1586-9249-4840-8d38-464aa2f821fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Cari Disini</value>
-      <webElementGuid>01921973-be7b-47fe-b8a9-c529014ae3ab</webElementGuid>
+      <webElementGuid>bb01634b-5920-443e-ac42-4abf033cd6a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>aria-activedescendant</name>
       <type>Main</type>
       <value>select2-ni7s-result-hzso-1902</value>
-      <webElementGuid>3f79681d-21c7-443f-a87d-db27e0d37794</webElementGuid>
+      <webElementGuid>f5569d10-add6-4e80-acab-6e225814fc04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/span[@class=&quot;select2-container select2-container--default select2-container--open&quot;]/span[@class=&quot;select2-dropdown ComponentSelect2Dropdown select2-dropdown--below&quot;]/span[@class=&quot;select2-search select2-search--dropdown custom-select2-search-field component-input-border-container&quot;]/input[@class=&quot;select2-search__field no-border&quot;]</value>
-      <webElementGuid>f6dc8955-7cd4-4b84-8ecb-52eb99c6f168</webElementGuid>
+      <webElementGuid>26cbd08d-e06a-45e7-adf8-8f370cdb2b10</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='search']</value>
-      <webElementGuid>913e15b0-a650-4258-bfdd-ddef6efc7f3c</webElementGuid>
+      <webElementGuid>d4bd9279-87fd-4961-a2d3-904ebe80cdca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>c6463306-9bf4-4e80-865b-7801efd00aa2</webElementGuid>
+      <webElementGuid>fe43946f-0016-4efd-b672-bc7bf2fad305</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search' and @placeholder = 'Cari Disini']</value>
-      <webElementGuid>42b85300-5edc-465c-b4b7-137a1465da34</webElementGuid>
+      <webElementGuid>4e5277e0-981a-4635-8c51-193e38b8e71e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

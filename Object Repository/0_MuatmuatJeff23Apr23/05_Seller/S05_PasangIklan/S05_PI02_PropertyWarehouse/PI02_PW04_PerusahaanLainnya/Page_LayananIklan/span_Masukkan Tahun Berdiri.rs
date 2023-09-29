@@ -6,12 +6,12 @@
    <elementGuidId>1f483dc6-0435-4543-bff7-e8c4d7d1b625</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[@id='select2-ni7s-container']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#select2-ni7s-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[4]/div[2]/div/span/span[1]/span/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>bf4d1548-5c9e-4441-bbaa-6ba179263dff</webElementGuid>
+      <webElementGuid>1d1e9901-d31d-4d5c-a1d1-d2d24d26a3aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>28c596c0-aa29-4247-a70f-1a351d08bce6</webElementGuid>
+      <webElementGuid>1ed3c046-edf6-468e-a46e-8ad78b25323e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-ni7s-container</value>
-      <webElementGuid>7b54020d-b801-467e-9590-94634a0e1451</webElementGuid>
+      <webElementGuid>cc6a9ba0-7257-4efc-be88-ef73120e6a4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>06cf8020-0d0e-4a58-bc0c-b9b48d18b2b0</webElementGuid>
+      <webElementGuid>450e0d69-db89-49b5-9c67-eb43d9aecd7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>a0541f00-51c1-4acd-9cf7-5c1bb0a48746</webElementGuid>
+      <webElementGuid>dee17fa3-dcba-47c6-a28d-12d6b366e285</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masukkan Tahun Berdiri</value>
-      <webElementGuid>c2277c57-bf2b-4997-adae-a59220cc7c1b</webElementGuid>
+      <webElementGuid>fdb17beb-b40f-405d-b951-0a86eb2a83c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-ni7s-container&quot;)</value>
-      <webElementGuid>007133a9-8acb-43c2-914b-815512315b94</webElementGuid>
+      <webElementGuid>c282cd0a-87fa-460a-9761-670ad044f46e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-ni7s-container']</value>
-      <webElementGuid>bf53dd93-05e3-4bb7-9215-02383a71126c</webElementGuid>
+      <webElementGuid>4ce95572-75b5-4279-a8cc-f45a2fa87af9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[4]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>9a469514-a202-4e5b-81a7-2baba86c2f56</webElementGuid>
+      <webElementGuid>9fade9aa-dff4-47a2-8f60-6fb0f3df46fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[4]</value>
-      <webElementGuid>21093523-d7b8-4d10-ad07-9f8fed3ee6ff</webElementGuid>
+      <webElementGuid>1b7661d3-efd0-40ab-bd4f-e9af0b0f7d61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span</value>
-      <webElementGuid>c6fb60d6-59bf-45ce-8bd8-bcb08d1a661e</webElementGuid>
+      <webElementGuid>f70f84fa-fb0e-4c5f-b410-84b5252b8b9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-ni7s-container' and (text() = 'Masukkan Tahun Berdiri' or . = 'Masukkan Tahun Berdiri')]</value>
-      <webElementGuid>4afc61de-8d7e-4a59-9e38-0b8e263f8b7f</webElementGuid>
+      <webElementGuid>7d81182b-3f0d-453e-b0bb-70bb66353dd5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

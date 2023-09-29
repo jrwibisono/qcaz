@@ -32,14 +32,15 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_Seller/span_Perusahaan Lainnya'))
 
-WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Pasang Iklan'), 
-    '')
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Pasang Iklan'), 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Gunakan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Upload'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Upload'), 
+    'C:\\Users\\Dandy\\Downloads\\Screenshot 2023-09-29 114211.jpg')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
 
@@ -54,6 +55,8 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_Crop_select2-search__field no-border'), 
     '2017')
 
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/opt_tahun_cari'))
+
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/textarea_text'), 
     'Shipper didirikan dengan ambisi yang tinggi: menyederhanakan sistem logistik yang kompleks di Indonesia. Upaya tersebut terus berlanjut hingga hari ini demi membentuk visi perusahaan menjadi penyedia solusi e-commerce no.1 dalam mendukung banyak bisnis di Indonesia dan kawasan lainnya.\nBerbekal ragam inovasi dan keahlian digital yang terdepan, kini kami semakin dekat dalam mewujudkan visi kami menjadi kenyataan. Melalui platform Shipper, kami membantu bisnis dalam mengelola pesanan dan mengoptimalkan rute pengiriman, sehingga membantu menyatukan infrastruktur logistik Indonesia yang terfragmentasi. Hal ini memudahkan pedagang untuk meningkatkan pertumbuhan mereka di era e-commerce.\nAtas komitmen kami terhadap inovasi, Shipper telah meraih penghargaan Most Innovative Asia-Pacific Companies by Fast Company di tahun 2022.')
 
@@ -63,10 +66,10 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/textarea_text_1_2'), 
     '24 Jam')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
+not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
     '')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
     'Jakarta')
@@ -82,17 +85,60 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/img'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Sertifikat'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Sertifikat'), 
+    'C:\\Users\\Dandy\\Downloads\\awards-01.jpeg')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
     'Top 2021 Startups Indonesia')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Foto'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Foto'), 
+    'C:\\Users\\Dandy\\Downloads\\banner-1.jpeg')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__no-border fs-12 h-30 w-100'), 
     'Anggota Kami')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Video'), 
+    'C:\\Users\\Dandy\\Downloads\\Shipper 4th Anniversary - Shipper Untuk Indonesia.mp4')
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_caption_video'), 
+    'Shipper 4th Anniversary')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Promo'), 
+    'C:\\Users\\Dandy\\Downloads\\Untitled.jpg')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_judul_promo'), 
+    'Kirim paket bisnis online lewat Shipper diskon 20%')
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_promo_deskripsi'), 
+    'Maksimalkan cuan bisnis online dengan kirim paket lewat Shipper.\nJaminan harga termurah yang beragam dan dapatkan potongan harga 20%')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Katalog Brosur'), 
+    'C:\\Users\\Dandy\\Downloads\\Screenshot 2023-09-29 105846.jpg')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_brosur_judul'), 
+    'Produk Kami')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Testimoni'), 
+    'C:\\Users\\Dandy\\Downloads\\Screenshot 2023-09-29 110058.jpg')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_testimoni_nama'), 
+    'Testimoni Klien Kami')
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/btn_unggah_iklan'))
+
+WebUI.waitForJQueryLoad(120)
+
+WebUI.waitForPageLoad(60)
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/btn_kembali_halaman_awal'))
 
