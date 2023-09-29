@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>umum general</name>
+   <name>Data Transporter_Profil</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>cda1cb80-d74c-4401-a149-9bec2887720c</testCaseGuid>
+   <testCaseGuid>93784b9d-93be-4953-9404-04fc34e8d88e</testCaseGuid>
 </TestCaseEntity>
