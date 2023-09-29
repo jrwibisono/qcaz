@@ -6,17 +6,17 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'D:\\Katalon muatmuat\\Apk\\muatmuatRC_0926202301.apk'</initValue>
+      <initValue>'D:\\Katalon muatmuat\\Apk\\muatmuatTransporterRC_0926202301.apk'</initValue>
       <name>Apk</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'monyet@yopmail.com'</initValue>
+      <initValue>'dandy3@yopmail.com'</initValue>
       <name>EmailOrWhatsapp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Az12345678'</initValue>
+      <initValue>'Gundam00'</initValue>
       <name>Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
