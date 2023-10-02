@@ -26,7 +26,109 @@ WebUI.waitForPageLoad(60)
 
 WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/Page_Seller/span_Layanan Iklan (1)'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_Seller/span_Layanan Iklan (1)'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/Page_Seller/div_Transportasi Intermoda'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_Seller/div_Transportasi Intermoda'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_Seller/span_Road Transportation'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/button_Pasang Iklan'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/button_Gunakan'))
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/button_Upload'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input__ff-medium fs-12'), 
+    'Alamat')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Website_ff-medium fs-12'), 
+    'Website')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/span_Masukan Tahun Berdiri'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Crop_select2-search__field no-border'), 
+    '2017')
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/li_tahun-pilihan'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Jumlah Kantor di Indonesia_FormatInteger'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/textarea_text'), 
+    'Tentang Perusahaan')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/textarea_text_1'), 
+    'Rute')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/textarea_text_1_2'), 
+    'Waktu')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
+    'jakarta')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/div_Kec. Gambir, Kota Jakarta Pusat'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/button_Atur Pin Lokasi'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Alamat_searchBoxModalAddress0'), 
+    'Jakarta')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/div_Jakarta - Cikampek Toll Road, RT.005RW._e5a3e4'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/img'))
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/div_Upload File Sertifikat'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
+    'Pencapaian')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/div_Upload File Foto'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
+    'Foto')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/div_Upload File Video'), 
+    '')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
+    'Video')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/div_Upload File Promo'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
+    'Judul Promo')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/textarea_Deskripsi_component-input-border l_97f996'), 
+    'Deskripsi Promo')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/div_Upload File Katalog Brosur'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Judul Katalog  Brosur_no-border fs-12'), 
+    'Brosur')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/div_Upload File Testimoni'), 
+    '')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/input_Judul Katalog  Brosur_no-border fs-12'), 
+    'Testimoni')
+
+not_run: WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT01_RoadTransportation/Page_LayananIklan/btn_unggah-iklan'))
 
