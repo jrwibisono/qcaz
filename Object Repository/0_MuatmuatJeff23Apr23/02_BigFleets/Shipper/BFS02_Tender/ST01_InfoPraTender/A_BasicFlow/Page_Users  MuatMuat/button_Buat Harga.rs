@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+<<<<<<<< HEAD:Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/Page_Users  MuatMuat/span_Urutkan.rs
+   <name>span_Urutkan</name>
+========
+   <name>button_Buat Harga</name>
+>>>>>>>> 49cc27dcd9a95f598d67ac71366db52276203980:Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/Page_Users  MuatMuat/button_Buat Harga.rs
+   <tag></tag>
+   <elementGuidId>dbbba5a8-85be-4bf1-bd09-c8759a5b7dbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='Urutkannya']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Urutkannya</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>59776047-3395-4b7a-b11e-1da4f5a42b7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Urutkannya</value>
+      <webElementGuid>bbc26191-fb6f-474a-b65e-870fc9f8bfe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-demi fc-1B</value>
+      <webElementGuid>60b2ef59-3e8c-410c-845d-21ef13241e98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>Created</value>
+      <webElementGuid>455dc69e-dbd1-4c4a-8ed4-0a87ef374f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Urutkan</value>
+      <webElementGuid>0b35b5e9-1ecf-4980-8f8c-098ba0f4615f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Urutkannya&quot;)</value>
+      <webElementGuid>ba59491b-1864-487b-abde-a84c54c11aea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='Urutkannya']</value>
+      <webElementGuid>75e5a003-5f65-4581-95e9-6df21b362ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='for-urutkan']/span</value>
+      <webElementGuid>b2a6697f-0aad-4e3b-9d88-3a5ca979702d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat Info Pra Tender'])[1]/following::span[4]</value>
+      <webElementGuid>21622042-7409-46b5-ae01-d641f0aa8fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[1]/following::span[4]</value>
+      <webElementGuid>7a3a3438-e55b-4e6e-937e-3e8fc981e042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor'])[1]/preceding::span[1]</value>
+      <webElementGuid>b3e1f91b-70a2-4d42-840b-80c720aa88dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Dibuat'])[1]/preceding::span[1]</value>
+      <webElementGuid>5a1d22ab-7c6a-489d-8901-5e45e5788ba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Urutkan']/parent::*</value>
+      <webElementGuid>98ea54fb-07b3-489c-8aec-8922b86d7fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>23250ac6-3a23-4f87-ba7c-335966b939a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'Urutkannya' and (text() = 'Urutkan' or . = 'Urutkan')]</value>
+      <webElementGuid>fbf5b718-4ccc-4f5c-b52c-8e433c725dca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
