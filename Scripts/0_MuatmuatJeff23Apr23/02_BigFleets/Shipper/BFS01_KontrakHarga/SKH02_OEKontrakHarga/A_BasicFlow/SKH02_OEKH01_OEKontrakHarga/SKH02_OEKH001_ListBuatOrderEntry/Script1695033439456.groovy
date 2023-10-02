@@ -24,3 +24,5 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH02_OEKontrakHarga/Page_Big Fleets Main Dashboard  MuatMuat/a_Order Entry'))
 
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS01_KontrakHarga/SKH02_OEKontrakHarga/Page_Order Entry  MuatMuat/img'))
+

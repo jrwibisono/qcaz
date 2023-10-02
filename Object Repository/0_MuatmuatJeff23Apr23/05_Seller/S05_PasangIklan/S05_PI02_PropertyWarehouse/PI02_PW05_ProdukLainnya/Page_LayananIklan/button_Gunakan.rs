@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Gunakan</name>
+   <tag></tag>
+   <elementGuidId>ace57a04-0ff3-406a-b512-fcba4d14d195</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ff-demi.fs-14.btn-primary.lh-normal.d-flex.align-items-center.justify-content-center.pilih-paket.btn-gunakan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='BUNDLING 100 KUOTA'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d336810e-6a2f-4eb8-9ab1-f9f10868163d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-demi fs-14 btn-primary lh-normal d-flex align-items-center justify-content-center pilih-paket btn-gunakan</value>
+      <webElementGuid>02677563-6ab7-489c-9df1-f752d5a182c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-subkatid-paket</name>
+      <type>Main</type>
+      <value>21</value>
+      <webElementGuid>04704f06-080b-4fef-9d8a-84c9a78266db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menuid</name>
+      <type>Main</type>
+      <value>688</value>
+      <webElementGuid>d696c3db-65a9-434c-bf3b-289b9a84c1d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://iklan.muatmuat.com/layananiklan/salinIklan?SubKategoriID=21&amp;KategoriID=32&amp;sub_text=Produk Lainnya&amp;layanan_text=Property %26 Warehouse&amp;feFormParentID=121</value>
+      <webElementGuid>0d5dffda-e890-4927-b819-ed94d7f8d61b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					Gunakan
+				</value>
+      <webElementGuid>b6f64a35-7ba7-4310-aa49-7b9bbe8e1182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;bg-menu-big&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;alertfe&quot;]/div[@class=&quot;alert-custom&quot;]/div[@class=&quot;body-alert&quot;]/div[@class=&quot;isi-body&quot;]/div[@class=&quot;w-100 d-flex justify-content-center&quot;]/button[@class=&quot;ff-demi fs-14 btn-primary lh-normal d-flex align-items-center justify-content-center pilih-paket btn-gunakan&quot;]</value>
+      <webElementGuid>0d736f0a-f9c5-4441-8e8a-ae42b3d82433</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUNDLING 100 KUOTA'])[1]/following::button[1]</value>
+      <webElementGuid>0b4b066c-3bd1-473f-860b-fd5c1b4407c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sisa Kuota'])[1]/following::button[1]</value>
+      <webElementGuid>1c26c5a5-8576-4da8-b95b-381ce837d9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::button[1]</value>
+      <webElementGuid>2d39b612-3043-486e-b41a-9a9900e7629d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/preceding::button[2]</value>
+      <webElementGuid>f6babf19-066e-4c1b-a821-41f89f93c71c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gunakan']/parent::*</value>
+      <webElementGuid>283bae38-9079-4168-804a-8e3ed0431f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>08e81dce-2f55-45bd-895d-a53f7c42f0e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = 'https://iklan.muatmuat.com/layananiklan/salinIklan?SubKategoriID=21&amp;KategoriID=32&amp;sub_text=Produk Lainnya&amp;layanan_text=Property %26 Warehouse&amp;feFormParentID=121' and (text() = '
+					Gunakan
+				' or . = '
+					Gunakan
+				')]</value>
+      <webElementGuid>65dc79f8-e7fe-4db1-8ab2-5ff87378c9f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -28,6 +28,7 @@ WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('null'))
 
+<<<<<<< HEAD
 WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('null'))
@@ -40,12 +41,27 @@ WebUI.click(findTestObject('null'))
 WebUI.click(findTestObject('null'))
 
 WebUI.setText(findTestObject('null'), 
+=======
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/span_Pilih Nama Lokasi yang Disimpan'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/h6_Tambah Lokasi'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/InputNamaLokasiPickup'), 
+    'PickupJatim5')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/button_Simpan'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/span_Pilih Lokasi'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/InputSearchPickupKota'), 
+>>>>>>> 49cc27dcd9a95f598d67ac71366db52276203980
     'Surabaya')
 
 WebUI.waitForJQueryLoad(60)
 
 WebUI.delay(2)
 
+<<<<<<< HEAD
 WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('null'))
@@ -78,12 +94,47 @@ WebUI.click(findTestObject('null'))
 WebUI.click(findTestObject('null'))
 
 WebUI.setText(findTestObject('null'), 
+=======
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/OpsiPickupCity1'))
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/DropdownPickupKecamatan'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/inputKecamatan'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/button_Terapkan'))
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/button_Simpan_1'))
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/button_Ya'))
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/ClosePopUpPickup'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/span_Pilih Nama Lokasi yang Disimpan_1'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/h6_Tambah Lokasi'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/InputNamaLokasiPickup'), 
+    'JatimDestinasi5')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/button_Simpan'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/span_Pilih Lokasi_1'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/InputSearchDestinasiKota'), 
+>>>>>>> 49cc27dcd9a95f598d67ac71366db52276203980
     'Surabaya')
 
 WebUI.delay(2)
 
 WebUI.waitForJQueryLoad(60)
 
+<<<<<<< HEAD
 WebUI.click(findTestObject('null'))
 
 WebUI.waitForJQueryLoad(60)
@@ -127,4 +178,49 @@ WebUI.setText(findTestObject('null'),
 WebUI.click(findTestObject('null'))
 
 WebUI.click(findTestObject('null'))
+=======
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/OpsiDestinasiCity1'))
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/PilihKecamatanDestinasi'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/input_Kecamatan_destination-semua'))
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/button_Terapkan_1'))
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/BtnSimpanDestinasi'))
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/button_Ya'))
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/ClosePopUpDestinasi'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/input_Harge Per Unit'), 
+    '2000000')
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/InputHargaTruck2'), 
+    '4000000')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/span_Pilih Jenis Pembayaran'))
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/OpsiPilihJenisPembayaran1'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/textarea_(Opsional)_fee_notes'), 
+    'Termasuk PPN 10%')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/textarea_(Opsional)_additional_notes'), 
+    'Ini Catatan Tambahan')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/button_Simpan_1'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT02_BHT01_BuatHargaTransporter/Page_Buat Harga Transport muatmuat/img'))
+>>>>>>> 49cc27dcd9a95f598d67ac71366db52276203980
 

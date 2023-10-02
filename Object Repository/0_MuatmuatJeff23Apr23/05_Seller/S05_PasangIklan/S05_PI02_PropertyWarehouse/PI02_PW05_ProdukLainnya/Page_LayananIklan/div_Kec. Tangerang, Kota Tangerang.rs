@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kec. Tangerang, Kota Tangerang</name>
+   <tag></tag>
+   <elementGuidId>b7ae976f-6233-44a0-a2d8-358d69ff2c26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ff-medium.fc-1B.fs-12.mt-8.click-location-dropdownGoogle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasangIklanForm']/div[6]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc93c260-bc65-4cf8-ba20-5c005380870a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>Kec. Tangerang, Kota Tangerang</value>
+      <webElementGuid>9d4fc914-93ab-4d66-afe0-8f1e1deb28dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-medium fc-1B fs-12 mt-8 click-location-dropdownGoogle</value>
+      <webElementGuid>2d298f93-c87c-44ba-9aa2-8e718eb09f2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kec. Tangerang, Kota Tangerang</value>
+      <webElementGuid>fe3ba5e9-ec01-49ce-9018-357df4a78f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;parentDropdownGoogle d-flex flex-column&quot;]/div[@class=&quot;bg-white resultDropdown&quot;]/div[@class=&quot;ff-medium fc-1B fs-12 mt-8 click-location-dropdownGoogle&quot;]</value>
+      <webElementGuid>f50dffe2-bd73-4f86-b3e3-02bf13cf5b3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[6]/div/div[3]/div</value>
+      <webElementGuid>04f322eb-86af-48d0-8616-4e35a9d34dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::div[3]</value>
+      <webElementGuid>915925d9-861f-41c7-b8d7-d65a12479f9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kec.']/parent::*</value>
+      <webElementGuid>b7d99a9b-63f3-4207-bec3-53e6a1abdb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[3]/div</value>
+      <webElementGuid>80a2d77d-cd95-422f-a49a-79f2160640dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kec. Tangerang, Kota Tangerang' or . = 'Kec. Tangerang, Kota Tangerang')]</value>
+      <webElementGuid>c7b6ac2a-c38a-4d21-b3dd-3cb83f4cdbb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
