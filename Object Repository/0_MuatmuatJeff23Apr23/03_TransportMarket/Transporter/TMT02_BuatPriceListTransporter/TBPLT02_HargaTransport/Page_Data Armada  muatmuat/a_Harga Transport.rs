@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Harga Transport</name>
+   <tag></tag>
+   <elementGuidId>ff8905ea-7b16-4fd8-aa8d-8ac2d6cb9656</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-watchlist > a.text-tab-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-watchlist']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>be4a8619-caac-49a0-ba8e-ecf84cc5123d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/manajemen-harga-transport/HargaTransport</value>
+      <webElementGuid>442da2b8-bee9-4749-99b6-129e73efd321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-tab-header</value>
+      <webElementGuid>f1d89f4a-e6c2-43e4-bd22-e19ab94b93ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harga Transport</value>
+      <webElementGuid>32c895e7-23d7-4645-8f84-ad7d52bcd5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-watchlist&quot;)/a[@class=&quot;text-tab-header&quot;]</value>
+      <webElementGuid>d59ea50b-c383-490e-a23d-335087ed89f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-watchlist']/a</value>
+      <webElementGuid>74f316dd-8874-49c9-9f0f-7627b6eb0e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Harga Transport')]</value>
+      <webElementGuid>462e9e37-dc22-43a1-8a28-fa260681db48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Armada'])[1]/following::a[1]</value>
+      <webElementGuid>93994cbd-6843-4e23-915d-447ffcca95d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terapkan'])[3]/following::a[2]</value>
+      <webElementGuid>0c63f5dc-fd74-45a3-9020-e9e843e7c211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[2]/preceding::a[1]</value>
+      <webElementGuid>1fdafc34-54f1-40fa-ac0f-68b2daec7922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export'])[2]/preceding::a[1]</value>
+      <webElementGuid>2d9ab5cd-f0c2-42cd-8899-9550831df63d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Harga Transport']/parent::*</value>
+      <webElementGuid>ed9df38c-934f-4562-a109-3531ee74c732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/manajemen-harga-transport/HargaTransport')]</value>
+      <webElementGuid>c299e36a-ff2d-455e-aeef-cff30b8bdca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>d58aecd3-c3bf-46ed-905f-0fab472e4caf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/manajemen-harga-transport/HargaTransport' and (text() = 'Harga Transport' or . = 'Harga Transport')]</value>
+      <webElementGuid>e688e870-d9a1-46f1-901d-3587ace8a8be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

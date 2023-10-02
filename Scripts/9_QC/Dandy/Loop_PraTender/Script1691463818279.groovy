@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/ST01_T000_List_BuatInfoPraTender'), 
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_InfoPraTenderAktif/ST01_T000_List_BuatInfoPraTender'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
 for(int i = 1; i <= 4; i++) {
@@ -41,6 +41,6 @@ for(int i = 1; i <= 4; i++) {
 		break
 	}
 	
-	WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_BuatInfoPraTender/ST01_T001A_01_Part_BuatInfoPraTender_Unit_SatuTransporter'),
+	WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS02_Tender/ST01_InfoPraTender/A_BasicFlow/ST01_T01_InfoPraTenderAktif/ST01_T001A_01_Part_BuatInfoPraTender_Unit_SatuTransporter'),
 		[:], FailureHandling.CONTINUE_ON_FAILURE)
 }
