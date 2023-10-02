@@ -26,5 +26,7 @@ WebUI.waitForPageLoad(60)
 
 WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW03_GudangTangki/A_BasicFlow/Page_Seller/span_Layanan Iklan (1)'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/Page_Seller/span_Layanan Iklan (1)'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/Page_Seller/div_Transportasi Intermoda'))
 
