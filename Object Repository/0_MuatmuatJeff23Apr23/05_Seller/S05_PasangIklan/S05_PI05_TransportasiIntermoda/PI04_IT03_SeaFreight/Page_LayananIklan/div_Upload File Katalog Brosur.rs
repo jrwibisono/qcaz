@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Upload File Video</name>
+   <name>div_Upload File Katalog Brosur</name>
    <tag></tag>
-   <elementGuidId>ee282d0f-7c2f-4e29-bceb-564a382301a8</elementGuidId>
+   <elementGuidId>0c89e904-c706-4935-90cd-ffa55b67ca51</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[13]/div[2]/div/div/div[1]/div[1]/input</value>
+         <value>//div[@id='PasangIklanForm']/div[17]/div[2]/div/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>187c408e-1e78-4ba7-807d-fd93a9e63e00</webElementGuid>
+      <webElementGuid>e1c810a2-888c-4a89-bdce-e4f6ec265353</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-center uploadFile</value>
-      <webElementGuid>3e6cd133-a017-469e-acce-4d5d573a639f</webElementGuid>
+      <webElementGuid>0956749e-62a4-4421-b92b-5f2ca035b539</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-hitung</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c74ef699-194b-4029-b33b-25dfa483634b</webElementGuid>
+      <webElementGuid>9ebd3134-55be-48af-8767-b248f326b556</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,9 +48,9 @@
       <value>
 											
 											
-											Upload File Video
+											Upload File Katalog Brosur
 										</value>
-      <webElementGuid>69354d2d-8ebc-4113-9388-a6e57a66fd7c</webElementGuid>
+      <webElementGuid>3b83e5e4-8fe8-4d06-a3be-d7bc01694396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,47 +58,47 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-12&quot;]/div[@class=&quot;d-flex flex-column PlusMinComponentContainer&quot;]/div[@class=&quot;PlusMinComponent d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;flex-center flex-middle FileUpload&quot;]/div[@class=&quot;text-center uploadFile&quot;]</value>
-      <webElementGuid>e746ab6a-a90d-4510-8bec-6d049b32e38a</webElementGuid>
+      <webElementGuid>09bbfe6d-288d-4029-852a-30941e57eddc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='PasangIklanForm']/div[13]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>bde92c75-d6da-4be5-821f-a2f9c73fd106</webElementGuid>
+      <value>//div[@id='PasangIklanForm']/div[17]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>b1b77791-b965-4e4d-af85-a430e16fa35e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video'])[1]/following::div[6]</value>
-      <webElementGuid>257e8b38-f283-4c69-8093-0ba387e7343c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brosur'])[1]/following::div[6]</value>
+      <webElementGuid>6cc1af70-44c8-4611-8a04-75d804055a1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[2]/following::div[9]</value>
-      <webElementGuid>914610b2-1191-48e5-b26e-c1aad2d6c5ce</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[4]/following::div[9]</value>
+      <webElementGuid>afa99f03-696b-4f20-a1e5-ad4365313e50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan Caption'])[1]/preceding::div[2]</value>
-      <webElementGuid>9e5fc322-1762-4d1f-89d1-ffb1d544850b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Judul Katalog / Brosur'])[1]/preceding::div[2]</value>
+      <webElementGuid>b46d158a-5523-4011-bb93-6014b8d0822f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[13]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>fcc662fe-fbf9-48c7-b50c-f1500d4ee41f</webElementGuid>
+      <value>//div[17]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>9d8f1ca8-a682-47da-815e-3ff00afd5602</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,12 +108,12 @@
       <value>//div[(text() = '
 											
 											
-											Upload File Video
+											Upload File Katalog Brosur
 										' or . = '
 											
 											
-											Upload File Video
+											Upload File Katalog Brosur
 										')]</value>
-      <webElementGuid>bd7cac97-5c60-462c-974c-c5c3e92df090</webElementGuid>
+      <webElementGuid>6c695789-ec0d-4995-b1d6-74fcc577a030</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

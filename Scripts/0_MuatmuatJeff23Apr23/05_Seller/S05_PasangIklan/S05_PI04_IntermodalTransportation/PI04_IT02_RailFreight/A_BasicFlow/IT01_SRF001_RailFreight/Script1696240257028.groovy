@@ -32,15 +32,14 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_Seller/span_Rail Freight'))
 
-WebUI.navigateToUrl('https://iklan.muatmuat.com/layananiklan/iklanDashboard?SubKategoriID=31&KategoriID=35&sub_text=Rail%20Freight&layanan_text=Transportasi%20Intermoda&no')
-
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/button_Pasang Iklan'))
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/button_Gunakan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/button_Upload'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/button_Upload'), 
+    '')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/button_Crop'))
 
@@ -54,6 +53,8 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_Crop_select2-search__field no-border'), 
     '2017')
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/li_tahun-pilih'))
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_Jumlah Kantor di Indonesia_FormatInteger'))
 
@@ -80,46 +81,53 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/img'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Sertifikat'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Sertifikat'), 
+    '')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/button_Crop'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
     'Pencapaian')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Foto'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Foto'), 
+    '')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/button_Crop'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_foto-caption'), 
     'Foto')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Video'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_video-caption'), 
     'Video')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Promo'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Promo'), 
+    '')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/button_Crop'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_promo-title'), 
     'Judul Promo')
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/textarea_Deskripsi_component-input-border l_97f996'), 
     'Deskripsi Promo')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Katalog Brosur_1'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Katalog Brosur_1'), 
+    '')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/button_Crop'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_brosur-title'), 
     'Katalog')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Testimoni'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/div_Upload File Testimoni'), 
+    '')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/button_Crop'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_Nama File_no-border fs-12 ff-medium'), 
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/input_testimoni-caption'), 
     'Testimoni')
+
+not_run: WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI05_TransportasiIntermoda/PI04_IT02_RailFreight/Page_LayananIklan/btn_unggah-iklan'))
 

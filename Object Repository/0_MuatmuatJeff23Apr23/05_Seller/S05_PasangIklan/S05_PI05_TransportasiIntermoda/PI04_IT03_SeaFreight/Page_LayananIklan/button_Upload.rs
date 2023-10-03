@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Upload</name>
    <tag></tag>
-   <elementGuidId>aed69c41-33d5-41e2-b0b9-531324319fca</elementGuidId>
+   <elementGuidId>7251f1e2-4147-4517-ad3b-a31167d51b3c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div/input</value>
+         <value>//div[@id='PasangIklanForm']/div/div[2]/div[2]/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e65bd9a7-a00b-48be-bf1a-9fce02d0408c</webElementGuid>
+      <webElementGuid>a49bc9a2-61c2-4d2a-b48f-c515dacfa2bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-primary btn-flex lh-normal</value>
-      <webElementGuid>4f1fd9cc-f591-427d-9a75-5f61746d833f</webElementGuid>
+      <webElementGuid>92bbf65a-8e64-4e9b-bb28-6ae796fe72f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Upload</value>
-      <webElementGuid>ef638757-d04e-4577-95a7-fa701dd7ff3f</webElementGuid>
+      <webElementGuid>c452db15-46c5-415f-982a-c0b8126825a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border d-flex align-items-center&quot;]/div[@class=&quot;d-flex fs-14 ff-demi uploadFile&quot;]/button[@class=&quot;btn-primary btn-flex lh-normal&quot;]</value>
-      <webElementGuid>45b45522-94b6-44d7-8c77-775ae8856ce2</webElementGuid>
+      <webElementGuid>b14740d2-aa7e-46af-a953-f04ea726d1ca</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div/div[2]/div[2]/button</value>
-      <webElementGuid>dc5acd22-c2ea-44d1-b14f-56b3ff1b0394</webElementGuid>
+      <webElementGuid>4b1d72a3-bbcc-498a-bf9c-d9261158b194</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::button[1]</value>
-      <webElementGuid>fe534b06-7236-462c-b6ed-2cc19595bd32</webElementGuid>
+      <webElementGuid>92dba324-6d58-4c99-baae-e5ee9896190a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Format file harus JPG/PNG/SVG/WEBP'])[1]/preceding::button[1]</value>
-      <webElementGuid>05246042-2745-4255-b7a6-32bfc0840fd9</webElementGuid>
+      <webElementGuid>ef38507e-ddc5-42c7-b24a-0af7a2aad957</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Upload']/parent::*</value>
-      <webElementGuid>9063e55e-11cb-49be-9983-9bbd303eb5a0</webElementGuid>
+      <webElementGuid>6efe0851-d2b5-4d62-9c14-729c1483636c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/button</value>
-      <webElementGuid>82c790ee-e16d-4871-bb64-0d12158ce1e8</webElementGuid>
+      <webElementGuid>f848978d-c8e4-4760-ac69-e09fd4eb9d9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Upload' or . = 'Upload')]</value>
-      <webElementGuid>1e4e5372-2f16-4314-bf44-9e54518b3f78</webElementGuid>
+      <webElementGuid>c4e3fb69-9bc2-4560-ab12-c09e1d72fcf8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

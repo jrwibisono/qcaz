@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Upload File Video</name>
+   <name>div_Upload File Sertifikat</name>
    <tag></tag>
-   <elementGuidId>ee282d0f-7c2f-4e29-bceb-564a382301a8</elementGuidId>
+   <elementGuidId>f3ead034-e2b7-4123-8a37-90c7b944b28c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[13]/div[2]/div/div/div[1]/div[1]/input</value>
+         <value>//div[@id='PasangIklanForm']/div[13]/div[3]/div/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>187c408e-1e78-4ba7-807d-fd93a9e63e00</webElementGuid>
+      <webElementGuid>724cd630-0db0-464e-812f-241e7f8873a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-center uploadFile</value>
-      <webElementGuid>3e6cd133-a017-469e-acce-4d5d573a639f</webElementGuid>
+      <webElementGuid>9366c9e9-e69d-4e24-89bc-caaf7e081ff6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-hitung</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c74ef699-194b-4029-b33b-25dfa483634b</webElementGuid>
+      <webElementGuid>2d5fda3b-d6af-4fb7-b967-82f40f498670</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,9 +48,9 @@
       <value>
 											
 											
-											Upload File Video
+											Upload File Sertifikat
 										</value>
-      <webElementGuid>69354d2d-8ebc-4113-9388-a6e57a66fd7c</webElementGuid>
+      <webElementGuid>0e213d48-8472-48a9-9da2-0ccb9267b422</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,47 +58,39 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-12&quot;]/div[@class=&quot;d-flex flex-column PlusMinComponentContainer&quot;]/div[@class=&quot;PlusMinComponent d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;flex-center flex-middle FileUpload&quot;]/div[@class=&quot;text-center uploadFile&quot;]</value>
-      <webElementGuid>e746ab6a-a90d-4510-8bec-6d049b32e38a</webElementGuid>
+      <webElementGuid>ff53b922-0838-47b4-a335-a9200c300b7e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='PasangIklanForm']/div[13]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>bde92c75-d6da-4be5-821f-a2f9c73fd106</webElementGuid>
+      <value>//div[@id='PasangIklanForm']/div[13]/div[3]/div/div/div/div/div</value>
+      <webElementGuid>7f8c1e37-296a-4f16-b2d8-9ab61e4a327d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video'])[1]/following::div[6]</value>
-      <webElementGuid>257e8b38-f283-4c69-8093-0ba387e7343c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format file harus JPG/PNG/SVG/WEBP'])[2]/following::div[6]</value>
+      <webElementGuid>a097eb91-8e13-49fa-b227-4004b5b040fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[2]/following::div[9]</value>
-      <webElementGuid>914610b2-1191-48e5-b26e-c1aad2d6c5ce</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan Caption'])[1]/preceding::div[2]</value>
-      <webElementGuid>9e5fc322-1762-4d1f-89d1-ffb1d544850b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pencapaian, Penghargaan, dan Sertifikat'])[1]/preceding::div[2]</value>
+      <webElementGuid>c1c743b6-2f9b-4f46-aa81-57fb628636f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[13]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>fcc662fe-fbf9-48c7-b50c-f1500d4ee41f</webElementGuid>
+      <value>//div[13]/div[3]/div/div/div/div/div</value>
+      <webElementGuid>74cc649f-011b-4a4f-b684-c0c88b089ba8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,12 +100,12 @@
       <value>//div[(text() = '
 											
 											
-											Upload File Video
+											Upload File Sertifikat
 										' or . = '
 											
 											
-											Upload File Video
+											Upload File Sertifikat
 										')]</value>
-      <webElementGuid>bd7cac97-5c60-462c-974c-c5c3e92df090</webElementGuid>
+      <webElementGuid>577700db-3128-40e1-99cb-a2fccdb39898</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

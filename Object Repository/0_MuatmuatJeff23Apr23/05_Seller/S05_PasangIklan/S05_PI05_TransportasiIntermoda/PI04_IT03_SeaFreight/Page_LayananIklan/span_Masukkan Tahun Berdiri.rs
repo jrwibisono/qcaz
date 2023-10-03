@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Masukkan Tahun Berdiri</name>
    <tag></tag>
-   <elementGuidId>b220523f-be75-4b8c-b747-3d02651bf59b</elementGuidId>
+   <elementGuidId>5ba8b626-a960-4e40-b9cc-f45d0332f82e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#select2-u3fp-container</value>
+         <value>#select2-1acq-container</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[4]/div[2]/div/span/span[1]/span/span[1]</value>
+         <value>//span[@id='select2-1acq-container']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7b429078-5282-464c-a741-452e1df7fa8e</webElementGuid>
+      <webElementGuid>a0cf7450-da4b-4f33-91a6-611f11b4e57a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>b334033e-b9ab-42bb-bf4e-45e459e9b801</webElementGuid>
+      <webElementGuid>6d7c7dbd-bf6e-4842-84b6-fb417f8f609c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>select2-u3fp-container</value>
-      <webElementGuid>1eea7150-ce6a-48d8-9475-b3dbb117060f</webElementGuid>
+      <value>select2-1acq-container</value>
+      <webElementGuid>6ceaaf9e-dec0-4a5a-9436-e91cb1ab4047</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>6f95a42a-9304-4c5e-afd4-f76258b33726</webElementGuid>
+      <webElementGuid>7a8ee6ec-5de2-4996-bbc6-ae0638f43e6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>03759a9d-1064-4d5d-b113-8b9e16a71b11</webElementGuid>
+      <webElementGuid>0babb8a7-1a68-4d55-86ce-8f29608b9322</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,23 +62,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Masukkan Tahun Berdiri</value>
-      <webElementGuid>50a4b98a-5ca3-43ec-b184-9b506cbc2e74</webElementGuid>
+      <webElementGuid>4e40d069-04ad-42b3-8c55-0fb3f83ffc83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;select2-u3fp-container&quot;)</value>
-      <webElementGuid>f838d417-8fe3-4da3-abee-08a10a7de379</webElementGuid>
+      <value>id(&quot;select2-1acq-container&quot;)</value>
+      <webElementGuid>a3713563-5fd2-4129-9232-c4d90f5e1b15</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='select2-u3fp-container']</value>
-      <webElementGuid>5a781352-cbc4-4ac5-87d2-1891beede4a1</webElementGuid>
+      <value>//span[@id='select2-1acq-container']</value>
+      <webElementGuid>41ce3458-26de-4f22-bf45-01b3faf2d8fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[4]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>f0cbea3c-a1fa-476c-8785-6068fea71e19</webElementGuid>
+      <webElementGuid>57c84e15-5849-46b2-b223-9e0d6354a451</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,15 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[4]</value>
-      <webElementGuid>f561a163-84cf-4971-a650-74dbbcff3af7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kantor di Indonesia'])[1]/preceding::span[4]</value>
-      <webElementGuid>2ac2a813-c6a5-45a6-b4aa-250476c8a4be</webElementGuid>
+      <webElementGuid>076e8ca2-63d2-4ed3-849e-4a48cc672b17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,14 +102,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span</value>
-      <webElementGuid>2488f3f2-e57d-440d-9102-6023714c8a0f</webElementGuid>
+      <webElementGuid>6d82f6f8-140b-4883-917e-355ca8fadc9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = 'select2-u3fp-container' and (text() = 'Masukkan Tahun Berdiri' or . = 'Masukkan Tahun Berdiri')]</value>
-      <webElementGuid>c0a667f3-85d2-40bf-a9ca-a13285ae47f1</webElementGuid>
+      <value>//span[@id = 'select2-1acq-container' and (text() = 'Masukkan Tahun Berdiri' or . = 'Masukkan Tahun Berdiri')]</value>
+      <webElementGuid>84bf4e91-ca74-4d24-b007-70fbd7e1bb35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
