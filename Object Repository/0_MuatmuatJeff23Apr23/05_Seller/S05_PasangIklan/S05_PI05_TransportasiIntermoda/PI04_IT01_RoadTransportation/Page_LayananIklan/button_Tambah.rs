@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah</name>
+   <tag></tag>
+   <elementGuidId>cc2389fa-c568-40a8-924f-a8a2856313e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-primary.btn-flex.lh-normal.BtnPlusComponent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasangIklanForm']/div[11]/div[3]/div/div/div/div[2]/div[3]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>295046c1-fdfb-4876-9874-c56cc504832d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary btn-flex lh-normal BtnPlusComponent</value>
+      <webElementGuid>99bd44fd-077f-49fb-acfd-184c6a31f96d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah</value>
+      <webElementGuid>6d4d1f12-66f9-47c0-8e0e-40c9dbe18a0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-12&quot;]/div[@class=&quot;d-flex flex-column PlusMinComponentContainer&quot;]/div[@class=&quot;PlusMinComponent d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;div-grow&quot;]/div[@class=&quot;d-flex fs-14 ff-demi&quot;]/button[@class=&quot;btn-primary btn-flex lh-normal BtnPlusComponent&quot;]</value>
+      <webElementGuid>445f7a1d-dc1d-4615-a9c9-2c45f5cb6cd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[11]/div[3]/div/div/div/div[2]/div[3]/button[2]</value>
+      <webElementGuid>7f70b70a-a2ad-4b54-9735-1e22a82e5408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/following::button[1]</value>
+      <webElementGuid>20515047-af47-4deb-84d3-7d2f96ce193f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pencapaian, Penghargaan, dan Sertifikat'])[1]/following::button[2]</value>
+      <webElementGuid>3f7cc5b3-492e-4ded-9cca-e4089a529440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/preceding::button[1]</value>
+      <webElementGuid>1698b0b7-098e-4c5c-afaf-c0d311819bdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah']/parent::*</value>
+      <webElementGuid>8788e38d-e64e-43cc-9185-9571ad1701ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>d4446799-985b-486e-b3aa-1a7049591fc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Tambah' or . = 'Tambah')]</value>
+      <webElementGuid>c03a41d8-ef66-4a2c-9569-4b68bdce9157</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

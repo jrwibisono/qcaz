@@ -6,15 +6,19 @@
    <elementGuidId>9e4f43d4-fdda-47ef-9dc8-416d94378ee3</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'inputRequester']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//input[@id='inputRequester']</value>
+         <value>/html/body/div[4]/div/input</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#inputRequester</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3b606102-8815-46d4-93c2-a7fe8156e413</webElementGuid>
+      <webElementGuid>ba68dd94-e963-496a-9481-13f38daa3448</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +34,15 @@
       <name>id</name>
       <type>Main</type>
       <value>inputRequester</value>
-      <webElementGuid>06afd051-2291-40bc-98e3-e2c19d4330f1</webElementGuid>
+      <webElementGuid>d1f8c4c6-7acf-4df7-afa8-27a6a441b05f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>Margo</value>
-      <webElementGuid>ec456e3b-a4da-4cbf-99a0-e955a1a73b35</webElementGuid>
+      <webElementGuid>2ccc049a-240a-4016-bfac-68e8ca8fddfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;inputRequester&quot;)</value>
-      <webElementGuid>cef17a26-b63c-44da-ac0a-848e770fc9f4</webElementGuid>
+      <webElementGuid>cfe18f52-b1de-4c63-8719-4be2eda741a5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='inputRequester']</value>
-      <webElementGuid>ed182950-11a8-42b6-b6ad-e00c92609dc2</webElementGuid>
+      <webElementGuid>37d08ddf-e7ab-4c54-8fe3-89fa1c5c40bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>ecdc31d2-b6cb-49e7-9050-ed510c8634b1</webElementGuid>
+      <webElementGuid>5ad15866-faf4-4aad-a3e2-08b18eaceeea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +74,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'inputRequester' and (text() = 'Margo' or . = 'Margo')]</value>
-      <webElementGuid>03589e65-c84c-4d4d-ad62-f0af19a286b1</webElementGuid>
+      <webElementGuid>d369afab-e687-4d38-a96d-166b1a68df6d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

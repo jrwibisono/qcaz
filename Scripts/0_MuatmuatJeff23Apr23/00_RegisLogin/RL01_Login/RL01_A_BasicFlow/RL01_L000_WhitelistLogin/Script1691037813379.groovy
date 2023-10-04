@@ -21,6 +21,8 @@ not_run: WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URLMuatmuat)
 
+WebUI.delay(2)
+
 WebUI.setText(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/input_Margo'), 
     GlobalVariable.UserDaftarWhitelist)
 
@@ -64,7 +66,7 @@ WebUI.setText(findTestObject('2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteLis
 
 WebUI.click(findTestObject('Object Repository/2_CMS/02_CMSApproveWhiteList/02_01_ApproveWhiteList/Page_SilverStripe - whitelist/button_Search'))
 
-WebUI.delay(10)
+WebUI.delay(15)
 
 WebUI.waitForJQueryLoad(60)
 

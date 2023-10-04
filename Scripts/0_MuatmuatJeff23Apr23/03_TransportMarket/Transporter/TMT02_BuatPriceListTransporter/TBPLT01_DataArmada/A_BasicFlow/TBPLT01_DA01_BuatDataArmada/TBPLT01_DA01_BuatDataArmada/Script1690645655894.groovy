@@ -50,7 +50,7 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_Transpo
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT01_DataArmada/A_BasicFLow/TBPLT01_DA01_BuatDataArmada/Page_Buat Armada  muatmuat/input_-_max_capacity'), 
     '20')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT01_DataArmada/A_BasicFLow/TBPLT01_DA01_BuatDataArmada/Page_Buat Armada  muatmuat/input_Dimensi Maksimum_dimensi_panjang'), 
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT01_DataArmada/A_BasicFLow/TBPLT01_DA01_BuatDataArmada/Page_Buat Armada  muatmuat/input_Dimensi_pnjg'), 
     '2')
 
 WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Transporter/TMT02_BuatPriceListTransporter/TBPLT01_DataArmada/A_BasicFLow/TBPLT01_DA01_BuatDataArmada/Page_Buat Armada  muatmuat/InputDimensiLebar'), 

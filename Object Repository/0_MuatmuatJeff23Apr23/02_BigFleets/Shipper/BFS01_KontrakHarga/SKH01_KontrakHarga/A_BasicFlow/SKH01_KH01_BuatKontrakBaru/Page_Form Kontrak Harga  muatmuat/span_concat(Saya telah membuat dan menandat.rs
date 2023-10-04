@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_concat(Saya telah membuat dan menandat</name>
+   <tag></tag>
+   <elementGuidId>7d635d69-01b8-4352-911a-14275f89accf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.alert-form-target.checkbox-container.ff-medium-az.fs-12.text-black.validatepersetujuanview > span.checkmark-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-vue']/div[2]/div[4]/div[3]/div[4]/div[2]/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bebea6a0-29b7-4647-9711-658bf00011b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkmark-box</value>
+      <webElementGuid>d2ff9c52-402f-48db-90f5-220e0195b507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-vue&quot;)/div[2]/div[@class=&quot;form-kontrak-container&quot;]/div[@class=&quot;form-kontrak-content-container&quot;]/div[@class=&quot;form-kontrak-column&quot;]/div[@class=&quot;justify-content-center&quot;]/label[@class=&quot;alert-form-target checkbox-container ff-medium-az fs-12 text-black validatepersetujuanview&quot;]/span[@class=&quot;checkmark-box&quot;]</value>
+      <webElementGuid>603ba6a2-4664-48af-b575-df408dd08184</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-vue']/div[2]/div[4]/div[3]/div[4]/div[2]/label/span[2]</value>
+      <webElementGuid>baef026b-d6d8-427c-8add-a2f200202f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/label/span[2]</value>
+      <webElementGuid>e64583b1-ebeb-492d-847b-c6d7e69366b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

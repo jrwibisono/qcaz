@@ -11,7 +11,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'joshua_transporter_1@yopmail.com'</initValue>
+      <initValue>'joshua_shipper_1@yopmail.com'</initValue>
       <name>User</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -46,7 +46,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'JoshuaKatalon33'</initValue>
+      <initValue>'JoshuaKatalon44'</initValue>
       <name>UserDaftarWhitelist</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
