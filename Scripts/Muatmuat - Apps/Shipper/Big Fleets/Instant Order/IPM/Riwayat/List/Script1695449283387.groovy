@@ -23,7 +23,9 @@ Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Menu IPM'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Button Lewati'), 0)
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Button Mengerti'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Button Mengerti'), 0)
+}
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Riwayat/Tab Riwayat'), 0)
 

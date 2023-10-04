@@ -6,12 +6,12 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'D:\\Katalon muatmuat\\Apk\\muatmuatRC_2309202301.apk'</initValue>
+      <initValue>'D:\\Katalon muatmuat\\Apk\\muatmuatRC_0926202301.apk'</initValue>
       <name>Apk</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'085086087001'</initValue>
+      <initValue>'monyet@yopmail.com'</initValue>
       <name>EmailOrWhatsapp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -23,5 +23,10 @@
       <description></description>
       <initValue>5</initValue>
       <name>Timeout</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>4</initValue>
+      <name>Delay</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

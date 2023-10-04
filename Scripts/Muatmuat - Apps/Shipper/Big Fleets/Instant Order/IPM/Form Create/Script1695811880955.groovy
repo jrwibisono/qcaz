@@ -17,16 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Big Fleets/Dashboard BF'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Aktif/List'), [:])
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/Menu Instant Order'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Menu IPM'), 0)
-
-if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Button Mengerti'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
-	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Button Mengerti'), 0)
-}
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Aktif/Tab Aktif'), 0)
-
-//Mobile.closeApplication()
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Button Add IPM'), 0)
