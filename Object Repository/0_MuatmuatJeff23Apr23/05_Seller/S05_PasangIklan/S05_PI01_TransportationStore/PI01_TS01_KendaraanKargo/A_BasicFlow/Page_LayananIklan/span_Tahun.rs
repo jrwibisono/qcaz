@@ -6,12 +6,12 @@
    <elementGuidId>f30736d7-a57f-4888-abf5-37190c74ce67</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select2-rsp1-container</value>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[3]/div[2]/div/span/span[1]/span/span[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[3]/div[2]/div/span/span[1]/span/span[1]</value>
+         <key>CSS</key>
+         <value>#select2-rsp1-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f7c88ba0-fe5a-4021-82df-3f9448ea10a5</webElementGuid>
+      <webElementGuid>3c0cc85d-a353-4861-a1a0-fc517e025f25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>e7914fd7-5d09-4567-bac4-c4de5e4c18e6</webElementGuid>
+      <webElementGuid>d2354a37-0ae6-498b-88f8-713763b899a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-rsp1-container</value>
-      <webElementGuid>739c203e-6758-46f7-ba35-146d56b92fc6</webElementGuid>
+      <webElementGuid>78e98e75-75bd-4b47-8309-7589f856e950</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>a84d853c-140e-475d-984a-ee19f4251e61</webElementGuid>
+      <webElementGuid>3d559f41-faa0-43d3-9662-8fef06dace72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0ea3a15d-983d-492f-bee0-669be348507b</webElementGuid>
+      <webElementGuid>025ca295-08f0-4ace-ace0-e398d6de0895</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tahun</value>
-      <webElementGuid>270cb917-930c-4bf6-838a-f4cc56f25ca4</webElementGuid>
+      <webElementGuid>2c21c3f0-739b-4496-8ea3-f196f3816bd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-rsp1-container&quot;)</value>
-      <webElementGuid>bec7c702-495d-4dd1-8a57-03328ef23d42</webElementGuid>
+      <webElementGuid>a0f24666-a282-4667-9708-c6de16c819dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-rsp1-container']</value>
-      <webElementGuid>ae4f3110-fa63-4874-bdf2-492d90a1b2c2</webElementGuid>
+      <webElementGuid>6772afc4-a38b-433b-8180-4d421ad91d4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[3]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>94bcffed-59e7-4824-bc38-ed4f88683cc8</webElementGuid>
+      <webElementGuid>879bb347-db6e-4c24-bb68-b72a15e7efb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[4]</value>
-      <webElementGuid>5e7a9517-84cf-47f4-875f-c418cd9508a2</webElementGuid>
+      <webElementGuid>2cb8b931-be52-43ae-846d-cc8b5841601a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span</value>
-      <webElementGuid>e596c9a7-18a4-4490-88e4-05e0896ce1f5</webElementGuid>
+      <webElementGuid>c88501e4-faa0-4a96-965c-f8e5d80b7cb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-rsp1-container' and (text() = 'Tahun' or . = 'Tahun')]</value>
-      <webElementGuid>e60bf31e-9e77-4478-b400-dbebd3f4f352</webElementGuid>
+      <webElementGuid>5d052be1-0eee-42eb-a03a-e3fe46b05512</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

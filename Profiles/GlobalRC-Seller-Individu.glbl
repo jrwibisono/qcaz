@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>GlobalLive - Seller</name>
+   <name>GlobalRC-Seller-Individu</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
@@ -11,7 +11,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'081375696792'</initValue>
+      <initValue>'086087088020'</initValue>
       <name>User</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'katalon@gmail.com'</initValue>
+      <initValue>'qc.katalon01@gmail.com'</initValue>
       <name>UserCSTicketing</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -31,12 +31,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://cs.muatmuat.com/public/login'</initValue>
+      <initValue>'http://cs.azlogistik.id/public/public'</initValue>
       <name>URLCSTikceting</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://muatmuat.com/'</initValue>
+      <initValue>'http://bf.azlogistik.id/'</initValue>
       <name>URLMuatmuat</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -46,22 +46,22 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'DandyOto72'</initValue>
+      <initValue>'DandyOto88'</initValue>
       <name>UserDaftarWhitelist</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://muatmuat.com/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
+      <initValue>'https://rc.azlogistik.id/Security/login?BackURL=%2Fadmin%2Fpages%2F'</initValue>
       <name>URLCMS</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://bf.muatmuat.com/bigfleets/permintaanMuatAktifGrid'</initValue>
+      <initValue>'http://bf.azlogistik.id/bigfleets/permintaanMuatAktifGrid'</initValue>
       <name>URLPermintaanMuatAktif</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://tmlelang.muatmuat.com/lelang/lelangAktif'</initValue>
+      <initValue>'http://tmlelang.azlogistik.id/lelang/lelangAktif'</initValue>
       <name>URLListLelangMuatan</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>BtnSidebarLayananIklan</name>
+   <name>button_layanan-iklan</name>
    <tag></tag>
-   <elementGuidId>e5f6ef4c-d6bf-4864-8962-e020c0d91ea0</elementGuidId>
+   <elementGuidId>343db40e-cea4-4b81-ab9a-1c7448202846</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

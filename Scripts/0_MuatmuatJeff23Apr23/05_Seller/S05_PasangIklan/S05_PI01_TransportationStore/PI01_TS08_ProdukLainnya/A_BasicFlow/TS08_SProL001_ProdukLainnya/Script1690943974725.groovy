@@ -30,38 +30,61 @@ WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_Seller/div_Transportation Store'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_Seller/span_Produk Lainnya'))
+for (def row = 1; row <= findTestData('transportation_store_produk_lainnya').getRowNumbers(); row++) {
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_Seller/span_Produk Lainnya'))
 
-not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=47&KategoriID=52&sub_text=Produk%20Lainnya&layanan_text=Transportation%20Store&no')
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12'), 
+        findTestData('transportation_store_produk_lainnya').getValue(1, row))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12'), 
-    'Produk Lainnya Coba')
+    WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/UploadFotoProL1'), 
+        findTestData('transportation_store_produk_lainnya').getValue(2, row))
 
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/UploadFotoProL1'), 
-    'C://Users/USER/Downloads/ContohBan.jpg')
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Crop'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Crop'))
+    WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/UploadFotoProL2'), 
+        findTestData('transportation_store_produk_lainnya').getValue(3, row))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger'), 
-    '200000')
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Crop'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/textarea_text'), 
-    'Produk Lainnya Coba Deskripsi')
+    WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/UploadFotoProL3'), 
+        findTestData('transportation_store_produk_lainnya').getValue(4, row))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
-    'Surabaya')
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Crop'))
 
-WebUI.waitForJQueryLoad(60)
+    WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/UploadFotoProL4'), 
+        findTestData('transportation_store_produk_lainnya').getValue(5, row))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/div_Kec. Seputih Surabaya, Kab. Lampung Tengah'))
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Crop'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
+    WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/UploadFotoProL5'), 
+        findTestData('transportation_store_produk_lainnya').getValue(6, row))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Crop'))
+
+    WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/UploadVideoProL'), 
+        findTestData('transportation_store_produk_lainnya').getValue(7, row))
+
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger'), 
+        findTestData('transportation_store_produk_lainnya').getValue(8, row))
+
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/textarea_text'), 
+        findTestData('transportation_store_produk_lainnya').getValue(9, row))
+
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
+        findTestData('transportation_store_produk_lainnya').getValue(10, row))
+
+    WebUI.waitForJQueryLoad(60)
+
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/div_Kec. Seputih Surabaya, Kab. Lampung Tengah'))
+
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
+
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+}
 
