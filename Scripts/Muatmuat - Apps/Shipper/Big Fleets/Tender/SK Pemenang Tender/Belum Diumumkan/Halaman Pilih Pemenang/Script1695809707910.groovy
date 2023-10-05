@@ -17,16 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Big Fleets/Dashboard BF'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Big Fleets/Tender/SK Pemenang Tender/Belum Diumumkan/List'), [:])
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/Menu Instant Order'), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/SK Pemenang Tender/Belum Diumumkan/SingleChildScrollView'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Menu IPM'), 0)
+Mobile.swipe(720, 1400, 720, 800)
 
-if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Button Mengerti'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
-	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Button Mengerti'), 0)
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/SK Pemenang Tender/Belum Diumumkan/Button Pilih Pemenang'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/SK Pemenang Tender/Belum Diumumkan/Button Pilih Pemenang'), 0)
 }
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Aktif/Tab Aktif'), 0)
-
-//Mobile.closeApplication()

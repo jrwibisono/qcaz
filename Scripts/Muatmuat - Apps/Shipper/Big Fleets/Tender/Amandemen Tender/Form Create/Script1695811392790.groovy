@@ -17,16 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Big Fleets/Dashboard BF'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Big Fleets/Tender/Amandemen Tender/Buat Amandemen/List'), [:])
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/Menu Instant Order'), 0)
+Mobile.delay(GlobalVariable.Delay)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Menu IPM'), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/Amandemen Tender/Button Add Amandemen'), 0)
 
-if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Button Mengerti'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
-	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Button Mengerti'), 0)
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/Amandemen Tender/Card First Item'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Tender/Amandemen Tender/Card First Item'), 0)
 }
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Big Fleets/Instant Order/IPM/Aktif/Tab Aktif'), 0)
-
-//Mobile.closeApplication()

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>Button Lewati</name>
+   <name>First Card Item</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,15 +12,15 @@
       <name>class</name>
       <type>Main</type>
       <value>android.view.View</value>
-      <webElementGuid>ca9cf489-3b12-489c-be81-271a071af482</webElementGuid>
+      <webElementGuid>67557cba-93a1-4b26-9d9b-e642e018d440</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>index</name>
       <type>Main</type>
-      <value>5</value>
-      <webElementGuid>222b7de3-4c10-45fc-90b5-e91031727588</webElementGuid>
+      <value>0</value>
+      <webElementGuid>ea8790ee-db99-4be8-8ac7-4c74cb576520</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -28,15 +28,23 @@
       <name>package</name>
       <type>Main</type>
       <value>com.azlogistik.muatmuat</value>
-      <webElementGuid>b8bcc15b-6eca-4b7d-afcd-59dddfa5212a</webElementGuid>
+      <webElementGuid>acb3427a-819e-45c6-b61b-de83309c770c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>content-desc</name>
       <type>Main</type>
-      <value>LEWATI</value>
-      <webElementGuid>3a7876f9-0ba9-478a-ab9c-446ed838a045</webElementGuid>
+      <value>PT. Pras Pham
+25 Sep 2023 16:56 WIB
+Kota Bukittinggi - Kab. Musi Banyuasin, Kota Padang - Kota Pematangsiantar
+Periode : 25 Sep 2023 - 28 Sep 2023
+Kontrak Baru
+Kg
+pipa
+Pras Shipper
+KH/23/9JB/0000083</value>
+      <webElementGuid>d5831eb5-5e3d-4e14-b6de-29bb928712e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -44,7 +52,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0e68662e-f55c-42ab-8393-7629a638b185</webElementGuid>
+      <webElementGuid>821b6273-278d-4650-b71e-1e65570315fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -52,15 +60,15 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>dc126541-3cc7-4091-96fd-1c4df3ed2568</webElementGuid>
+      <webElementGuid>2499a561-5df0-436b-968d-ac6acdbae390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>clickable</name>
       <type>Main</type>
-      <value>true</value>
-      <webElementGuid>80b18a7c-563b-4300-8b1e-3aac5de6e541</webElementGuid>
+      <value>false</value>
+      <webElementGuid>cb59e6aa-ec6d-4f38-866c-743439c73a40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -68,7 +76,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>eeb86fd6-1fa1-4ec4-9e3c-2068649234d7</webElementGuid>
+      <webElementGuid>f6da7651-9454-43e0-ac5b-ec562e78ba64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -76,7 +84,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>00d07dc6-4be6-409e-af72-15205d597ea1</webElementGuid>
+      <webElementGuid>2db47934-8109-440d-8f32-efd818710e12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -84,7 +92,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>49cf68a5-d8ea-4017-abbf-d58356fb9942</webElementGuid>
+      <webElementGuid>45820cb0-7dd4-43e4-a5fb-780575eaaeeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -92,7 +100,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f482ba9b-30dc-492b-921e-5edee2a7caa8</webElementGuid>
+      <webElementGuid>05248e20-a16a-4c1c-a8f6-9c302b98785d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -100,7 +108,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8306c35e-1f67-4c74-a2f2-2b80acd4f3a6</webElementGuid>
+      <webElementGuid>3df2036e-a1eb-4fab-9b42-c00638268826</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -108,7 +116,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>8357b327-674d-4a1c-a1a6-d5338f807731</webElementGuid>
+      <webElementGuid>db6fb1fc-dc2f-4cb5-8c7f-595b633ee091</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -116,47 +124,47 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b4f50f63-89f3-4c56-ae3a-00ef012bd942</webElementGuid>
+      <webElementGuid>70f14009-7124-41a3-b645-edd8b73f74be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>807</value>
-      <webElementGuid>0b842539-8456-4d4f-b63a-8266d726056a</webElementGuid>
+      <value>48</value>
+      <webElementGuid>d59bb2a8-a219-4895-b539-859d179ed153</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1779</value>
-      <webElementGuid>957a1e0d-73ea-437a-8caa-8c1b419bf88b</webElementGuid>
+      <value>1218</value>
+      <webElementGuid>9f5b4a13-c85f-43fe-a107-fbf2a8211a5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>273</value>
-      <webElementGuid>d656c794-0f08-42fd-b30e-ee9fbee6fa08</webElementGuid>
+      <value>984</value>
+      <webElementGuid>d392f337-5d9c-4407-8e11-1fbd8fedd52c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>51</value>
-      <webElementGuid>7f2ec19e-612b-486c-9580-41ebbde228cb</webElementGuid>
+      <value>522</value>
+      <webElementGuid>2c7e9453-4010-4417-a018-b9ae91426498</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>bounds</name>
       <type>Main</type>
-      <value>[807,1779][1080,1830]</value>
-      <webElementGuid>20115cda-4ca2-4ab9-ad4a-78e4247e3acb</webElementGuid>
+      <value>[48,1218][1032,1740]</value>
+      <webElementGuid>143f1d8a-d1e7-4a0f-a28b-d37207b040cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -164,7 +172,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6ce9f7e9-740d-4eee-ba62-c9890a30db09</webElementGuid>
+      <webElementGuid>6091431d-527f-4771-86b4-c0c2934243a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -172,7 +180,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>02079121-9d11-4953-866c-c7eab9d88a12</webElementGuid>
+      <webElementGuid>94014fa3-a47a-4e16-8247-e6d75d2d96ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -180,16 +188,24 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>85aef229-2260-4d2f-b492-34554fff7b75</webElementGuid>
+      <webElementGuid>b28ceb55-190d-4aaf-93e1-8c908e911318</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[5]</value>
-      <webElementGuid>03cad625-fa60-4ac6-b773-3a9096bae571</webElementGuid>
+      <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.widget.FrameLayout[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[6]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[1]/android.view.View[2]/android.view.View[1]/android.view.View[1]</value>
+      <webElementGuid>2202358c-0193-417d-a6f3-a978db1c4cb7</webElementGuid>
    </webElementProperties>
-   <locator>LEWATI</locator>
+   <locator>PT. Pras Pham
+25 Sep 2023 16:56 WIB
+Kota Bukittinggi - Kab. Musi Banyuasin, Kota Padang - Kota Pematangsiantar
+Periode : 25 Sep 2023 - 28 Sep 2023
+Kontrak Baru
+Kg
+pipa
+Pras Shipper
+KH/23/9JB/0000083</locator>
    <locatorStrategy>ACCESSIBILITY</locatorStrategy>
 </MobileElementEntity>
