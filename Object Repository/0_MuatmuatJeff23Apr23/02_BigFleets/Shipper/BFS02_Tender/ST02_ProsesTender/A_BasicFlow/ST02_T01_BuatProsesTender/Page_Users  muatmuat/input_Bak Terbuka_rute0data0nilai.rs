@@ -6,12 +6,12 @@
    <elementGuidId>2a6cd751-4dac-49e2-a1d7-0517a3868716</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='nilai-0']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#nilai-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id=&quot;nilai-0&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>589e34ff-33c3-4615-b8d2-e5ad445a4633</webElementGuid>
+      <webElementGuid>fe11b186-9605-43dd-a936-de989959d34d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b557ffcc-69e4-436f-8654-ee14097752fe</webElementGuid>
+      <webElementGuid>9d9d9e00-2b3c-4ac6-b46e-a64dd6d7dbc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>rute[0][data][0][nilai]</value>
-      <webElementGuid>f096367c-8a80-4652-a2a3-e4d0b881aa12</webElementGuid>
+      <webElementGuid>af7e2704-d4ae-417c-878a-a75e8d4b407e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>nilai-0</value>
-      <webElementGuid>44f6e8f3-c549-4270-980f-45bf519253bf</webElementGuid>
+      <webElementGuid>6bd11cdd-c12b-4e8e-9442-f6292bd702cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>a35f549d-ecb8-45ea-9689-938625c0188b</webElementGuid>
+      <webElementGuid>5907b19a-6c83-4ce8-b3fc-4bfa891149ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-order</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>5aee3bbc-97b5-48fe-a775-0e3ea8c05154</webElementGuid>
+      <webElementGuid>3fb0c050-7ca6-44e0-a1b2-595b870f1710</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control format-number format-number-3-digit-after-comma fs-12 fc-1b ff-demi input-text-pratender nilai mr-8</value>
-      <webElementGuid>79b9b779-1ba8-44ad-98d4-80e3f563344b</webElementGuid>
+      <webElementGuid>0edaa5e2-abb9-4230-82e1-e20bbec28a52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nilai-0&quot;)</value>
-      <webElementGuid>040e066d-1217-4bc9-a149-ad3190aee9bf</webElementGuid>
+      <webElementGuid>7af61b6e-f914-4c47-976b-a2adcd6037cb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='nilai-0']</value>
-      <webElementGuid>d31b5602-97e3-43ca-9d08-6a8c3e7cdc04</webElementGuid>
+      <webElementGuid>e64de00a-9c6c-45af-85d1-e634917a0a5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='row-rute-0']/div[2]/input[3]</value>
-      <webElementGuid>4a077948-2386-49dc-8366-a78e5aadfa90</webElementGuid>
+      <webElementGuid>1e6d166b-63bd-4e8b-baa8-2d1d733922aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/input[3]</value>
-      <webElementGuid>7d922a29-2da3-4373-a2c6-eefa680f4360</webElementGuid>
+      <webElementGuid>2d14e476-e9d3-4b76-ae06-21cf0eeec5c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'rute[0][data][0][nilai]' and @id = 'nilai-0']</value>
-      <webElementGuid>758551b1-1de8-4be8-9e55-1e802690de47</webElementGuid>
+      <webElementGuid>f5847cd6-9369-475f-8e1d-f3fe93be074d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

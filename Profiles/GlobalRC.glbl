@@ -11,12 +11,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'dandy1@yopmail.com'</initValue>
+      <initValue>'muatmuat0000@yopmail.com'</initValue>
       <name>User</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Gundam00'</initValue>
+      <initValue>'Az1234567'</initValue>
       <name>User_Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -46,7 +46,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'DandyKatalon09'</initValue>
+      <initValue>'TokekKrispy'</initValue>
       <name>UserDaftarWhitelist</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

@@ -26,63 +26,119 @@ WebUI.waitForPageLoad(60)
 
 WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_Seller/span_Layanan Iklan (1)'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_Seller/span_Layanan Iklan (1)'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_Seller/div_Property  Warehouse (1)'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_Seller/div_Property  Warehouse (1)'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_Seller/span_Gudang Disewakan (1)'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_Seller/span_Perusahaan Lainnya'))
 
-not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=16&KategoriID=27&sub_text=Gudang%20Disewakan&layanan_text=Property%20%26%20Warehouse&no')
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Pasang Iklan'), 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Gunakan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Upload'), 
+    'C:\\Users\\Dandy\\Downloads\\Screenshot 2023-09-29 114211.jpg')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12'), 
-    'Gudang Disewakan Coba')
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/div__unchecked-icon'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__ff-medium fs-12'), 
+    'Citywalk Sudirman Lt. 3, JI. KH Mas Mansyur No. 121, RT 013/RW 011, Kel. Karet Tengsin, Kec. Tanah Abang, Central Jakarta, DKI Jakarta 10220')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/input__FormatFloat'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_Website_ff-medium fs-12'), 
+    'https://shipper.id/')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/input__FormatFloat_1'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/span_Masukkan Tahun Berdiri'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/input__FormatFloat_1_2'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_Crop_select2-search__field no-border'), 
+    '2017')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/span_Kendaraan Yang Dapat Lewat'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/opt_tahun_cari'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/span_Hadap'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/textarea_text'), 
+    'Shipper didirikan dengan ambisi yang tinggi: menyederhanakan sistem logistik yang kompleks di Indonesia. Upaya tersebut terus berlanjut hingga hari ini demi membentuk visi perusahaan menjadi penyedia solusi e-commerce no.1 dalam mendukung banyak bisnis di Indonesia dan kawasan lainnya.\nBerbekal ragam inovasi dan keahlian digital yang terdepan, kini kami semakin dekat dalam mewujudkan visi kami menjadi kenyataan. Melalui platform Shipper, kami membantu bisnis dalam mengelola pesanan dan mengoptimalkan rute pengiriman, sehingga membantu menyatukan infrastruktur logistik Indonesia yang terfragmentasi. Hal ini memudahkan pedagang untuk meningkatkan pertumbuhan mereka di era e-commerce.\nAtas komitmen kami terhadap inovasi, Shipper telah meraih penghargaan Most Innovative Asia-Pacific Companies by Fast Company di tahun 2022.')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/input__FormatFloat_1_2_3'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/textarea_text_1'), 
+    '- Agregator Logistik Domestik\n- Agregator Logistik Internasional\n- Manajemen Pergudangan\n- Kelola Toko Online\n- Integrasi API')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/span_Tahun Dibangun'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/textarea_text_1_2'), 
+    '24 Jam')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/span_Tahun Terakhir Renovasi'))
+not_run: WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
+    '')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/div__unchecked-icon_1'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/div__unchecked-icon_1'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
+    'Jakarta')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/div_Upload Foto'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Kec. Gambir, Kota Jakarta Pusat'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/button_Crop'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Atur Pin Lokasi'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_Alamat_searchBoxModalAddress0'), 
+    'Citywalk Sudirman Lt. 3, JI. KH Mas Mansyur No. 121')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/textarea_text'), 
-    'Gudang Sewa Deskripsi Coba')
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Jalan K.H. Mas Mansyur No.121, RT.1RW.5_a28dd8'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
-    'Kenjeran')
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/img'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/div_Kec. Kenjeran, Kota Surabaya'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Sertifikat'), 
+    'C:\\Users\\Dandy\\Downloads\\awards-01.jpeg')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'), 
-    'Kedungdoro 101, Surabaya, Jawa Timur')
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
+    'Top 2021 Startups Indonesia')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW02_GudangDisewakan/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Foto'), 
+    'C:\\Users\\Dandy\\Downloads\\banner-1.jpeg')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input__no-border fs-12 h-30 w-100'), 
+    'Anggota Kami')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Video'), 
+    'C:\\Users\\Dandy\\Downloads\\Shipper 4th Anniversary - Shipper Untuk Indonesia.mp4')
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_caption_video'), 
+    'Shipper 4th Anniversary')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Promo'), 
+    'C:\\Users\\Dandy\\Downloads\\Untitled.jpg')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_judul_promo'), 
+    'Kirim paket bisnis online lewat Shipper diskon 20%')
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_promo_deskripsi'), 
+    'Maksimalkan cuan bisnis online dengan kirim paket lewat Shipper.\nJaminan harga termurah yang beragam dan dapatkan potongan harga 20%')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Katalog Brosur'), 
+    'C:\\Users\\Dandy\\Downloads\\Screenshot 2023-09-29 105846.jpg')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_brosur_judul'), 
+    'Produk Kami')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/div_Upload File Testimoni'), 
+    'C:\\Users\\Dandy\\Downloads\\Screenshot 2023-09-29 110058.jpg')
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/button_Crop'))
+
+WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/input_testimoni_nama'), 
+    'Testimoni Klien Kami')
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/btn_unggah_iklan'))
+
+WebUI.waitForJQueryLoad(120)
+
+WebUI.waitForPageLoad(60)
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW04_PerusahaanLainnya/Page_LayananIklan/btn_kembali_halaman_awal'))
 

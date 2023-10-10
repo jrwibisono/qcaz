@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Profil Akun</name>
+   <tag></tag>
+   <elementGuidId>896b59ab-b762-41e1-98cc-0d97e35aa7dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='profil-seller']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#profil-seller</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aa6124cc-f744-4cd6-8517-39a792edbc60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-sidebar-child ff-demi-az fs-14 fc-gray cp</value>
+      <webElementGuid>10cac2ca-317b-45df-9811-db69557921fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>profil-seller</value>
+      <webElementGuid>d9821b23-9ec7-4302-9604-70fabfb03fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://iklan.azlogistik.id/manajemen-seller/ProfilSeller</value>
+      <webElementGuid>8b6b62c0-5e64-4657-b5d1-940f064703c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profil Akun</value>
+      <webElementGuid>51ac1716-df32-4e12-a2ad-0a22fb510108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profil-seller&quot;)</value>
+      <webElementGuid>2b855200-31c6-489a-a234-e46623cd3413</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='profil-seller']</value>
+      <webElementGuid>804042e2-a74b-4a53-88ac-64f159e0cf94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Profil Akun')]</value>
+      <webElementGuid>111de087-28be-40ea-9d74-24ecc167b868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Akun'])[1]/following::a[1]</value>
+      <webElementGuid>554f2e3e-3184-4afc-9622-99c3b0773cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property &amp; Warehouse'])[1]/following::a[2]</value>
+      <webElementGuid>079ccd17-e6c3-4975-ac87-ec734fa7daad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengaturan Akun'])[1]/preceding::a[1]</value>
+      <webElementGuid>abbb5fda-5006-41d5-ae27-b3552fbf3629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen User'])[1]/preceding::a[2]</value>
+      <webElementGuid>b9493332-f5f0-4ddf-9710-84a82e50ee52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Profil Akun']/parent::*</value>
+      <webElementGuid>8d3ac6a2-5dc9-4664-9006-232550bf2f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://iklan.azlogistik.id/manajemen-seller/ProfilSeller')]</value>
+      <webElementGuid>b4039d80-c8f9-4aa2-875b-352acc0e9f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/a</value>
+      <webElementGuid>3d477c46-1d1c-4734-a96d-1584f8219e27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'profil-seller' and @href = 'https://iklan.azlogistik.id/manajemen-seller/ProfilSeller' and (text() = 'Profil Akun' or . = 'Profil Akun')]</value>
+      <webElementGuid>643f727d-efaf-47d7-8320-46bbc92f9a8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
