@@ -25,7 +25,7 @@ Mobile.swipe(0, 1400, 0, 700)
 
 Mobile.delay(2)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Repair and Maintenance/Perusahaan Lainnya/Menu Perusahaan Lainnya'), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Repair and Maintenance/Perusahaan Lainnya/Menu'), 0)
 
 Mobile.delay(6)
 

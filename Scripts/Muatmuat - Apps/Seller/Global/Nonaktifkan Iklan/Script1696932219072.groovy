@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/List Iklan/Button Filter'), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/List Iklan/Filter/Button Filter'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/List Iklan/RadioButton Aktif'), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/List Iklan/Filter/RadioButton Aktif'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/List Iklan/Button Simpan'), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/List Iklan/Filter/Button Simpan'), 0)
 
 for (int i = 0; i < 999; i++) {
 	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/List Iklan/SingleChildScrollView'), 0)
