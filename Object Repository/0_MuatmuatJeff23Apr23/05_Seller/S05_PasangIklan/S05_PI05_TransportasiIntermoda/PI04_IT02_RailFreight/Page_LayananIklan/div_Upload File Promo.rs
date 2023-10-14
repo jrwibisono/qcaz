@@ -6,12 +6,12 @@
    <elementGuidId>1655f7ce-5566-48eb-adda-39534ee72f93</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.text-center.uploadFile</value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[14]/div[3]/div/div/div[1]/div[1]/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[14]/div[3]/div/div/div[1]/div[1]/input</value>
+         <key>CSS</key>
+         <value>div.text-center.uploadFile</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d345b403-030c-4568-92b3-4037e3f73ae0</webElementGuid>
+      <webElementGuid>3f563a63-2ae6-4a05-98ce-e845bc57e803</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-center uploadFile</value>
-      <webElementGuid>ea531c70-353e-4e24-90bd-e0727b376048</webElementGuid>
+      <webElementGuid>9b2c3cce-9e8a-4f79-a9f9-7b2c3004a642</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-hitung</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>320d060b-9fee-45ab-829b-1d4926997171</webElementGuid>
+      <webElementGuid>a10c519e-e757-4e82-8e1a-7a531344f661</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
 											
 											Upload File Promo
 										</value>
-      <webElementGuid>45509a44-9868-47cc-9459-7eaf231d0f76</webElementGuid>
+      <webElementGuid>1c31b741-b534-4186-addb-0390530b7401</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-12&quot;]/div[@class=&quot;d-flex flex-column PlusMinComponentContainer&quot;]/div[@class=&quot;PlusMinComponent d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;flex-center flex-middle FileUpload&quot;]/div[@class=&quot;text-center uploadFile&quot;]</value>
-      <webElementGuid>c5775e78-3c1f-4d47-a9f1-80e74e97ba5d</webElementGuid>
+      <webElementGuid>8e0e5283-dc2f-44c7-a762-7ebbff2b193f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[14]/div[3]/div/div/div/div/div</value>
-      <webElementGuid>58cc5cbb-27c9-44b6-8017-937194e1d809</webElementGuid>
+      <webElementGuid>b32fec7e-05c8-4d48-a7da-e87efd623594</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Format file harus JPG/PNG/SVG/WEBP'])[4]/following::div[6]</value>
-      <webElementGuid>c2f9b023-c18a-488b-868a-aed1305e3ad4</webElementGuid>
+      <webElementGuid>221ca0ba-c31b-4b2b-8c19-29e0e98bb37a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Judul Promo'])[1]/preceding::div[2]</value>
-      <webElementGuid>06bcf3f5-1fb2-4a05-8be3-9d3d9b8e62d0</webElementGuid>
+      <webElementGuid>46c9f546-c4e7-4400-9fab-e77fabc5bb0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[14]/div[3]/div/div/div/div/div</value>
-      <webElementGuid>47f8a24b-ef77-45e0-8336-cf8eb35871aa</webElementGuid>
+      <webElementGuid>e76b0b13-b881-4356-ac57-ca63ac280e8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
 											
 											Upload File Promo
 										')]</value>
-      <webElementGuid>11867502-03e4-4f83-b5fb-caba98ae1fcd</webElementGuid>
+      <webElementGuid>166239df-9359-4c36-bf83-2788cdff92fa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

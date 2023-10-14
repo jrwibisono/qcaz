@@ -30,9 +30,9 @@ WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_Seller/div_Transportation Store'))
 
-for (def row = 1; row <= findTestData('transportation_store_produk_lainnya').getRowNumbers(); row++) {
-    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_Seller/span_Produk Lainnya'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_Seller/span_Produk Lainnya'))
 
+for (def row = 1; row <= findTestData('transportation_store_produk_lainnya').getRowNumbers(); row++) {
     WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
 
     WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS08_ProdukLainnya/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))

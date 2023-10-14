@@ -24,129 +24,114 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_Seller/span_Places'))
 
-not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=49&KategoriID=53&sub_text=Places&layanan_text=Places%20%26%20Promo')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
-
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Upload'))
-
-WebUI.waitForPageLoad(120)
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFotoLogoPerusahaan'), 
-    'C://Users/USER/Downloads/RestAreaNgawi.jpeg')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/span_Pilih Kategori Iklan Anda'))
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/KategoriPlaces1'))
-
-not_run: WebUI.sendKeys(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/span_Pilih Kategori Iklan Anda'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Alamat_ff-medium fs-12'), 
-    'Kedungdoro 102, Surabaya, Jawa Timur')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Website_ff-medium fs-12'), 
-    'www.ryusejahterah.com')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/span_Masukkan Tahun Berdiri'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Website_ff-medium fs-12'), 
-    'www.ryusejahterah.com')
-
-WebUI.sendKeys(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Crop_select2-search__field no-border'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/textarea_text'), 
-    'Kami adalah perusahaan percobaan dalam Rest Area.')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/textarea_text_1'), 
-    'Setiap Hari, 00:00 - 24:00')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/textarea_text_1_2'), 
-    'Pelayan yang ramah dan penunjuk jalan yang jelas.')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
-    'Surabaya')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Kec. Seputih Surabaya, Kab. Lampung Tengah'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Atur Pin Lokasi'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Alamat_searchBoxModalAddress0'), 
-    'Surabaya')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Surabaya - Gempol Toll Road, Ketapang, _d147b5'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/img'))
-
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Upload File Sertifikat_1'))
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFileSertifikat'), 
-    'C://Users/USER/Downloads/RestAreaNgawi.jpeg')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'), 
-    'Sertifikat Rest Area Terbaik se-Jawa Timur 2018')
-
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Upload File Foto'))
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFotoPlaces'), 
-    'C://Users/USER/Downloads/RestAreaNgawi.jpeg')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Masukkan Caption_no-border fs-12 h-30 w-100'), 
-    'Food Court Rest Area')
-
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Upload File Video'))
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFileVideo'), 
-    'C://Users/USER/Downloads/REST AREA KM 754 & KM 753.mp4')
-
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/InputTextVideoPlaces'), 
-    'Video Tour Tempat Kami')
-
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Upload File Promo'))
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFilePromo'), 
-    'C://Users/USER/Downloads/RestAreaNgawi.jpeg')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input__no-border fs-12'), 
-    'Promo Pembukaan Area Baru')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/textarea_Deskripsi_component-input-border l_97f996'), 
-    'Promo terbaru, segera nikmati selama perayaan pembukaan area baru.')
-
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Upload File Katalog Brosur'))
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFileBrosur'), 
-    'C://Users/USER/Downloads/RestAreaNgawi.jpeg')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input__no-border fs-12_1'), 
-    'Perkenalan Rest Area Kami')
-
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Upload File Testimoni'))
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFileTestimoni'), 
-    'C://Users/USER/Downloads/RestAreaNgawi.jpeg')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Nama File_no-border fs-12 ff-medium'), 
-    'Testimoni Pelanggan Kami')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+for (def row = 1; row <= findTestData('places_promo_places').getRowNumbers(); row++) {
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
+	
+	WebUI.waitForPageLoad(120)
+	
+	WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFotoLogoPerusahaan'),
+		findTestData('places_promo_places').getValue(1, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/span_Pilih Kategori Iklan Anda'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/KategoriPlaces1'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Alamat_ff-medium fs-12'),
+		findTestData('places_promo_places').getValue(2, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Website_ff-medium fs-12'),
+		findTestData('places_promo_places').getValue(3, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/span_Masukkan Tahun Berdiri'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Website_ff-medium fs-12'),
+		findTestData('places_promo_places').getValue(4, row))
+	
+	WebUI.sendKeys(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Crop_select2-search__field no-border'),
+		Keys.chord(Keys.ENTER))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/textarea_text'),
+		findTestData('places_promo_places').getValue(5, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/textarea_text_1'),
+		findTestData('places_promo_places').getValue(6, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/textarea_text_1_2'),
+		findTestData('places_promo_places').getValue(7, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'),
+		findTestData('places_promo_places').getValue(8, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Kec. Seputih Surabaya, Kab. Lampung Tengah'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Atur Pin Lokasi'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Alamat_searchBoxModalAddress0'),
+		findTestData('places_promo_places').getValue(9, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/div_Surabaya - Gempol Toll Road, Ketapang, _d147b5'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/img'))
+	
+	WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFileSertifikat'),
+		findTestData('places_promo_places').getValue(10, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'),
+		findTestData('places_promo_places').getValue(11, row))
+	
+	WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFotoPlaces'),
+		findTestData('places_promo_places').getValue(12, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Masukkan Caption_no-border fs-12 h-30 w-100'),
+		findTestData('places_promo_places').getValue(13, row))
+	
+	WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFileVideo'),
+		findTestData('places_promo_places').getValue(14, row))
+	
+	WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/InputTextVideoPlaces'),
+		findTestData('places_promo_places').getValue(15, row))
+	
+	WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFilePromo'),
+		findTestData('places_promo_places').getValue(16, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input__no-border fs-12'),
+		findTestData('places_promo_places').getValue(17, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/textarea_Deskripsi_component-input-border l_97f996'),
+		findTestData('places_promo_places').getValue(18, row))
+	
+	WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFileBrosur'),
+		findTestData('places_promo_places').getValue(19, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input__no-border fs-12_1'),
+		findTestData('places_promo_places').getValue(20, row))
+	
+	WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/UploadFileTestimoni'),
+		findTestData('places_promo_places').getValue(21, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/input_Nama File_no-border fs-12 ff-medium'),
+		findTestData('places_promo_places').getValue(22, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP01_Places/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+	
+	
+}
 

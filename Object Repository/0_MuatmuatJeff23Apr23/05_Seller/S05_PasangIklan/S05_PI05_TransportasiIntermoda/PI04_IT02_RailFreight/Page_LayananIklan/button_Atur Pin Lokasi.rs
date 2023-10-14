@@ -6,12 +6,12 @@
    <elementGuidId>912db43e-8b05-4edb-8ae0-0516dc5241f6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn-primary.btn-flex.showMapsModal.w-100.mt-8.ff-demi.fs-14</value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[10]/div[3]/div[1]/div/button[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[12]</value>
+         <key>CSS</key>
+         <value>button.btn-primary.btn-flex.showMapsModal.w-100.mt-8.ff-demi.fs-14</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>15f04605-e1ff-4c40-9795-7acfdacc6489</webElementGuid>
+      <webElementGuid>131725c8-4156-4fca-9436-e509151a0e32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e989dcef-531a-496e-b949-6c4925dca593</webElementGuid>
+      <webElementGuid>47af63f6-3dbb-4aa7-bc7b-b709d14ad5f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-primary btn-flex showMapsModal w-100 mt-8 ff-demi fs-14</value>
-      <webElementGuid>914ce16c-8f21-416b-b17d-1f4cacf3038b</webElementGuid>
+      <webElementGuid>9b9ed6da-c0f6-41f9-88ce-dca3e68bc434</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-idmodal</name>
       <type>Main</type>
       <value>#mapsModalnya0</value>
-      <webElementGuid>084b0472-455d-4f4c-98b8-d29a9397508a</webElementGuid>
+      <webElementGuid>0bcf4a1b-3955-4f2f-8690-1cf03cc6350a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Atur Pin Lokasi</value>
-      <webElementGuid>7d3a6ee4-0228-4b05-b649-07b3cbc70e57</webElementGuid>
+      <webElementGuid>d490a841-c0fe-4399-9675-407eed3a05b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;allMaps w-100 mt-8&quot;]/div[@class=&quot;row mx-0&quot;]/div[1]/button[@class=&quot;btn-primary btn-flex showMapsModal w-100 mt-8 ff-demi fs-14&quot;]</value>
-      <webElementGuid>b4f4ed50-603b-4231-8313-858a23098cf3</webElementGuid>
+      <webElementGuid>efa1b98f-9649-407a-a43d-4b4471389e2e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[12]</value>
-      <webElementGuid>84085c58-a652-48f3-8d53-50cbc0e866db</webElementGuid>
+      <webElementGuid>6a494beb-a334-400a-9587-db86fd02fc98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[10]/div[3]/div/div/button</value>
-      <webElementGuid>68328868-b873-4774-95ca-62060e83d5f6</webElementGuid>
+      <webElementGuid>544ec3a5-953c-4152-ae21-5a98c80d0410</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporkan kesalahan peta'])[1]/following::button[1]</value>
-      <webElementGuid>451093fd-fd40-4c2e-8329-cfdd0ef28946</webElementGuid>
+      <webElementGuid>847fcda1-352f-47b8-ad4a-f8fde62e7b33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Persyaratan'])[1]/following::button[1]</value>
-      <webElementGuid>092f420b-ccd4-4838-82c3-838c32703a53</webElementGuid>
+      <webElementGuid>50d163bc-bd87-40eb-b512-08e559acb3e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[1]/preceding::button[1]</value>
-      <webElementGuid>7a9b3c50-0234-400b-bbeb-28abe8becd38</webElementGuid>
+      <webElementGuid>d77a0ec1-33a4-4397-92e3-ec504148078e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[1]/preceding::button[3]</value>
-      <webElementGuid>2ffc7e09-1926-4ce3-aa6a-c03558e44fb0</webElementGuid>
+      <webElementGuid>2ac34138-c282-4e74-a8d9-5f0ea1ba2340</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Atur Pin Lokasi']/parent::*</value>
-      <webElementGuid>a4a71053-cbab-423f-b508-1b14bf7aa6a2</webElementGuid>
+      <webElementGuid>6f63fe1c-ad40-4751-8972-460a608aec07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/button</value>
-      <webElementGuid>ccdb12ad-a92a-4383-922a-79d51dc9324d</webElementGuid>
+      <webElementGuid>58bea131-dcf7-4c8c-a838-e9ff578ef314</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Atur Pin Lokasi' or . = 'Atur Pin Lokasi')]</value>
-      <webElementGuid>d9559dee-0f97-4729-ac35-33d88526eb7b</webElementGuid>
+      <webElementGuid>289e1545-a0ff-47f4-9ebb-a3f3a7d966ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

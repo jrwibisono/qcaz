@@ -24,70 +24,70 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_Seller/span_Promo KotaKabupaten'))
 
-not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=50&KategoriID=54&sub_text=Promo%20Kota/Kabupaten&layanan_text=Places%20%26%20Promo')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
-
-WebUI.waitForPageLoad(60)
-
-WebUI.waitForJQueryLoad(60)
-
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/InputJudulPromo'), 
-    'Promo Rest Area Surabaya')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/span_Pilih Kategori'))
-
-WebUI.waitForJQueryLoad(60)
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/InputCariKategori'))
-
-WebUI.waitForJQueryLoad(60)
-
-WebUI.sendKeys(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/InputCariKategori'), 
-    Keys.chord(Keys.ENTER))
-
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/InputTanggalPeriodeMulai'), 
-    '28072023')
-
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/InputTanggalPeriodeAkhir'), 
-    '31082023')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'), 
-    'Kedungdoro 101, Kota Surabaya, Jawa Timur')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1_2'), 
-    'Surabaya')
-
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/div_Unggah File Foto Promo'))
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/UploadImg1'), 
-    'C://Users/USER/Downloads/RestAreaNgawi.jpeg')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/button_Crop'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger'), 
-    '500000')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger_1'), 
-    '250000')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/div_Pasang IklanPlaces  Promo Promo KotaKab_0d2ca8'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/textarea_text'), 
-    'Dapatkan Promo Merdeka selama akhir Juli hingga akhir Agustus ini!')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
-    'Surabaya')
-
-WebUI.waitForJQueryLoad(60)
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/div_Kota Surabaya'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+for (def row = 1; row <= findTestData('places_promo_promo_kota_kabupaten').getRowNumbers(); row++) {
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
+	
+	WebUI.waitForPageLoad(60)
+	
+	WebUI.waitForJQueryLoad(60)
+	
+	WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/InputJudulPromo'),
+		findTestData('places_promo_promo_kota_kabupaten').getValue(1, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/span_Pilih Kategori'))
+	
+	WebUI.waitForJQueryLoad(60)
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/InputCariKategori'))
+	
+	WebUI.waitForJQueryLoad(60)
+	
+	WebUI.sendKeys(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/InputCariKategori'),
+		Keys.chord(Keys.ENTER))
+	
+	WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/InputTanggalPeriodeMulai'),
+		findTestData('places_promo_promo_kota_kabupaten').getValue(2, row))
+	
+	WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/InputTanggalPeriodeAkhir'),
+		findTestData('places_promo_promo_kota_kabupaten').getValue(3, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'),
+		findTestData('places_promo_promo_kota_kabupaten').getValue(4, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1_2'),
+		findTestData('places_promo_promo_kota_kabupaten').getValue(5, row))
+	
+	WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/UploadImg1'),
+		findTestData('places_promo_promo_kota_kabupaten').getValue(6, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger'),
+		findTestData('places_promo_promo_kota_kabupaten').getValue(7, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger_1'),
+		findTestData('places_promo_promo_kota_kabupaten').getValue(8, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/div_Pasang IklanPlaces  Promo Promo KotaKab_0d2ca8'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/textarea_text'),
+		findTestData('places_promo_promo_kota_kabupaten').getValue(9, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'),
+		findTestData('places_promo_promo_kota_kabupaten').getValue(10, row))
+	
+	WebUI.waitForJQueryLoad(60)
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/div_Kota Surabaya'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP02_PromoKabupatenKota/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+	
+	
+}
 

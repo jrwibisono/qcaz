@@ -32,61 +32,61 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_Seller/span_Gudang Dijual'))
 
-not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=15&KategoriID=26&sub_text=Gudang%20Dijual&layanan_text=Property%20%26%20Warehouse&no')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
-
-not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/pasangIklan?SubKategoriID=15&KategoriID=26&sub_text=Gudang%20Dijual&layanan_text=Property%20%26%20Warehouse&detail_pembelian=23798')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'), 
-    'Coba Gudang Dijual')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div__unchecked-icon'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/span_Kendaraan Yang Dapat Lewat'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/span_Hadap'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/span_Tahun Dibangun'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/span_Tahun terakhir renovasi'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div__unchecked-icon_1'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div__unchecked-icon_1'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div__unchecked-icon_1_2'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div_Upload Foto'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/button_Crop'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/textarea_text'), 
-    'Deskripsi Gudang Dijual')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'), 
-    'Surabaya')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div_Kec. Seputih Surabaya, Kab. Lampung Tengah'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'), 
-    'Kedungdoro 101, Surabaya, Jawa Timur')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+for (def row = 1; row <= findTestData('property_warehouse_gudang_dijual').getRowNumbers(); row++) {
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'),
+		findTestData('property_warehouse_gudang_dijual').getValue(1, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div__unchecked-icon'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/span_Kendaraan Yang Dapat Lewat'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/span_Hadap'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/span_Tahun Dibangun'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/span_Tahun terakhir renovasi'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div__unchecked-icon_1'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div__unchecked-icon_1'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div__unchecked-icon_1_2'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div_Upload Foto'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/textarea_text'),
+		findTestData('property_warehouse_gudang_dijual').getValue(2, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'),
+		findTestData('property_warehouse_gudang_dijual').getValue(3, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/div_Kec. Seputih Surabaya, Kab. Lampung Tengah'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'),
+		findTestData('property_warehouse_gudang_dijual').getValue(4, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI02_PropertyWarehouse/PI02_PW01_GudangDijual/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+	
+	
+}
 

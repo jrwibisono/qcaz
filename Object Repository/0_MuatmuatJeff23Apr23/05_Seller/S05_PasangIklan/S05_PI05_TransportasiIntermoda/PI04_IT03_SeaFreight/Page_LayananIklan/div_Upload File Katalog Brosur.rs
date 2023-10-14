@@ -6,12 +6,12 @@
    <elementGuidId>0c89e904-c706-4935-90cd-ffa55b67ca51</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.text-center.uploadFile</value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[17]/div[2]/div/div/div[1]/div[1]/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='PasangIklanForm']/div[17]/div[2]/div/div/div/div/div</value>
+         <key>CSS</key>
+         <value>div.text-center.uploadFile</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e1c810a2-888c-4a89-bdce-e4f6ec265353</webElementGuid>
+      <webElementGuid>ddfb4492-51c0-4aab-af68-45ec18817d9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-center uploadFile</value>
-      <webElementGuid>0956749e-62a4-4421-b92b-5f2ca035b539</webElementGuid>
+      <webElementGuid>fe0fda8e-dc6e-4033-a364-01dbd4c956e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-hitung</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>9ebd3134-55be-48af-8767-b248f326b556</webElementGuid>
+      <webElementGuid>cdcd2e8c-2c65-437e-8ede-968d0a4f0c8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
 											
 											Upload File Katalog Brosur
 										</value>
-      <webElementGuid>3b83e5e4-8fe8-4d06-a3be-d7bc01694396</webElementGuid>
+      <webElementGuid>922df996-b76d-410f-ba26-cdd6e94637c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-12&quot;]/div[@class=&quot;d-flex flex-column PlusMinComponentContainer&quot;]/div[@class=&quot;PlusMinComponent d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;flex-center flex-middle FileUpload&quot;]/div[@class=&quot;text-center uploadFile&quot;]</value>
-      <webElementGuid>09bbfe6d-288d-4029-852a-30941e57eddc</webElementGuid>
+      <webElementGuid>30b499a6-0bca-4fec-b591-496a09ea0c80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[17]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>b1b77791-b965-4e4d-af85-a430e16fa35e</webElementGuid>
+      <webElementGuid>141bc07e-1096-4873-877f-66d840aff3cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Brosur'])[1]/following::div[6]</value>
-      <webElementGuid>6cc1af70-44c8-4611-8a04-75d804055a1a</webElementGuid>
+      <webElementGuid>213a6479-9697-4c39-b450-cd14e0e8e7ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[4]/following::div[9]</value>
-      <webElementGuid>afa99f03-696b-4f20-a1e5-ad4365313e50</webElementGuid>
+      <webElementGuid>7ad62da7-63a3-4e25-8811-17b1f2618fa7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Judul Katalog / Brosur'])[1]/preceding::div[2]</value>
-      <webElementGuid>b46d158a-5523-4011-bb93-6014b8d0822f</webElementGuid>
+      <webElementGuid>0fbe13f4-83aa-4a76-b528-d59ae1af81b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[17]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>9d8f1ca8-a682-47da-815e-3ff00afd5602</webElementGuid>
+      <webElementGuid>1017163c-906b-43ea-9ad0-6b878ca9eb6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
 											
 											Upload File Katalog Brosur
 										')]</value>
-      <webElementGuid>6c695789-ec0d-4995-b1d6-74fcc577a030</webElementGuid>
+      <webElementGuid>db1c73db-49a6-4bed-b039-36167ae10ff4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
