@@ -23,6 +23,8 @@ if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/
 	Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni, Portofolio Pelanggan, Pelayanan'), GlobalVariable.Caption, 60)
 } else if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
 	Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni'), GlobalVariable.Caption, 60)
+} else if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Nama File'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Nama File'), GlobalVariable.Caption, 60)
 }
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Pilih File'), 0)
