@@ -6,12 +6,12 @@
    <elementGuidId>3e19bfdc-6676-4ebc-a046-4e0a5f17bb80</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[16]/div[3]/div/div/div[1]/div[1]/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.text-center.uploadFile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[16]/div[3]/div/div/div[1]/div[1]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b2477187-1559-4147-a5d3-f1e523327c6f</webElementGuid>
+      <webElementGuid>f7d488be-c970-4f5d-8377-10d643066c25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-center uploadFile</value>
-      <webElementGuid>f372d63e-a989-457e-af59-453d943152d4</webElementGuid>
+      <webElementGuid>d4ca4689-de97-4d57-b0bc-1044f96ddf8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-hitung</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>7bd28120-14db-4eae-8295-e955bce313b8</webElementGuid>
+      <webElementGuid>00e5016a-95c2-4dc1-b482-3347eb207c7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
 											
 											Upload File Testimoni
 										</value>
-      <webElementGuid>a0374ece-7a6b-498c-811c-2256e29bc587</webElementGuid>
+      <webElementGuid>31ec02a3-1873-4bf7-b614-c920de154539</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-12&quot;]/div[@class=&quot;d-flex flex-column PlusMinComponentContainer&quot;]/div[@class=&quot;PlusMinComponent d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;flex-center flex-middle FileUpload&quot;]/div[@class=&quot;text-center uploadFile&quot;]</value>
-      <webElementGuid>1055c345-25ec-47e8-82b0-ac6fc132047b</webElementGuid>
+      <webElementGuid>45434566-7846-46ca-8f14-d35924ab21db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[16]/div[3]/div/div/div/div/div</value>
-      <webElementGuid>1af27d48-28c4-4f3f-a31e-f2128e25fdf3</webElementGuid>
+      <webElementGuid>8e93e059-fe92-4a78-b5d8-b44578e23b09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Format file harus PDF/DOCX/JPG/PNG/SVG/WEBP'])[1]/following::div[6]</value>
-      <webElementGuid>1f796386-b861-4acd-a5ca-f94163fe9d54</webElementGuid>
+      <webElementGuid>54e46acb-c5c1-4316-b621-044a621464fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama File'])[1]/preceding::div[2]</value>
-      <webElementGuid>7d5aa459-a94f-489e-81e7-a7b1b78ddbc4</webElementGuid>
+      <webElementGuid>21857c91-5977-4ea6-b56d-bfd0e645855c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[16]/div[3]/div/div/div/div/div</value>
-      <webElementGuid>1b10e4a8-d4cf-4130-a007-69e7c21f912b</webElementGuid>
+      <webElementGuid>a3eebe7a-37bc-47bb-814a-b73385ed3c36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
 											
 											Upload File Testimoni
 										')]</value>
-      <webElementGuid>8fb5f72f-9802-404f-b69f-5f52c64d700a</webElementGuid>
+      <webElementGuid>937619ff-d4e6-45cc-be10-da760f83754f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
