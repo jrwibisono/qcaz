@@ -21,7 +21,7 @@ Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Login'), [:]
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/SingleChildScrollView'), 0)
 
-Mobile.swipe(0, 1400, 0, 700)
+Mobile.swipe(0, 1400, 0, 600)
 
 Mobile.delay(2)
 
@@ -29,10 +29,12 @@ Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Repair and M
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 1/Button Buat Iklan'), 0)
 
-for (int i = 0; i < GlobalVariable.TotalLoop; i++) {
+TestData data = findTestData("repair_maintenance_produk_lainnya")
+
+for (int i = 1; i <= data.getRowNumbers(); i++) {
 	Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 1'), [:])
 	
-	Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Repair and Maintenance/Produk Lainnya/Pasang Iklan/Step 2'), [:])
+	Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Repair and Maintenance/Produk Lainnya/Pasang Iklan/Step 2'), [('data'): data, ('row'): i])
 	
 	if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Notifikasi'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
 		Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Notifikasi'), 0)
@@ -40,3 +42,15 @@ for (int i = 0; i < GlobalVariable.TotalLoop; i++) {
 		Mobile.pressBack()
 	}
 }
+
+//for (int i = 0; i < GlobalVariable.TotalLoop; i++) {
+//	Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 1'), [:])
+//	
+//	Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Repair and Maintenance/Produk Lainnya/Pasang Iklan/Step 2'), [:])
+//	
+//	if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Notifikasi'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+//		Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Notifikasi'), 0)
+//		
+//		Mobile.pressBack()
+//	}
+//}

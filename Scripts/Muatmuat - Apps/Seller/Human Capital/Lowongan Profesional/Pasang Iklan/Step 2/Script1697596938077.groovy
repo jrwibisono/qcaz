@@ -17,25 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Judul Lowongan'), GlobalVariable.Title, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Judul Lowongan'), data.getValue(1, row), 60)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Upload'), 0)
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Upload Photo'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Upload Photo'), [('filename'): data.getValue(2, row)])
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/ScrollView'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Kualifikasi'), GlobalVariable.Caption, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Kualifikasi'), data.getValue(3, row), 60)
 
 Mobile.swipe(0, 1400, 0, 935)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Ketrampilan Wajib'), GlobalVariable.Caption, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Ketrampilan Wajib'), data.getValue(4, row), 60)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown Tingkat Pendidikan'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/ListItem Dropdown'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Minimum Pengalaman'), GlobalVariable.Age, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Minimum Pengalaman'), data.getValue(6, row), 60)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown Tingkat Jabatan'), 0)
 
@@ -45,11 +45,11 @@ Mobile.swipe(0, 1400, 0, 985)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Chip Jenis Kelamin'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Dibuka untuk umur'), GlobalVariable.Age, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Dibuka untuk umur'), data.getValue(9, row), 60)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Dibuka untuk umur (1)'), GlobalVariable.Age, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Dibuka untuk umur (1)'), data.getValue(10, row), 60)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Tunjangan'), GlobalVariable.Caption, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Tunjangan'), data.getValue(11, row), 60)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown Tipe Pekerjaan'), 0)
 
@@ -67,9 +67,9 @@ Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang 
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Popup Date OK'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Tentang Perusahaan (1)'), GlobalVariable.About, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Tentang Perusahaan (1)'), data.getValue(15, row), 60)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Alamat Perusahaan (2)'), GlobalVariable.Address, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Alamat Perusahaan (2)'), data.getValue(16, row), 60)
 
 Mobile.swipe(0, 1400, 0, 925)
 
@@ -85,15 +85,15 @@ Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasan
 
 Mobile.swipe(0, 1400, 0, 1000)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Estimasi Gaji'), GlobalVariable.Salary, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Estimasi Gaji'), data.getValue(20, row), 60)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Estimasi Gaji (1)'), GlobalVariable.Salary, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Estimasi Gaji (1)'), data.getValue(21, row), 60)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Deskripsi (2)'), GlobalVariable.Caption, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Deskripsi (2)'), data.getValue(22, row), 60)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown Lokasi Penempatan'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Lokasi Penempatan'), GlobalVariable.City, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Lokasi Penempatan'), data.getValue(23, row), 60)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/ListItem Lokasi Penempatan'), 0)
 

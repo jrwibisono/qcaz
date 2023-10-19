@@ -29,10 +29,12 @@ Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Human Capita
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 1/Button Buat Iklan'), 0)
 
-for (int i = 0; i < GlobalVariable.TotalLoop; i++) {
+TestData data = findTestData("human_capital_hr_consultant_and_training")
+
+for (int i = 1; i <= data.getRowNumbers(); i++) {
 	Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 1'), [:])
 	
-	Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Human Capital/HR Consultant and Training/Pasang Iklan/Step 2'), [:])
+	Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Human Capital/HR Consultant and Training/Pasang Iklan/Step 2'), [('data'): data, ('row'): i])
 	
 	if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Notifikasi'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
 		Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Notifikasi'), 0)

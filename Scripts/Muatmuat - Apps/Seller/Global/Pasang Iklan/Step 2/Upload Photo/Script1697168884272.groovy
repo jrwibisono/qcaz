@@ -19,6 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Upload Photo/Button Gallery'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Upload Photo/android.widget.TextView - ' + GlobalVariable.ImageFilename), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Upload Photo/android.widget.TextView - ' + filename), 0)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Upload Photo/Button Submit Image'), 0)

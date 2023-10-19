@@ -29,7 +29,7 @@ Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Login/an
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Login/Button Login'), 0)
 
-Mobile.delay(2)
+Mobile.delay(4)
 
 //if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Login/android.widget.ScrollView'), GlobalVariable.Timeout, FailureHandling.OPTIONAL) ) {
 //	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Login/android.widget.ScrollView'), 0)

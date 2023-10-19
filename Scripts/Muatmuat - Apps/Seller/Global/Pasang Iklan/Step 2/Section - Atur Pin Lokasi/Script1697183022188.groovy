@@ -21,7 +21,7 @@ Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang 
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Cari Alamat'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Cari Alamat'), GlobalVariable.Address, 60)
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Cari Alamat'), address, 60)
 
 Mobile.delay(GlobalVariable.Delay)
 
