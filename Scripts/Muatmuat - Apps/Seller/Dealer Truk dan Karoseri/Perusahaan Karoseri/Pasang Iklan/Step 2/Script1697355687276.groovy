@@ -23,7 +23,7 @@ Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasan
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/ScrollView'), 0)
 
-Mobile.swipe(0, 1400, 0, 1100)
+Mobile.swipe(0, 1400, 0, 1000)
 
 Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Alamat Perusahaan (1)'), GlobalVariable.Address, 60)
 
@@ -35,17 +35,17 @@ Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang 
 
 Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Tentang Perusahaan'), GlobalVariable.About, 60)
 
-Mobile.swipe(0, 1400, 0, 950)
-
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Chip Jenis Karoseri yang Dilayani'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukan Kelebihan'), GlobalVariable.Advantage, 60)
+Mobile.swipe(0, 1400, 0, 900)
+
+Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Kelebihan'), GlobalVariable.Advantage, 60)
 
 Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Ex  Senin - Jumat, pukul XXXX - XXXX'), GlobalVariable.OperationalTime, 60)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown Lokasi Iklan 2'), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown Lokasi Iklan'), 0)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/ListItem Lokasi Iklan'), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/ListItem Lokasi Iklan (1)'), 0)
 
 Mobile.swipe(0, 1400, 0, 1000)
 
@@ -55,7 +55,7 @@ Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasan
 
 Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Foto'), [:])
 
-Mobile.swipe(0, 1400, 0, 1000)
+Mobile.swipe(0, 1400, 0, 950)
 
 Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Video'), [:])
 

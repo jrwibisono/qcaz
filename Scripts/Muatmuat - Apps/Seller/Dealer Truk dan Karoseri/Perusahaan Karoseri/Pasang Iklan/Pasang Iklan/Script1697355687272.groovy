@@ -34,7 +34,9 @@ for (int i = 0; i < GlobalVariable.TotalLoop; i++) {
 	
 	Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Dealer Truk dan Karoseri/Perusahaan Karoseri/Pasang Iklan/Step 2'), [:])
 	
-	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Notifikasi'), 0)
-	
-	Mobile.pressBack()
+	if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Notifikasi'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+		Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Notifikasi'), 0)
+		
+		Mobile.pressBack()
+	}
 }

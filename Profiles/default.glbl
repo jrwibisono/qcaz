@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'D:\\Work\\AZlogistik\\Project\\Katalon\\Apk\\muatmuatSellerRC_0410202301.apk'</initValue>
+      <initValue>'D:\\Katalon muatmuat\\Apk\\muatmuatSellerRC_0410202301.apk'</initValue>
       <name>Apk</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -78,5 +78,25 @@
       <description></description>
       <initValue>'VID-20231001-WA0004.mp4'</initValue>
       <name>VideoFilename</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Title'</initValue>
+      <name>Title</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'18'</initValue>
+      <name>Age</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1500000'</initValue>
+      <name>Salary</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Surabaya'</initValue>
+      <name>City</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
