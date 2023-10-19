@@ -30,55 +30,51 @@ WebUI.waitForJQueryLoad(60)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_Seller/span_Ban, Aki, Oli (1)'))
 
-not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=36&KategoriID=48&sub_text=Ban,%20Aki,%20Oli&layanan_text=Transportation%20Store&no')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan (2)'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/img (2)'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/button_Pilih (2)'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku (2)'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/button_Gunakan (2)'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12 (2)'), 
-    'Oli Truk Coba')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/span_Masukkan Jenis Oli Anda_1'))
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/OpsiJenisOli1'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1 (1)'), 
-    'Top 1')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1_2 (1)'), 
-    'SAE 80')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__FormatFloat (1)'), 
-    '20')
-
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__FormatFloat (1)'))
-
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/div_Masukkan Gambar (2)'))
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/UploadImgOli1'), 
-    'C://Users/USER/Downloads/ContohOli.jpg')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/button_Crop (2)'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger (2)'), 
-    '800000')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/textarea_text (2)'), 
-    'Oli bermutu dari merk Top 1')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b (2)'), 
-    'Surabaya')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/div_Kec. Seputih Surabaya, Kab. Lampung Tengah (2)'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan (2)'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal (2)'))
+for (def row = 1; row <= findTestData('transportation_store_oli').getRowNumbers(); row++) {
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan (2)'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/img (2)'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/button_Pilih (2)'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku (2)'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/button_Gunakan (2)'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12 (2)'),
+		findTestData('transportation_store_oli').getValue(1, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/span_Masukkan Jenis Oli Anda_1'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/OpsiJenisOli1'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1 (1)'),
+		findTestData('transportation_store_oli').getValue(2, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1_2 (1)'),
+		findTestData('transportation_store_oli').getValue(3, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__FormatFloat (1)'),
+		findTestData('transportation_store_oli').getValue(4, row))
+	
+	WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/UploadImgOli1'),
+		findTestData('transportation_store_oli').getValue(5, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/button_Crop (2)'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger (2)'),
+		findTestData('transportation_store_oli').getValue(6, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/textarea_text (2)'),
+		findTestData('transportation_store_oli').getValue(7, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b (2)'),
+		findTestData('transportation_store_oli').getValue(8, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/div_Kec. Seputih Surabaya, Kab. Lampung Tengah (2)'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan (2)'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS02_BanAkiOli/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal (2)'))
+}
 

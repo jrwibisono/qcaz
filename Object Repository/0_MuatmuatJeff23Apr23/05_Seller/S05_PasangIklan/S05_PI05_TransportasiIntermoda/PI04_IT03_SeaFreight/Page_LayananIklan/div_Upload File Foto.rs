@@ -6,12 +6,12 @@
    <elementGuidId>8ddfd594-9749-4f30-98dd-b5352e94bfa7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.text-center.uploadFile</value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[14]/div[2]/div/div/div[1]/div[1]/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='PasangIklanForm']/div[14]/div[2]/div/div/div/div/div</value>
+         <key>CSS</key>
+         <value>div.text-center.uploadFile</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ca7fed82-8775-48db-8371-ee2615d77101</webElementGuid>
+      <webElementGuid>efa94c8e-b992-4cb9-a578-809e47c22d50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-center uploadFile</value>
-      <webElementGuid>26ea9ec7-2f5e-4e3e-9f3e-4be29ce9355a</webElementGuid>
+      <webElementGuid>01dd4386-b426-44b0-bcbd-aaa9f4db2061</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-hitung</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>bf7bd902-6685-4531-8822-7f0afb48bf85</webElementGuid>
+      <webElementGuid>12af3717-2709-4383-8dfe-8f10d44718f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
 											
 											Upload File Foto
 										</value>
-      <webElementGuid>17ea0df1-25e6-482d-ae94-8cdbad8f241a</webElementGuid>
+      <webElementGuid>a32664a9-e47c-44dc-a565-6e157f333bd0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-12&quot;]/div[@class=&quot;d-flex flex-column PlusMinComponentContainer&quot;]/div[@class=&quot;PlusMinComponent d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;flex-center flex-middle FileUpload&quot;]/div[@class=&quot;text-center uploadFile&quot;]</value>
-      <webElementGuid>f33a95be-bad6-4e9d-adcf-55ef0020c392</webElementGuid>
+      <webElementGuid>df4a9e9b-b468-4c5c-805f-6270df3d4a49</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[14]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>4c27109d-13d7-4540-99a2-e3ae8a6d32ac</webElementGuid>
+      <webElementGuid>18d4004a-8e8a-4b43-ab55-7da6f90a0402</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/following::div[6]</value>
-      <webElementGuid>76a81126-2185-4db0-a3d7-7f8266a8b743</webElementGuid>
+      <webElementGuid>978dd78d-4b9c-4566-970a-94e8a4b5f732</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[14]/div[2]/div/div/div/div/div</value>
-      <webElementGuid>7635d274-8ae3-45a9-a8b3-ad79432a20b2</webElementGuid>
+      <webElementGuid>0a5af4b5-4cb2-48ff-8e41-0a4a217b764a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
 											
 											Upload File Foto
 										')]</value>
-      <webElementGuid>9b43ccc2-55df-48c2-8cc8-c8e7a71aab57</webElementGuid>
+      <webElementGuid>afe025fd-1695-4eac-8f5c-f1fa9cba7cde</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

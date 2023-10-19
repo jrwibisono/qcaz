@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='parent-searchBoxModalPickUp']/div/div[3]/div</value>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[10]/div[3]/div[2]/div/div/div/div[2]/div/div/div/div[1]/div[3]/div[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>37570393-4c2f-452c-b285-d32cf8fc046c</webElementGuid>
+      <webElementGuid>2c1c531b-995f-4305-b425-753f0e899723</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>data-value</name>
       <type>Main</type>
       <value>Jakarta - Cikampek Toll Road, RT.005/RW.002, Pekayon Jaya, Kota Bekasi, Jawa Barat, Indonesia</value>
-      <webElementGuid>c72dd5e8-7d96-4f91-a24b-1cb712d6d592</webElementGuid>
+      <webElementGuid>5c08b56f-54d1-402a-8842-b9482279f6cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ff-medium fc-1B fs-12 mt-8 click-location</value>
-      <webElementGuid>b7684b1d-6786-49d9-bc05-6459b886e653</webElementGuid>
+      <webElementGuid>2f6a1953-c8e9-4688-b355-b721c26918ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Jakarta - Cikampek Toll Road, RT.005/RW.002, Pekayon Jaya, Kota Bekasi, Jawa Barat, Indonesia</value>
-      <webElementGuid>ea740193-668a-4108-9b39-cd377ca6ebd4</webElementGuid>
+      <webElementGuid>37fcacbe-e16d-4c23-898e-db781b478f2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;parent-searchBoxModalPickUp&quot;)/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;bg-white resultMaps&quot;]/div[@class=&quot;ff-medium fc-1B fs-12 mt-8 click-location&quot;]</value>
-      <webElementGuid>e34386a5-9666-41d6-bc07-ba9e635924a0</webElementGuid>
+      <webElementGuid>ecf16daa-6c4e-4349-bd5a-0c77354b1c0b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='parent-searchBoxModalPickUp']/div/div[3]/div</value>
-      <webElementGuid>aaa287f4-0dd6-41e6-9d22-03967bf04e9a</webElementGuid>
+      <webElementGuid>3813cb53-f3cd-4fcb-b9b1-9fc3cc7e1cdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alamat'])[1]/following::div[7]</value>
-      <webElementGuid>96fe5a17-cb48-4afc-ac98-41e45fa4e90a</webElementGuid>
+      <webElementGuid>ce70f029-90b0-480a-8e7e-01644a727f2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporkan kesalahan peta'])[2]/following::div[12]</value>
-      <webElementGuid>75991575-6b3b-4106-b1d1-1d7d54bb1114</webElementGuid>
+      <webElementGuid>1de30ba8-e945-436b-ba20-d567c1aa1ae9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='- Cikampek Toll Road, RT.005/RW.002, Pekayon Jaya, Kota Bekasi, Jawa Barat, Indonesia']/parent::*</value>
-      <webElementGuid>cc46639e-0ce5-4ea0-84be-9784e197aa5e</webElementGuid>
+      <webElementGuid>f452f94c-67b7-4823-8bf3-e76ea105d75b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]/div/div/div/div/div[3]/div</value>
-      <webElementGuid>260353ef-4ac8-488f-b8d5-775fe989a468</webElementGuid>
+      <webElementGuid>6303c31d-e79d-4467-95f7-093cb3adcda8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Jakarta - Cikampek Toll Road, RT.005/RW.002, Pekayon Jaya, Kota Bekasi, Jawa Barat, Indonesia' or . = 'Jakarta - Cikampek Toll Road, RT.005/RW.002, Pekayon Jaya, Kota Bekasi, Jawa Barat, Indonesia')]</value>
-      <webElementGuid>89f98c95-143c-448e-ba77-8afdfcd43535</webElementGuid>
+      <webElementGuid>11d4e5e4-27f2-4707-8a27-3de086206e0d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

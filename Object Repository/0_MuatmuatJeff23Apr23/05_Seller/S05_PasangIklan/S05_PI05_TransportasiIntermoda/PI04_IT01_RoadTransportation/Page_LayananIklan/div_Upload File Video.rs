@@ -6,12 +6,12 @@
    <elementGuidId>dc5fd31e-fb13-4f72-a4f7-9a4a8fd01f6f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[13]/div[3]/div/div/div[1]/div[1]/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.text-center.uploadFile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[13]/div[3]/div/div/div[1]/div[1]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3ed6264c-8c42-420f-9cc5-0e3d8292a4b3</webElementGuid>
+      <webElementGuid>2fc54cbb-c2bf-44c7-8c56-4b26f5b7ea0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-center uploadFile</value>
-      <webElementGuid>4606eadc-ee7f-4b94-9f49-dcc7d4662ff3</webElementGuid>
+      <webElementGuid>aec9093e-87fd-4ccd-98cd-3d7044e9ef56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-hitung</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>409bf2cb-6d47-4e0e-86ad-7ae371ec3082</webElementGuid>
+      <webElementGuid>671b24cc-db4e-49c6-b65e-b43836f8424a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
 											
 											Upload File Video
 										</value>
-      <webElementGuid>e2f58ecc-bd1d-4347-8672-5a5ee3960eb1</webElementGuid>
+      <webElementGuid>75445f38-69a0-408f-a953-e312de807991</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-12&quot;]/div[@class=&quot;d-flex flex-column PlusMinComponentContainer&quot;]/div[@class=&quot;PlusMinComponent d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;flex-center flex-middle FileUpload&quot;]/div[@class=&quot;text-center uploadFile&quot;]</value>
-      <webElementGuid>d05a72b4-0f58-439a-b9e9-9bca1056c04b</webElementGuid>
+      <webElementGuid>90a07833-6b54-4336-9cfb-14e96d035c2c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[13]/div[3]/div/div/div/div/div</value>
-      <webElementGuid>3fb1e044-f996-4996-b89b-96428e13184d</webElementGuid>
+      <webElementGuid>78b02ddf-6445-4e93-b579-22e781dfd675</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Format file harus MKV/MP4/AVI/MOV'])[1]/following::div[6]</value>
-      <webElementGuid>e45c3194-4ae8-4023-8a60-8c2621eb3025</webElementGuid>
+      <webElementGuid>c8fe3f3e-8fb3-4ff6-9b37-dbdecd8598fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan Caption'])[1]/preceding::div[2]</value>
-      <webElementGuid>718be2f4-c0e0-4872-af09-e57729c4f34f</webElementGuid>
+      <webElementGuid>d2c668a7-5db7-40ec-9d92-3015bd07e089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[13]/div[3]/div/div/div/div/div</value>
-      <webElementGuid>b0eda1c3-6840-472e-8bd1-902a88379e02</webElementGuid>
+      <webElementGuid>bc58908d-ffb7-4585-afde-6cf88ae96a6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
 											
 											Upload File Video
 										')]</value>
-      <webElementGuid>79b96aec-5acc-4351-bf6e-c93d90cff1fe</webElementGuid>
+      <webElementGuid>29364239-394f-4c05-b3e4-d245c8304486</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

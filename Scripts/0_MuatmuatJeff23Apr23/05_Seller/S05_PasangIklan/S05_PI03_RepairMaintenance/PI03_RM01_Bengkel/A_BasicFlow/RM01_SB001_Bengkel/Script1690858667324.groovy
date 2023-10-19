@@ -26,5 +26,144 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_Seller/span_Bengkel'))
 
-WebUI.navigateToUrl('https://xdemoiklan.assetlogistik.id/layananiklan/iklanDashboard?SubKategoriID=11&KategoriID=23&sub_text=Bengkel&layanan_text=Repair%20%26%20Maintenance%20Services&no')
+for (def row = 1; row <= findTestData('repair_maintenance_bengkel').getRowNumbers(); row++) {
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
+	
+	WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/button_Upload'),
+		findTestData('repair_maintenance_bengkel').getValue(1, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12'),
+		findTestData('repair_maintenance_bengkel').getValue(2, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input_Website_ff-medium fs-12'),
+		findTestData('repair_maintenance_bengkel').getValue(3, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/span_Masukkan Tahun Berdiri'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/span_year_2010'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/textarea_text'),
+		findTestData('repair_maintenance_bengkel').getValue(4, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_layanan_layanan-umum'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_layanan_engine-repair'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_layanan_las-body-repair'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_layanan_mesin-bubut'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_layanan_kelistrikan'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/div_Kelistrikan_unchecked-icon'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/textarea_Lainnya_CBLainnyaField component-i_347356'),
+		findTestData('repair_maintenance_bengkel').getValue(5, row))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_service_on-road'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_service_home-service'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_hino'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_mitsubishi'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_isuzu'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_ud'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_faw'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_dongfeng'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_scania'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_volvo'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_mercedes'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_semua-merk'))
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/chkbox_merk_lainnya'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/textarea_Lainnya_CBLainnyaField component-i_347356_1'),
+		findTestData('repair_maintenance_bengkel').getValue(6, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/textarea_text_1'),
+		findTestData('repair_maintenance_bengkel').getValue(7, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/textarea_text_1_2'),
+		findTestData('repair_maintenance_bengkel').getValue(8, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'),
+		findTestData('repair_maintenance_bengkel').getValue(9, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/div_Kec. Kenjeran, Kota Surabaya'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/button_Atur Pin Lokasi'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input_Alamat_searchBoxModalAddress0'),
+		findTestData('repair_maintenance_bengkel').getValue(10, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/div_Kenjeran Permai, Kalijudan, Surabaya, J_af05e8'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/img'))
+	
+	WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/div_Upload File Sertifikat'),
+		findTestData('repair_maintenance_bengkel').getValue(11, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input_Nama Pencapaian, Penghargaan, dan Ser_d3ca56'),
+		findTestData('repair_maintenance_bengkel').getValue(12, row))
+	
+	WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/div_Upload File Foto'),
+		findTestData('repair_maintenance_bengkel').getValue(13, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input__no-border fs-12 h-30 w-100'),
+		findTestData('repair_maintenance_bengkel').getValue(14, row))
+	
+	WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/div_Upload File Video'),
+		findTestData('repair_maintenance_bengkel').getValue(15, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input__no-border fs-12 h-30 w-100'),
+		findTestData('repair_maintenance_bengkel').getValue(16, row))
+	
+	WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/div_Upload File Promo'),
+		findTestData('repair_maintenance_bengkel').getValue(17, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input_Judul Promo_no-border fs-12'),
+		findTestData('repair_maintenance_bengkel').getValue(18, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/textarea_Deskripsi_component-input-border l_97f996'),
+		findTestData('repair_maintenance_bengkel').getValue(19, row))
+	
+	WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/div_Upload File Katalog Brosur'),
+		findTestData('repair_maintenance_bengkel').getValue(20, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input_Judul Katalog  Brosur_no-border fs-12'),
+		findTestData('repair_maintenance_bengkel').getValue(21, row))
+	
+	WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/div_Upload File Testimoni'),
+		findTestData('repair_maintenance_bengkel').getValue(22, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI03_RepairMaintenance/PI03_RM01_Bengkel/A_BasicFlow/Page_LayananIklan/input_Nama File_no-border fs-12 ff-medium'),
+		findTestData('repair_maintenance_bengkel').getValue(23, row))
+	
+	
+}
 

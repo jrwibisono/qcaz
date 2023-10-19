@@ -26,64 +26,62 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_Seller/span_Promo Nasional'))
 
-not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=51&KategoriID=55&sub_text=Promo%20Nasional&layanan_text=Places%20%26%20Promo')
+for (def row = 1; row <= findTestData('places_promo_promo_nasional').getRowNumbers(); row++) {
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12'), 
+        findTestData('places_promo_promo_nasional').getValue(1, row))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12'), 
-    'Promo Nasional Akhir Juli 3')
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/span_Pilih Kategori'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/span_Pilih Kategori'))
+    WebUI.delay(1)
 
-WebUI.delay(1)
+    WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/InputSearchKategoriPromo'), 
+        findTestData('places_promo_promo_nasional').getValue(2, row))
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/InputSearchKategoriPromo'), 
-    '')
+    WebUI.waitForJQueryLoad(60)
 
-WebUI.waitForJQueryLoad(60)
+    WebUI.sendKeys(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/InputSearchKategoriPromo'), 
+        Keys.chord(Keys.ENTER))
 
-WebUI.sendKeys(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/InputSearchKategoriPromo'), 
-    Keys.chord(Keys.ENTER))
+    WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/InputPeriodeMulai'), 
+        findTestData('places_promo_promo_nasional').getValue(3, row))
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/InputPeriodeMulai'), 
-    '07312023')
+    WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/InputPeriodeBerakhir'), 
+        findTestData('places_promo_promo_nasional').getValue(4, row))
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/InputPeriodeBerakhir'), 
-    '08312023')
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'), 
+        findTestData('places_promo_promo_nasional').getValue(5, row))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12_1'), 
-    'Kedungdoro 101, Surabaya, Jawa Timur')
+    WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/UploadImg1'), 
+        findTestData('places_promo_promo_nasional').getValue(6, row))
 
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/UploadImg1'), 
-    'C://Users/USER/Downloads/RestAreaNgawi.jpeg')
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/button_Crop'))
 
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/div_Unggah File Foto Promo'))
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger'), 
+        findTestData('places_promo_promo_nasional').getValue(7, row))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/button_Crop'))
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger_1'), 
+        findTestData('places_promo_promo_nasional').getValue(8, row))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger'), 
-    '5000000')
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/textarea_text'), 
+        findTestData('places_promo_promo_nasional').getValue(9, row))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger_1'), 
-    '2000000')
+    WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
+        findTestData('places_promo_promo_nasional').getValue(10, row))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/textarea_text'), 
-    'Diskon besar akhir bulan Juli!')
+    WebUI.waitForJQueryLoad(60)
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
-    'Surabaya')
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/OpsiArea1'))
 
-WebUI.waitForJQueryLoad(60)
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/OpsiArea1'))
+    WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
-
-WebUI.waitForJQueryLoad(60)
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI07_PlacesPromo/PI07_PP03_PromoNasional/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+}
 

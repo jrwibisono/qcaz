@@ -10,11 +10,15 @@
          <value>span.fc-86.ff-demi.fs-14.lh-normal.truncate</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Bengkel' or . = 'Bengkel')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='detail-kategori']/a/span</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>90ee6390-0e75-4b06-be4f-d963f0f23a5f</webElementGuid>
+      <webElementGuid>91f5394f-4687-44b4-a6dd-94fc8b883a70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fc-86 ff-demi fs-14 lh-normal truncate</value>
-      <webElementGuid>816e48f1-c894-417a-8b0e-225a9aaa22b5</webElementGuid>
+      <webElementGuid>b9c011ee-e971-4857-ad08-c7459a2a5bda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Bengkel</value>
-      <webElementGuid>445c1cf4-7371-4ef6-acb5-162fc670e886</webElementGuid>
+      <webElementGuid>d8334d2d-64a6-4677-8a81-b5fee49d2c95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;detail-kategori&quot;)/a[@class=&quot;btn-bar sidebar-widget d-flex align-items-center justify-content-between&quot;]/span[@class=&quot;fc-86 ff-demi fs-14 lh-normal truncate&quot;]</value>
-      <webElementGuid>0d1b418e-6e9e-4a9b-b62e-1af98e41048a</webElementGuid>
+      <webElementGuid>433ebb40-5cfb-4dbf-b857-3fd0eb197b0b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detail-kategori']/a/span</value>
-      <webElementGuid>a611b73f-f82f-469b-b92e-72cdfcae434d</webElementGuid>
+      <webElementGuid>50f591a6-236f-4b49-ae62-4d9b38d576aa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Iklan Anda di Kategori'])[1]/following::span[1]</value>
-      <webElementGuid>5d77c827-709c-4af7-81d5-149d04d5190b</webElementGuid>
+      <webElementGuid>0dbfa4ca-8ffd-4117-bcaf-8f9eb8177ccc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perusahaan Lainnya'])[1]/preceding::span[1]</value>
-      <webElementGuid>99070636-83ef-4dae-b2e8-6791bca0cda3</webElementGuid>
+      <webElementGuid>e501aa6f-3c1d-4928-a7c2-2d03590cd83e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Lainnya'])[1]/preceding::span[2]</value>
-      <webElementGuid>1d681218-4cc9-498c-ad92-b0c2cb3fd09e</webElementGuid>
+      <webElementGuid>d47dc114-8985-4a20-be81-6b88019ce23f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Bengkel']/parent::*</value>
-      <webElementGuid>34aa4719-c09b-4242-a5af-52c8e24db6d6</webElementGuid>
+      <webElementGuid>69dbe517-e885-41bd-a534-2daab5f8d5cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/span</value>
-      <webElementGuid>cf10c1fb-2450-43aa-8098-95edd75234a6</webElementGuid>
+      <webElementGuid>897a0a34-19c2-45e8-9c5c-5f57e731e7d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Bengkel' or . = 'Bengkel')]</value>
-      <webElementGuid>0d0565bc-7a8b-4f35-8252-0fcd35ddc3b6</webElementGuid>
+      <webElementGuid>23a4dd1d-eb33-4321-8a6f-deadeffcec48</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

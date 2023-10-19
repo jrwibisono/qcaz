@@ -6,12 +6,12 @@
    <elementGuidId>54234aca-ac28-4b38-ad1e-452064a9b219</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select2-n9hc-container</value>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[5]/div[2]/div[1]/span/span[1]/span/span[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[3]/div[1]/div/div[4]/div[1]/div[2]/div[2]/div[5]/div[2]/div[1]/span/span[1]/span/span[1]</value>
+         <key>CSS</key>
+         <value>#select2-n9hc-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5198c892-4316-45a6-a674-8094cd067c4c</webElementGuid>
+      <webElementGuid>2928c14e-65d2-41d0-841f-7e469e5b43df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>9aa7e121-36d6-49ab-a348-4fc65f23ea52</webElementGuid>
+      <webElementGuid>88e0fbc1-71cc-4629-9b90-9e8bb72d019e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-n9hc-container</value>
-      <webElementGuid>e4000e8c-b280-4430-8d9c-aaabac2f5dbc</webElementGuid>
+      <webElementGuid>6bdc8dcb-ebac-4813-93e2-935ce3225fa4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>8b9cfa68-7dd8-44d9-ae8c-85c46354014c</webElementGuid>
+      <webElementGuid>1cd6aa31-eb48-4816-a64d-d9af3bdc4644</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>de6bf341-5f0c-4491-b72b-ff79be25276b</webElementGuid>
+      <webElementGuid>48e73126-d42d-4639-993a-7db5e16b60a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Jenis Truk - Carrier</value>
-      <webElementGuid>2598a496-2754-4c67-9f84-65e900c57fb9</webElementGuid>
+      <webElementGuid>f2a9cedf-0a12-4f02-89ac-7da3a581a2a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-n9hc-container&quot;)</value>
-      <webElementGuid>bcb5a740-65ad-4b7d-97ab-45fbdce49bb0</webElementGuid>
+      <webElementGuid>28d41cee-6f0b-4586-bc65-721345fc7262</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-n9hc-container']</value>
-      <webElementGuid>64486c45-caf7-4ff0-8c15-54792e045d48</webElementGuid>
+      <webElementGuid>713af247-4f08-46a2-849e-f10b7d6bdacf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[5]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>8fade039-a03d-4d6f-b6cf-d1a73895a671</webElementGuid>
+      <webElementGuid>21b99cdf-2e72-4826-b12d-88369b5d4605</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[4]</value>
-      <webElementGuid>450e0297-57be-457b-a9ae-315bdbf2bc31</webElementGuid>
+      <webElementGuid>9f7bc3e9-aa2a-4303-9e92-4c38ed37fc90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Truk Lainnya'])[1]/preceding::span[4]</value>
-      <webElementGuid>cbc678b1-b91d-4401-9109-2499b75baa23</webElementGuid>
+      <webElementGuid>fa5b5d0e-cd31-410c-8d02-027962a46367</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>e7550c5e-00b7-4f00-a044-23b6548fe135</webElementGuid>
+      <webElementGuid>733d403f-c3dd-440a-94a7-627780077000</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-n9hc-container' and (text() = 'Jenis Truk - Carrier' or . = 'Jenis Truk - Carrier')]</value>
-      <webElementGuid>24f8907e-cf3c-49c3-bc77-3c212a4473a4</webElementGuid>
+      <webElementGuid>71b5fa02-f89a-4498-a716-72c9b2f543dc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

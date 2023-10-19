@@ -6,12 +6,12 @@
    <elementGuidId>1f183177-b376-492c-a1f7-a117cc595771</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[4]/div[2]/div/span/span[1]/span/span[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#select2-qppx-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[4]/div[2]/div/span/span[1]/span/span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0cf7bc71-3339-44c4-a6af-d8889f89c102</webElementGuid>
+      <webElementGuid>b82c0aaf-eec8-4aaf-b53b-5ec414315f5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>26680511-fa19-4df3-9ed7-485c07807d5a</webElementGuid>
+      <webElementGuid>586a9357-b1e0-4646-a63a-da1a4cd79ed3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-qppx-container</value>
-      <webElementGuid>36679274-4888-4043-a44b-9a56fc6659b1</webElementGuid>
+      <webElementGuid>cdf62f58-c344-4d9e-a6d0-88542ed191ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>13d10c8d-8e57-4a66-9ead-0344dbdafb48</webElementGuid>
+      <webElementGuid>73f144ba-6d72-4d6b-8934-c4b8397aebd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e4d0cf01-c1cf-4ebd-832b-399d35493234</webElementGuid>
+      <webElementGuid>c7fdd6a6-9287-4799-824b-1a2aacdeccbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Masukan Tahun Berdiri</value>
-      <webElementGuid>0e69b6b1-58ad-4b9b-b18c-730ed5e6b574</webElementGuid>
+      <webElementGuid>bc75482b-c3b6-4adb-b233-21f2a6e73aac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-qppx-container&quot;)</value>
-      <webElementGuid>ae821147-7358-4611-a854-55e830c59066</webElementGuid>
+      <webElementGuid>e505f469-3441-44a4-8dfe-5c1ebc1c93cd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-qppx-container']</value>
-      <webElementGuid>a3e0471c-4a43-4b53-a0d9-326c60ec0b25</webElementGuid>
+      <webElementGuid>7e5767c1-3a2a-4931-87ee-a4be02312e4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[4]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>5babfa43-6cbf-4656-b60f-e7a7750131e9</webElementGuid>
+      <webElementGuid>aee19c8e-de52-4cb2-a2e1-c1ad261e013d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[4]</value>
-      <webElementGuid>44366a49-4c0c-44fe-9507-6152ef942028</webElementGuid>
+      <webElementGuid>bda1eff8-abb5-491c-9f3b-e6a41d2744a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Kantor di Indonesia'])[1]/preceding::span[4]</value>
-      <webElementGuid>6e318373-3305-4c6c-ae4c-dc6280e161ff</webElementGuid>
+      <webElementGuid>31a6f4bb-1aa3-4684-95cc-c0767967e80e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span</value>
-      <webElementGuid>85041ee3-835b-42ae-acae-a3d215998415</webElementGuid>
+      <webElementGuid>adc0c6c5-7cfc-4765-b0bd-85ba9ba5ad37</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-qppx-container' and (text() = 'Masukan Tahun Berdiri' or . = 'Masukan Tahun Berdiri')]</value>
-      <webElementGuid>5af918ab-f3fc-48e5-be4e-261f3b204833</webElementGuid>
+      <webElementGuid>31188280-6ceb-4c77-b15a-9f9ad56b608d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

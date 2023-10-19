@@ -6,12 +6,12 @@
    <elementGuidId>e1812074-bbc8-4e58-8c82-cb695f8b1613</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input.FormatInteger</value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[5]/div[2]/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//input[@type='text'])[3]</value>
+         <key>CSS</key>
+         <value>input.FormatInteger</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9db0d60b-9394-4741-89b2-e837295de8ba</webElementGuid>
+      <webElementGuid>43df53c6-044d-437e-9198-a26f67c040ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>FormatInteger</value>
-      <webElementGuid>c056795e-8249-468d-ac11-43c1f068bdeb</webElementGuid>
+      <webElementGuid>3f4e0f02-1ac2-4007-814c-76edf1634d10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>46e4a977-6c96-4723-a09e-cf799207073e</webElementGuid>
+      <webElementGuid>4e84051a-c7bf-4f9b-9c5c-3f6ff6421afa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan Jumlah Kantor di Indonesia</value>
-      <webElementGuid>a2fcfb28-3e67-42ab-8467-6660e164e5c1</webElementGuid>
+      <webElementGuid>21df2a95-6a53-4fd8-8d9a-72f7c7326dbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-feform_column</name>
       <type>Main</type>
       <value>JumlahKantordiIndonesia</value>
-      <webElementGuid>c5c9e637-56d5-41c8-bb0d-87a119363a3e</webElementGuid>
+      <webElementGuid>ab1b0008-1061-48dd-ae7d-03b6c3e9ced8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-alert_max_value</name>
       <type>Main</type>
       <value>Maksimal Jumlah Kantor adalah 9.999.999.999.999</value>
-      <webElementGuid>35a1ed0b-1f05-4e44-a037-0aa73d87c34e</webElementGuid>
+      <webElementGuid>5bf6e543-9c59-4f57-a788-30afab79b36c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-alert_min_value</name>
       <type>Main</type>
       <value>Minimal Jumlah Kantor adalah 1</value>
-      <webElementGuid>43beb021-7af8-4e25-9627-fe0af49fec8b</webElementGuid>
+      <webElementGuid>553a3ac9-8648-47b5-b3e0-99afcb230518</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-alert_required</name>
       <type>Main</type>
       <value>Wajib diisi</value>
-      <webElementGuid>84eeaf0e-7a2a-41a6-af56-3ce69e9f5fc5</webElementGuid>
+      <webElementGuid>2ea0deaf-41be-4f1b-b478-105ba18bfdb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-max_value</name>
       <type>Main</type>
       <value>9999999999999</value>
-      <webElementGuid>6d5dddc7-45da-45f0-8f9f-e66678efcd7a</webElementGuid>
+      <webElementGuid>aab6881c-81fc-43bd-a6af-6a5185fb12a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>data-min_value</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>b1035b4f-ee05-407c-86a3-e33ddfb0827f</webElementGuid>
+      <webElementGuid>4e7fb592-fcee-43e4-8b08-62438c7dd73f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField d-flex ff-medium fs-12 component-262 component-input-border-container&quot;]/input[@class=&quot;FormatInteger&quot;]</value>
-      <webElementGuid>79c4181a-1d52-4afb-ba07-ce8a5ee36612</webElementGuid>
+      <webElementGuid>87d5cff3-68ad-4605-a911-d02b7b559d28</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[3]</value>
-      <webElementGuid>08758311-e602-4720-aa49-7932a5a544ea</webElementGuid>
+      <webElementGuid>117509ae-7ccd-4ae0-b993-a074c63a28db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[5]/div[2]/input</value>
-      <webElementGuid>8ffd6bc4-1afd-46e9-95a1-e969472433e0</webElementGuid>
+      <webElementGuid>cc99c849-8fa6-4df5-9ad5-9a4105bae362</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/input</value>
-      <webElementGuid>53902675-eba9-49c7-bf45-01e3c35750a6</webElementGuid>
+      <webElementGuid>2301218c-524f-474d-9d29-99dabb0d44ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Masukkan Jumlah Kantor di Indonesia']</value>
-      <webElementGuid>ab6d334e-fe9e-4808-9e4a-f46073e0967c</webElementGuid>
+      <webElementGuid>3222c27f-465f-423b-a160-aeb9f41e104a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

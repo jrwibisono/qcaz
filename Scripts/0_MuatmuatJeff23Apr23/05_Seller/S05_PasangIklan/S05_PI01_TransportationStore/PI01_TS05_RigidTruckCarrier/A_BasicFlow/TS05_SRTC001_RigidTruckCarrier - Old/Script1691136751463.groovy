@@ -24,53 +24,53 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S0
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_Seller/span_Rigid Truck Carrier'))
 
-not_run: WebUI.navigateToUrl('https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=43&KategoriID=22&sub_text=Rigid%20Truck%20Carrier&layanan_text=Transportation%20Store&no')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12'), 
-    'Rigid Truck Coba')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/div__unchecked-icon'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/span_Jenis Carrier Rigid'))
-
-WebUI.delay(1)
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/OpsiPilihJenisCarrierRigid1'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/textarea_text'), 
-    'Cocok Untuk Truk Bermesin Coba')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/span_Warna'))
-
-WebUI.delay(1)
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/OpsiPilihWarnaRTC1'))
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/UploadFotoRTC1'), 
-    'C://Users/USER/Downloads/ContohBan.jpg')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/button_Crop'))
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger'), 
-    '20000000')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/textarea_text_1'), 
-    'Rigid Deskripsi Coba')
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'), 
-    'Surabaya')
-
-WebUI.waitForJQueryLoad(60)
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/div_Kec. Seputih Surabaya, Kab. Lampung Tengah'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+for (def row = 1; row <= findTestData('transportation_store_rigid_truck_carrier').getRowNumbers(); row++) {
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/button_Pasang Iklan'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/input_Sisa Kuota_radio_pasang_ku'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/button_Gunakan'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/input__ff-medium fs-12'),
+		findTestData('transportation_store_rigid_truck_carrier').getValue(1, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/div__unchecked-icon'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/span_Jenis Carrier Rigid'))
+	
+	WebUI.delay(1)
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/OpsiPilihJenisCarrierRigid1'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/textarea_text'),
+		findTestData('transportation_store_rigid_truck_carrier').getValue(2, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/span_Warna'))
+	
+	WebUI.delay(1)
+	
+	WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/OpsiPilihWarnaRTC1'))
+	
+	WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/UploadFotoRTC1'),
+		findTestData('transportation_store_rigid_truck_carrier').getValue(3, row))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/button_Crop'))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/input_Rp_FormatInteger'),
+		findTestData('transportation_store_rigid_truck_carrier').getValue(4, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/textarea_text_1'),
+		findTestData('transportation_store_rigid_truck_carrier').getValue(5, row))
+	
+	WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/input__no-border form-control dropdownGoogl_af628b'),
+		findTestData('transportation_store_rigid_truck_carrier').getValue(6, row))
+	
+	WebUI.waitForJQueryLoad(60)
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/div_Kec. Seputih Surabaya, Kab. Lampung Tengah'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/button_Unggah Iklan'))
+	
+	WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S05_PasangIklan/S05_PI01_TransportationStore/PI01_TS05_RigidTruckCarrier/A_BasicFlow/Page_LayananIklan/a_Kembali Ke Halaman Awal'))
+}
 

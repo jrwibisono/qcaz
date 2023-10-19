@@ -6,12 +6,12 @@
    <elementGuidId>9e6d5ae8-348f-4eb5-994f-33b24bab6546</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[10]/div[3]/div[2]/div/div/div/div[2]/div/div/div/div[1]/div[1]/input</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#searchBoxModalAddress0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[10]/div[3]/div[2]/div/div/div/div[2]/div/div/div/div[1]/div[1]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>08d06642-47b2-48dd-b106-6eee4b0726b9</webElementGuid>
+      <webElementGuid>78bcc1d4-3d13-41b5-a067-8154396b4169</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a2be7806-bfd9-4804-b1d5-d2877021e782</webElementGuid>
+      <webElementGuid>ab6bccbb-bec4-4c1d-bf9a-030744e39ee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control mapsSearch fs-12 fc-1b no-border</value>
-      <webElementGuid>1d55e580-4913-4397-9e04-9ea198c2b1d9</webElementGuid>
+      <webElementGuid>243b8d2b-58e4-48d0-a7f2-e2dc0824af0c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>searchBoxModalAddress0</value>
-      <webElementGuid>c19c8786-8bc5-4177-ba2b-1b908bffcb13</webElementGuid>
+      <webElementGuid>86c022ee-d599-43e4-81bb-0542152c857f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-hidden</name>
       <type>Main</type>
       <value>Address0</value>
-      <webElementGuid>21957d86-37da-4553-b46f-f9d64600f379</webElementGuid>
+      <webElementGuid>d8765ace-1c16-4ee0-ad34-8e0dff9d2b73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukkan lokasi</value>
-      <webElementGuid>094b5e0c-4381-419e-852e-c101fbd628c5</webElementGuid>
+      <webElementGuid>2eb00312-f2b6-4997-b754-32a04c333b34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-alert_required</name>
       <type>Main</type>
       <value>Wajib diisi</value>
-      <webElementGuid>4dbe4a3d-88f7-4836-b4e0-9797cf021178</webElementGuid>
+      <webElementGuid>4252bb2b-ca7a-440a-a30b-d098a2961c9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-child_column_name</name>
       <type>Main</type>
       <value>address</value>
-      <webElementGuid>506542c3-fa7e-40a3-ba6b-3fc838fe2972</webElementGuid>
+      <webElementGuid>d12d900f-a7e7-4bf8-b4cc-c062c7c17cdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b0b163e2-4e7b-4498-bc03-5ef605608fc8</webElementGuid>
+      <webElementGuid>bc22f008-f953-4dfe-afbd-8747e12084ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;searchBoxModalAddress0&quot;)</value>
-      <webElementGuid>8755c938-2f41-4202-8f3a-dc3f5952d1c3</webElementGuid>
+      <webElementGuid>ca535e06-d576-4231-b38f-306edc8aacab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='searchBoxModalAddress0']</value>
-      <webElementGuid>bb6b3726-44cb-4daa-8b3c-5b3db9d53037</webElementGuid>
+      <webElementGuid>8502c60f-4f5d-467e-8daf-51e66caba835</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='parent-searchBoxModalPickUp']/div/div/input</value>
-      <webElementGuid>08667c19-a8fb-4444-88ff-0af40cb21c5b</webElementGuid>
+      <webElementGuid>ec3ad9ba-68b3-4501-95b6-e5960adb110b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]/div/div/div/div/div/input</value>
-      <webElementGuid>1730c41c-b73b-454b-a00c-0eef3e9a57ec</webElementGuid>
+      <webElementGuid>21fdc533-1e77-43d5-813a-7f8c07b58781</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'searchBoxModalAddress0' and @placeholder = 'Masukkan lokasi']</value>
-      <webElementGuid>a36d7a2f-cb6b-435c-964f-96dc07e1d2cc</webElementGuid>
+      <webElementGuid>330096ea-5da4-453c-ba4e-1d89b08d779a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

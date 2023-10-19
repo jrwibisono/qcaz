@@ -10,11 +10,14 @@
          <value>//div[@id='detail-kategori']/a[6]/span</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Produk Lainnya' or . = 'Produk Lainnya')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>672a2b6d-555e-4f88-8b32-81cc907264b4</webElementGuid>
+      <webElementGuid>7cef1e0f-4c12-4ec3-bb00-9227a4f27bce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +33,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fc-86 ff-demi fs-14 lh-normal truncate</value>
-      <webElementGuid>f6a1ac94-a208-46e3-a9e5-d1125bb8b19e</webElementGuid>
+      <webElementGuid>0e09e61f-4d8e-4305-b98b-6191038fbdbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Produk Lainnya</value>
-      <webElementGuid>f1f8b355-0b9b-4254-b15e-6cd43b0181a4</webElementGuid>
+      <webElementGuid>e569146b-54d3-488c-9295-980bc00bf4e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;detail-kategori&quot;)/a[@class=&quot;btn-bar sidebar-widget d-flex align-items-center justify-content-between&quot;]/span[@class=&quot;fc-86 ff-demi fs-14 lh-normal truncate&quot;]</value>
-      <webElementGuid>d9da3be0-f18a-4b8c-a8bc-78ffd363544e</webElementGuid>
+      <webElementGuid>9d9b323e-16d7-424a-ba1f-79c34732dfeb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='detail-kategori']/a[6]/span</value>
-      <webElementGuid>d2ce7e31-b4b4-4e5b-8f60-e259ba10774e</webElementGuid>
+      <webElementGuid>5b846258-ad64-4e67-ab95-913e2ad09395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perusahaan Lainnya'])[1]/following::span[1]</value>
-      <webElementGuid>90335d7f-6e96-4775-b12d-41a4222e3da9</webElementGuid>
+      <webElementGuid>93921037-e06f-4bab-9007-de44beb8a0d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perlengkapan Angkutan'])[1]/following::span[2]</value>
-      <webElementGuid>bc4afcba-28fc-440c-ade1-b9c46bcd8dc4</webElementGuid>
+      <webElementGuid>196ef382-c4da-458f-92f3-64c8aa2c66d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rigid Truck Carrier'])[1]/preceding::span[1]</value>
-      <webElementGuid>33b7c91f-bb84-4cbe-8057-615fe705aa7b</webElementGuid>
+      <webElementGuid>984f6d9a-38a9-48e0-a675-911c7d5039b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Semi Trailer Carrier'])[1]/preceding::span[2]</value>
-      <webElementGuid>be12ad4a-8ec1-47c1-a0da-bbf8f9c82936</webElementGuid>
+      <webElementGuid>796c9a6f-c475-4920-8de9-9ca20f921572</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Produk Lainnya']/parent::*</value>
-      <webElementGuid>d39f847c-f9d6-4084-927e-700b3e5536cc</webElementGuid>
+      <webElementGuid>5770d416-a63e-4fca-8d9c-0fccf59bd821</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[6]/span</value>
-      <webElementGuid>90182cde-5fbe-4ad8-b6cf-357f2ecb4a3e</webElementGuid>
+      <webElementGuid>0829c650-07ce-4324-91c5-0a885353fb5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Produk Lainnya' or . = 'Produk Lainnya')]</value>
-      <webElementGuid>e281611f-aea2-4b38-8aa3-47c78e7d117a</webElementGuid>
+      <webElementGuid>24f407f2-3472-4679-917c-3f7f623912b4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
