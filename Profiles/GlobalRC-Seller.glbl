@@ -64,4 +64,9 @@
       <initValue>'http://tmlelang.azlogistik.id/lelang/lelangAktif'</initValue>
       <name>URLListLelangMuatan</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>TextSend</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
