@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Gunakan</name>
+   <tag></tag>
+   <elementGuidId>fd67248f-c458-498f-8952-265db71dffb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ff-demi.fs-14.btn-primary.lh-normal.d-flex.align-items-center.justify-content-center.pilih-paket.btn-gunakan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='BUNDLING 100 KUOTA'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c41c05f-c4c2-465c-a082-2a3adeedbef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-demi fs-14 btn-primary lh-normal d-flex align-items-center justify-content-center pilih-paket btn-gunakan</value>
+      <webElementGuid>e12f0c32-4394-49e3-b8e8-9b83366bca70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-subkatid-paket</name>
+      <type>Main</type>
+      <value>56</value>
+      <webElementGuid>b1fcd687-d767-4595-9cc1-d66475c428ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menuid</name>
+      <type>Main</type>
+      <value>688</value>
+      <webElementGuid>ee80e44c-d8f9-4fdd-8cb3-b7fc4d60293a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://iklan.azlogistik.id/layananiklan/pasangIklan?SubKategoriID=56&amp;KategoriID=45&amp;sub_text=Pencari Kerja&amp;layanan_text=Human Capital</value>
+      <webElementGuid>fd0c72bf-a503-4bc3-ba56-903985777b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+					Gunakan
+				</value>
+      <webElementGuid>e75e1d41-9324-4c98-8417-1355bea63e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;bg-menu-big&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;alertfe&quot;]/div[@class=&quot;alert-custom&quot;]/div[@class=&quot;body-alert&quot;]/div[@class=&quot;isi-body&quot;]/div[@class=&quot;w-100 d-flex justify-content-center&quot;]/button[@class=&quot;ff-demi fs-14 btn-primary lh-normal d-flex align-items-center justify-content-center pilih-paket btn-gunakan&quot;]</value>
+      <webElementGuid>48ad5ce1-47af-4bf5-8f09-4b7b171595e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUNDLING 100 KUOTA'])[1]/following::button[1]</value>
+      <webElementGuid>f4aaef63-4617-4942-88fe-0cec3f1196c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sisa Kuota'])[1]/following::button[1]</value>
+      <webElementGuid>abf8296f-191b-4d11-945f-5bd61e856505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::button[1]</value>
+      <webElementGuid>4919cdcc-f4f0-4ace-9262-208b7a7aa662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/preceding::button[2]</value>
+      <webElementGuid>bbf6f387-dada-4ed0-bdd2-ec4b42f7ba4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gunakan']/parent::*</value>
+      <webElementGuid>e2c3233f-8102-4505-992c-69d3d07f658f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>6a54aa77-647f-4fec-8e51-5f4b666aa6d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = 'https://iklan.azlogistik.id/layananiklan/pasangIklan?SubKategoriID=56&amp;KategoriID=45&amp;sub_text=Pencari Kerja&amp;layanan_text=Human Capital' and (text() = '
+					Gunakan
+				' or . = '
+					Gunakan
+				')]</value>
+      <webElementGuid>7e6ada0f-fa45-41f1-a8da-527fc9a08c3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

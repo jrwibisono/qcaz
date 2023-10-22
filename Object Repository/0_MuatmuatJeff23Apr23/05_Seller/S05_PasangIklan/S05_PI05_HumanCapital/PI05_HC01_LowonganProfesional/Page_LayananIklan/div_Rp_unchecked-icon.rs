@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rp_unchecked-icon</name>
+   <tag></tag>
+   <elementGuidId>d1d15b43-bc03-442a-bf0a-1fd48d14be37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.fs-12.mt-4.align-items-center > div.checked-container.mr-12 > div.unchecked-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasangIklanForm']/div[19]/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>72f733cb-daff-4a46-82c0-49dfee87ccb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unchecked-icon</value>
+      <webElementGuid>7f0e7c93-f87b-4306-b471-6e6c553d56f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;d-flex fs-12 mt-4 align-items-center&quot;]/div[@class=&quot;checked-container mr-12&quot;]/div[@class=&quot;unchecked-icon&quot;]</value>
+      <webElementGuid>8489b8c1-514d-4661-888c-8866ec611cb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[19]/div[3]/div/div</value>
+      <webElementGuid>b1db637e-7a09-437c-9176-fd855f49650a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/div[3]/div/div</value>
+      <webElementGuid>99fa3eb8-bc61-4fbf-8b2e-de2a44f30015</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kec. Kenjeran, Kota Surabaya</name>
+   <tag></tag>
+   <elementGuidId>a1d43756-8be8-407a-a6f5-562962589c04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ff-medium.fc-1B.fs-12.mt-8.click-location-dropdownGoogle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasangIklanForm']/div[18]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>baf1b8c6-3538-4db9-8220-9b521660dffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>Kec. Kenjeran, Kota Surabaya</value>
+      <webElementGuid>7879b960-b02d-406a-b925-3b29c8b12e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-medium fc-1B fs-12 mt-8 click-location-dropdownGoogle</value>
+      <webElementGuid>d3de32fd-182c-4456-b2a3-946698740070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kec. Kenjeran, Kota Surabaya</value>
+      <webElementGuid>a5f006b3-00ce-45d4-b5cb-d367c2686cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;parentDropdownGoogle d-flex flex-column&quot;]/div[@class=&quot;bg-white resultDropdown&quot;]/div[@class=&quot;ff-medium fc-1B fs-12 mt-8 click-location-dropdownGoogle&quot;]</value>
+      <webElementGuid>254dcaae-312b-488a-bca9-484a2ad15bfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[18]/div/div[3]/div</value>
+      <webElementGuid>7c6b4f1d-04c8-4355-a37f-bcc1f6c5bf57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[14]/following::div[3]</value>
+      <webElementGuid>72a88595-ba37-4ad6-9140-5cfc92fb754d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kec.']/parent::*</value>
+      <webElementGuid>efaaae62-c40e-41dc-b648-38b408ab3754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div/div[3]/div</value>
+      <webElementGuid>8da7e894-1464-41c2-89be-16898b3175ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kec. Kenjeran, Kota Surabaya' or . = 'Kec. Kenjeran, Kota Surabaya')]</value>
+      <webElementGuid>abc265e1-14f4-47aa-ab50-913343f3ce3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

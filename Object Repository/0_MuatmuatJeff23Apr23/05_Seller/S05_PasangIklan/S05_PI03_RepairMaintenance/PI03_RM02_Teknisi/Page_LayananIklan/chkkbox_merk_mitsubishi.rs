@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chkkbox_merk_mitsubishi</name>
+   <tag></tag>
+   <elementGuidId>b4bf23ed-ca0e-4e7c-abee-6afbf62dc246</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[6]/div[2]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

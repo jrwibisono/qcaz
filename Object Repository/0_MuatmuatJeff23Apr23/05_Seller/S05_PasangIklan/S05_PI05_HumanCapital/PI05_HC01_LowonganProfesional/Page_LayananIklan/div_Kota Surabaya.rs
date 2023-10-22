@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kota Surabaya</name>
+   <tag></tag>
+   <elementGuidId>7839b5bb-9b4b-49ca-9309-fe884ef89da1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ff-medium.fc-1B.fs-12.mt-8.click-location-dropdownGoogle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasangIklanForm']/div[21]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>745078d3-d392-4003-9498-a60eb3fe8b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>Kota Surabaya</value>
+      <webElementGuid>f3900c51-b9da-4bba-bf4a-45a786cbc392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-medium fc-1B fs-12 mt-8 click-location-dropdownGoogle</value>
+      <webElementGuid>e03155a3-eb68-42a6-923b-2e3c3564d844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kota Surabaya</value>
+      <webElementGuid>92b2fae4-c85b-4f26-a663-1185455d9996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;parentDropdownGoogle d-flex flex-column&quot;]/div[@class=&quot;bg-white resultDropdown&quot;]/div[@class=&quot;ff-medium fc-1B fs-12 mt-8 click-location-dropdownGoogle&quot;]</value>
+      <webElementGuid>2c435eb6-e820-4982-8881-a2fecbcaa3b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[21]/div/div[3]/div</value>
+      <webElementGuid>ca50b7d7-c8cc-4ad1-bf8f-0ddbe90a0de2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[21]/following::div[3]</value>
+      <webElementGuid>26f8fdd1-0634-498c-8db2-6be4f98c7aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil Memasang Iklan Anda'])[1]/preceding::div[2]</value>
+      <webElementGuid>6eaf2d19-1b5b-4a1f-af96-99c287e82bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kota']/parent::*</value>
+      <webElementGuid>93155e0c-292e-4c56-90ff-903076a3bbe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[21]/div/div[3]/div</value>
+      <webElementGuid>43767855-31cb-4730-be3a-843641c5a21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kota Surabaya' or . = 'Kota Surabaya')]</value>
+      <webElementGuid>f3462f91-7d55-4cc4-9af8-e4d939043f7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
