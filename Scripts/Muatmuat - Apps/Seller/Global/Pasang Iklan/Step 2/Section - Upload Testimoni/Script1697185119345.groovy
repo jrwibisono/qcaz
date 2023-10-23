@@ -17,19 +17,32 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Tambah Testimoni'), 0)
-
-if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni, Portofolio Pelanggan, Pelayanan'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
-	Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni, Portofolio Pelanggan, Pelayanan'), GlobalVariable.Caption, 60)
-} else if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
-	Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni'), GlobalVariable.Caption, 60)
-} else if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Nama File'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
-	Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Nama File'), GlobalVariable.Caption, 60)
+if (fileString != '') {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Tambah Testimoni'), 0)
+	
+	String[] files = fileString.split(GlobalVariable.Separator)
+	String[] descriptions = descriptionString.split(GlobalVariable.Separator)
+	
+	for (int i = 0; i < files.length; i++) {
+		if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni, Portofolio Pelanggan, Pelayanan'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+			Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni, Portofolio Pelanggan, Pelayanan'), descriptions[i], 60)
+		} else if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+			Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Testimoni'), descriptions[i], 60)
+		} else if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Nama File'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+			Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Nama File'), descriptions[i], 60)
+		}
+		
+		Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Pilih File'), 0)
+		
+		//Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.TextView - ' + GlobalVariable.ImageFilename), 0)
+		Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Upload File'), [('filename'): files[i]])
+		
+		if (i < files.length - 1) {
+			Mobile.swipe(720, 1400, 720, 1000)
+			Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Tambah'), 0)
+			Mobile.swipe(720, 1400, 720, 1000)
+		}
+	}
+	
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Simpan'), 0)
 }
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Pilih File'), 0)
-
-//Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.TextView - ' + GlobalVariable.ImageFilename), 0)
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Upload File'), [:])
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Simpan'), 0)

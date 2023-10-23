@@ -99,4 +99,9 @@
       <initValue>'Surabaya'</initValue>
       <name>City</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>', '</initValue>
+      <name>Separator</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

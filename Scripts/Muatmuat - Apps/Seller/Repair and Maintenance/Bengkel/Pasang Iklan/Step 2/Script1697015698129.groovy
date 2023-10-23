@@ -57,21 +57,21 @@ Mobile.swipe(0, 1400, 0, 1000)
 
 Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Atur Pin Lokasi'), [('address'): data.getValue(12, row)])
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Pencapaian'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Pencapaian'), [('fileString'): data.getValue(13, row), ('captionString'): data.getValue(14, row)])
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Foto'), [:])
-
-Mobile.swipe(0, 1400, 0, 1000)
-
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Video'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Foto'), [('fileString'): data.getValue(15, row), ('captionString'): data.getValue(16, row)])
 
 Mobile.swipe(0, 1400, 0, 1000)
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Promo'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Video'), [('fileString'): data.getValue(17, row), ('captionString'): data.getValue(18, row)])
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Katalog'), [:])
+Mobile.swipe(0, 1400, 0, 1000)
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Testimoni'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Promo'), [('fileString'): data.getValue(19, row), ('titleString'): data.getValue(20, row), ('descriptionString'): data.getValue(21, row)])
+
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Katalog'), [('fileString'): data.getValue(22, row), ('titleString'): data.getValue(23, row)])
+
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Seller/Global/Pasang Iklan/Step 2/Section - Upload Testimoni'), [('fileString'): data.getValue(24, row), ('descriptionString'): data.getValue(25, row)])
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Unggah Iklan'), 0)
 
