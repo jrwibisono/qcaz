@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[5]/div[2]/div[2]/span/span[1]/span/span[1]</value>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[5]/div[2]/div[2]/span/span[1]/span/span[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>bed953d5-ea3d-4d6c-8e6b-d4dc67871d11</webElementGuid>
+      <webElementGuid>3e051e9e-31d8-4a62-ba89-d5fdf258fe4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__placeholder</value>
-      <webElementGuid>edaedf36-4dd3-4558-bc6c-9a7cc9789b36</webElementGuid>
+      <webElementGuid>f519dde3-e448-4c4c-9c73-4a85c86c303c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Jenis Truk - Carrier</value>
-      <webElementGuid>7029a06b-0e95-43ed-b99c-834a3469ebf9</webElementGuid>
+      <webElementGuid>48ff7be1-51fc-4e96-bb16-04fa3759149c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-9l4g-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
-      <webElementGuid>db3b7af5-35e3-40bf-9eef-e92aa8f18c85</webElementGuid>
+      <webElementGuid>fc259255-61d7-49de-bf64-ab5f8a4b7e9d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='select2-9l4g-container']/span</value>
-      <webElementGuid>51db54bb-8bbb-499d-a585-3dd64426f12a</webElementGuid>
+      <webElementGuid>035d93f1-a4f2-4a40-a071-2f90513aef11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Truk Lainnya'])[1]/following::span[5]</value>
-      <webElementGuid>8f31c176-9c2c-4fb2-912f-93d732d18e88</webElementGuid>
+      <webElementGuid>8595070b-e2f1-45ae-9c5e-4988c917b3ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Colt Diesel Double'])[2]/following::span[7]</value>
-      <webElementGuid>f479b1d4-2e89-4ee3-b279-0be4411ae6f3</webElementGuid>
+      <webElementGuid>8f8bccd9-abd0-43a9-9e8d-42596bc0e84b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Carrier Lainnya'])[1]/preceding::span[3]</value>
-      <webElementGuid>e806116b-bac8-4722-ab83-af2397865c8b</webElementGuid>
+      <webElementGuid>9899b7ed-059b-4728-b2ef-728d5d5cafd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span/span</value>
-      <webElementGuid>eaa15698-0816-4e37-8ee2-8720721109bb</webElementGuid>
+      <webElementGuid>2ae29499-faf7-41ec-9410-3c79912dffa2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Jenis Truk - Carrier' or . = 'Jenis Truk - Carrier')]</value>
-      <webElementGuid>743b851c-1eeb-44da-84ac-92c89f001521</webElementGuid>
+      <webElementGuid>fa2e5cb9-c323-4257-aecd-d9aff241eb4a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

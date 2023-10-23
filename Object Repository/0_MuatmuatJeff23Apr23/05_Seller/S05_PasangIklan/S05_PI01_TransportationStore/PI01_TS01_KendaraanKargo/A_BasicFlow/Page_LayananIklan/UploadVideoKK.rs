@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>InputCaptionVideoKK</name>
+   <name>UploadVideoKK</name>
    <tag></tag>
-   <elementGuidId>6a2368f6-bc95-42a9-82ad-0da0d5c94d44</elementGuidId>
+   <elementGuidId>814f52f6-8d85-41ef-94df-d6e9e398b9e9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;PasangIklanForm&quot;]/div[12]/div[2]/div/div/div[1]/div[2]/div[2]/input</value>
+         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[12]/div[3]/div/div/div[1]/div[1]/input</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[12]/div[3]/div/div[1]/div[1]/div[2]/div[2]/input</value>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[12]/div[3]/div/div[1]/div[1]/div[1]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,7 +21,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[12]/div[3]/div/div[1]/div[1]/div[2]/div[2]/input</value>
-      <webElementGuid>a4b47982-2fff-4fc6-8768-f430d84aa130</webElementGuid>
+      <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[12]/div[3]/div/div[1]/div[1]/div[1]/input</value>
+      <webElementGuid>8300a08f-46b5-494a-871e-9c50b634b9db</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

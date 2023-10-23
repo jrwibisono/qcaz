@@ -6,12 +6,12 @@
    <elementGuidId>f51e316a-759f-4e44-9d7d-74d6dbcd82cd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select2-wsmq-container</value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[9]/div[2]/div/span/span[1]/span/span[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[9]/div[2]/div/span/span[1]/span/span[1]</value>
+         <key>CSS</key>
+         <value>#select2-wsmq-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>b19e947d-9b74-447b-b79d-9d22b88734ef</webElementGuid>
+      <webElementGuid>9dbfaea1-ae28-410d-a05d-15ab7851d9e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>aa172e1b-cbba-4d98-9ac7-91177951ee05</webElementGuid>
+      <webElementGuid>f4e50da2-3c6b-4e11-a858-4963b41a89db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-wsmq-container</value>
-      <webElementGuid>43d3e1a7-50f2-4c35-907c-3aefc7d40b0e</webElementGuid>
+      <webElementGuid>6942871d-d331-44bb-814a-8eee4a23dc68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>0d2cab7e-3df0-4d4f-9396-55f95e5acf15</webElementGuid>
+      <webElementGuid>97e1d19f-46ea-4ffb-86ee-a3bae4985074</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d893fa06-d04f-4374-b07f-7fa3ada173d9</webElementGuid>
+      <webElementGuid>407a32dc-b801-4580-8da2-b5006749de89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pilih Warna</value>
-      <webElementGuid>7a6aee6d-b23a-446f-b832-41bf99913561</webElementGuid>
+      <webElementGuid>ee6c01eb-028f-41a7-9b81-47197ff15d75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-wsmq-container&quot;)</value>
-      <webElementGuid>78b4456b-917d-48cf-ba85-d3afd009ff99</webElementGuid>
+      <webElementGuid>e6b25ee8-8af8-4c22-acc0-eaaf4ea2e0a1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-wsmq-container']</value>
-      <webElementGuid>88d5ab84-bdb5-4983-a5a0-7d94c4924277</webElementGuid>
+      <webElementGuid>74600e0c-c7ef-4299-b90c-f0b44569e211</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[9]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>88f67029-7bf4-4c6f-817c-eab4e2c536a9</webElementGuid>
+      <webElementGuid>22c00fee-709e-4e07-941c-f65f3bfd3db8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[9]/following::span[4]</value>
-      <webElementGuid>4c09cf22-ad85-4f09-a56b-da4277a82038</webElementGuid>
+      <webElementGuid>bc623074-5877-4773-8e65-f63a3406f67e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Warna Lainnya'])[1]/preceding::span[4]</value>
-      <webElementGuid>1db81c79-ddaf-4f2f-bad4-f2283e85bd58</webElementGuid>
+      <webElementGuid>b6f23f8e-49dc-4912-892a-c428762ea5ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div[2]/div/span/span/span/span</value>
-      <webElementGuid>b19ba26f-eaf2-40f1-8818-43b88ad8dc60</webElementGuid>
+      <webElementGuid>175a6679-488c-418b-a2a9-a39760fb5510</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-wsmq-container' and (text() = 'Pilih Warna' or . = 'Pilih Warna')]</value>
-      <webElementGuid>83060b4b-c862-40c8-be4d-f4e6ffbb3394</webElementGuid>
+      <webElementGuid>2b0f71f1-9b1f-43c0-bbe6-3eda0a324473</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

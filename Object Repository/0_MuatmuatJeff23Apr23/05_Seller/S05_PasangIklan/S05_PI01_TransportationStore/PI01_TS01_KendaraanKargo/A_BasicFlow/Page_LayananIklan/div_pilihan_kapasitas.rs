@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>OpsiPilihWarnaKK1</name>
+   <name>div_pilihan_kapasitas</name>
    <tag></tag>
-   <elementGuidId>67725449-8099-4dff-8ba7-b9e52b5fd3ec</elementGuidId>
+   <elementGuidId>baf44c8e-2301-4070-98fa-77e7c6c710ae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>OpsiPilihWarnaKK1</value>
+         <value>//td[text()='find me']/parent::tr/pa</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'select2-results__option' and (text() = 'blue' or . = 'blue')]</value>
+         <value>//*[(text() = 'Diatas 11.000 cc' or . = 'Diatas 11.000 cc')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>css</name>
       <type>Main</type>
-      <value>select2-results__option</value>
-      <webElementGuid>e5c68ea8-bbc2-4818-a575-1f0a35ae32b4</webElementGuid>
+      <value>min-height: 16px; line-height: 16px;</value>
+      <webElementGuid>8a3f1a25-0c9c-4972-80b1-62e67a7f3215</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>blue</value>
-      <webElementGuid>22dfe2a5-838b-43f8-8a63-1b73c978160a</webElementGuid>
+      <value>Diatas 11.000 cc</value>
+      <webElementGuid>707e164f-0775-4389-9d2b-035141ebd68b</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

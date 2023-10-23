@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_layanan-iklan</name>
+   <name>UploadFotoKK</name>
    <tag></tag>
-   <elementGuidId>343db40e-cea4-4b81-ab9a-1c7448202846</elementGuidId>
+   <elementGuidId>b278f067-439d-4424-8b75-4b9dfc314e26</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[2]/div[1]/div[1]</value>
+         <value>//*[@id=&quot;PasangIklanForm&quot;]/div[11]/div/div[2]/div/div[1]/input</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = 'Layanan Iklan' or . = 'Layanan Iklan')]</value>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[11]/div/div[2]/div/div[1]/input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -19,9 +19,9 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>xpath</name>
       <type>Main</type>
-      <value>Layanan Iklan</value>
-      <webElementGuid>cb57c2a2-e01a-4d71-a750-db3e92a36480</webElementGuid>
+      <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[11]/div/div[2]/div/div[1]/input</value>
+      <webElementGuid>6ac3a824-d540-40c1-b497-f0c23bdbbdaa</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

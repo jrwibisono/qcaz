@@ -7,11 +7,11 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>4e88c1a8-eae6-47ac-830e-0d95be236439</dataFileGUID>
-   <dataSourceUrl>C:\Users\Dandy\Downloads\Copy of DataLayananTransportationStoreAndri.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\DANDY\Kerjaan\DataTransportationStore.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Sheet2</sheetName>
+   <sheetName>KendaraanKargo</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

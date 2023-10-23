@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//textarea[@type='text']</value>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[14]/div[2]/textarea</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>25f8b6e7-fc31-4e01-9787-8f5f6075b143</webElementGuid>
+      <webElementGuid>5e0df3b6-e761-4a4b-94fd-d460cbd42eb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>46732061-42a6-45ac-8206-20281acc5f0d</webElementGuid>
+      <webElementGuid>1103fbad-9e6b-41a2-a57d-4a4206823be6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Deskripsi Kendaraan Kargo</value>
-      <webElementGuid>57620983-18ff-44bf-af3c-3ae357604ee8</webElementGuid>
+      <webElementGuid>a8d28b7a-3b9a-4cca-9def-e76cf0b0ff2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-feform_column</name>
       <type>Main</type>
       <value>Deskripsi</value>
-      <webElementGuid>f57c40eb-4839-4998-9a74-e7caf4d9604f</webElementGuid>
+      <webElementGuid>6c30e085-382d-4462-810d-792160ca323d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-alert_max_char</name>
       <type>Main</type>
       <value>Maksimal Karakter Melebihi Batas Ketentuan!</value>
-      <webElementGuid>5c52d078-020f-469e-8128-f91e2ce86958</webElementGuid>
+      <webElementGuid>4884a395-d275-462a-8efd-2efc412b6efd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-alert_min_char</name>
       <type>Main</type>
       <value>Minimal Karakter Kurang Dari Ketentuan!</value>
-      <webElementGuid>d37d1cdd-d1b8-4050-9af6-2aad591192c5</webElementGuid>
+      <webElementGuid>495dcf1c-763e-413e-b148-a975ffc87f99</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-alert_required</name>
       <type>Main</type>
       <value>Anda Belum Memasukkan Deskripsi Kendaraan Kargo!</value>
-      <webElementGuid>bcc0f262-d1bf-43f4-a28a-2f26df97af59</webElementGuid>
+      <webElementGuid>8ac50970-d80d-431a-aeb3-8aac3d547a71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-max_char</name>
       <type>Main</type>
       <value>1000</value>
-      <webElementGuid>338c3f2e-de7b-41df-8e8c-55fb9b27f4f6</webElementGuid>
+      <webElementGuid>1a0f3022-5b68-4ed5-aff1-b2b29e16b416</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-min_char</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>bffb3dc6-6b8a-4aac-b685-16c59a5f5d93</webElementGuid>
+      <webElementGuid>400405a2-fbc5-452a-a9e3-ee5aafb49db1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField d-flex ff-medium fs-12 component-262 component-input-border&quot;]/textarea[1]</value>
-      <webElementGuid>1e1b6c76-7036-42d2-b583-497e53ed13c7</webElementGuid>
+      <webElementGuid>de9be2ea-dbce-42ae-b03f-9c3bde0fac88</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@type='text']</value>
-      <webElementGuid>ca2ea0e7-636a-46ac-9bc0-85db3aaf7146</webElementGuid>
+      <webElementGuid>c1dd5244-c460-4546-9d99-5efd00cee1a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[14]/div[2]/textarea</value>
-      <webElementGuid>9d9e4efd-3b4a-4cb1-9f1a-b5f9b71bab91</webElementGuid>
+      <webElementGuid>70a87b6a-5440-47da-9771-d8dd6d0d45f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>3c5155d3-7a84-430c-81ab-a847550aeb50</webElementGuid>
+      <webElementGuid>30fc420a-24e4-436e-9a8b-20577b2151b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@type = 'text' and @placeholder = 'Deskripsi Kendaraan Kargo']</value>
-      <webElementGuid>e662fbec-318f-4acc-a5f1-bd6df78f1f5c</webElementGuid>
+      <webElementGuid>fef9fdaa-fd08-4d2b-b818-dc87f9169212</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

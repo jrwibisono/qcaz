@@ -6,12 +6,12 @@
    <elementGuidId>b5fc49d4-6e65-4dad-9853-525671ee2b7a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#select2-ba26-container</value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[6]/div[2]/div/span/span[1]/span/span[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[6]/div[2]/div/span/span[1]/span</value>
+         <key>CSS</key>
+         <value>#select2-ba26-container</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f18c9c5e-c484-4d9e-89f1-40614e4790a6</webElementGuid>
+      <webElementGuid>0009379a-160b-4824-9a64-822452966e11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>e38bf172-4468-437c-ba35-65c96e4ccb88</webElementGuid>
+      <webElementGuid>dd64c0fd-2ca0-4eae-9fea-e90fc577090e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-ba26-container</value>
-      <webElementGuid>2ab3556e-b0e1-4f10-8dc8-f31eb49a0c24</webElementGuid>
+      <webElementGuid>59b13772-7ef8-4b91-8e86-87505b4a1a5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>323ede04-4720-41d2-9276-c08a2ff2cd1e</webElementGuid>
+      <webElementGuid>ce66c900-03bb-483f-b7a6-a3ce33bcf396</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>228feb80-a0d5-4e67-ac53-82acc05ea37b</webElementGuid>
+      <webElementGuid>d800decb-f110-4d1e-bd95-10a8e8d31167</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Merk Truk</value>
-      <webElementGuid>8a9e18b9-d755-41a9-a936-7555790ab6a3</webElementGuid>
+      <webElementGuid>f5b3baac-8886-4b14-8c8e-082196db74f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-ba26-container&quot;)</value>
-      <webElementGuid>0baedcf1-df66-4efa-8257-6e90cab4e275</webElementGuid>
+      <webElementGuid>8b8c5a9a-d33a-485e-b1bb-61d131553738</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-ba26-container']</value>
-      <webElementGuid>f3aa7c2d-c20d-4d7e-b670-0d3281d528fa</webElementGuid>
+      <webElementGuid>891ad0ea-fbeb-4b04-a3c2-110574dc1921</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[6]/div[3]/div/span/span/span/span</value>
-      <webElementGuid>b85005c4-23bf-44be-9112-e27d837889e6</webElementGuid>
+      <webElementGuid>d42336c0-21a8-461e-9dbd-ec36353a3c09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Merk Truk'])[1]/following::span[4]</value>
-      <webElementGuid>bc3a7a00-fd87-4ac8-8342-ca67e33fc84c</webElementGuid>
+      <webElementGuid>263b3177-24de-407b-8610-c87e9ce347ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Merk Lainnya'])[1]/preceding::span[4]</value>
-      <webElementGuid>9133b3ec-63b4-498b-b5e7-da9354ae8d2c</webElementGuid>
+      <webElementGuid>9bbbafd5-5547-41cd-a840-9b39fd55ff15</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/span/span/span/span</value>
-      <webElementGuid>304e4b1a-534c-4662-85e1-001544e32cad</webElementGuid>
+      <webElementGuid>91ef5524-26b7-4ffa-bcb4-ce217582b1f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-ba26-container' and (text() = 'Merk Truk' or . = 'Merk Truk')]</value>
-      <webElementGuid>eeed9358-2dc0-4201-b9c7-1a222a251752</webElementGuid>
+      <webElementGuid>8f2e2987-1559-4c8d-a442-1968f8a9bbdb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

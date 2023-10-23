@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>InputTanggalKK</name>
+   <name>radbtn_kondisi_baru</name>
    <tag></tag>
-   <elementGuidId>ee19c5ac-7785-4db4-8769-5f01075cc086</elementGuidId>
+   <elementGuidId>1cc38e2d-bd8e-45e9-8b2b-a21f1614a773</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[10]/div[2]/input</value>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[2]/div[3]/div[2]/div[1]/div/div</value>
       </entry>
       <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
