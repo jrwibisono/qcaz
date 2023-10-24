@@ -20,17 +20,9 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_00_NoLogin'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_muatmuat Website  muatmuat/div_Transportation StoreMarketplace kebutuh_d87c86'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS03_TokoSukuCadang/Page_muatmuat Website  muatmuat/div_Transportation StoreMarketplace kebutuh_d87c86'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/a_Kendaraan Kargo'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS03_TokoSukuCadang/Page_Transportation Store  muatmuat.com/a_Toko Suku Cadang'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/div_first_card'))
-
-not_run: WebUI.verifyTextPresent('null', false)
-
-WebUI.verifyTextPresent('Kondisi', false)
-
-not_run: WebUI.verifyTextPresent('undefined', false)
-
-WebUI.verifyTextPresent('Jenis Truck', false)
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS03_TokoSukuCadang/Page_Transportation Store  muatmuat.com/div_Verified                               _02bec3'))
 

@@ -24,13 +24,25 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/a_Kendaraan Kargo'))
 
+String HargaKartu = WebUI.getText(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/div_card1_harga'))
+
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/div_first_card'))
 
-not_run: WebUI.verifyTextPresent('null', false)
+String HargaDetail = WebUI.getText(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/div_detail_harga'))
 
-WebUI.verifyTextPresent('Kondisi', false)
+println(HargaKartu)
+println(HargaDetail)
 
-not_run: WebUI.verifyTextPresent('undefined', false)
+HargaKartu = HargaKartu.replace(".","")
+HargaKartu = HargaKartu.replace(" ","")
+println(HargaKartu)
+HargaDetail = HargaDetail.replace(".","")
+HargaDetail = HargaDetail.replace(" ","")
+println(HargaDetail)
 
-WebUI.verifyTextPresent('Jenis Truck', false)
 
+if(HargaKartu == HargaDetail) {
+	println("Harga Sama!")
+}else {
+	println("Data Harga Tidak Sama!")
+}

@@ -20,17 +20,25 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_00_NoLogin'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_muatmuat Website  muatmuat/div_Transportation StoreMarketplace kebutuh_d87c86'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS02-3_Oli/Page_muatmuat Website  muatmuat/div_Transportation StoreMarketplace kebutuh_d87c86'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/a_Kendaraan Kargo'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS02-3_Oli/Page_Transportation Store  muatmuat.com/a_Ban, Aki dan Oli'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/div_first_card'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS02-3_Oli/Page_Transportation Store  muatmuat.com/div_Oli'))
 
-not_run: WebUI.verifyTextPresent('null', false)
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS02-3_Oli/Page_Transportation Store  muatmuat.com/div_first_card'))
 
-WebUI.verifyTextPresent('Kondisi', false)
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS02-3_Oli/Page_Transportation Store  muatmuat.com/button_Hubungi'))
 
-not_run: WebUI.verifyTextPresent('undefined', false)
+String CheckedText = WebUI.getText(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS02-3_Oli/Page_Transportation Store  muatmuat.com/span_text_ceklogin'))
 
-WebUI.verifyTextPresent('Jenis Truck', false)
+String ResultText = ''
+
+if (CheckedText == 'Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat') {
+    ResultText = 'MASIH USER 0'
+} else {
+    ResultText = 'TIDAK TERDETEKSI'
+}
+
+GlobalVariable.ProsesTenderNama = ['TestHubungi']
 
