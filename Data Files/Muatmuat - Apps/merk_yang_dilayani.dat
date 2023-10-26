@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>merk_yang_dilayani</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b915a2ce-21e1-413e-8203-465c53aeef3c</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Hino</data>
+   <data>Mitsubishi</data>
+   <data>Isuzu</data>
+   <data>UD+Trucks</data>
+   <data>FAW</data>
+   <data>Dongfeng+Trucks</data>
+   <data>Scania</data>
+   <data>Volvo</data>
+   <data>DAF</data>
+   <data>Mercedes+Benz</data>
+   <data>Semua+Merk</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Label</name>
+      <size>11</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

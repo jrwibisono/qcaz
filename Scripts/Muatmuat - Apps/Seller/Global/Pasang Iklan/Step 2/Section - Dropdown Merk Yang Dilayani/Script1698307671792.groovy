@@ -17,14 +17,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Judul Lowongan'), data.getValue(1, row), 60)
+String[] arrMerkYangDilayani = merkYangDilayani.split(GlobalVariable.Separator)
+for (int i = 0; i < arrMerkYangDilayani.length; i++) {
+	TestData data = findTestData("Data Files/Muatmuat - Apps/merk_yang_dilayani")
+    boolean isExist = false;
+	for (int j = 1; j <= data.getRowNumbers(); j++ ) {
+		if (arrMerkYangDilayani[i] == data.getValue(1, j)) {
+			String objectName = data.getValue(1, j)
+			objectName = objectName.replace(' / ', ' atau ')
+			objectName = objectName.replace('/', ' atau ')
+			Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown/Merk Yang Dilayani/Checkbox ' + objectName), 0)
+			isExist = true;
+		}
+	}
+	
+	if (!isExist) {
+		Mobile.swipe(720, 1400, 720, 1000)
+		Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown/Merk Yang Dilayani/Checkbox Lainnya'), 0)
+		Mobile.swipe(720, 1400, 720, 1000)
+		Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown/Merk Yang Dilayani/android.widget.EditText - Masukkan Merk Lainnya'), arrMerkYangDilayani[i], 60)
+	}
+}
 
-Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Deskripsi Pekerjaan'), data.getValue(2, row), 60)
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown/Lokasi Iklan/Dropdown lokasi penempatan (1)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/ListItem lokasi penempatan (1)'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Unggah Iklan'), 0)
-
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Button Pasang Iklan Baru'), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Button Simpan'), 0)

@@ -93,7 +93,7 @@ Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pas
 
 Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Deskripsi (2)'), data.getValue(24, row), 60)
 
-Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown Lokasi Penempatan'), 0)
+Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown/Lokasi Iklan/Dropdown Lokasi Penempatan'), 0)
 
 Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/android.widget.EditText - Masukkan Lokasi Penempatan'), data.getValue(25, row), 60)
 

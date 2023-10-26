@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>tipe_layanan</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>867713f9-4144-408b-9bf6-76e409a0644f</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Layanan+Umum%2FTruk</data>
+   <data>Engine+Repair+dan+Overhaul</data>
+   <data>Las+dan+Body+Repair</data>
+   <data>Mesin+%2F+Bubut</data>
+   <data>Kelistrikan</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Label</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
