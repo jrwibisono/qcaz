@@ -24,5 +24,5 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS03_TokoSukuCadang/Page_Transportation Store  muatmuat.com/a_Toko Suku Cadang'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS03_TokoSukuCadang/Page_Transportation Store  muatmuat.com/div_Verified                               _02bec3'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS03_TokoSukuCadang/Page_Transportation Store  muatmuat.com/div_card_satu'))
 
