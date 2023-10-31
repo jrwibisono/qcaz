@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>jenis_karoseri_yang_dilayani</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>7f82ce31-8ce4-45ba-9101-3cfcb77d15cd</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Box</data>
+   <data>Bak</data>
+   <data>Box+Alumunium</data>
+   <data>Box+Kayu</data>
+   <data>Box+Besi</data>
+   <data>Bak+Besi</data>
+   <data>Wingbox</data>
+   <data>Dump</data>
+   <data>Box+Pendingin+%2F+Reefer</data>
+   <data>Carrier+-+Muatan+Motor</data>
+   <data>Tangki</data>
+   <data>Carrier+-+Muatan+Mobil</data>
+   <data>Flatbed</data>
+   <data>Towing</data>
+   <data>Lowbed</data>
+   <data>Molen</data>
+   <data>Skeletal</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Label</name>
+      <size>17</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
