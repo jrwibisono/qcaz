@@ -17,3 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+String objectName = item
+objectName = objectName.replace(' / ', ' atau ')
+objectName = objectName.replace('/', ' atau ')
+objectName = objectName.replace(' & ', ' dan ')
+objectName = objectName.replace('&', ' dan ')
+
+Mobile.tap(findTestObject(path + objectName), 0)

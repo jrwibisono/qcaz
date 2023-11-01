@@ -30,6 +30,8 @@ for (int i = 0; i < arrJenisKaroseriYangDilayani.length; i++) {
 			String objectName = data.getValue(1, j)
 			objectName = objectName.replace(' / ', ' atau ')
 			objectName = objectName.replace('/', ' atau ')
+			objectName = objectName.replace(' & ', ' dan ')
+			objectName = objectName.replace('&', ' dan ')
 			Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown/Jenis Karoseri Yang Dilayani/Checkbox ' + objectName), 0)
 			isExist = true;
 		}

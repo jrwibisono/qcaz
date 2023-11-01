@@ -17,18 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String[] arrLayananService = layananService.split(GlobalVariable.Separator)
-for (int i = 0; i < arrLayananService.length; i++) {
-	TestData data = findTestData("Data Files/Muatmuat - Apps/layanan_service")
+String[] arrLayanan = layanan.split(GlobalVariable.Separator)
+for (int i = 0; i < arrLayanan.length; i++) {
+	TestData data = findTestData("Data Files/Muatmuat - Apps/layanan")
+	boolean isExist = false;
+	Mobile.swipe(720, 1400, 720, 9999)
 	for (int j = 1; j <= data.getRowNumbers(); j++ ) {
-		if (arrLayananService[i] == data.getValue(1, j)) {
+		if (j == 11) {
+			Mobile.swipe(720, 1400, 720, 1000)
+		}
+		if (arrLayanan[i] == data.getValue(1, j)) {
 			String objectName = data.getValue(1, j)
 			objectName = objectName.replace(' / ', ' atau ')
 			objectName = objectName.replace('/', ' atau ')
 			objectName = objectName.replace(' & ', ' dan ')
 			objectName = objectName.replace('&', ' dan ')
-			Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown/Layanan Service/Checkbox ' + objectName), 0)
+			Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown/Layanan/Checkbox ' + objectName), 0)
+			isExist = true;
 		}
+	}
+	
+	if (!isExist) {
+		Mobile.swipe(720, 1400, 720, 1000)
+		Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown/Layanan/Checkbox Lainnya'), 0)
+		Mobile.swipe(720, 1400, 720, 1000)
+		Mobile.setText(findTestObject('Object Repository/Muatmuat - Apps/Seller/Form Pasang Iklan/Step 2/Dropdown/Layanan/android.widget.EditText - Masukkan Layanan Lainnya'), arrLayanan[i], 60)
 	}
 }
 

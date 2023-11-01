@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>layanan</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>51a0f9d0-e803-4824-af79-2e2bb9c4ef69</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Program</data>
+   <data>Event</data>
+   <data>Coach</data>
+   <data>Trainer</data>
+   <data>Assessment</data>
+   <data>Online+Psikotest</data>
+   <data>Carrier</data>
+   <data>Talent+Solution</data>
+   <data>Talent+Acquisition</data>
+   <data>HR+Consultant</data>
+   <data>Payroll</data>
+   <data>Compensation+%26+Benefit</data>
+   <data>Recruiting</data>
+   <data>HRIS</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Label</name>
+      <size>14</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
