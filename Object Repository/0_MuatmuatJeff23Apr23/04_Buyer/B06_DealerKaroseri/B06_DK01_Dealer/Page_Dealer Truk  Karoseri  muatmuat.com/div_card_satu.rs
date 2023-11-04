@@ -6,12 +6,11 @@
    <elementGuidId>dffdb75a-c403-4b5b-ba32-71dcfd42a85c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[5]/div[3]/div/div[7]/div[1]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>19914fe1-4381-4cd3-87b0-187d167be501</webElementGuid>
+      <webElementGuid>71af0e22-555b-4a83-b4c2-cc24802beb16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body</value>
-      <webElementGuid>054b3a83-c990-401c-96ff-3a0f9bff5597</webElementGuid>
+      <webElementGuid>c86ec9f8-9bc4-4795-a47e-257e408b9300</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -91,7 +90,7 @@
                         Kec. Egiam, Kab. Tolikara
                     
                 </value>
-      <webElementGuid>52c9296b-2e52-4694-954a-364d0a607538</webElementGuid>
+      <webElementGuid>0e7c989d-7368-4923-acb2-49b2f210fc7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,7 +98,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card border-d7 card-product card-product-wo-css&quot;]/div[@class=&quot;card-body&quot;]</value>
-      <webElementGuid>548046b0-2b68-43a4-ad99-aa46d2b8d435</webElementGuid>
+      <webElementGuid>45afd298-8f50-4df3-9210-e5d2a91efb3b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -107,7 +106,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div/div</value>
-      <webElementGuid>86f22399-6c71-4206-924a-6ed13640b63d</webElementGuid>
+      <webElementGuid>6d95e184-149a-48b8-b8c3-93acd7b447db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[3]</value>
-      <webElementGuid>be4dde98-8886-4746-8ad7-d2f31f811104</webElementGuid>
+      <webElementGuid>1ac9c6ba-d7d7-4a55-bdfc-258bcfe18fb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Ditemukan Hasil Pencarian Dari'])[1]/following::div[5]</value>
-      <webElementGuid>0c6178f7-9389-4613-8247-bb588a69123e</webElementGuid>
+      <webElementGuid>8059beb0-8df9-4ff1-9d36-6041468e0528</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +130,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div</value>
-      <webElementGuid>f9da3731-2093-4358-8fda-1350f83ce514</webElementGuid>
+      <webElementGuid>e079f2bd-4eed-46ef-bc01-c2886d3834c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -245,6 +244,6 @@
                         Kec. Egiam, Kab. Tolikara
                     
                 ')]</value>
-      <webElementGuid>a3804cb0-0bf5-4a9c-94e5-1fe6ca8b67a0</webElementGuid>
+      <webElementGuid>57b5e2aa-3061-4ad3-a7f6-b0699a29d794</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

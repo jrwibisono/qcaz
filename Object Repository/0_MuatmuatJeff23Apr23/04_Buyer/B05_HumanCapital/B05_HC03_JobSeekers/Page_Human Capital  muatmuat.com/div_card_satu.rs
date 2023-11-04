@@ -6,12 +6,12 @@
    <elementGuidId>cfd85649-da81-4ca1-9bc4-ab2a097902f5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.card-body</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[9]/div[3]/div/div[6]/div[1]</value>
+         <key>CSS</key>
+         <value>div.card-body</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>22c5ff00-638c-4873-895c-ec0810fc6988</webElementGuid>
+      <webElementGuid>fdc53265-8f0d-4d8b-812f-2d41ff907a96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body</value>
-      <webElementGuid>7dfc1641-2e61-48b9-877b-4d6939626927</webElementGuid>
+      <webElementGuid>b7a8bb08-482a-4b1f-bc86-57914994ab50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -154,7 +154,7 @@ EMANG BERBAKAT
                         
                     
                 </value>
-      <webElementGuid>fcf53bde-8a96-4ea4-bf23-b1a2bc2de376</webElementGuid>
+      <webElementGuid>54306335-d37c-4725-9036-08ee5f008c65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -162,7 +162,7 @@ EMANG BERBAKAT
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card card-product&quot;]/div[@class=&quot;card-body&quot;]</value>
-      <webElementGuid>7a1a895a-3753-44f1-acec-fc8067e6a32b</webElementGuid>
+      <webElementGuid>af1ab5f1-2fde-4c60-8219-9481275960af</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -170,7 +170,7 @@ EMANG BERBAKAT
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div/div</value>
-      <webElementGuid>db394369-ff55-4a43-a80a-8a03f0757f10</webElementGuid>
+      <webElementGuid>70b33718-b842-4176-953a-9e018676e277</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -178,7 +178,7 @@ EMANG BERBAKAT
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[3]</value>
-      <webElementGuid>e943da5f-51d2-4f66-84f5-f2ffc927048c</webElementGuid>
+      <webElementGuid>e6eaa243-7d1e-4932-a8ea-4956ec5ea6f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -186,7 +186,7 @@ EMANG BERBAKAT
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Ditemukan Hasil Pencarian Dari'])[1]/following::div[5]</value>
-      <webElementGuid>476d8ff3-2a02-40be-97a2-453640e3bd8c</webElementGuid>
+      <webElementGuid>bdd0d0d5-2054-4626-ae39-931b35894d5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -194,7 +194,7 @@ EMANG BERBAKAT
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[6]/div/div</value>
-      <webElementGuid>1d2870a9-612c-42ad-934e-1ce75685f696</webElementGuid>
+      <webElementGuid>6896437b-709d-464d-8a95-d9504e333c7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -434,6 +434,6 @@ EMANG BERBAKAT
                         
                     
                 ')]</value>
-      <webElementGuid>ddee6af9-cbc6-4f83-aaf7-2476e85d64a5</webElementGuid>
+      <webElementGuid>10fd93a4-d124-4cb6-a05e-55c4601ac0e2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>140c1281-861e-4e15-89d1-68f9388c9cbd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.card-body</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[9]/div[3]/div/div[6]/div[1]</value>
+         <key>CSS</key>
+         <value>div.card-body</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>6c322420-add2-4635-b77d-bc8fd60e8b0f</webElementGuid>
+      <webElementGuid>581e5092-52d7-44d8-aba9-5b1b8f9f7bbb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body</value>
-      <webElementGuid>4c57400f-9f51-4137-b6c1-11afa520d0ad</webElementGuid>
+      <webElementGuid>003ac94c-5548-40c4-b526-5e6617494fe7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -106,7 +106,7 @@
                         Kec. Sukolilo, Kota Surabaya
                     
                 </value>
-      <webElementGuid>4c51c82c-14e9-4cb5-b103-f8313749a2c7</webElementGuid>
+      <webElementGuid>5d714e1f-9f55-4c02-b4e3-ec01e1dba294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -114,7 +114,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card card-product card-product-blue-border&quot;]/div[@class=&quot;card-body&quot;]</value>
-      <webElementGuid>04495926-f27c-4e69-b3b4-64bd58352b23</webElementGuid>
+      <webElementGuid>1012e433-72a9-4b93-97c5-eb3c1f5434c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -122,7 +122,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div/div</value>
-      <webElementGuid>b2ff2399-e1de-4cbb-8d3f-e7f3894acc9c</webElementGuid>
+      <webElementGuid>74f1e3b0-32bf-4854-ae5b-070210e5f886</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[3]</value>
-      <webElementGuid>bd7baeed-7b1c-4992-8e2e-03971027ae68</webElementGuid>
+      <webElementGuid>393f055d-f2e4-4b0c-a106-bbcafcfe251d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +138,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Ditemukan Hasil Pencarian Dari'])[1]/following::div[5]</value>
-      <webElementGuid>04f94b12-9b88-408d-a68d-16183152da00</webElementGuid>
+      <webElementGuid>254d28b1-3e41-4fcb-9567-bc1c0337bf65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,7 +146,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[6]/div/div</value>
-      <webElementGuid>658b1ed2-d6fd-4818-abcb-2add324624b5</webElementGuid>
+      <webElementGuid>8311f1bd-1d03-4963-a1f4-2e9e70b3f354</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -290,6 +290,6 @@
                         Kec. Sukolilo, Kota Surabaya
                     
                 ')]</value>
-      <webElementGuid>cd933366-d895-4b13-85aa-cb09e5c491fd</webElementGuid>
+      <webElementGuid>4b89e6ef-1e4e-4518-84b2-39c691fff9d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

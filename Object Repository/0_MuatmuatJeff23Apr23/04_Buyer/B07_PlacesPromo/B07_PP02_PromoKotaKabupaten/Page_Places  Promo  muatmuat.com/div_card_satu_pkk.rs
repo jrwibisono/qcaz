@@ -4,19 +4,17 @@
    <name>div_card_satu_pkk</name>
    <tag></tag>
    <elementGuidId>e41acc73-e97c-4a42-b37a-e16025666e85</elementGuidId>
-   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[5]/div[4]/div/div[9]/div[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//*[@class = 'text-white ff-demi-az fs-12 fc-black-az' and (text() = 'Promo Kota/Kabupaten' or . = 'Promo Kota/Kabupaten')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -31,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c2a0f5a1-1681-445d-910c-c26d474bbbc2</webElementGuid>
+      <webElementGuid>dc7ebb9d-a0f0-4e32-b64a-ef135442987c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-white ff-demi-az fs-12 fc-black-az</value>
-      <webElementGuid>daacfdf7-37a8-4622-98c1-1775ae83e9b9</webElementGuid>
+      <webElementGuid>c03215f1-9a66-4006-9ccd-2595e25db9fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Promo Kota/Kabupaten</value>
-      <webElementGuid>30b8c541-823e-441d-af41-707c184a3749</webElementGuid>
+      <webElementGuid>59269390-ba4a-4836-a486-41c87dd89dab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card card-product card-intermoda-roadtr&quot;]/div[@class=&quot;card-body&quot;]</value>
-      <webElementGuid>eaf13036-61a7-41cc-9d3e-d5976d4428f7</webElementGuid>
+      <webElementGuid>12b801e8-134c-46fd-98c0-00114c6a00b4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div/div</value>
-      <webElementGuid>9275ae71-d8eb-409c-a069-540a09f8a8e4</webElementGuid>
+      <webElementGuid>c191140a-0ae1-4513-9a09-9237e258045b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[3]</value>
-      <webElementGuid>bb90b79f-1a74-440e-8720-ebaecbaa2004</webElementGuid>
+      <webElementGuid>2161bbce-b124-4c78-9318-0894f1ceba2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Ditemukan Hasil Pencarian Dari'])[1]/following::div[5]</value>
-      <webElementGuid>5a0672b9-3855-4be4-8abd-af8a9d38bd99</webElementGuid>
+      <webElementGuid>3e25576e-4880-460a-bbed-54030b5a493d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div</value>
-      <webElementGuid>6065e676-f92d-40c7-8f10-d583282e549b</webElementGuid>
+      <webElementGuid>f9bfd2dd-f1eb-4aea-8095-f53954092db3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -235,6 +233,6 @@
                     
                 
             ')]</value>
-      <webElementGuid>fed1f09b-f232-455f-99ae-e7ccf8022805</webElementGuid>
+      <webElementGuid>f3261d0d-4bee-4013-befd-57f6dc484eb7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>20205a84-8120-4c5b-8246-a5c9b61958b6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.card-body</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[7]/div[3]/div/div[6]/div[1]</value>
+         <key>CSS</key>
+         <value>div.card-body</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ed6b03ef-d0aa-47cb-85ef-9e4acdd46c5b</webElementGuid>
+      <webElementGuid>1ab37279-08a7-479e-ba65-75ceb56186cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body</value>
-      <webElementGuid>2c10d73a-e6db-44f3-a65f-0029e905b44e</webElementGuid>
+      <webElementGuid>117f9ae6-dac6-4ce7-995d-7b1edf40053f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -91,7 +91,7 @@
                         Kec. Tegalsari, Kab. Banyuwangi
                     
                 </value>
-      <webElementGuid>b5c6b06f-9adc-4a92-878f-24e4cf83e3ca</webElementGuid>
+      <webElementGuid>109eb5c9-da1e-488b-81f5-ea15946ee7b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card card-product&quot;]/div[@class=&quot;card-body&quot;]</value>
-      <webElementGuid>74493bce-96db-4c6e-8453-8deea54174bf</webElementGuid>
+      <webElementGuid>1ecb0593-a790-4eeb-ab93-2e719521be69</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -107,7 +107,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div/div</value>
-      <webElementGuid>1c3e3c20-b18c-407f-9d14-c6b5542a884c</webElementGuid>
+      <webElementGuid>25c5ab75-3a08-4eb5-b513-f4b48c91a728</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[3]</value>
-      <webElementGuid>f6eb8058-222e-4f55-8618-dcd920b30411</webElementGuid>
+      <webElementGuid>a2c69941-84e8-4283-b3ff-eb8faedfdd57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -123,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Ditemukan Hasil Pencarian Dari'])[1]/following::div[5]</value>
-      <webElementGuid>dc4e9324-7f27-4cba-a129-9315be8460b7</webElementGuid>
+      <webElementGuid>f7bd7372-34db-46c8-aa71-31c821670bef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[6]/div/div</value>
-      <webElementGuid>435dcf62-5fbb-4acf-9e7b-bd0820a9979c</webElementGuid>
+      <webElementGuid>102f6a1d-bce6-45ac-9572-bbe22aa089c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -245,6 +245,6 @@
                         Kec. Tegalsari, Kab. Banyuwangi
                     
                 ')]</value>
-      <webElementGuid>2c12347b-f05c-4f9c-ba85-5462d97a0eed</webElementGuid>
+      <webElementGuid>a716f43d-9f34-44a8-8981-fa1754e9f789</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

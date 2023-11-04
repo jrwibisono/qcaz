@@ -6,12 +6,12 @@
    <elementGuidId>d9515209-c39e-468a-9af3-563ae434c8f7</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.card-body</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[5]/div[4]/div/div[9]/div[1]</value>
+         <key>CSS</key>
+         <value>div.card-body</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>061c93d7-9d19-4e26-be78-1aadb75a2574</webElementGuid>
+      <webElementGuid>76ad8bf5-3af2-443f-8541-72783f003a3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body</value>
-      <webElementGuid>d051a0e9-dfb5-4e2f-9d51-c4071296cc3b</webElementGuid>
+      <webElementGuid>5c450db7-16fe-4cb4-a7de-b25c127f350f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -108,7 +108,7 @@
                         
                     
                 </value>
-      <webElementGuid>c952a7d0-ec30-4565-af10-9bab4cc35ed7</webElementGuid>
+      <webElementGuid>f0c41016-7e64-485f-8ea8-eadb4a3ff0c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -116,7 +116,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card card-product card-intermoda-roadtr&quot;]/div[@class=&quot;card-body&quot;]</value>
-      <webElementGuid>ed6c20e1-58d8-4185-864b-01cabb10cdf8</webElementGuid>
+      <webElementGuid>6e69ba45-adee-42a2-a771-eff891a9b06d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -124,7 +124,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div/div</value>
-      <webElementGuid>635c29f0-df28-4c81-968e-16728d55a27e</webElementGuid>
+      <webElementGuid>09320391-36b8-4411-9ff0-8c8ae49184bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,7 +132,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[3]</value>
-      <webElementGuid>c0fbe97a-2cb9-47e1-bba8-4977c4a72be9</webElementGuid>
+      <webElementGuid>136d9a42-23ce-4b94-b26b-f839d0dd77b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,7 +140,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Ditemukan Hasil Pencarian Dari'])[1]/following::div[5]</value>
-      <webElementGuid>0e1884cf-d2e4-4003-b630-7f9907024c7f</webElementGuid>
+      <webElementGuid>d20cc5a0-21ff-4323-b90d-c385210d888e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,7 +148,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/div</value>
-      <webElementGuid>f72d34af-7434-473d-8485-e626ed01e993</webElementGuid>
+      <webElementGuid>8a381b60-ff2e-4838-86f6-d810f195165c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -296,6 +296,6 @@
                         
                     
                 ')]</value>
-      <webElementGuid>5dca2663-44d5-454c-b743-8ac0428a2405</webElementGuid>
+      <webElementGuid>64eb3f3c-a630-486f-b21c-df1bccf6ba7f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

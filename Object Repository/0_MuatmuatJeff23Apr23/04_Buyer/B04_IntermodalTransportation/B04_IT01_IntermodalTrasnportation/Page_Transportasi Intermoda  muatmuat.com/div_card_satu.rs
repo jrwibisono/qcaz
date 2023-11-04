@@ -6,12 +6,12 @@
    <elementGuidId>248299eb-3fc7-4e8e-8960-3fac630ff804</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.card-body</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[7]/div[3]/div/div[6]/div[1]</value>
+         <key>CSS</key>
+         <value>div.card-body</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0735163a-1bd8-4424-8c45-78056e93b748</webElementGuid>
+      <webElementGuid>9093c848-e95d-4d91-a581-c8b035c12b49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body</value>
-      <webElementGuid>ab9c93ad-b5a9-486b-97cf-4f3129748ee7</webElementGuid>
+      <webElementGuid>d0814516-a9a7-46f4-a881-dd321fbf617c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
                         Kec. Kare, Kab. Madiun
                     
                 </value>
-      <webElementGuid>2cda3c20-b677-456b-b027-8ba44a15eee4</webElementGuid>
+      <webElementGuid>6a295e60-1248-45b9-9f34-eb3c8a5610e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card card-product card-product-blue-border&quot;]/div[@class=&quot;card-body&quot;]</value>
-      <webElementGuid>c5bf1310-1d24-43c9-b983-45fda0502b40</webElementGuid>
+      <webElementGuid>b4ade207-1d86-4e84-96a6-b2351e86f608</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div/div</value>
-      <webElementGuid>fd881490-2e9c-4369-bc3a-0db6ab176c4a</webElementGuid>
+      <webElementGuid>c540312f-b851-424f-a54e-7eca0f3538fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[3]</value>
-      <webElementGuid>f46ebc49-ace4-461d-9c04-cb28a91e5940</webElementGuid>
+      <webElementGuid>59dd84cf-8bec-41f4-ab40-7732f498b5db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Ditemukan Hasil Pencarian Dari'])[1]/following::div[5]</value>
-      <webElementGuid>ea9d7505-0ac6-462c-8ef2-df5e97d446bd</webElementGuid>
+      <webElementGuid>080b36c6-ec74-4362-a817-af5166cbea12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[6]/div/div</value>
-      <webElementGuid>4ef00385-cfc4-4ea9-bb6a-fe13dceecaa6</webElementGuid>
+      <webElementGuid>57bd6def-5105-4fc8-8da6-2f8f09cde63a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -233,6 +233,6 @@
                         Kec. Kare, Kab. Madiun
                     
                 ')]</value>
-      <webElementGuid>95fa0a0a-f4d0-4bbf-8151-adfd20370f12</webElementGuid>
+      <webElementGuid>61072447-cf17-43ce-b5bb-c80301e3539c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -24,5 +24,5 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B06
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B06_DealerKaroseri/B06_DK06_ProdukLainnya/Page_Dealer Truk  Karoseri  muatmuat.com/a_Lainnya'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B06_DealerKaroseri/B06_DK06_ProdukLainnya/Page_Dealer Truk  Karoseri  muatmuat.com/div_Verified                               _28131d'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B06_DealerKaroseri/B06_DK06_ProdukLainnya/Page_Dealer Truk  Karoseri  muatmuat.com/div_card_satu'))
 

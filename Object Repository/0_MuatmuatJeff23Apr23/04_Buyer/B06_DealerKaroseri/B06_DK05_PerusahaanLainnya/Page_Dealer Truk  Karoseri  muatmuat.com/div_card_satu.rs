@@ -6,12 +6,11 @@
    <elementGuidId>390a981c-005b-4862-ae86-7ae2292ed588</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[5]/div[3]/div/div[7]/div[1]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>cbdd5dd5-72c3-4871-9ada-144fcf226ce5</webElementGuid>
+      <webElementGuid>e6a977ed-0b78-48e3-9817-2634f187e623</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body</value>
-      <webElementGuid>8ad8eb7b-baa5-4f18-ab67-0239f8a62e2d</webElementGuid>
+      <webElementGuid>e6b29698-abb3-4a10-bad2-3d259ad761ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +86,7 @@ enter lagi
                         Kec. Tegalsari, Kota Surabaya
                     
                 </value>
-      <webElementGuid>fed5a118-3fa0-4156-9846-5ad9d8629ae9</webElementGuid>
+      <webElementGuid>1654c203-c1d1-40a6-a2aa-f7ed464ed587</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@ enter lagi
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card card-product&quot;]/div[@class=&quot;card-body&quot;]</value>
-      <webElementGuid>1089f09f-b12e-46f7-abee-1eb44919b9c6</webElementGuid>
+      <webElementGuid>f2107146-9e70-4882-abed-74828f16fdc1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +102,7 @@ enter lagi
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div/div</value>
-      <webElementGuid>9f07fee6-8963-4986-9e79-b45acc7096fb</webElementGuid>
+      <webElementGuid>8835e0a2-0ec2-4c92-80e7-6c4fd129a9da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +110,7 @@ enter lagi
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[3]</value>
-      <webElementGuid>ab9d376b-d75d-4279-8802-3971fdde8c72</webElementGuid>
+      <webElementGuid>a2826933-7d97-426f-a0e8-c6f9da9eebb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +118,7 @@ enter lagi
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Ditemukan Hasil Pencarian Dari'])[1]/following::div[5]</value>
-      <webElementGuid>a877150e-0222-4277-a21d-d571c38a43f9</webElementGuid>
+      <webElementGuid>d3bca853-a53c-4f01-95e7-65d33f0e9b55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +126,7 @@ enter lagi
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div/div</value>
-      <webElementGuid>33341ed0-359e-426a-96a4-8dd8d71c14f7</webElementGuid>
+      <webElementGuid>473b6800-c000-4d50-800e-37577a0ffe17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -233,6 +232,6 @@ enter lagi
                         Kec. Tegalsari, Kota Surabaya
                     
                 ')]</value>
-      <webElementGuid>4aec03dd-6f9a-46b7-8ade-213424f70c6e</webElementGuid>
+      <webElementGuid>7335266e-d20d-4789-b071-25d3566debe6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

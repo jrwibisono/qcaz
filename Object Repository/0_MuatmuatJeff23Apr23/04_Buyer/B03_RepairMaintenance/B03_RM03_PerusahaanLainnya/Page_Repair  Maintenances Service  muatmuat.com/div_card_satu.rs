@@ -6,12 +6,11 @@
    <elementGuidId>f261d8b3-d759-4995-a807-5d57c9abc92c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[9]/div[3]/div/div[6]/div[1]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bc21d4c2-c636-48b4-a515-c8aa92dedaef</webElementGuid>
+      <webElementGuid>df00e1c1-3d87-4bcf-8d73-71c44cb0c2cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body</value>
-      <webElementGuid>e24c6fdd-89cb-45e2-b388-4b9a8ff849f9</webElementGuid>
+      <webElementGuid>8c244b3b-67e5-49dc-9ba9-27e1cd97b733</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -88,7 +87,7 @@ Konsultasi dan rekomendasi perawatan mobil.
                         Kec. Samarinda Ilir, Kota Samarinda
                     
                 </value>
-      <webElementGuid>c959f61a-2894-4e52-9f20-8768bfb0b640</webElementGuid>
+      <webElementGuid>88d3f0a2-d97e-4c8c-8eff-3dec512e3762</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -96,7 +95,7 @@ Konsultasi dan rekomendasi perawatan mobil.
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card card-product&quot;]/div[@class=&quot;card-body&quot;]</value>
-      <webElementGuid>2e4f93fd-497c-4c5f-b28e-d227ca7d4b7b</webElementGuid>
+      <webElementGuid>d85ca2fc-626b-4b07-a793-674ecaaea3a4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -104,7 +103,7 @@ Konsultasi dan rekomendasi perawatan mobil.
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div/div</value>
-      <webElementGuid>d46c2a94-c518-495d-a4f1-1b62ca402756</webElementGuid>
+      <webElementGuid>3cc9177b-5199-4671-90dd-697fa719c4f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +111,7 @@ Konsultasi dan rekomendasi perawatan mobil.
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[3]</value>
-      <webElementGuid>dcf6675f-2a47-4e7c-be32-263f2ecc67fe</webElementGuid>
+      <webElementGuid>260b71e9-80fe-4c1a-a9dd-d35aa5f1a567</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +119,7 @@ Konsultasi dan rekomendasi perawatan mobil.
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Ditemukan Hasil Pencarian Dari'])[1]/following::div[5]</value>
-      <webElementGuid>fcf5fdf5-329f-4a69-a3f4-f4e51116f5ac</webElementGuid>
+      <webElementGuid>6f85ff91-4523-4fda-883c-3177d9c0f29e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +127,7 @@ Konsultasi dan rekomendasi perawatan mobil.
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[6]/div/div</value>
-      <webElementGuid>33774e7b-1c82-474c-a0b0-82f85121701a</webElementGuid>
+      <webElementGuid>88ddc12c-22c0-4322-bf5f-f307c249da11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -236,6 +235,6 @@ Konsultasi dan rekomendasi perawatan mobil.
                         Kec. Samarinda Ilir, Kota Samarinda
                     
                 ')]</value>
-      <webElementGuid>84a97a27-6573-49ef-b679-594ae326b4aa</webElementGuid>
+      <webElementGuid>ff136d34-61a1-4911-8bce-964b7ef0f255</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

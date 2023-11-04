@@ -6,12 +6,11 @@
    <elementGuidId>e272d3d6-c895-4a4b-bcb0-cf81ed988ecc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[5]/div[3]/div/div[7]/div[1]</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>4450b707-0955-4cde-b95b-ce546df2122d</webElementGuid>
+      <webElementGuid>2a706fd7-0924-4ec5-83fd-e8c596ecc316</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value> card card-product  detail-product-catalog-card</value>
-      <webElementGuid>87c38d30-b997-4380-8a9a-80c79107cc0c</webElementGuid>
+      <webElementGuid>ac2b71cb-9e19-4b7c-97cb-baeb3183127b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>data-id</name>
       <type>Main</type>
       <value>2416</value>
-      <webElementGuid>741091f8-c104-40f8-8209-0b27971e7ab3</webElementGuid>
+      <webElementGuid>e39ee372-874c-49b7-8a01-72229455da92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +109,7 @@
                 
               
         </value>
-      <webElementGuid>0b406e2c-1379-4d97-93ec-0deb15c825c6</webElementGuid>
+      <webElementGuid>36559d3e-e41d-49ac-823b-628281687260</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card card-product  detail-product-catalog-card&quot;]</value>
-      <webElementGuid>89a481b7-1126-496f-b512-a00731a3ece8</webElementGuid>
+      <webElementGuid>8d74a2f2-2cc5-43d9-beae-1dfdf907cf46</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div</value>
-      <webElementGuid>7d9dbedc-35c8-4c1d-92c8-d9c4637faa70</webElementGuid>
+      <webElementGuid>1d32d3f7-9201-4d48-ba6e-99789b663a27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[2]</value>
-      <webElementGuid>e22f6767-a842-4ccb-9ce3-44be90a56400</webElementGuid>
+      <webElementGuid>0f598fee-1f4e-4392-9a91-cc7601cc7152</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak Ditemukan Hasil Pencarian Dari'])[1]/following::div[4]</value>
-      <webElementGuid>33ff5ded-be33-48c3-ab0e-b3df9c4bf77d</webElementGuid>
+      <webElementGuid>45e53301-26ac-4b40-be98-5a939b2dedd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/div</value>
-      <webElementGuid>b88b4929-c9c3-4f53-a877-e5603990d480</webElementGuid>
+      <webElementGuid>52fd0b79-9f01-4a8d-839f-8930e5fc1451</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -286,6 +285,6 @@
                 
               
         ')]</value>
-      <webElementGuid>df847d6d-75aa-4c45-92e8-1bc7d6fa7c05</webElementGuid>
+      <webElementGuid>57dfa1d0-d02d-4262-a4e6-77aa2db79698</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

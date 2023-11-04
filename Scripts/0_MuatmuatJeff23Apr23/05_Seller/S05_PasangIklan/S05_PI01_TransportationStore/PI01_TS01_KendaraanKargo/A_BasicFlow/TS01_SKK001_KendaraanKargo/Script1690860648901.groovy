@@ -109,7 +109,7 @@ for (def row = 1; row <= findTestData('transportation_store_kendaraan_kargo').ge
 
     String KapasitasPilih = ''
 
-    if (KapasitasMesin.toInteger() < 3000) {
+    if (KapasitasMesin.toInteger() < 3000) {V
         KapasitasPilih = 'Dibawah 3.000 cc'
     } else if (KapasitasMesin.toInteger() < 6000) {
         KapasitasPilih = '3.000 cc - 6.000 cc'
