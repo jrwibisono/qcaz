@@ -22,5 +22,5 @@ WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT01_IntermodalTrasnportation/Page_muatmuat Website  muatmuat/div_Intermodal TransportationTemukan jasa p_a223d4'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT01_IntermodalTrasnportation/Page_Transportasi Intermoda  muatmuat.com/div_card_satu'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT01_IntermodalTrasnportation/Page_Transportasi Intermoda  muatmuat.com (1)/div_card_satu'))
 

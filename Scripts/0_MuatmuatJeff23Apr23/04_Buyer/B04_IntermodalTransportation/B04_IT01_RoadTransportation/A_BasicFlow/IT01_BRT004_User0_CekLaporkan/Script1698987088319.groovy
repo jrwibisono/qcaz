@@ -22,11 +22,11 @@ WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT01_IntermodalTrasnportation/Page_muatmuat Website  muatmuat/div_Intermodal TransportationTemukan jasa p_a223d4'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT01_IntermodalTrasnportation/Page_Transportasi Intermoda  muatmuat.com/div_card_satu'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT01_IntermodalTrasnportation/Page_Transportasi Intermoda  muatmuat.com (1)/div_card_satu'))
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT01_IntermodalTrasnportation/Page_Transportasi Intermoda  muatmuat.com/div_laporkan_iklan_compro'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT01_IntermodalTrasnportation/Page_Transportasi Intermoda  muatmuat.com (1)/div_laporkan_iklan_compro'))
 
-String CheckedText = WebUI.getText(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT01_IntermodalTrasnportation/Page_Transportasi Intermoda  muatmuat.com/span_text_ceklogin'))
+String CheckedText = WebUI.getText(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT01_IntermodalTrasnportation/Page_Transportasi Intermoda  muatmuat.com (1)/span_text_ceklogin'))
 
 if (CheckedText == 'Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat') {
     println('MASIH USER 0')

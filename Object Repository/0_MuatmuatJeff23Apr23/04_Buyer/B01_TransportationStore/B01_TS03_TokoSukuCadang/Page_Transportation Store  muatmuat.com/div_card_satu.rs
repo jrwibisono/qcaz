@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[5]/div[3]/div/div[6]/div[1]</value>
+         <value>//*[@id=&quot;grid-card-api&quot;]/div[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>83431b38-0123-4fe7-af22-d394734d2a55</webElementGuid>
+      <webElementGuid>b615fd18-99d5-439c-8e5f-ca7243956fb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body</value>
-      <webElementGuid>f1ea8af8-cb3f-48c9-aa83-3db8e60320a6</webElementGuid>
+      <webElementGuid>ecc1d29d-c3e0-420e-8051-6599bc4ed193</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -97,7 +97,7 @@
                         Kec. Sidoarjo, Kab. Sidoarjo
                     
                 </value>
-      <webElementGuid>94d8bb3f-b7b3-4447-9816-30ffb86ebe5e</webElementGuid>
+      <webElementGuid>4be7549d-3c36-4781-bb9e-7e99cf1cea9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grid-card-api&quot;)/div[@class=&quot;card card-product card-product-blue-border&quot;]/div[@class=&quot;card-body&quot;]</value>
-      <webElementGuid>01b0a3e1-4373-42ca-82ac-9edabe8652b2</webElementGuid>
+      <webElementGuid>3d6b9213-869e-4895-b951-466f993ebfc6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='grid-card-api']/div/div</value>
-      <webElementGuid>8803d009-2011-43de-81fd-232b809e7c39</webElementGuid>
+      <webElementGuid>6c4146c4-2e47-4b75-b6f8-b98c296c58c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[2]/following::div[3]</value>
-      <webElementGuid>477d46f9-42f3-4354-ba9a-8ce3345f2f4e</webElementGuid>
+      <webElementGuid>a2c70816-bcfa-4f1a-b1a7-5e681c84a82a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hasil Tidak Ditemukan!'])[1]/following::div[4]</value>
-      <webElementGuid>e3309d36-aefb-41cb-965d-eb76831653f0</webElementGuid>
+      <webElementGuid>cf1744d0-5fe6-4396-84b2-31ee58f43e01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/div</value>
-      <webElementGuid>e7faffb7-89a7-467f-8ed2-f70e1651698e</webElementGuid>
+      <webElementGuid>d8dc83c6-a13e-43f0-be8a-9ac93e689fde</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -263,6 +263,6 @@
                         Kec. Sidoarjo, Kab. Sidoarjo
                     
                 ')]</value>
-      <webElementGuid>88548faf-7102-466e-b61d-76767df4df16</webElementGuid>
+      <webElementGuid>d46ef3e6-1407-41e2-9e6f-b72d355a3da8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
