@@ -17,16 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_00_NoLogin'), 
-    [:], FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS10_Container/Page_Transportation Store  muatmuat.com/div_card_satu'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT02_RailFreight/Page_muatmuat Website  muatmuat/div_Intermodal TransportationTemukan jasa p_a223d4'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS10_Container/Page_Transportation Store  muatmuat.com/div_wishlist_detail'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT02_RailFreight/Page_Transportasi Intermoda  muatmuat.com/a_Rail Freight'))
+String CheckedText = WebUI.getText(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS10_Container/Page_Transportation Store  muatmuat.com/span_text_ceklogin'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT02_RailFreight/Page_Transportasi Intermoda  muatmuat.com/div_card_satu'))
+String ResultText = ''
 
-WebUI.verifyTextNotPresent('null', false)
+if (CheckedText == 'Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat') {
+    ResultText = 'MASIH USER 0'
+} else {
+    ResultText = 'TIDAK TERDETEKSI'
+}
 
-WebUI.verifyTextNotPresent('undefined', false)
+GlobalVariable.ProsesTenderNama = ['TestHubungi']
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/btn_close_popup'))
 

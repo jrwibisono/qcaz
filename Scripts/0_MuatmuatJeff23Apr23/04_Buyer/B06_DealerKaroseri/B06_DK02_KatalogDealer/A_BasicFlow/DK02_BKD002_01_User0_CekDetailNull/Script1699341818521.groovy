@@ -20,11 +20,11 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_00_NoLogin'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT02_RailFreight/Page_muatmuat Website  muatmuat/div_Intermodal TransportationTemukan jasa p_a223d4'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B06_DealerKaroseri/B06_DK02_KatalogDealer/Page_muatmuat Website  muatmuat/div_Dealer  KaroseriDirektori dealer dan ka_3b1b20'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT02_RailFreight/Page_Transportasi Intermoda  muatmuat.com/a_Rail Freight'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B06_DealerKaroseri/B06_DK02_KatalogDealer/Page_Dealer Truk  Karoseri  muatmuat.com/div_Katalog Produk Dealer'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT02_RailFreight/Page_Transportasi Intermoda  muatmuat.com/div_card_satu'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B06_DealerKaroseri/B06_DK02_KatalogDealer/Page_Dealer Truk  Karoseri  muatmuat.com/div_card_satu'))
 
 WebUI.verifyTextNotPresent('null', false)
 

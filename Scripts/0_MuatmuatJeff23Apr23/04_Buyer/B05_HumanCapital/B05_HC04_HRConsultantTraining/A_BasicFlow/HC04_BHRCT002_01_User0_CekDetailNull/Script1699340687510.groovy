@@ -20,11 +20,11 @@ import org.openqa.selenium.Keys as Keys
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_00_NoLogin'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT02_RailFreight/Page_muatmuat Website  muatmuat/div_Intermodal TransportationTemukan jasa p_a223d4'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B05_HumanCapital/B05_HC04_HRConsultantTraining/Page_muatmuat Website  muatmuat/div_Human CapitalCari lowongan dan pelamar _efa029'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT02_RailFreight/Page_Transportasi Intermoda  muatmuat.com/a_Rail Freight'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B05_HumanCapital/B05_HC04_HRConsultantTraining/Page_Human Capital  muatmuat.com/a_HR Consultant and Training'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B04_IntermodalTransportation/B04_IT02_RailFreight/Page_Transportasi Intermoda  muatmuat.com/div_card_satu'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B05_HumanCapital/B05_HC04_HRConsultantTraining/Page_Human Capital  muatmuat.com/div_card_satu'))
 
 WebUI.verifyTextNotPresent('null', false)
 
