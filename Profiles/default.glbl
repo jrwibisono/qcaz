@@ -6,17 +6,17 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'D:\\Katalon muatmuat\\Apk\\muatmuatSellerRC_0410202301.apk'</initValue>
+      <initValue>'D:\\Katalon muatmuat\\Apk\\mmShipperXDEMOsdk33_1.0.20_1107202301.apk'</initValue>
       <name>Apk</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'089514566260'</initValue>
+      <initValue>'why4@yopmail.com'</initValue>
       <name>EmailOrWhatsapp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Az123456789'</initValue>
+      <initValue>'Az12345678'</initValue>
       <name>Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -31,77 +31,17 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Jl. Kupang Baru 1 no 95'</initValue>
-      <name>Address</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'muatmuat.com'</initValue>
-      <name>Website</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Bergerak di bidang ...'</initValue>
-      <name>About</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Banyak'</initValue>
-      <name>Advantage</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Senin - Jumat, 08:00 - 23:00'</initValue>
-      <name>OperationalTime</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Test Caption'</initValue>
-      <name>Caption</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
       <initValue>5</initValue>
       <name>TotalLoop</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'150000'</initValue>
-      <name>Price</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'surat-jalan.jpeg'</initValue>
-      <name>ImageFilename</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'VID-20231001-WA0004.mp4'</initValue>
-      <name>VideoFilename</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Title'</initValue>
-      <name>Title</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'18'</initValue>
-      <name>Age</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'1500000'</initValue>
-      <name>Salary</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>'Surabaya'</initValue>
-      <name>City</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
       <initValue>', '</initValue>
       <name>Separator</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>UserType</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
