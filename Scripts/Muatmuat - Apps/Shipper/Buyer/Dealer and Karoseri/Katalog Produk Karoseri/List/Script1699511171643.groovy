@@ -27,6 +27,10 @@ Mobile.swipe(0, 1400, 0, 1100)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Dealer and Karoseri/Menu Dealer and Karoseri'), 0)
 
+if (GlobalVariable.UserType == 1) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Button Lewati'), 0)
+}
+
 Mobile.delay(GlobalVariable.Delay)
 
 Mobile.swipe(0, 1400, 0, 900)

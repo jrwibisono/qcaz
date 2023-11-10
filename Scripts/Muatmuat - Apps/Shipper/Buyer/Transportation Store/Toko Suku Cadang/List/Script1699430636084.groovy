@@ -27,4 +27,8 @@ Mobile.swipe(0, 1400, 0, 1100)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Transportation Store/Menu Transportation Store'), 0)
 
+if (GlobalVariable.UserType == 1) {
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Button Lewati'), 0)
+}
+
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Transportation Store/Menu Toko Suku Cadang'), 0)

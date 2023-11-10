@@ -41,7 +41,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>0</initValue>
+      <initValue>1</initValue>
       <name>UserType</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
