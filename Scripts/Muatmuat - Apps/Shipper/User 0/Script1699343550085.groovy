@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Login'), [:])
 
-Mobile.delay(10)
-
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Button Menu Profil'), 0)
 
 Mobile.delay(5)

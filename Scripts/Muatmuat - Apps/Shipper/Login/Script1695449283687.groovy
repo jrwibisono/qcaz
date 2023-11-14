@@ -38,3 +38,5 @@ Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Login/andro
 Mobile.swipe(720, 1780, 720, 422)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Login/Button Login'), 0)
+
+Mobile.delay(10)

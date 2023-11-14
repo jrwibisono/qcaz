@@ -21,4 +21,4 @@ Mobile.delay(5)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Places and Promo/Button Wishlist 2'), 0)
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Buyer/Global/User 0/Popup'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Buyer/Global/Popup User 0'), [:])

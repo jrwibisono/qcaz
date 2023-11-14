@@ -23,4 +23,4 @@ Mobile.swipe(0, 1400, 0, 900)
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Repair and Maintenance Service/Button Hubungi Detail'), 0)
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Buyer/Global/User 0/Popup'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Buyer/Global/Popup User 0'), [:])

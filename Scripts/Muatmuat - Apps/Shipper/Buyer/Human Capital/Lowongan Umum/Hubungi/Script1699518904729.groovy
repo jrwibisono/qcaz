@@ -19,4 +19,4 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Human Capital/Button Hubungi'), 0)
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Buyer/Global/User 0/Popup'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Buyer/Global/Popup User 0'), [:])

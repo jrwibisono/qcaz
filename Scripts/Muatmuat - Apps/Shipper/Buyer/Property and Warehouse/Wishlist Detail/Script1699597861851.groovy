@@ -21,4 +21,4 @@ Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Prope
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Property and Warehouse/Button Wishlist Detail'), 0)
 
-Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Buyer/Global/User 0/Popup'), [:])
+Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Buyer/Global/Popup User 0'), [:])
