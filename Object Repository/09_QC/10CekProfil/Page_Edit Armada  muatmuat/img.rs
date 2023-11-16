@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>bb3c2bde-5cef-463a-8157-54e4fc471177</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[8]/div/div/div/button/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/_resources/themes/muat/image/subscription/close.svg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-header.modal-header-muat.modal-header-radius > button.bootbox-close-button.close > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5c81d4fc-c831-499c-940e-0e221299ee27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/subscription/close.svg</value>
+      <webElementGuid>a1870a32-f9d8-42a9-b435-80306cc839cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;bootbox modal fade show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content modal-content-radius&quot;]/div[@class=&quot;modal-header modal-header-muat modal-header-radius&quot;]/button[@class=&quot;bootbox-close-button close&quot;]/img[1]</value>
+      <webElementGuid>6bb52d20-807c-4bfb-9e46-538872fdecfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/button/img</value>
+      <webElementGuid>798b111f-dde6-4856-8be0-055ea7f9ddf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/subscription/close.svg']</value>
+      <webElementGuid>cb677939-3e07-4cec-bcb6-d1bf2f594ff1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

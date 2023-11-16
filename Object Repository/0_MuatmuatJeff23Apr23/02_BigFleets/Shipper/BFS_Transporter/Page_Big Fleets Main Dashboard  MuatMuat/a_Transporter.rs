@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9bebd60a-ed19-4fec-878d-bf9f57300a5a</webElementGuid>
+      <webElementGuid>f0eaba03-44a1-445f-bfbe-06213c7af40e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://bf.azlogistik.id/bigfleets/menu_shipper_show_transporter</value>
-      <webElementGuid>0bf6ca25-7f42-4c89-be87-7d72ee846f5e</webElementGuid>
+      <value>https://bf.muatmuat.com/bigfleets/menu_shipper_show_transporter</value>
+      <webElementGuid>47056eb2-68c0-47e2-b453-a3fccaf7e15d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Transporter</value>
-      <webElementGuid>67d2634c-2fb2-4fca-a60f-89eb457e5eee</webElementGuid>
+      <webElementGuid>7604d2f2-5812-4852-ab56-7e235e3fa390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Shipper&quot;)/a[1]</value>
-      <webElementGuid>ad55a666-1d25-4196-bb5e-2cb52d478c68</webElementGuid>
+      <webElementGuid>7bbe02b8-5638-4d4c-ba42-3e2e07f4c601</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='Shipper']/a</value>
-      <webElementGuid>a46f5577-6da4-4abe-9086-81f3ae96fe3f</webElementGuid>
+      <webElementGuid>9599f08b-6085-40f3-bfb5-d9b026f4daf6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Transporter')]</value>
-      <webElementGuid>d20b9e00-3d73-4164-b80f-1c04001af561</webElementGuid>
+      <webElementGuid>e38ff2a8-e214-485b-aeda-da87fcb3257c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription'])[1]/following::a[1]</value>
-      <webElementGuid>acf56bd1-2c0a-401e-8bd2-6737f0e70236</webElementGuid>
+      <webElementGuid>72d87282-4b21-4aca-96f6-a015c1f656e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[2]</value>
-      <webElementGuid>f7e7c31e-9dcf-4b37-bfb0-ec85b5e8d3b5</webElementGuid>
+      <webElementGuid>1defdc53-5838-436c-81c3-00fd8f0830c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Mitra dan Grup'])[1]/preceding::a[1]</value>
-      <webElementGuid>b3e548a2-225e-4aa2-86a3-3bfe9a337452</webElementGuid>
+      <webElementGuid>4711d366-b401-450b-8112-9464804d3756</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak Harga'])[1]/preceding::a[2]</value>
-      <webElementGuid>5ca0b871-49b7-4bd8-a731-c30adf059451</webElementGuid>
+      <webElementGuid>e38ea402-2524-4755-bbfa-9a3b31f71a22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,15 +102,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Transporter']/parent::*</value>
-      <webElementGuid>671caca0-8214-4b1f-9015-4d76bbb684eb</webElementGuid>
+      <webElementGuid>98a56c10-ac02-49b9-b820-49b085aef698</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://bf.azlogistik.id/bigfleets/menu_shipper_show_transporter')]</value>
-      <webElementGuid>0ce7d1f6-5637-4844-9ae6-1997720eb610</webElementGuid>
+      <value>//a[contains(@href, 'https://bf.muatmuat.com/bigfleets/menu_shipper_show_transporter')]</value>
+      <webElementGuid>faa3c14c-1f8c-4287-9da9-7524379de1a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,14 +118,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>41d0f5f5-6bf9-4d22-9d83-794f658bba15</webElementGuid>
+      <webElementGuid>c27d8b41-8cf3-4b29-b070-b8bb9e41a7fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://bf.azlogistik.id/bigfleets/menu_shipper_show_transporter' and (text() = 'Transporter' or . = 'Transporter')]</value>
-      <webElementGuid>ffac5460-86d5-409e-ae68-36b526dc6836</webElementGuid>
+      <value>//a[@href = 'https://bf.muatmuat.com/bigfleets/menu_shipper_show_transporter' and (text() = 'Transporter' or . = 'Transporter')]</value>
+      <webElementGuid>958cff20-cb3d-4612-9c26-ebf737a1541d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

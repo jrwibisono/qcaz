@@ -77,12 +77,15 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFlee
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/input_x_tinggi'), 
     '2')
 
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/input_x_tinggi'), 
+    '2')
+
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/span_Jumlah Truk_btn-jumlah text-center d-f_58718a'))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/textarea_Catatan untuk Shipper_catatan'), 
     'Siap muat')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/button_Tambah'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT03_InstantOrder/TIO01_IO01_TambahLokasiTrukSiapMuat/Page_Lokasi Truk Siap Muat  muatmuat/button_Tambah'))
 
 not_run: WebUI.waitForJQueryLoad(60)
 

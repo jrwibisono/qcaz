@@ -20,8 +20,11 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 'Panggil ketika butuh whitelist'
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L000_WhitelistLogin'), 
+not_run: WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L000_WhitelistLogin'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
+
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L000-01_WhitelistLoginCustom'), 
+    [:], FailureHandling.OPTIONAL)
 
 not_run: WebUI.navigateToUrl(GlobalVariable.URLMuatmuat)
 

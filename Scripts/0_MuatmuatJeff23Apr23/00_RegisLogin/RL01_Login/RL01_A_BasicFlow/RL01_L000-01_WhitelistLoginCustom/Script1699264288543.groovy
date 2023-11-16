@@ -23,8 +23,13 @@ WebUI.navigateToUrl(GlobalVariable.URLMuatmuat)
 
 WebUI.delay(2)
 
-if (WebUI.verifyElementPresent(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/input_Margo'), 
-    , timeout, FailureHandling.OPTIONAL)) {
+WebUI.waitForPageLoad(60)
+
+//boolean whitelistOn = WebUI.verifyElementPresent(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/input_Margo'))
+boolean whitelistOn = WebUI.verifyElementPresent(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/input_Margo'), 
+    5, FailureHandling.OPTIONAL)
+
+if (whitelistOn == true) {
     WebUI.setText(findTestObject('Object Repository/8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/input_Margo'), 
         GlobalVariable.UserDaftarWhitelist)
 

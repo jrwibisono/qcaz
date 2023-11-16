@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_SellerPartner Center_backToMain</name>
+   <tag></tag>
+   <elementGuidId>bcdb702c-e485-403e-95dc-2bb2884a3d27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e3e5810b-045d-4264-94ef-8c0d205f6883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/icon/svg/icon-header-new-bigfleet-muatmuat.svg</value>
+      <webElementGuid>26e7d4af-34d1-4580-b1fe-64d62194e007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>backToMain</value>
+      <webElementGuid>9d5950d7-5d20-42b8-89f5-838df341e0f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[5]/div[@class=&quot;header-new-bigfleet&quot;]/div[@class=&quot;d-flex align-items-center container-header-new-bigfleet&quot;]/img[@class=&quot;backToMain&quot;]</value>
+      <webElementGuid>ccda13b9-5946-4f24-994c-abc1bcaec1b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[2]</value>
+      <webElementGuid>50308957-e55c-43bf-99c4-1951b0515655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/icon/svg/icon-header-new-bigfleet-muatmuat.svg']</value>
+      <webElementGuid>5bb710bf-2927-4c4e-b1dd-74efde3ae4bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

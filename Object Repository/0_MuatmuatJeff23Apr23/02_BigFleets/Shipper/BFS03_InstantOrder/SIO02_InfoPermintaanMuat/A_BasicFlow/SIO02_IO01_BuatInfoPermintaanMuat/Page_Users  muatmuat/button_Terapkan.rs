@@ -6,12 +6,12 @@
    <elementGuidId>1d6962e8-19f1-4889-bb21-4f95f3251bef</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#terapkan</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//*[@id=&quot;terapkan&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#terapkan</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0c54cce7-bf72-428f-96a1-b54e630341d0</webElementGuid>
+      <webElementGuid>7a03e4ea-612d-4739-86a8-c15bbeb43736</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn upload-btn ff-demi fs-14 btn-flex m-0</value>
-      <webElementGuid>8ae4b476-a4c0-4d48-89f4-d3fa12aca307</webElementGuid>
+      <webElementGuid>c52d01e4-0131-4bdd-beff-311e6d1b18a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>terapkan</value>
-      <webElementGuid>af9c4149-befb-4c76-bd4b-4c553a0bd775</webElementGuid>
+      <webElementGuid>4c70399c-bef2-4daf-8c75-8481383b5e8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Terapkan</value>
-      <webElementGuid>d6fe26f0-729c-4d9c-9354-0b45c75d0b3c</webElementGuid>
+      <webElementGuid>e7b4da60-e2e4-44f3-a6ac-8554b578ae9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;terapkan&quot;)</value>
-      <webElementGuid>41013458-836f-410c-b44d-f0a9e60129fe</webElementGuid>
+      <webElementGuid>a7a5eb56-bcc0-4d3a-a557-4b837856e197</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='terapkan']</value>
-      <webElementGuid>787926be-0bb9-4970-8a10-b2116ebba50f</webElementGuid>
+      <webElementGuid>3af1ea8b-d199-4b38-9baf-a983bc97051b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='footer-invites']/button[2]</value>
-      <webElementGuid>a930a795-f901-4387-bd05-b9a1e9981957</webElementGuid>
+      <webElementGuid>c07168df-7db0-4370-aa24-fc74bfe15a74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::button[1]</value>
-      <webElementGuid>3c235997-8933-48df-9017-a987061afe40</webElementGuid>
+      <webElementGuid>293b64e0-504b-438e-87f2-e30d06ed68e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Undang Transporter diluar komunitas Big Fleets'])[1]/following::button[2]</value>
-      <webElementGuid>a3538eb8-cbe9-49fe-84c2-16e3fe21d24a</webElementGuid>
+      <webElementGuid>2d9d0288-8433-4dab-8b93-79be5c29f380</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitra'])[1]/preceding::button[2]</value>
-      <webElementGuid>633531e8-a73d-426d-ae75-dc4a74116ed1</webElementGuid>
+      <webElementGuid>8c9589a0-d2f6-4920-b1ad-1d8e5e1d0e26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transporter'])[2]/preceding::button[2]</value>
-      <webElementGuid>1fc83a34-d0e3-47fc-a181-a3a7ff0a9d49</webElementGuid>
+      <webElementGuid>f88be6ca-a80e-4d34-943d-0fca8a5a814a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button[2]</value>
-      <webElementGuid>3fd8ea68-9083-4e78-90e8-2faed0a2e68c</webElementGuid>
+      <webElementGuid>5c3cbf0b-f6aa-4baf-8900-0b009a2637e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'terapkan' and (text() = 'Terapkan' or . = 'Terapkan')]</value>
-      <webElementGuid>265065bd-76f7-4b99-aaea-95716c1f53e7</webElementGuid>
+      <webElementGuid>42d6deb3-80e1-46d8-828d-2a88ca55c6d3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

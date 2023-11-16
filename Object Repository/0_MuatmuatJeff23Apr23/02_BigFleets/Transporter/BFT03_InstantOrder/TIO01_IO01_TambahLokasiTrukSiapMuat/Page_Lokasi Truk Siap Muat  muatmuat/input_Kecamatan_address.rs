@@ -6,12 +6,11 @@
    <elementGuidId>6a4a90a9-e956-482a-998c-bf7c765b20b3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;form-frontend&quot;]/div/div/div/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[1]/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;form-frontend&quot;]/div/div/div[1]/div/div[2]/div/div[1]/div[2]/div[2]/div[1]/input</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>085c98f9-4f65-4a1c-9f83-94881158c02e</webElementGuid>
+      <webElementGuid>4cfcded0-a683-4a06-8035-148bf55fc363</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +29,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>1599d060-18f0-42e0-8cd2-140c59889b08</webElementGuid>
+      <webElementGuid>052202c8-7033-4fd2-b58e-03177366ce8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>check_siap</value>
-      <webElementGuid>db789a2b-cfba-4974-96ab-c47020aa5ed7</webElementGuid>
+      <webElementGuid>bd90d2ff-92c9-4c93-8be5-c7d61de27635</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Area Pick Up</value>
-      <webElementGuid>bb67a3f2-ea24-4279-9084-c3460ebf808b</webElementGuid>
+      <webElementGuid>0f94a72a-9481-4068-b625-0a8bb9ab92e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ml-24 mr-8 fi-radio</value>
-      <webElementGuid>ef70cb2f-7c44-4c4d-8f1e-46de61d36d83</webElementGuid>
+      <webElementGuid>cfbc1e28-f898-43fb-ac8e-240781bce62b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>794af415-cf51-4e3f-806e-7df1a9a42b7e</webElementGuid>
+      <webElementGuid>fda9a848-7f4e-4ec0-8b36-dbbf3a005352</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form-frontend&quot;)/div[@class=&quot;container px-5&quot;]/div[@class=&quot;d-flex  mb-3&quot;]/div[1]/div[1]/div[@class=&quot;card card-container&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex flex-row justify-content-between&quot;]/div[@class=&quot;ml-3 pr-0&quot;]/div[@class=&quot;checkbox-siap d-flex align-items-center ff-medium fs-12 lh-normal fc-1b ||||&quot;]/input[@class=&quot;ml-24 mr-8 fi-radio&quot;]</value>
-      <webElementGuid>17eceec8-d9a0-488f-95f8-d15649230ca7</webElementGuid>
+      <webElementGuid>7211abf3-25ca-442b-a195-2f4c031c27a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>data-cek</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>b1c593d9-70b8-4ad0-8fb4-c27288d3d108</webElementGuid>
+      <webElementGuid>565b1615-d52a-4bef-a3b0-2942a396dd50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>value</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>61fc393b-0ec8-4d3c-a8cf-7c64a499071a</webElementGuid>
+      <webElementGuid>7153d9e2-0bd5-4dcc-9d85-ff233d7dd8d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@name='check_siap'])[2]</value>
-      <webElementGuid>1bc45511-390a-4ca9-8d9a-084cc163903d</webElementGuid>
+      <webElementGuid>1657dfa1-8a5c-440a-a2b1-d4c865218221</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-frontend']/div/div/div/div/div[2]/div/div[4]/div[2]/div/input[2]</value>
-      <webElementGuid>cec14408-e7fa-4e63-a4ff-cbdef0d96876</webElementGuid>
+      <webElementGuid>aacc9506-9725-4feb-b4f6-0baeb434dfef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input[2]</value>
-      <webElementGuid>3d3532d5-8351-4b73-914f-a4378ddbff3c</webElementGuid>
+      <webElementGuid>6d33defc-7c9d-4ecd-aca6-de7bc3df9936</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'check_siap']</value>
-      <webElementGuid>1284000b-84c6-4b2b-98a9-ab43e97e6015</webElementGuid>
+      <webElementGuid>65c860fc-6d0a-4ee6-8775-1352dce615ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='address']</value>
-      <webElementGuid>881cce83-b959-43e5-93fc-5b2e698728e5</webElementGuid>
+      <webElementGuid>c2e777e7-872e-4a83-9f2e-f05efcbc062d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +133,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form-frontend']/div/div/div/div/div[2]/div/div/div[2]/div[2]/div/input</value>
-      <webElementGuid>1a2a4f24-03af-4a99-8729-3beb8f91cfbd</webElementGuid>
+      <webElementGuid>84999cea-2c7e-4568-8ab7-e2b158660905</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div[2]/div/input</value>
-      <webElementGuid>8ee265ed-0a48-4b86-8da2-59e6120cab8e</webElementGuid>
+      <webElementGuid>e522c7fe-01bb-420b-9293-985e70c80343</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'address' and @placeholder = 'Area Pick Up']</value>
-      <webElementGuid>5f7b63dd-7e53-4faa-a920-503d1f21400f</webElementGuid>
+      <webElementGuid>00cbe554-c402-4a2e-9b00-32cc87a3f208</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

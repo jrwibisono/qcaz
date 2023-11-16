@@ -6,12 +6,12 @@
    <elementGuidId>692ee420-1626-47be-8383-7bb28e766f16</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#destinasi0</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;destinasi0&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='destinasi0']</value>
+         <key>CSS</key>
+         <value>#destinasi0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b20f58f6-11e5-41d3-8494-1d9e79afdaae</webElementGuid>
+      <webElementGuid>d22d4491-2b41-4ca5-8f4f-264b312604c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bbd10a2d-b6ba-44b9-9c16-4104525d4441</webElementGuid>
+      <webElementGuid>10890124-9151-416f-800a-3deb3f4f61d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>rute[0][destinasi]</value>
-      <webElementGuid>f72ceb78-df95-4295-ba20-631740066cb2</webElementGuid>
+      <webElementGuid>3ab44d7b-ce09-43b7-aec0-0efe89128207</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>destinasi0</value>
-      <webElementGuid>9c86e462-8676-4c0f-bbbf-239437c2704c</webElementGuid>
+      <webElementGuid>a9be781f-f75f-4b45-9270-58ef8bdb580a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>00514eed-1b3f-429a-be4d-9393213fef49</webElementGuid>
+      <webElementGuid>025b7f60-56c5-4742-afcd-3aafef9ed058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control fs-12 fc-1b ff-demi input-text-pratender pl-8px inputan-kota-destinasi mr-12 hg-32</value>
-      <webElementGuid>099cd7cb-719c-43d3-a1ae-8a8c25dd2b4e</webElementGuid>
+      <webElementGuid>debd5fc4-a0cb-4c98-81fc-751f6c02c987</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Lokasi Destinasi</value>
-      <webElementGuid>39be3180-9a04-4da6-9edd-328a740055e5</webElementGuid>
+      <webElementGuid>3eca18ff-adc8-4129-adb8-8ef76528e34f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;destinasi0&quot;)</value>
-      <webElementGuid>9546d298-36c0-46ca-8b0b-c62d4fd037a9</webElementGuid>
+      <webElementGuid>d22ad678-0563-4f95-89e0-65afe8b22a45</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='destinasi0']</value>
-      <webElementGuid>3794118c-ae24-407e-a5ba-d21382861d6e</webElementGuid>
+      <webElementGuid>1ac7420d-a2aa-41e3-b7bd-5143815432c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='row-rute-0']/div[2]/input[2]</value>
-      <webElementGuid>a6d9144d-b605-44cd-962f-b9e3f75baf6e</webElementGuid>
+      <webElementGuid>b5911b29-85da-422a-a632-be05d5bf8903</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/input[2]</value>
-      <webElementGuid>f0fa1916-4025-4990-9cb4-9c7175d2be08</webElementGuid>
+      <webElementGuid>350191aa-a972-42c9-ab57-17acfb484863</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'rute[0][destinasi]' and @id = 'destinasi0' and @placeholder = 'Lokasi Destinasi']</value>
-      <webElementGuid>99671004-ba9f-493d-8296-2ce09b071528</webElementGuid>
+      <webElementGuid>81647ee5-369c-4e27-bb47-1c2301f07305</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

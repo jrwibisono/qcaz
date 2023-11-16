@@ -6,12 +6,12 @@
    <elementGuidId>41c1c8a5-15e8-4395-b80b-7bc78b64c325</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#pickup0</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;pickup0&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='pickup0']</value>
+         <key>CSS</key>
+         <value>#pickup0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ae8c5e43-9d28-4097-85d3-a68314be471d</webElementGuid>
+      <webElementGuid>780bb6cd-1afe-42a9-83aa-b5d7a648c9ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f3e966bc-721a-4144-b911-2480a11ab888</webElementGuid>
+      <webElementGuid>971d313e-1759-49af-b45f-1715d7a098f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>rute[0][pickup]</value>
-      <webElementGuid>60f39dc8-cfcf-422a-9185-4612a20f89c6</webElementGuid>
+      <webElementGuid>84438cf3-5788-49e8-a819-ee41724b01cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pickup0</value>
-      <webElementGuid>b6f3c562-3472-419b-862c-282520600311</webElementGuid>
+      <webElementGuid>31b50874-e03a-4a9a-9c2a-9c45058407cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>52d93b97-692e-4c7a-b3be-aa48ff1f6e37</webElementGuid>
+      <webElementGuid>7314e7b2-155a-4c11-b90c-58765d20fdc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control fs-12 fc-1b ff-demi input-text-pratender pl-8px inputan-kota mr-12 hg-32</value>
-      <webElementGuid>b2e249c9-0bca-4f2d-967b-ecdf4b0b43dd</webElementGuid>
+      <webElementGuid>578da5c8-f441-418e-a861-94b97706c4e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Lokasi Pick Up</value>
-      <webElementGuid>de758480-8218-49d4-8e5e-061e6724243d</webElementGuid>
+      <webElementGuid>f60046e2-1b2f-4f8c-bca7-c8c0e364315a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pickup0&quot;)</value>
-      <webElementGuid>8cf1f087-5683-4323-b872-308e49faa477</webElementGuid>
+      <webElementGuid>7bd4b564-9b88-4f23-80e9-d0d6ffabbe84</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='pickup0']</value>
-      <webElementGuid>8d255f55-c56b-4d14-bdb0-3da8fdecf168</webElementGuid>
+      <webElementGuid>ae681129-95ce-407c-87c6-9753eb9e5b98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='row-rute-0']/div[2]/input</value>
-      <webElementGuid>7692dc2c-6127-42ba-a2b3-d34deac5eaaf</webElementGuid>
+      <webElementGuid>1979d925-e8a4-4a6d-9a50-60e42ca7a2bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/input</value>
-      <webElementGuid>8f9c9a0b-2c2a-48ec-ba9e-d57adb47f02d</webElementGuid>
+      <webElementGuid>d54fa5e8-4a19-4695-b925-ec5a15eeed22</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'rute[0][pickup]' and @id = 'pickup0' and @placeholder = 'Lokasi Pick Up']</value>
-      <webElementGuid>f4385f64-b573-493b-ba17-dfcec52a42a7</webElementGuid>
+      <webElementGuid>79c6ac26-3b37-4ad6-9a49-d11cff1a7e48</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

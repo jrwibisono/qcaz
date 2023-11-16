@@ -41,7 +41,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>100</initValue>
+      <initValue>1000</initValue>
       <name>CS_Loop</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Lihat Barang_Lainnya_DK</name>
+   <tag></tag>
+   <elementGuidId>cf8d6494-d631-4399-aa6a-87e4ab959524</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-lainnya</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;barang-lainnya&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8c8c3f09-8fce-4083-a6cb-ed639c640a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tombol-primary-outline-az margin-remover</value>
+      <webElementGuid>8f113f11-3405-4a83-a741-a3faeb396323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn-lainnya</value>
+      <webElementGuid>d545ad7d-de6b-4505-8697-9218c757105c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Barang Lainnya Dari Penjual</value>
+      <webElementGuid>f7fb282e-3eb5-4f88-b56e-364092d5705d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn-lainnya&quot;)</value>
+      <webElementGuid>61998883-982d-468f-b0b3-4fd1c74d906e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-lainnya']</value>
+      <webElementGuid>479cfbe2-c90a-486a-8fa5-c5887e41f6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi'])[1]/following::button[1]</value>
+      <webElementGuid>d1155af9-9532-487b-8588-609d323b1a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporkan Iklan Ini'])[1]/preceding::button[1]</value>
+      <webElementGuid>eeac318d-2256-49e5-b477-f99fdda39dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Barang Lainnya Dari Penjual']/parent::*</value>
+      <webElementGuid>92dedcb4-5b0e-47fa-9363-70a532992d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>c5646c8a-6ade-41d4-803c-f5f8ba3b795c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-lainnya' and (text() = 'Lihat Barang Lainnya Dari Penjual' or . = 'Lihat Barang Lainnya Dari Penjual')]</value>
+      <webElementGuid>8134ee1c-6f35-4253-930c-93e49c046e1d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
