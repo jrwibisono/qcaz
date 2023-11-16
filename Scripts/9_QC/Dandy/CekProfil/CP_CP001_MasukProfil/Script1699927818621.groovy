@@ -79,12 +79,13 @@ def hasilCekPICShipper = []
 def hasilCekPICTransporter = []
 
 // Grup Isi PIC End ========================
-
 String input_unit_armada = '60'
 
 String input2_unit_armada = '70'
 
 def hasilCekArmadaProfil = []
+
+String input_no_telp_perusahaan = '741852963'
 
 String last_nama_armada = ''
 
@@ -121,19 +122,19 @@ badan_usaha = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/
 
 bidang_usaha = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile/div_bidang_usaha'))
 
-not_run: WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_Ubah Data'))
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_Ubah Data'))
 
 //String no_telp_perusahaan = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile/div_no_telp_perusahaan'))
-not_run: String input_no_telp_perusahaan = '741852963'
-
-not_run: WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_No. Telepon Perusahaan'), 
+WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_No. Telepon Perusahaan'), 
     input_no_telp_perusahaan)
 
-not_run: WebUI.delay(1)
+WebUI.delay(1)
 
-not_run: WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_Simpan Data'))
+WebUI.scrollToPosition(0, 0)
 
-not_run: String no_telp_perusahaan = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile/div_no_telp_perusahaan'))
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_Simpan Data'))
+
+String no_telp_perusahaan = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile/div_no_telp_perusahaan'))
 
 not_run: if (no_telp_perusahaan == input_no_telp_perusahaan) {
     println('TELEPON BENAR')
@@ -163,6 +164,8 @@ WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile M
 WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_picNoShipper_3'), 
     isi_shipperPicNumber3)
 
+WebUI.scrollToPosition(0, 0)
+
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_SimpanData_PICShipper'))
 
 shipperPic1 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picShipper1'))
@@ -185,7 +188,7 @@ shipperPic2 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/
 
 if (shipperPic2 == isi_shipperPic2) {
     hasilCekPICShipper.add('PIC 2 Shipper Berubah!')
-}else {
+} else {
     hasilCekPICShipper.add('PIC 2 Shipper Gagal Berubah!')
 }
 
@@ -245,7 +248,7 @@ WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Man
 transporterPic1 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picTransporter1'))
 
 if (transporterPic1 == isi_transporterPic1) {
-	hasilCekPICTransporter.add('PIC 1 Transporter Berubah!')
+    hasilCekPICTransporter.add('PIC 1 Transporter Berubah!')
 } else {
     hasilCekPICTransporter.add('PIC 1 Transporter Gagal Berubah!')
 }
@@ -253,7 +256,7 @@ if (transporterPic1 == isi_transporterPic1) {
 transporterPicNumber1 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picNoTransporter1'))
 
 if (transporterPicNumber1 == isi_transporterPicNumber1) {
-	hasilCekPICTransporter.add('Nomor PIC 1 Transporter Berubah!')
+    hasilCekPICTransporter.add('Nomor PIC 1 Transporter Berubah!')
 } else {
     hasilCekPICTransporter.add('Nomor PIC 1 Transporter Gagal Berubah!')
 }
@@ -261,54 +264,64 @@ if (transporterPicNumber1 == isi_transporterPicNumber1) {
 transporterPic2 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picTransporter2'))
 
 if (transporterPic2 == isi_transporterPic2) {
-	hasilCekPICTransporter.add('PIC 2 Transporter Berubah!')
+    hasilCekPICTransporter.add('PIC 2 Transporter Berubah!')
+} else {
+    hasilCekPICTransporter.add('PIC 2 Transporter Gagal Berubah!')
 }
 
 transporterPicNumber2 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picNoTransporter2'))
 
 if (transporterPicNumber2 == isi_transporterPicNumber2) {
-	hasilCekPICTransporter.add('Nomor PIC 2 Transporter Berubah!')
+    hasilCekPICTransporter.add('Nomor PIC 2 Transporter Berubah!')
+} else {
+    hasilCekPICTransporter.add('Nomor PIC 2 Transporter Gagal Berubah!')
 }
 
 transporterPic3 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picTransporter3'))
 
 if (transporterPic3 == isi_transporterPic3) {
-	hasilCekPICTransporter.add('PIC 3 Transporter Berubah!')
+    hasilCekPICTransporter.add('PIC 3 Transporter Berubah!')
+} else {
+    hasilCekPICTransporter.add('PIC 3 Transporter Gagal Berubah!')
 }
 
 transporterPicNumber3 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picNoTransporter3'))
 
 if (transporterPicNumber3 == isi_transporterPicNumber3) {
-	hasilCekPICTransporter.add('Nomor PIC 3 Transporter Berubah!')
+    hasilCekPICTransporter.add('Nomor PIC 3 Transporter Berubah!')
+} else {
+    hasilCekPICTransporter.add('Nomor PIC 3 Transporter Gagal Berubah!')
 }
 
-not_run: WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_ubahDataProfilPerusahaan'))
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_ubahDataProfilPerusahaan'))
 
-not_run: WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_areaLayanan'), 
+WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_areaLayanan'), 
     'Surabaya')
 
-not_run: WebUI.waitForJQueryLoad(60)
+WebUI.waitForJQueryLoad(60)
 
-not_run: WebUI.sendKeys(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_areaLayanan'), 
+WebUI.sendKeys(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_areaLayanan'), 
     Keys.chord(Keys.DOWN, Keys.ENTER))
 
-not_run: WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_customer'), 
-    'CS muatmuat tujuh')
+WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_customer'), 
+    GlobalVariable.NamaPerusahaan)
 
-not_run: WebUI.waitForJQueryLoad(60)
+WebUI.waitForJQueryLoad(60)
 
-not_run: WebUI.sendKeys(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_customer'), 
+WebUI.sendKeys(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_customer'), 
     Keys.chord(Keys.DOWN, Keys.ENTER))
 
-not_run: WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_portofolio'), 
-    'CS muatmuat tujuh')
+WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_portofolio'), 
+    GlobalVariable.NamaPerusahaan)
 
-not_run: WebUI.waitForJQueryLoad(60)
+WebUI.waitForJQueryLoad(60)
 
-not_run: WebUI.sendKeys(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_portofolio'), 
+WebUI.sendKeys(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/input_profileTransporter_portofolio'), 
     Keys.chord(Keys.DOWN, Keys.ENTER))
 
-not_run: WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_SimpanDataProfilPerusahaan'))
+WebUI.scrollToPosition(0, 0)
+
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_SimpanDataProfilPerusahaan'))
 
 not_run: WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_Tambah Armada'))
 
@@ -363,8 +376,14 @@ last_nama_armada = WebUI.getText(findTestObject('Object Repository/09_QC/10CekPr
 
 last_unit_armada = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_armadaJumlahUnit_last'))
 
-if(last_unit_armada == input_unit_armada) {
-	hasilCekArmadaProfil.add('Unit Armada Profil Berhasil Ubah!')
+last_unit_armada = last_unit_armada.replace(' unit', '')
+
+last_unit_armada = last_unit_armada.replace(' Unit', '')
+
+if (last_unit_armada == input_unit_armada) {
+    hasilCekArmadaProfil.add('Unit Armada Profil Berhasil Ubah!')
+} else {
+    hasilCekArmadaProfil.add('Unit Armada Profil Tidak Berhasil Ubah!')
 }
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_profile_preview'))
@@ -373,8 +392,14 @@ last_nama_armada_preview = WebUI.getText(findTestObject('Object Repository/09_QC
 
 last_unit_armada_preview = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_preview_armadaUnit_last'))
 
-if(last_unit_armada_preview == input_unit_armada) {
-	hasilCekArmadaProfil.add('Unit Armada Profil Preview Berhasil Ubah!')
+last_unit_armada_preview = last_unit_armada_preview.replace(' unit', '')
+
+last_unit_armada_preview = last_unit_armada_preview.replace(' Unit', '')
+
+if (last_unit_armada_preview == input_unit_armada) {
+    hasilCekArmadaProfil.add('Unit Armada Profil Preview Berhasil Ubah!')
+} else {
+    hasilCekArmadaProfil.add('Unit Armada Profil Preview Tidak Berhasil Ubah!')
 }
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/img_header_general_back_to_main'))
@@ -397,35 +422,67 @@ not_run: WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/b
 
 not_run: WebUI.waitForJQueryLoad(60)
 
-WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/input_search_transporter'), 'muatmuat tujuh')
+WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/input_search_transporter'), GlobalVariable.NamaPerusahaan)
 
 WebUI.delay(5)
 
-not_run: WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/button_titik_tiga_card_1'))
+WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/button_titik_tiga_card_1'))
 
-not_run: WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/button_hubungi_list_card1'))
+WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/button_hubungi_list_card1'))
 
-not_run: WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/button_hubungi_no_wa'))
+WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/button_hubungi_no_wa'))
 
-not_run: transporterPic1Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic1_hubungi'))
+transporterPic1Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic1_hubungi'))
 
-not_run: println(transporterPic1Hubungi)
+if (transporterPic1Hubungi == isi_transporterPic1) {
+    hasilCekPICTransporter.add('PIC 1 List Transporter Berubah!')
+} else {
+    hasilCekPICTransporter.add('PIC 1 List Transporter Gagal Berubah!')
+}
 
-not_run: transporterPicNumber1Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic1no_hubungi'))
+transporterPicNumber1Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic1no_hubungi'))
 
-not_run: transporterPic2Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic2_hubungi'))
+if (transporterPicNumber1Hubungi == isi_transporterPicNumber1) {
+    hasilCekPICTransporter.add('Nomor PIC 1 List Transporter Berubah!')
+} else {
+    hasilCekPICTransporter.add('Nomor PIC 1 List Transporter Gagal Berubah!')
+}
 
-not_run: println(transporterPic2Hubungi)
+transporterPic2Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic2_hubungi'))
 
-not_run: transporterPicNumber2Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic2no_hubungi'))
+if (transporterPic2Hubungi == isi_transporterPic2) {
+    hasilCekPICTransporter.add('PIC 2 List Transporter Berubah!')
+} else {
+    hasilCekPICTransporter.add('PIC 2 List Transporter Gagal Berubah!')
+}
 
-not_run: transporterPic3Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic3_hubungi'))
+transporterPicNumber2Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic2no_hubungi'))
 
-not_run: println(transporterPic3Hubungi)
+if (transporterPicNumber2Hubungi == isi_transporterPicNumber2) {
+    hasilCekPICTransporter.add('Nomor PIC 2 List Transporter Berubah!')
+} else {
+    hasilCekPICTransporter.add('Nomor PIC 2 List Transporter Gagal Berubah!')
+}
 
-not_run: transporterPicNumber3Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic3no_hubungi'))
+transporterPic3Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic3_hubungi'))
 
-not_run: WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/button_close_hubungi'))
+if (transporterPic3Hubungi == isi_transporterPic3) {
+    hasilCekPICTransporter.add('PIC 3 List Transporter Berubah!')
+} else {
+    hasilCekPICTransporter.add('PIC 3 List Transporter Gagal Berubah!')
+}
+
+transporterPicNumber3Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic3no_hubungi'))
+
+if (transporterPicNumber3Hubungi == isi_transporterPicNumber3) {
+    hasilCekPICTransporter.add('Nomor PIC 3 List Transporter Berubah!')
+} else {
+    hasilCekPICTransporter.add('Nomor PIC 3 List Transporter Gagal Berubah!')
+}
+
+WebUI.delay(5)
+
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/button_close_hubungi'))
 
 WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/button_lihat_profil_card_1'))
 
@@ -433,11 +490,21 @@ last_nama_armada_sisi_lawan = WebUI.getText(findTestObject('Object Repository/09
 
 last_unit_armada_sisi_lawan = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile_Sisi_Lawan/div_armada_profil_sisi_lawan_unit_last'))
 
+last_unit_armada_sisi_lawan = last_unit_armada_sisi_lawan.replace(' unit', '')
+
+last_unit_armada_sisi_lawan = last_unit_armada_sisi_lawan.replace(' Unit', '')
+
+if (last_unit_armada_sisi_lawan == input_unit_armada) {
+    hasilCekArmadaProfil.add('Unit Armada Profil Sisi Lawan Berhasil Ubah!')
+} else {
+    hasilCekArmadaProfil.add('Unit Armada Profil Sisi Lawan Tidak Berhasil Ubah!')
+}
+
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile_Sisi_Lawan/div_ganti_sisi_transporter'))
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Big Fleets Main Dashboard  muatmuat/a_Shipper'))
 
-WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_muatmuat/input_Watchlist_search'), 'muatmuat tujuh')
+WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_muatmuat/input_Watchlist_search'), GlobalVariable.NamaPerusahaan)
 
 WebUI.delay(5)
 
@@ -463,6 +530,8 @@ WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Home  muatm
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Dashboard  muatmuat/div_Transporter                            _12234c'))
 
+WebUI.waitForPageLoad(60)
+
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Subscription  muatmuat/a_Buat Price List Transporter'))
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Data Armada  muatmuat/button_Edit'))
@@ -486,8 +555,14 @@ last_nama_armada_preview = WebUI.getText(findTestObject('Object Repository/09_QC
 
 last_unit_armada_preview = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_preview_armadaUnit_last'))
 
-if(last_unit_armada_preview == input2_unit_armada) {
-	hasilCekArmadaProfil.add('Unit Armada Profil Preview Berhasil Ubah Dari TM!')
+last_unit_armada_preview = last_unit_armada_preview.replace(' unit', '')
+
+last_unit_armada_preview = last_unit_armada_preview.replace(' Unit', '')
+
+if (last_unit_armada_preview == input2_unit_armada) {
+    hasilCekArmadaProfil.add('Unit Armada Profil Preview Berhasil Ubah Dari TM!')
+} else {
+    hasilCekArmadaProfil.add('Unit Armada Profil Preview Tidak Berhasil Ubah Dari TM!')
 }
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_preview_armadaNama_last'))
@@ -509,7 +584,7 @@ WebUI.waitForJQueryLoad(60)
 
 WebUI.click(findTestObject('09_QC/10CekProfil/Page_Big Fleets Main Dashboard  muatmuat/div_menu_transporter'))
 
-WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/input_search_transporter'), 'muatmuat tujuh')
+WebUI.setText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/input_search_transporter'), GlobalVariable.NamaPerusahaan)
 
 WebUI.delay(5)
 
@@ -517,34 +592,37 @@ WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTran
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_hubungi_card_1'))
 
-not_run: transporterPic1Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic1_hubungi'))
+WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/button_hubungi_no_wa'))
 
-not_run: println(transporterPic1Hubungi)
+transporterPic1Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic1_hubungi'))
 
-not_run: transporterPicNumber1Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic1no_hubungi'))
+transporterPicNumber1Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic1no_hubungi'))
 
-not_run: transporterPic2Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic2_hubungi'))
+transporterPic2Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic2_hubungi'))
 
-not_run: println(transporterPic2Hubungi)
+transporterPicNumber2Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic2no_hubungi'))
 
-not_run: transporterPicNumber2Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic2no_hubungi'))
+transporterPic3Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic3_hubungi'))
 
-not_run: transporterPic3Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic3_hubungi'))
+transporterPicNumber3Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic3no_hubungi'))
 
-not_run: println(transporterPic3Hubungi)
+WebUI.delay(5)
 
-not_run: transporterPicNumber3Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic3no_hubungi'))
-
-not_run: WebUI.click(findTestObject(null))
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/button_close_hubungi'))
 
 not_run: last_nama_armada_sisi_lawan = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile_Sisi_Lawan/div_armada_profil_sisi_lawan_last'))
 
 not_run: last_unit_armada_sisi_lawan = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile_Sisi_Lawan/div_armada_profil_sisi_lawan_unit_last'))
 
-String strHasilCek = 'Hasil Cek PIC Shipper Profil: ' + hasilCekPICShipper.join(', ')
+String strHasilCekPICShipper = 'Hasil Cek PIC Shipper Profil: ' + hasilCekPICShipper.join(', ')
 
-println(strHasilCek)
+println(strHasilCekPICShipper)
+
+String strHasilCekPICTransporter = 'Hasil Cek PIC Transporter: ' + hasilCekPICTransporter.join(', ')
+
+println(strHasilCekPICTransporter)
 
 String strHasilCekArmadaProfil = 'Hasil Cek Armada Profil: ' + hasilCekArmadaProfil.join(', ')
 
 println(strHasilCekArmadaProfil)
+

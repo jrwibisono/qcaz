@@ -69,4 +69,9 @@
       <initValue>'https://muatmuat.com/tan/viewotp?data=77788899931'</initValue>
       <name>UrlCekOTP</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CS muatmuat Tujuh'</initValue>
+      <name>NamaPerusahaan</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
