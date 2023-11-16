@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_1_2</name>
+   <tag></tag>
+   <elementGuidId>b490dbd8-2749-44ac-88b8-f4c7b4d93613</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-window']/div[4]/div[2]/div/div[2]/div[3]/div[2]/div[2]/div[2]/span/span/span/span[2]/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open.select2-container--focus > span.selection > span.select2-selection.select2-selection--single > span.select2-selection__arrow > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>479a4424-6054-4c03-9f42-da7c9cadb242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>d25b4d5a-d686-4822-be9d-46ae457fffee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-window&quot;)/div[@class=&quot;row&quot;]/div[2]/div[@class=&quot;content create-lelang&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[2]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]/b[1]</value>
+      <webElementGuid>19bd4c70-5406-4583-a964-eec17e144078</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-window']/div[4]/div[2]/div/div[2]/div[3]/div[2]/div[2]/div[2]/span/span/span/span[2]/b</value>
+      <webElementGuid>29e5d5d6-9657-41cc-adb9-24c64fde2fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div[2]/div[2]/span/span/span/span[2]/b</value>
+      <webElementGuid>4abc38b0-97fc-4201-817f-78b8219a4ae5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

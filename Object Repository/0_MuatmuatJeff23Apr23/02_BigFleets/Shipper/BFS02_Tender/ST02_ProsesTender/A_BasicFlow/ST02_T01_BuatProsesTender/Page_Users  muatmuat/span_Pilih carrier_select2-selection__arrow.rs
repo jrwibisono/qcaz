@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilih carrier_select2-selection__arrow</name>
+   <tag></tag>
+   <elementGuidId>955f4d28-9a66-4ef5-96f4-83eb12fe10bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='jenis_carrier_alert']/span/span/span/span[2])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open.select2-container--focus > span.selection > span.select2-selection.select2-selection--single > span.select2-selection__arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed099d10-2dfe-4497-b2ed-c39233dfa788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__arrow</value>
+      <webElementGuid>44aa6c33-b93d-42d5-a3f0-da57f895ca67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>eb2f5acc-d486-4337-96a0-5ef5cd42b0a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;row-rute-0&quot;)/div[@class=&quot;col-10 text-label d-flex&quot;]/div[@id=&quot;jenis_carrier_alert&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]</value>
+      <webElementGuid>76750f9d-623f-407b-8795-80c34f356885</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='jenis_carrier_alert']/span/span/span/span[2])[2]</value>
+      <webElementGuid>1c69165a-8356-4523-bfe2-0288a11e4ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih carrier'])[1]/following::span[1]</value>
+      <webElementGuid>3a57cdfc-8642-467c-9cde-d3fb42b5deb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colt Diesel Engkel'])[4]/following::span[8]</value>
+      <webElementGuid>cce9f91f-baf0-4b2b-9dbd-d6fec4cb0d27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit'])[3]/preceding::span[2]</value>
+      <webElementGuid>7f21c050-5036-493e-b45d-b6b86cc78a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/preceding::span[4]</value>
+      <webElementGuid>322cece8-46d5-4f1e-a191-ded29d553e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span/span/span/span[2]</value>
+      <webElementGuid>1f89402c-274a-484a-9a92-6528a71e0db5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

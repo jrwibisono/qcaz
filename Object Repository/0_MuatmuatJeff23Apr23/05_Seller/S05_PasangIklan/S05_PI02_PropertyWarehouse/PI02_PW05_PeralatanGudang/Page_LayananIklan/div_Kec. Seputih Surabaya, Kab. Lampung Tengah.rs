@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kec. Seputih Surabaya, Kab. Lampung Tengah</name>
+   <tag></tag>
+   <elementGuidId>ea89518d-6852-4144-b653-f533204631ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ff-medium.fc-1B.fs-12.mt-8.click-location-dropdownGoogle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasangIklanForm']/div[7]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>536f6574-5dfb-45b7-9bf3-b8c8fa27fca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>Kec. Seputih Surabaya, Kab. Lampung Tengah</value>
+      <webElementGuid>a6cdde80-f0d4-4269-84b9-8cfae50ae9cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-medium fc-1B fs-12 mt-8 click-location-dropdownGoogle</value>
+      <webElementGuid>d7cd2c5b-dd13-4129-b9f3-8d17bf7f7cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kec. Seputih Surabaya, Kab. Lampung Tengah</value>
+      <webElementGuid>50ff0a75-a1e6-4044-8ddb-03fc51842023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;parentDropdownGoogle d-flex flex-column&quot;]/div[@class=&quot;bg-white resultDropdown&quot;]/div[@class=&quot;ff-medium fc-1B fs-12 mt-8 click-location-dropdownGoogle&quot;]</value>
+      <webElementGuid>bc8f140b-10da-4222-8f93-4317c84b8535</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[7]/div/div[3]/div</value>
+      <webElementGuid>9487bdf7-ae37-462f-9bd1-8cd83de31b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::div[3]</value>
+      <webElementGuid>32568abc-e359-4b02-bdaf-7978a9373606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kec. Seputih']/parent::*</value>
+      <webElementGuid>c50a6e5e-9f2c-454f-b279-664d5dcef4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[3]/div</value>
+      <webElementGuid>cb2c9bd6-a6b2-45b3-880d-0627309d42c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kec. Seputih Surabaya, Kab. Lampung Tengah' or . = 'Kec. Seputih Surabaya, Kab. Lampung Tengah')]</value>
+      <webElementGuid>789fcb2f-3bf9-4fe5-b8f7-3ba1a5eb6e6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL_02_R001_Register_User0 - coba</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72aeca69-e58f-4f65-8b04-608c78581a8c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d3d7c45-9e40-4ea9-952c-4d5a91f77404</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'77788899933'</defaultValue>
+      <description></description>
+      <id>0d3d7c45-9e40-4ea9-952c-4d5a91f77404</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+</TestCaseEntity>

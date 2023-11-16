@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DropdownWaktuBatasMaksimalPengisian</name>
+   <tag></tag>
+   <elementGuidId>4fe42ce9-8cc5-4fdf-a2d5-734af1132c6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;form-frontend&quot;]/div/div/div[1]/div/div[2]/div/div[4]/div[2]/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

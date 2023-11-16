@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Terms1</name>
+   <tag></tag>
+   <elementGuidId>1d60017d-82c6-4c9a-8d4f-e12937888542</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SectionPrivacyPolicy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[5]/div/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

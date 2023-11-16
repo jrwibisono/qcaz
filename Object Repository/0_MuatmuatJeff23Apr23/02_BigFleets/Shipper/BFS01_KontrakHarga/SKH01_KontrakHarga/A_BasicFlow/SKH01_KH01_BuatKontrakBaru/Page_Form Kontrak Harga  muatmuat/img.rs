@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>d14635e9-0624-4d90-8933-77f640ba2874</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='btnUserBaru']/img)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div.ff-demi-az > #dropdownPilihHover > #btnUserBaru > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fde4e890-d7ed-4fd3-9b2f-ae15857c7dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/icon/arrow-top-filter.svg</value>
+      <webElementGuid>d4f69d56-fa2a-42f8-a4c8-9132cf6bab0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-vue&quot;)/div[2]/div[@class=&quot;form-kontrak-container rutetransactionviewvalidate&quot;]/div[@class=&quot;form-kontrak-content-container&quot;]/div[@class=&quot;form-kontrak-column&quot;]/div[2]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[2]/div[@class=&quot;ff-demi-az&quot;]/div[@id=&quot;dropdownPilihHover&quot;]/button[@id=&quot;btnUserBaru&quot;]/img[1]</value>
+      <webElementGuid>6c341ab2-af1b-4d16-946d-302f0ce5e461</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='btnUserBaru']/img)[2]</value>
+      <webElementGuid>a6e27ff6-ea6a-45b1-811c-8ddb018bf846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/button/img</value>
+      <webElementGuid>f287956e-9f27-4142-a7ac-1965fc3d89d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/icon/arrow-top-filter.svg']</value>
+      <webElementGuid>d0610dad-7e7e-4a72-a2b0-a1284fb686be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

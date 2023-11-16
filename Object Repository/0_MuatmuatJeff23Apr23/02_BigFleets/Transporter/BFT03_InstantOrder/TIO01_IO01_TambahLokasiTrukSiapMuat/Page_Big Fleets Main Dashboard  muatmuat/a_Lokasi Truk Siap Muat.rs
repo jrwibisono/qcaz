@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lokasi Truk Siap Muat</name>
+   <tag></tag>
+   <elementGuidId>8d55bd16-e448-422a-83ae-2f15dd39fdfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#LokasiTrukSiapMuat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='LokasiTrukSiapMuat']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b16a9147-3c13-4f19-9eec-ee430205ed9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>LokasiTrukSiapMuat</value>
+      <webElementGuid>afcacb60-4a72-429d-afd0-ac102f053571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://qc.assetlogistik.com/bigfleets/location_ready</value>
+      <webElementGuid>4fa8ba8d-ab5b-4857-9fe6-64a15723d2a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Lokasi Truk Siap Muat
+                            </value>
+      <webElementGuid>035cc951-5011-47a8-8ed4-b925797fd586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LokasiTrukSiapMuat&quot;)</value>
+      <webElementGuid>a1b7baf2-b0db-4513-a43f-deaec29594f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='LokasiTrukSiapMuat']</value>
+      <webElementGuid>0a1abf5c-d971-41b9-b6f9-f9ac8b499092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='LokasiTrukSiapMuatSidebar']/a</value>
+      <webElementGuid>0dbd0a21-0d21-426e-8b14-3031e9ef74b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lokasi Truk Siap Muat')]</value>
+      <webElementGuid>f9c48458-05db-4491-8378-b45833494774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry'])[2]/following::a[1]</value>
+      <webElementGuid>94471028-fd75-43cf-b199-5e09dfe2f0aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(12)'])[1]/preceding::a[1]</value>
+      <webElementGuid>5ea693e7-8e44-47b8-80fb-5855e959382f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Permintaan Muat'])[1]/preceding::a[1]</value>
+      <webElementGuid>040c870e-d661-44ee-87b6-9b69a749b39b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lokasi Truk Siap Muat']/parent::*</value>
+      <webElementGuid>dde7a29f-6ea6-4b4f-9b5f-5f4f083454ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://qc.assetlogistik.com/bigfleets/location_ready')]</value>
+      <webElementGuid>acb74808-d97e-4f5e-9eca-e1acf8bf1d8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/a</value>
+      <webElementGuid>f9d29f9e-4d1e-4a66-baa7-4e434473022c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'LokasiTrukSiapMuat' and @href = 'https://qc.assetlogistik.com/bigfleets/location_ready' and (text() = '
+                            Lokasi Truk Siap Muat
+                            ' or . = '
+                            Lokasi Truk Siap Muat
+                            ')]</value>
+      <webElementGuid>72db24c6-e688-49ce-99e0-15546c13ef38</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chkbox_merk_volvo</name>
+   <tag></tag>
+   <elementGuidId>7dcf138f-0def-4e45-a85d-8e4a3e90546e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.unchecked-icon</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField d-flex ff-medium fs-12  mt-8 row mx-0 no-border&quot;]/div[@class=&quot;CheckBoxButtonItem col-6 d-flex align-items-center px-0&quot;]/div[@class=&quot;d-flex align-items-start mr-12&quot;]/div[@class=&quot;checked-container mr-12&quot;]/div[@class=&quot;unchecked-icon&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[8]/div[2]/div[8]/div[1]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e517d269-c684-43b8-a0c4-b0f2e0df5bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unchecked-icon</value>
+      <webElementGuid>3a89be54-c30f-4f72-b100-b952b2bd4db3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField d-flex ff-medium fs-12  mt-8 row mx-0 no-border&quot;]/div[@class=&quot;CheckBoxButtonItem col-6 d-flex align-items-center px-0&quot;]/div[@class=&quot;d-flex align-items-start mr-12&quot;]/div[@class=&quot;checked-container mr-12&quot;]/div[@class=&quot;unchecked-icon&quot;]</value>
+      <webElementGuid>34092f94-46a1-4e3c-881f-2c4bda4346ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[6]/div[2]/div/div/div/div</value>
+      <webElementGuid>6006667c-4dec-4bc9-bed4-258a59b9833a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div/div</value>
+      <webElementGuid>e5585826-5e0f-4d77-b498-ec90068fb29e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

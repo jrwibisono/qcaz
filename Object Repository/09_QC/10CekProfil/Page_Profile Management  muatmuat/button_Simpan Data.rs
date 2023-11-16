@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Simpan Data</name>
+   <tag></tag>
+   <elementGuidId>68d1afa5-eeff-4cd4-b654-387d6ee88a3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[21]/div[13]/div[1]/div[2]/div/div[2]/div[3]/div[2]/div[1]/div/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'simpanDataPerusahaan' and (text() = 'Simpan Data' or . = 'Simpan Data')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#simpanDataPerusahaan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cd4157b9-b507-48a6-a578-193585ccccd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tombol-primary-az</value>
+      <webElementGuid>d6583db2-d706-4401-8dfb-2234635ae5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>simpanDataPerusahaan</value>
+      <webElementGuid>e136250c-daf4-4cfb-b626-37cfae15b3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Simpan Data</value>
+      <webElementGuid>3877b572-fbb6-4edc-b519-40d47c809f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;simpanDataPerusahaan&quot;)</value>
+      <webElementGuid>e42e60f8-5d26-4bc7-99f3-4c4b05d1af7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='simpanDataPerusahaan']</value>
+      <webElementGuid>b37fe86f-1553-4808-8d66-218c112bc9a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='containerUbahDataPerusahaan']/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>0b981c14-9b90-4356-ba99-282360e238b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Perusahaan akan ditampilkan pada profil Anda untuk pengguna lainnya'])[2]/following::button[1]</value>
+      <webElementGuid>255f50d7-a2a3-4424-beb1-0d3691b75e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Perusahaan'])[2]/following::button[1]</value>
+      <webElementGuid>16967727-db3a-4efc-9772-fcad5066a148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logo Perusahaan'])[2]/preceding::button[1]</value>
+      <webElementGuid>ee2dfe87-a8b3-48b6-be46-a382459733d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[4]/preceding::button[1]</value>
+      <webElementGuid>592f3f09-11e1-4b83-878d-fa37171a78ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Simpan Data']/parent::*</value>
+      <webElementGuid>88110831-99e6-4961-86da-c8d7883d2e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>a8777141-457d-40be-adf9-63ec5f20b986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'simpanDataPerusahaan' and (text() = '
+                                            Simpan Data
+                                        ' or . = '
+                                            Simpan Data
+                                        ')]</value>
+      <webElementGuid>bdd9eb1d-63f8-430f-a4d3-6ff1e35b22f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

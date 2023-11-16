@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kembali Ke Halaman Awal</name>
+   <tag></tag>
+   <elementGuidId>9d7aedb2-9c32-4e6e-908e-12edaf6ab744</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='htmlSuccess']/div[4]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-primary-bdr-blue.btn-flex.ff-demi.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7861d334-349a-4b66-a196-9c05a68f91bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=44&amp;KategoriID=50&amp;sub_text=&amp;layanan_text=</value>
+      <webElementGuid>284f5e3d-e1c4-4596-a71d-467f0ce0e32b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary-bdr-blue btn-flex ff-demi text-center</value>
+      <webElementGuid>9e8ee38d-d219-4b1c-b273-5574ffd09375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kembali Ke Halaman Awal</value>
+      <webElementGuid>cccf6e0b-e3d6-4f4a-8eb0-ea7e3249005e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;htmlSuccess&quot;)/div[@class=&quot;d-flex&quot;]/div[2]/a[@class=&quot;btn-primary-bdr-blue btn-flex ff-demi text-center&quot;]</value>
+      <webElementGuid>0b540296-1430-4a34-bc9d-347b509fc80d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='htmlSuccess']/div[4]/div[2]/a</value>
+      <webElementGuid>fe41cf40-b6f7-44e4-a11d-63a5dd3bfe30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kembali Ke Halaman Awal')]</value>
+      <webElementGuid>fdbbe7ca-003a-473e-88aa-9544d3c9898b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasang Iklan Baru'])[1]/following::a[1]</value>
+      <webElementGuid>e9cde418-6406-4d62-90be-c17a66671451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil Memasang Iklan Anda'])[1]/following::a[2]</value>
+      <webElementGuid>1f7f04ec-c388-4f67-a7b0-a37f2348bcc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah Iklan'])[1]/preceding::a[2]</value>
+      <webElementGuid>29d016db-ecf8-4b4e-a6a5-5f55fff4a996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crop Gambar'])[1]/preceding::a[2]</value>
+      <webElementGuid>fc7b734a-6c49-428d-ac51-2ebc5db18674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kembali Ke Halaman Awal']/parent::*</value>
+      <webElementGuid>fbc8d8be-8c3e-4a48-99a8-6d6d8d2473a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=44&amp;KategoriID=50&amp;sub_text=&amp;layanan_text=')])[2]</value>
+      <webElementGuid>a34b1bc9-c33f-459b-a23e-09d43a1588c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/a</value>
+      <webElementGuid>fbe45c27-53a3-4bcc-a54f-47f5c289343b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://iklanqc.assetlogistik.com/layananiklan/iklanDashboard?SubKategoriID=44&amp;KategoriID=50&amp;sub_text=&amp;layanan_text=' and (text() = 'Kembali Ke Halaman Awal' or . = 'Kembali Ke Halaman Awal')]</value>
+      <webElementGuid>a9ad5967-b9c3-4403-820b-706eee717220</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ditolak</name>
+   <tag></tag>
+   <elementGuidId>a3e4a4f7-0b43-40c3-80bc-319ce869759f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='konftrans-header'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3dd6fafd-20af-46e3-89a0-6c4936c91eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-4 tab-folder tab-folder-kontrak-harga tab-folder-inactive</value>
+      <webElementGuid>ed2275a4-ed3e-4143-8b75-5df88b741c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>konftrans-header</value>
+      <webElementGuid>dedcc170-9619-4c64-95a9-23aba5ec5d93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>cff98169-ec6e-434c-ac61-487e563f2173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							 Ditolak 
+							
+							 
+						</value>
+      <webElementGuid>d66790b8-2dbb-4770-a691-438ca1546062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;summary-header&quot;)/div[@id=&quot;konftrans-header&quot;]</value>
+      <webElementGuid>ffaf4275-297d-4c77-9c95-0b3ff9e2b070</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='konftrans-header'])[3]</value>
+      <webElementGuid>c2d1e582-8057-4afc-9a45-e1c1833c9e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='summary-header']/div[3]</value>
+      <webElementGuid>b6ab805d-9ab2-459f-881e-105fc2a13868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[2]/following::div[1]</value>
+      <webElementGuid>fac262a9-4e6f-47d0-900b-61b1a29a7cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan Jumlah Detail'])[1]/preceding::div[3]</value>
+      <webElementGuid>00d9e6b2-55d0-4426-b125-1e18044b0499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='permohonan amandemen tender'])[1]/preceding::div[11]</value>
+      <webElementGuid>abb17b78-119b-44cb-9acb-63dc11d1312a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ditolak']/parent::*</value>
+      <webElementGuid>c62bdfde-8ecb-4f4f-8e60-770565c563a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div[3]</value>
+      <webElementGuid>1461819c-22b6-40a2-bc52-e3dcb5193532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'konftrans-header' and (text() = '
+							 Ditolak 
+							
+							 
+						' or . = '
+							 Ditolak 
+							
+							 
+						')]</value>
+      <webElementGuid>458e0481-8916-4e2d-940c-e475254cfeab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

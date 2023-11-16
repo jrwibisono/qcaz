@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Unggah Iklan (1)</name>
+   <tag></tag>
+   <elementGuidId>c59f5590-2af6-4a7e-a2a6-c412ee28ac15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='UnggahIklan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#UnggahIklan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3483f06f-8bc6-4454-b600-d33aa18209b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>UnggahIklan</value>
+      <webElementGuid>8fcb7e51-3e6a-4ce4-8f83-d9db703e83d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary fs-14 btn-flex ff-demi</value>
+      <webElementGuid>7d13b660-70ef-4007-9dd0-0d78762e8773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menuid</name>
+      <type>Main</type>
+      <value>688</value>
+      <webElementGuid>7172b386-eb0c-410a-9527-23230a2346cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unggah Iklan</value>
+      <webElementGuid>168da5ac-d6a8-4307-ab75-ee4ec0931f5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UnggahIklan&quot;)</value>
+      <webElementGuid>db507f92-58ae-435a-bb1f-fd5ba3508fcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='UnggahIklan']</value>
+      <webElementGuid>daf1ebef-3040-464a-b9f4-76fc7aabfd12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali Ke Halaman Awal'])[1]/following::button[1]</value>
+      <webElementGuid>618a12c8-c7e4-458c-9f42-60efa71fd43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasang Iklan Baru'])[1]/following::button[1]</value>
+      <webElementGuid>dc426ffb-3710-4743-8953-92895f3c4f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crop Gambar'])[1]/preceding::button[1]</value>
+      <webElementGuid>f268e239-3001-4918-ae21-d15878c40832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Original'])[1]/preceding::button[1]</value>
+      <webElementGuid>e8a1ebe8-bcdd-4429-bfd5-3f4f33fd45b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Unggah Iklan']/parent::*</value>
+      <webElementGuid>12a49835-8077-49e1-a030-560434d24af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>532a87f0-52c6-4965-8fc9-939a202c798c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'UnggahIklan' and (text() = 'Unggah Iklan' or . = 'Unggah Iklan')]</value>
+      <webElementGuid>57a4f49e-260a-4c29-8070-2460640b7bcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Places</name>
+   <tag></tag>
+   <elementGuidId>b5066716-6b08-4928-bb02-87d8c640cb0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='detail-kategori']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fc-86.ff-demi.fs-14.lh-normal.truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>142b3636-7619-4a29-9244-37c4987e631a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-86 ff-demi fs-14 lh-normal truncate</value>
+      <webElementGuid>cd05ae5f-ca1a-4aa6-9543-10e308d9f235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Places</value>
+      <webElementGuid>c982a9f6-b5d9-4bdd-a094-f300a2665bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detail-kategori&quot;)/a[@class=&quot;btn-bar sidebar-widget d-flex align-items-center justify-content-between&quot;]/span[@class=&quot;fc-86 ff-demi fs-14 lh-normal truncate&quot;]</value>
+      <webElementGuid>73fabf0b-2e18-4fb0-8a7b-4227269371ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detail-kategori']/a/span</value>
+      <webElementGuid>4504c73d-ece6-4ffe-a00d-090bbb3c95c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Iklan Anda di Kategori'])[1]/following::span[1]</value>
+      <webElementGuid>7cdd0dec-477a-4a52-8801-8e24f449ac9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo Kota/Kabupaten'])[1]/preceding::span[1]</value>
+      <webElementGuid>246b50ba-afff-441c-aeed-b16e4e8ecde9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo Nasional'])[1]/preceding::span[2]</value>
+      <webElementGuid>f386f49c-271c-46e1-b5df-3ae8c61c8fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Places']/parent::*</value>
+      <webElementGuid>86f755b0-1033-4e4e-bca8-560dcd810e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>a5198f32-428a-4f72-ab15-487c1c534a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Places' or . = 'Places')]</value>
+      <webElementGuid>11c1c3cc-8d97-4804-92a6-42a31f564d5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

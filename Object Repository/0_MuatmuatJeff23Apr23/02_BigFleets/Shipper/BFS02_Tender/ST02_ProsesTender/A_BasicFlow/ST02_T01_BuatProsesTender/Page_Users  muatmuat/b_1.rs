@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_1</name>
+   <tag></tag>
+   <elementGuidId>b6ab0637-ba0f-4378-8959-adfc27782d82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jenis_carrier_alert']/span/span/span/span[2]/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open.select2-container--focus > span.selection > span.select2-selection.select2-selection--single > span.select2-selection__arrow > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>bd3b3080-6366-4ef0-86dd-a08898016a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>741d7608-7275-4f67-8e70-05f0da5e2e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;unit-truk-0&quot;)/div[@class=&quot;row mt-24&quot;]/div[@class=&quot;col text-value d-flex text-icon-center&quot;]/div[@id=&quot;jenis_carrier_alert&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]/b[1]</value>
+      <webElementGuid>162d29eb-d7b3-42eb-a52a-0fd1e72a612f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jenis_carrier_alert']/span/span/span/span[2]/b</value>
+      <webElementGuid>17897290-1fc8-480c-91bb-c99aaf575919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/span/span[2]/b</value>
+      <webElementGuid>a4343c3a-677b-4218-8f39-d014e6f8243d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

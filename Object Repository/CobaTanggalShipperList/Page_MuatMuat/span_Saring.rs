@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Saring</name>
+   <tag></tag>
+   <elementGuidId>f0ee839f-d36b-49d4-bfd3-0b85b5f0bc56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ff-demi-az.fc-1B-az</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnFilter']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a485e52-94e5-4fb5-a0b1-54008db75cb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-demi-az fc-1B-az</value>
+      <webElementGuid>1b266157-bd0d-4693-8999-7cccfc85bdd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saring</value>
+      <webElementGuid>94d3a77b-89ea-4931-8278-269c64df3300</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnFilter&quot;)/div[@class=&quot;align-flex-end&quot;]/span[@class=&quot;ff-demi-az fc-1B-az&quot;]</value>
+      <webElementGuid>3f55ff1b-d780-4b15-b88d-28e1b403a7c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnFilter']/div/span</value>
+      <webElementGuid>0d57f7b6-dc30-4619-ad59-36969db04a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bergabung Sejak'])[1]/following::span[2]</value>
+      <webElementGuid>48024740-37b7-4fd1-8779-ce1b1202868a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kapasitas Pengiriman'])[1]/following::span[2]</value>
+      <webElementGuid>ac284f84-b016-4875-a6d6-49d2fc1e7313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::span[6]</value>
+      <webElementGuid>fa7d94f1-4d2e-40ce-8e40-456b8d0d055b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan Jumlah Detail'])[1]/preceding::span[8]</value>
+      <webElementGuid>dedff110-46c0-41b8-92fd-699cec29f0c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Saring']/parent::*</value>
+      <webElementGuid>c549c9e1-6e7e-464e-bc0e-d0d62552bbef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div/span</value>
+      <webElementGuid>f7f28684-2fc5-4318-9cd5-52a94ee9065a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Saring' or . = 'Saring')]</value>
+      <webElementGuid>d5b1bac6-f5ce-42b7-a211-f99399ba4c34</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

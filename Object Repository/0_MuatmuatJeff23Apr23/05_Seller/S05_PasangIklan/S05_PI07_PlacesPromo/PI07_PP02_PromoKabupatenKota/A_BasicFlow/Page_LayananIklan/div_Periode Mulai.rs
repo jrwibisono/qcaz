@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Periode Mulai</name>
+   <tag></tag>
+   <elementGuidId>46223721-2504-42fb-a822-a542f42f3f22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasangIklanForm']/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ComponentTitle.fs-12.ff-demi.mb-8.lh-normal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>50b41153-0dc2-4683-95ce-afa82c57be80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ComponentTitle fs-12 ff-demi mb-8 lh-normal</value>
+      <webElementGuid>328d4a72-8a4a-4239-a42a-7fae85059811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Periode Mulai*</value>
+      <webElementGuid>6b417a04-4ac5-4f4f-923e-0ca4a50edea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentTitle fs-12 ff-demi mb-8 lh-normal&quot;]</value>
+      <webElementGuid>534ed3c2-1a1b-4fc5-ae3a-36896569b00a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[3]/div</value>
+      <webElementGuid>e9e398e3-ef14-468c-9265-880a90bf327d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rest Area'])[2]/following::div[2]</value>
+      <webElementGuid>9d0305f2-3777-4dd6-8068-c06c61854fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[4]</value>
+      <webElementGuid>8cf18b7b-9ae9-419d-8d5a-8ea2524f2f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Periode Mulai']/parent::*</value>
+      <webElementGuid>86779959-67fa-4b5a-9427-c7c7c5b5d3a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>cca019ac-13d5-40a7-ad7c-ec7a9ea19bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Periode Mulai*' or . = 'Periode Mulai*')]</value>
+      <webElementGuid>bf2000d8-ae9d-4e6e-a62e-077f902eda6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

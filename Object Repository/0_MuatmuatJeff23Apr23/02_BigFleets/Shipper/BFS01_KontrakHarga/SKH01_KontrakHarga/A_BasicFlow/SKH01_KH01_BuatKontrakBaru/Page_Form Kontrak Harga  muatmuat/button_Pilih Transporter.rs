@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih Transporter</name>
+   <tag></tag>
+   <elementGuidId>31fbadf0-c2b5-41c3-a10f-9630fd5abdb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='pilih-transporter']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pilih-transporter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8d50ef16-8bed-4ac2-b2fa-57efa3e14295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pilih-transporter</value>
+      <webElementGuid>342a23ca-1b14-4043-a7c9-a2c8eba3487c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tombol-primary-az fs-12-az ff-demi-az</value>
+      <webElementGuid>33ad5cf7-ae16-466d-a908-9ca3812110ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Transporter</value>
+      <webElementGuid>43e36313-489d-4578-bdb3-21eaeb243c9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pilih-transporter&quot;)</value>
+      <webElementGuid>358ab43d-43fc-4f79-9a5b-e502c8709c3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='pilih-transporter']</value>
+      <webElementGuid>f518ea31-de9d-41d2-acc8-c0948ed93e1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-vue']/div[2]/div/div[3]/div[2]/div/div[2]/button</value>
+      <webElementGuid>631dbd99-2a46-421a-bc01-7a354f614749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transporter*'])[1]/following::button[1]</value>
+      <webElementGuid>d6437037-8984-4916-b01d-79438be98f7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengarsipkan Kontrak Hardcopy'])[1]/following::button[1]</value>
+      <webElementGuid>63ec03c9-36eb-4646-a49d-510bad546764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih transporter sebagai mitra kerja sama Anda'])[1]/preceding::button[1]</value>
+      <webElementGuid>c347c40d-ed18-47ab-95c7-0aa06fded1bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Transporter'])[2]/preceding::button[2]</value>
+      <webElementGuid>76d93d94-cd65-4d85-a276-3cc8c41277da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Transporter']/parent::*</value>
+      <webElementGuid>a7b22aff-b974-4ffc-bf1e-35d74b466597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>d11d95d2-2036-48cc-90b3-6890b3460f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'pilih-transporter' and (text() = 'Pilih Transporter' or . = 'Pilih Transporter')]</value>
+      <webElementGuid>41bbd5a1-a0b4-43e2-b920-d363b9e229e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

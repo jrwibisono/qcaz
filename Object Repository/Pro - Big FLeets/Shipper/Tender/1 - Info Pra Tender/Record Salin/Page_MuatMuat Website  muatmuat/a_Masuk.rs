@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Masuk</name>
+   <tag></tag>
+   <elementGuidId>71e4f34c-f923-437d-ad15-3e3263763f2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login-register-container > a.ff-demi-az.fs-14.text-dark-gray.line-height-16-8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='masukBergabung']/ul/li/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b2ae6d52-db1a-475b-aa28-03ac1b8f65ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://internalqc.assetlogistik.com/login</value>
+      <webElementGuid>609ac872-c9a3-47a8-8f12-01924546198e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-demi-az fs-14 text-dark-gray line-height-16-8</value>
+      <webElementGuid>766e02b2-630d-46eb-a52a-6a0c20625281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Masuk
+                        </value>
+      <webElementGuid>b2e88205-5a3a-440e-ac58-920d43ac2937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;header-container&quot;]/div[@class=&quot;fixed-top main-header&quot;]/div[1]/nav[@id=&quot;masukBergabung&quot;]/ul[1]/li[1]/div[@class=&quot;login-register-container&quot;]/a[@class=&quot;ff-demi-az fs-14 text-dark-gray line-height-16-8&quot;]</value>
+      <webElementGuid>55b70c53-da46-4d05-b8c7-08031e4d37e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='masukBergabung']/ul/li/div/a</value>
+      <webElementGuid>faf7dad7-dfe9-4aac-b182-345f6cf404d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Masuk')]</value>
+      <webElementGuid>c0e609e5-18f1-4318-8fcd-90dfce334585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::a[1]</value>
+      <webElementGuid>7da88cf6-011f-4a4d-86a2-20e1c9cf334b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[2]</value>
+      <webElementGuid>d5fa8de2-be19-4ffa-aed8-6229d81ae70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bergabung Bersama Kami'])[1]/preceding::a[1]</value>
+      <webElementGuid>b0223e72-5db2-4fd4-a84b-3d4bab0c5ff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jalan Mudah Bersama'])[1]/preceding::a[2]</value>
+      <webElementGuid>bfc68309-95d2-4a20-a671-83f3f7c29723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>d55246be-a308-4d40-af46-2ce16b263984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://internalqc.assetlogistik.com/login')]</value>
+      <webElementGuid>420a2291-278e-4aa1-91a1-f4f7055f8b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/nav[2]/ul/li/div/a</value>
+      <webElementGuid>76384536-8bcd-4ca8-ba5c-e6296b7562bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://internalqc.assetlogistik.com/login' and (text() = '
+                            Masuk
+                        ' or . = '
+                            Masuk
+                        ')]</value>
+      <webElementGuid>b535e0f4-e5c5-4956-8d41-ac858b695551</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

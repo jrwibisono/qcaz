@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Gunakan</name>
+   <tag></tag>
+   <elementGuidId>fa7f659c-696d-4e47-b106-fad9346f5aaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Paket Free Katalog Unit'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-primary.lh-normal.d-flex.align-items-center.justify-content-center.btn-gunakan.ff-demi.fs-14</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>233698cf-0132-43f5-868a-c40bc6e7cf20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://iklan.azlogistik.id/layananiklan/pasangIklanKatalog?SubKategoriID=23&amp;KategoriID=40&amp;sub_text=Dealer Truk&amp;layanan_text=Dealer Truk %26 Karoseri&amp;feformID=undefined&amp;feFormParentID=2322&amp;status=1</value>
+      <webElementGuid>07b9e684-c820-4ad8-a5eb-913e7fed7cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary lh-normal d-flex align-items-center justify-content-center btn-gunakan ff-demi fs-14</value>
+      <webElementGuid>a51837cd-44ed-41a5-b2be-48fa3871ff3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menuid</name>
+      <type>Main</type>
+      <value>818</value>
+      <webElementGuid>89d0017a-12f1-45ad-bdb9-52583ad36ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Gunakan
+					</value>
+      <webElementGuid>7a9bf9a8-7c03-4c84-8b87-80a2b30c2780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;bg-menu-big&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;alertfe&quot;]/div[@class=&quot;alert-custom&quot;]/div[@class=&quot;body-alert&quot;]/div[@class=&quot;isi-body p-32-24&quot;]/div[@class=&quot;w-100 d-flex justify-content-center&quot;]/button[@class=&quot;btn-primary lh-normal d-flex align-items-center justify-content-center btn-gunakan ff-demi fs-14&quot;]</value>
+      <webElementGuid>f27c9656-2a9a-4bd9-a9a2-80dfc2bfa035</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paket Free Katalog Unit'])[1]/following::button[1]</value>
+      <webElementGuid>dd8c7200-ab25-4bed-a984-30835ff42aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sisa Kuota'])[1]/following::button[1]</value>
+      <webElementGuid>153f870b-293e-49f0-a10d-dd34f7b2ffea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::button[1]</value>
+      <webElementGuid>efe40dd0-1442-4c5b-b38a-689153faac63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/preceding::button[2]</value>
+      <webElementGuid>d0989a67-aa29-4851-b6af-ab0eb9dffb48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gunakan']/parent::*</value>
+      <webElementGuid>16ddc938-afaf-45bf-9967-aeaba7969f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>8c0339c8-53a8-4f9e-8fc5-76c71d287a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = 'https://iklan.azlogistik.id/layananiklan/pasangIklanKatalog?SubKategoriID=23&amp;KategoriID=40&amp;sub_text=Dealer Truk&amp;layanan_text=Dealer Truk %26 Karoseri&amp;feformID=undefined&amp;feFormParentID=2322&amp;status=1' and (text() = '
+						Gunakan
+					' or . = '
+						Gunakan
+					')]</value>
+      <webElementGuid>2b13f016-5340-44e7-b0fd-0140eef0230c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

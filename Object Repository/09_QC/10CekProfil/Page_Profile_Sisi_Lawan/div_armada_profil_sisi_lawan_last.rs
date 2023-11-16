@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_armada_profil_sisi_lawan_last</name>
+   <tag></tag>
+   <elementGuidId>d1e2b234-7d9f-4409-a83d-66c355701c07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;contentDataArmada&quot;]/div[last()]/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;contentDataArmada&quot;]/div[last()]/div/div[1]</value>
+      <webElementGuid>7f47d7ac-27e1-4c00-af56-d7f6a39ff396</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

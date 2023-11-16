@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Permintaan Kepada Transporter</name>
+   <tag></tag>
+   <elementGuidId>0a36c3ee-c21c-49c7-8e8d-659ab1b22587</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='colToTransporter']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e3b492b2-f880-4d59-bddc-17496daf6a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>74e94d53-6e89-4cc1-80d5-65f9c0bae03e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> textNavBF </value>
+      <webElementGuid>5807ccd1-d6e0-4e8e-a5a3-cfb1b99d98c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#MitraToTransporter</value>
+      <webElementGuid>877b986a-7828-4487-835f-78b3899b4d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Permintaan Kepada Transporter</value>
+      <webElementGuid>a61c3ba8-7f70-4901-965f-7930aa7a3d46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;colToTransporter&quot;)/a[@class=&quot;textNavBF&quot;]</value>
+      <webElementGuid>0c471ec1-24b4-4ac7-88d5-e6cf27797c1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='colToTransporter']/a</value>
+      <webElementGuid>d617d438-ff46-43e2-b417-2bf863c66c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Permintaan Kepada Transporter')]</value>
+      <webElementGuid>f3a0e18f-8676-4f25-b849-337cd872bf67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permintaan Dari Transporter'])[1]/following::a[1]</value>
+      <webElementGuid>3fca8967-f533-40fe-88a7-323b4cdb474e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitra Anda'])[1]/following::a[2]</value>
+      <webElementGuid>2cc436cb-0969-48b5-a379-13001ddc18ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan Jumlah Detail'])[1]/preceding::a[1]</value>
+      <webElementGuid>816da2a3-7346-4650-a915-105d9d477c23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Permintaan Kepada Transporter']/parent::*</value>
+      <webElementGuid>874ef31c-ed66-4f01-97f1-938b7e427a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#MitraToTransporter')]</value>
+      <webElementGuid>64ac6cd3-19ab-4873-b9a3-efa773aef26f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>2c9fa69d-1e0b-4955-b94d-e1f0b72b1909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#MitraToTransporter' and (text() = 'Permintaan Kepada Transporter' or . = 'Permintaan Kepada Transporter')]</value>
+      <webElementGuid>bf7cce44-5b06-4995-b478-c3c4af5a5d49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tab Riwayat</name>
+   <tag></tag>
+   <elementGuidId>a3d79936-407b-4efa-80b4-8412e9767cce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='history-header']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#history-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>05b8a8e1-63c3-4028-aafb-ee9b9eccca56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-3 tab-folder tab-folder-kontrak-harga history-menu-header tab-folder-active</value>
+      <webElementGuid>e1a09376-8c60-4cbe-90ad-5b40a0863a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>history-header</value>
+      <webElementGuid>6702034c-65d0-4cf4-a169-be030e3f0827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>75b8a3a1-9243-442b-a09b-027db371a4d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								Riwayat
+								
+							</value>
+      <webElementGuid>e7f84447-d7d6-4be9-82b5-3b17801c41f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;history-header&quot;)</value>
+      <webElementGuid>b7e79e0b-a381-4a48-8d09-633c3c8ed263</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='history-header']</value>
+      <webElementGuid>26d6e167-f9b4-46d8-a500-ec9e6b72598c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='summary-header']/div[4]</value>
+      <webElementGuid>5e0165d9-f64e-40ed-b392-2ad33d44c050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu Konfirmasi Transporter'])[1]/following::div[1]</value>
+      <webElementGuid>823d59c5-7183-4d3e-b5d6-77fc0728aee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menunggu Konfirmasi Anda'])[1]/following::div[3]</value>
+      <webElementGuid>9fb35852-5e55-4ffe-af41-1c2093b874d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arsip'])[3]/preceding::div[3]</value>
+      <webElementGuid>7c7bca3e-7f95-4569-afc7-6767e4abe119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selesai'])[1]/preceding::div[3]</value>
+      <webElementGuid>6546e99e-5989-4d51-9c25-a64b9d14c4fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Riwayat']/parent::*</value>
+      <webElementGuid>3580c8bd-c05a-4758-8500-2766723934b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[4]</value>
+      <webElementGuid>dfa942de-b74f-42ee-8f20-c0f9b6687552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'history-header' and (text() = '
+								Riwayat
+								
+							' or . = '
+								Riwayat
+								
+							')]</value>
+      <webElementGuid>bcec6308-94fb-4759-a8e1-81838dda2ef8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

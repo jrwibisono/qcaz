@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Masukkan Jenjang Pendidikan Terakhir</name>
+   <tag></tag>
+   <elementGuidId>1b49c41f-5eb6-4ee4-8c94-b69d7050e58d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[5]/div[2]/div/span/span[1]/span/span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-selection__placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a9fcac8d-4a7d-47b3-80b5-12d40fb120e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__placeholder</value>
+      <webElementGuid>52b95b25-25ce-4861-986a-cf201bcc2907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan Jenjang Pendidikan Terakhir</value>
+      <webElementGuid>cabfb709-5f81-4dfe-a450-ecb9e9ddacb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-3w4a-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
+      <webElementGuid>8c99f18f-f432-48de-9d38-3cc73ed31ce4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='select2-3w4a-container']/span</value>
+      <webElementGuid>729425fa-7559-4efd-8c0a-8777c32d64f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[5]</value>
+      <webElementGuid>9644553b-c6b1-40e4-b04c-dee55f171e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::span[3]</value>
+      <webElementGuid>e1cf41ad-0d4d-4d5e-a693-a4e0ad7b6268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masukkan Jenjang Pendidikan Terakhir']/parent::*</value>
+      <webElementGuid>0a89c15a-8eab-46d7-8377-e67cf029af23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span/span</value>
+      <webElementGuid>bc095c74-967b-4706-b58d-6ad259af7cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Masukkan Jenjang Pendidikan Terakhir' or . = 'Masukkan Jenjang Pendidikan Terakhir')]</value>
+      <webElementGuid>bbc64459-9751-4580-8ac7-0258d3c60563</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

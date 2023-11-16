@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Daftar Tender dan Eksekusi</name>
+   <tag></tag>
+   <elementGuidId>8aced8a3-5d41-4f85-a7c4-fd1e3fb69eb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='EksekusiTenderRef']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#EksekusiTenderRef</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b6d5952f-85e0-48dd-9f08-3a1d72987fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>EksekusiTenderRef</value>
+      <webElementGuid>6089c78a-2b33-4d8c-9af2-d5d3ceb7fc4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://bf.azlogistik.id/eksekusi-tender?isMenu=1</value>
+      <webElementGuid>447d8e11-d267-4e58-a8d5-fd3670c971d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-12 ff-medium-az</value>
+      <webElementGuid>3fb70bc9-8a17-4ef6-934d-5b8f6d850ea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Tender dan Eksekusi</value>
+      <webElementGuid>66720c4a-ea51-46f4-8d31-185434853058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EksekusiTenderRef&quot;)</value>
+      <webElementGuid>bd90c933-d577-4a01-ac34-6019d5fb0a50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='EksekusiTenderRef']</value>
+      <webElementGuid>33ac7a9b-2248-4d3b-8e57-9b0946a0ed90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='EksekusiTenderSidebar']/a</value>
+      <webElementGuid>2ade5f92-bd24-4ff6-8cfd-cce835be14f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar Tender dan Eksekusi')]</value>
+      <webElementGuid>c4421246-44c3-47cb-b2bd-d534dd19237f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(5)'])[1]/following::a[1]</value>
+      <webElementGuid>57146c59-c679-4624-a6e0-e4b03642b1a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amandemen Tender'])[1]/following::a[1]</value>
+      <webElementGuid>01d4d246-586f-4d56-8396-00ca816a999b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry'])[2]/preceding::a[1]</value>
+      <webElementGuid>5cde6209-d0c3-4d66-a989-08d4eeb60cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instant Order'])[1]/preceding::a[2]</value>
+      <webElementGuid>e2553c14-bb64-4c0f-b13d-882a5d5c3523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Tender dan Eksekusi']/parent::*</value>
+      <webElementGuid>9970aa4b-bd84-434c-9075-e9f61028cc23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/eksekusi-tender?isMenu=1')]</value>
+      <webElementGuid>f19f9f55-3ced-4e79-9d25-2824b07f5a60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>7f2ae145-b152-491a-85c2-1b794df270f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'EksekusiTenderRef' and @href = 'https://bf.azlogistik.id/eksekusi-tender?isMenu=1' and (text() = 'Daftar Tender dan Eksekusi' or . = 'Daftar Tender dan Eksekusi')]</value>
+      <webElementGuid>4869d6e9-a3ba-4214-aa49-5fe1f0770d0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

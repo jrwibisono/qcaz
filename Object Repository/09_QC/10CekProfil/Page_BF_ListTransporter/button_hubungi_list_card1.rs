@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_hubungi_list_card1</name>
+   <tag></tag>
+   <elementGuidId>92952ad0-0551-4dcb-9330-73e7f9d737d8</elementGuidId>
+   <imagePath>C:\Users\Dandy\Downloads\bf.muatmuat.com_bigfleets_menu_shipper_show_transporter.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>C:\Users\Dandy\Downloads\bf.muatmuat.com_bigfleets_menu_shipper_show_transporter.png</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnHubungi63</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;btnHubungi63&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-email</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>46e05d73-3506-40ec-ba0f-8f1f69f98ebc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

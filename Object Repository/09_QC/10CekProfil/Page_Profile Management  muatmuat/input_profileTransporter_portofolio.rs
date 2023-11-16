@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_profileTransporter_portofolio</name>
+   <tag></tag>
+   <elementGuidId>6ddfbb59-2568-4abb-a6ba-ac59bbfccd82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;editProfilePerusahaan&quot;]/div[4]/div[2]/div[1]/*[@class=&quot;twitter-typeahead&quot;]/input[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

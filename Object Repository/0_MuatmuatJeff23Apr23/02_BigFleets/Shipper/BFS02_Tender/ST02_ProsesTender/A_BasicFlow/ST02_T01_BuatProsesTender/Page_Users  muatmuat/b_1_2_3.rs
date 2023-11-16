@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>8defb103-e4aa-4f94-bc4d-f8af6f9f5b10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-frontend']/div/div[4]/div/div[3]/div[2]/span/span/span/span[2]/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open.select2-container--focus > span.selection > span.select2-selection.select2-selection--single > span.select2-selection__arrow > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>2098524a-d010-49c6-856a-712a58c39658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>915dd7f6-f96c-4a4a-a0a2-faf74bb965f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-frontend&quot;)/div[@class=&quot;container px-0&quot;]/div[@class=&quot;card card-pratender mt-24&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row row-pratender&quot;]/div[@class=&quot;for-div-flex text-label wd-157 pl-15&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]/b[1]</value>
+      <webElementGuid>cc9f4190-92e4-453a-ab1f-8b547a8ebb99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-frontend']/div/div[4]/div/div[3]/div[2]/span/span/span/span[2]/b</value>
+      <webElementGuid>f03821b5-1cf7-4ff8-9b83-05c13003e79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/div[2]/span/span/span/span[2]/b</value>
+      <webElementGuid>9bd862d5-6a70-414c-ba23-d9b0f95676e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

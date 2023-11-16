@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Berdasarkan Tender</name>
+   <tag></tag>
+   <elementGuidId>6c2917a1-46f9-4ac5-a943-7e8aaccd8e07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='berdasarkan-tender']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#berdasarkan-tender</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0cf4c013-9a07-4ebd-afad-cb5bebbb89b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://bf.azlogistik.id/daftar-tender/BerdasarkanTender</value>
+      <webElementGuid>65f4b761-952e-4f56-9856-fafe53449b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>berdasarkan-tender</value>
+      <webElementGuid>4d134afc-49bf-4968-b62d-87a603096fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-6 tab-folder tab-folder-kontrak-harga tab-folder-inactive</value>
+      <webElementGuid>2434edeb-0748-4a55-b9b4-baa7a0948f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu</name>
+      <type>Main</type>
+      <value>4</value>
+      <webElementGuid>18f90604-4ad5-4437-beb2-e226b549eabb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								Berdasarkan Tender
+							</value>
+      <webElementGuid>80c4e80a-d50c-4adc-93d8-e7212d9a84fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;berdasarkan-tender&quot;)</value>
+      <webElementGuid>48caf6dd-a0ff-4358-ac72-6b41f0b9856b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='berdasarkan-tender']</value>
+      <webElementGuid>bd68b1ef-be0b-4330-9f72-07813e126216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='summary-header']/a</value>
+      <webElementGuid>dce98659-e8f3-4e63-b84f-3a0a8cbe7d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Berdasarkan Tender')]</value>
+      <webElementGuid>c687cb6a-0cdd-4f69-921d-f74beec44aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berdasarkan Shipper'])[1]/following::a[1]</value>
+      <webElementGuid>547118a2-0822-42f6-ac36-35826ceac291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::a[1]</value>
+      <webElementGuid>5ca902b5-dde8-431c-905d-4928b2e1bad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan Jumlah Detail'])[1]/preceding::a[1]</value>
+      <webElementGuid>41962ad5-4924-409a-9f15-73ba8d8ea31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua'])[1]/preceding::a[1]</value>
+      <webElementGuid>3075160f-5fa0-4590-a115-0c31164e4adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Berdasarkan Tender']/parent::*</value>
+      <webElementGuid>7f9f5926-dc10-4dd4-8d7e-952c07ea7ca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/daftar-tender/BerdasarkanTender')]</value>
+      <webElementGuid>bdf914d8-8295-4e53-815a-dc5851c3546c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a</value>
+      <webElementGuid>768272b8-c204-4bdc-99c8-edbc18e26880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://bf.azlogistik.id/daftar-tender/BerdasarkanTender' and @id = 'berdasarkan-tender' and (text() = '
+								Berdasarkan Tender
+							' or . = '
+								Berdasarkan Tender
+							')]</value>
+      <webElementGuid>1325a364-482e-4fa8-8467-301602fcaa15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

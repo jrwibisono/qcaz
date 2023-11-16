@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SK Pemenang Tender</name>
+   <tag></tag>
+   <elementGuidId>4aae032b-1d84-4c00-a7e7-5174dddd39e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='PemenangTenderRef']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#PemenangTenderRef</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ad83797c-372f-4fee-a724-44848510dcb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PemenangTenderRef</value>
+      <webElementGuid>8e1fba56-f155-4d3f-971c-31b249859590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://bf.azlogistik.id/bigfleets/pemenangTenderBelumDiumumkanGrid</value>
+      <webElementGuid>898369d2-c710-40d3-a395-46697b98ea6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SK Pemenang Tender </value>
+      <webElementGuid>c6658b25-d3a1-4289-85a6-21bd86586bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PemenangTenderRef&quot;)</value>
+      <webElementGuid>41b92630-0367-45e6-ae1b-160e2773f303</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='PemenangTenderRef']</value>
+      <webElementGuid>0afe8c20-db64-437f-bf8f-1c729e43a87d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='PemenangTenderSidebar']/a</value>
+      <webElementGuid>e25340f0-b461-4ec3-b992-50658a0b082d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SK Pemenang Tender')]</value>
+      <webElementGuid>0f67130f-ea63-4809-b094-f176ab0aaa12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses Tender'])[1]/following::a[1]</value>
+      <webElementGuid>cfa4d8a2-1277-44a7-8fb6-210d1f33ab51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Pra Tender'])[1]/following::a[2]</value>
+      <webElementGuid>74845260-87aa-4c7b-83c8-2d97976968df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(3)'])[1]/preceding::a[1]</value>
+      <webElementGuid>143e7cac-e093-4ec0-86d7-f85dd674479a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amandemen Tender'])[1]/preceding::a[1]</value>
+      <webElementGuid>80901bcd-6843-41fe-b878-3d739327ef40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SK Pemenang Tender']/parent::*</value>
+      <webElementGuid>3125c0ca-3a36-4ffa-ad5d-a6a64d3c4b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/bigfleets/pemenangTenderBelumDiumumkanGrid')]</value>
+      <webElementGuid>7d43b991-8044-472c-8107-156c8f2ae817</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div[2]/ul/li[3]/a</value>
+      <webElementGuid>c88f5f62-fe6f-4855-a1cc-7b1c19e70234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'PemenangTenderRef' and @href = 'https://bf.azlogistik.id/bigfleets/pemenangTenderBelumDiumumkanGrid' and (text() = 'SK Pemenang Tender ' or . = 'SK Pemenang Tender ')]</value>
+      <webElementGuid>e8dd4e20-e69b-4f85-be9a-c751e6d335eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

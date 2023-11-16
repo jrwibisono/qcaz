@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilih Jenis Muatan_1</name>
+   <tag></tag>
+   <elementGuidId>b2866913-db21-4142-a179-c8b8b14d85d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-selection__placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-jenis-muatan-container']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>489ff71f-7abb-456e-9e96-9abba5f4b671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__placeholder</value>
+      <webElementGuid>ef26c20b-ebe5-4e3b-bbf7-32dc7dc7ec86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Jenis Muatan</value>
+      <webElementGuid>a56864b4-4205-45b5-b9f9-b59b5290b499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-jenis-muatan-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
+      <webElementGuid>50755f37-2d4f-4196-88b9-f5e682a53e02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='select2-jenis-muatan-container']/span</value>
+      <webElementGuid>0c6fb0fd-0ff1-42e3-9585-3710a3ba3ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Muatan*'])[1]/following::span[5]</value>
+      <webElementGuid>0d15cb45-e516-445e-ac23-efce5a3b38a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muatan*'])[1]/following::span[6]</value>
+      <webElementGuid>d2691dc4-ae16-4ce6-b067-35c9df267961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(opsional)'])[1]/preceding::span[3]</value>
+      <webElementGuid>cfa3fba9-cdda-4992-a2e9-37b91f29f45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span/span/span</value>
+      <webElementGuid>1b949199-7920-4c16-8811-1b2d388af8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pilih Jenis Muatan' or . = 'Pilih Jenis Muatan')]</value>
+      <webElementGuid>501764ff-d73f-4650-aeab-6a31b17f225d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

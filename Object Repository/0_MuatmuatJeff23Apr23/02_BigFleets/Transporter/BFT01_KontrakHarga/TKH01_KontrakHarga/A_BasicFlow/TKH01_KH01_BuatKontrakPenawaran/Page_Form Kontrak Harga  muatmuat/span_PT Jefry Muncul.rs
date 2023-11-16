@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PT Jefry Muncul</name>
+   <tag></tag>
+   <elementGuidId>ca9107a5-c46c-427a-a87a-a4d11b9ba82a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bubbleContainer']/div[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0c663b95-7702-4575-ad78-7d75f23e8321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-medium-az fs-12 fc-black-az  value-data</value>
+      <webElementGuid>26ff337a-a768-4b23-8a45-4fef69b4b302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PT Jefry Muncul</value>
+      <webElementGuid>fee8a73e-5e80-4c03-a7dc-0aa286b68457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bubbleContainer&quot;)/div[@class=&quot;d-flex justify-content-between align-items-center&quot;]/div[1]/span[@class=&quot;ff-medium-az fs-12 fc-black-az  value-data&quot;]</value>
+      <webElementGuid>15025109-2e6d-49c4-bf4e-85911b6aa6d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bubbleContainer']/div[3]/div/span</value>
+      <webElementGuid>6c0d50bd-7c55-42c8-a2b7-d215ec2eac79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muncul'])[2]/following::span[1]</value>
+      <webElementGuid>2a3b06ed-feff-4df3-8f61-680e23de46ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::span[1]</value>
+      <webElementGuid>6c406f70-c105-4ba3-9441-4390ae84b2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PT Jefry']/parent::*</value>
+      <webElementGuid>c5063cea-ff96-49f9-832b-72bb4eb09fe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/span</value>
+      <webElementGuid>a924d075-055f-475d-bc65-05703f282331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PT Jefry Muncul' or . = 'PT Jefry Muncul')]</value>
+      <webElementGuid>2bc4864e-ec0e-47f9-a4bb-77d4474c2d71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

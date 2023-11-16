@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transportation StoreMarketplace kebutuh_d87c86</name>
+   <tag></tag>
+   <elementGuidId>35ace481-91ff-4959-8c69-a65b5f490bab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > a > div.card-border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainerCard']/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>75889c44-4f4c-4c77-bd29-0d014c80cdc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-border</value>
+      <webElementGuid>650ede07-cf76-443b-8766-4578ece687de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transportation StoreMarketplace kebutuhan logistik terlengkap.</value>
+      <webElementGuid>05cc12dc-a6e0-43e1-88c0-f3da31ccf3e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainerCard&quot;)/div[2]/a[1]/div[@class=&quot;card-border&quot;]</value>
+      <webElementGuid>d79266b5-6ef3-4551-9df6-1d2e1d2a0a62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainerCard']/div[2]/a/div</value>
+      <webElementGuid>c9b43eb5-46e6-48a9-89bb-7d5959c2770f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coming Soon'])[2]/following::div[2]</value>
+      <webElementGuid>7345d7bb-bf58-4a2f-92e4-ea214ee91e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wadah untuk bertemunya Shipper dan Transporter.'])[1]/following::div[3]</value>
+      <webElementGuid>1c9a995d-2af1-4ae9-84ef-8e0b206ad639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div</value>
+      <webElementGuid>dd4c12d8-52c3-4c27-bbc4-67b0b728b14a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transportation StoreMarketplace kebutuhan logistik terlengkap.' or . = 'Transportation StoreMarketplace kebutuhan logistik terlengkap.')]</value>
+      <webElementGuid>a55b5398-7537-477a-823b-26c7b668044f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

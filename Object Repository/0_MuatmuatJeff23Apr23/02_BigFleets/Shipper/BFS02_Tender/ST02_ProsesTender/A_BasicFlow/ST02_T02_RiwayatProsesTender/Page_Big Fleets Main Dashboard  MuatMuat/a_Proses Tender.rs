@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Proses Tender</name>
+   <tag></tag>
+   <elementGuidId>206c3a7d-dedb-41a0-beaf-ed256c7365a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ProsesTenderRef</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ProsesTenderRef']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>722c9267-02e2-483d-ac57-6016814048dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ProsesTenderRef</value>
+      <webElementGuid>a4acb111-1a83-4859-85d9-2813b7f21428</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://bf.azlogistik.id/bigfleets/prosesTenderAktifGrid</value>
+      <webElementGuid>c02cef34-0e21-4693-903a-1105604445ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-12 ff-medium-az</value>
+      <webElementGuid>f93b24f5-005e-4294-b61e-c40d1601f02f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proses Tender </value>
+      <webElementGuid>f337fbcc-2141-4ad3-9213-9e0752eafc37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ProsesTenderRef&quot;)</value>
+      <webElementGuid>5c1a8fef-a0d4-43eb-861b-c237d50c2a92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ProsesTenderRef']</value>
+      <webElementGuid>c02d457c-e134-4514-836a-ee1efeefc604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ProsesTenderSidebar']/a</value>
+      <webElementGuid>087d1bfb-3411-483e-b2ad-debece32acd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Proses Tender')]</value>
+      <webElementGuid>0d469d1b-2a6e-4d15-9f0d-1af0d28e5d49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Pra Tender'])[1]/following::a[1]</value>
+      <webElementGuid>c0f5ffd3-b55b-466f-94b1-3f676da6b1f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tender'])[1]/following::a[2]</value>
+      <webElementGuid>7e680dc2-3890-49cd-add3-91d5d3b74d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SK Pemenang Tender'])[1]/preceding::a[1]</value>
+      <webElementGuid>218886ba-9f8c-4a13-bb4a-82557094835a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(3)'])[1]/preceding::a[2]</value>
+      <webElementGuid>eb8ebc79-76df-4312-9903-36571200c4d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Proses Tender']/parent::*</value>
+      <webElementGuid>c1e1619a-800c-42a3-ad0c-b12ff9e1e45b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/bigfleets/prosesTenderAktifGrid')]</value>
+      <webElementGuid>89940fff-fa49-48f0-89f8-cfb2edf0f21c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div[2]/ul/li[2]/a</value>
+      <webElementGuid>209502bb-21a3-4999-a94f-782b599086d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ProsesTenderRef' and @href = 'https://bf.azlogistik.id/bigfleets/prosesTenderAktifGrid' and (text() = 'Proses Tender ' or . = 'Proses Tender ')]</value>
+      <webElementGuid>94bdbd12-ec32-43fd-96b6-7ac8e645cfde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

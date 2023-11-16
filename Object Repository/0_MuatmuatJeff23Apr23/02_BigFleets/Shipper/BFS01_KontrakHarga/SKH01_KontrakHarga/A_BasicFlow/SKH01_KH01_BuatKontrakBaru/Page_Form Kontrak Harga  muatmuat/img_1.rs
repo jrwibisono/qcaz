@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>f09f1d9a-ad09-49da-9222-52b7a8012222</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dataDoubleConfirmation']/div/div/div/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dataDoubleConfirmation > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-header.modal-header-muat.border-0 > button.button-modal-az > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fe9c794a-5403-4cb2-9bb8-6af8b3a416ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/icon/group-delete.svg</value>
+      <webElementGuid>b1a88f15-ce40-48e3-b0c4-f8c30b4e6bf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataDoubleConfirmation&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header modal-header-muat border-0&quot;]/button[@class=&quot;button-modal-az&quot;]/img[1]</value>
+      <webElementGuid>bf73492c-6145-4d6a-bc94-acc9e497c5d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dataDoubleConfirmation']/div/div/div/button/img</value>
+      <webElementGuid>fe65d34e-e51d-4b0f-9464-8e24aeec7472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button/img</value>
+      <webElementGuid>3b99a21e-3f2f-4fa4-97ea-c8ff9c06b4ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/icon/group-delete.svg']</value>
+      <webElementGuid>11801495-55e8-4e28-8e24-9074aec07b25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

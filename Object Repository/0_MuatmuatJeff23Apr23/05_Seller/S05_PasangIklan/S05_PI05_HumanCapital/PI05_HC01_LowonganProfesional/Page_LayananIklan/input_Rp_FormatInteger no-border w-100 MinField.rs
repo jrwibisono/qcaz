@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Rp_FormatInteger no-border w-100 MinField</name>
+   <tag></tag>
+   <elementGuidId>70382955-100f-44eb-8f98-01a2fb5bfd0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ComponentField.no-border.mt-8.d-flex.align-items-end.fs-12.ff-medium.fc-1b > div > div.component-input-border-container.d-flex > input.FormatInteger.no-border.w-100.MinField</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d9e5470c-8764-4fda-961c-5cf9e3630957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FormatInteger no-border w-100 MinField</value>
+      <webElementGuid>6f9ed46b-3795-45bb-b038-fcb2293cff6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9094795f-9675-465b-8640-fab52b66aec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan Estimasi Gaji</value>
+      <webElementGuid>d7823420-bed5-44e9-b53c-15fc63e3c368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-child_column_name</name>
+      <type>Main</type>
+      <value>estimasi_awal</value>
+      <webElementGuid>8f328acf-945d-4781-a9a3-f6b8ca2a1de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-alert_required_var</name>
+      <type>Main</type>
+      <value>alert_required_currency</value>
+      <webElementGuid>ffbdf391-e0dd-4fb6-94c7-d06c84adcb5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-alert_required_currency</name>
+      <type>Main</type>
+      <value>Wajib diisi</value>
+      <webElementGuid>71d4b804-a5cc-448a-aad5-e209cc2910ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-8 d-flex align-items-end fs-12 ff-medium fc-1b&quot;]/div[1]/div[@class=&quot;component-input-border-container d-flex&quot;]/input[@class=&quot;FormatInteger no-border w-100 MinField&quot;]</value>
+      <webElementGuid>7be750d2-6ef0-493a-b6f7-6be67bbf9ce8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[8]</value>
+      <webElementGuid>e13ac36f-a440-4f49-a0fe-7139c30189b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[19]/div[2]/div/div[2]/input</value>
+      <webElementGuid>364b3840-7a6c-4b76-a28b-24b6427f6b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/div[2]/div/div[2]/input</value>
+      <webElementGuid>5378ca26-6fcd-4013-b660-b55a592d84fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Masukkan Estimasi Gaji']</value>
+      <webElementGuid>92043b21-7677-4027-b3ba-dc54092a5ad8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

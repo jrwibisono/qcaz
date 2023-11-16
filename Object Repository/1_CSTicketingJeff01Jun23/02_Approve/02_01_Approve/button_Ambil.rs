@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ambil</name>
+   <tag></tag>
+   <elementGuidId>3992eaf4-6172-4e6b-ae9b-603285b1b2c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/main/div[2]/div[2]/div[2]/div/table/tbody/tr[1]/td[7]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1fa4557d-4b8e-405b-8eb6-b8fc4d102711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>ticketConfirmation(1045, 'Apakah anda yakin akan mengambil tiket ID', 'ambil')</value>
+      <webElementGuid>8c47a50b-c356-4223-b0a1-c4f945ce60c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>8bb5fa73-d734-462e-9abc-7daa5a404c2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-medium text-blue-600  hover:underline</value>
+      <webElementGuid>ec21c7b4-d987-4992-be57-711457fbbbee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ambil</value>
+      <webElementGuid>e45de2db-1fe4-4c9c-b346-547ff0c36136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;font-sans antialiased&quot;]/div[@class=&quot;min-h-screen bg-gray-100&quot;]/main[@class=&quot;lg:container max-lg:px-4 mx-auto py-4 grid grid-cols-12 lg:space-x-1&quot;]/div[@class=&quot;col-span-12 md:col-span-12 lg:col-span-9 xl:col-span-10 max-lg:p-4  lg:p-4 bg-white rounded&quot;]/div[@class=&quot;my-2&quot;]/div[@class=&quot;overflow-x-auto relative shadow-md sm:rounded-lg&quot;]/div[@class=&quot;min-h-[50vh]&quot;]/table[@class=&quot;w-full text-sm text-left text-gray-500&quot;]/tbody[1]/tr[@class=&quot;bg-white border-b hover:bg-gray-50&quot;]/td[@class=&quot;py-6 px-2 text-center grid grid-cols-1&quot;]/button[@class=&quot;font-medium text-blue-600  hover:underline&quot;]</value>
+      <webElementGuid>0410cf90-399f-4d2f-b3c6-4aab014a7d65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;ticketConfirmation(1045, 'Apakah anda yakin akan mengambil tiket ID', 'ambil')&quot;]</value>
+      <webElementGuid>832170e2-c849-4da9-8549-c82a5f71b66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rinda'])[1]/following::button[1]</value>
+      <webElementGuid>951dd781-c3d0-4b43-ae65-73022d3e5f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending External'])[2]/following::button[1]</value>
+      <webElementGuid>ccfbbbbd-243f-404d-9035-fbca029d3726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending External'])[3]/preceding::button[1]</value>
+      <webElementGuid>d4f5d941-a25e-4aa9-a13c-892b77923cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rinda'])[2]/preceding::button[1]</value>
+      <webElementGuid>60d32a26-90f5-4a30-816f-5a60c6e79bbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ambil']/parent::*</value>
+      <webElementGuid>ed4bc9f6-3d7b-4abf-8467-2407ecbee2fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/button</value>
+      <webElementGuid>fcb492b4-f6eb-46c7-a49b-e4ef61077c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = '#' and (text() = 'Ambil' or . = 'Ambil')]</value>
+      <webElementGuid>a1247dac-acc6-460c-a07e-dc77672d33db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

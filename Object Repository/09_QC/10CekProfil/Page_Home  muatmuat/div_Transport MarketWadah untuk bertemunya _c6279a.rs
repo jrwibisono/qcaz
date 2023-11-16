@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transport MarketWadah untuk bertemunya _c6279a</name>
+   <tag></tag>
+   <elementGuidId>2b832bb5-085a-4906-bfd0-598dd836eb72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > div.card-border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='generated_menu']/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>72f54463-5328-49cc-9893-c917c06e2094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-border</value>
+      <webElementGuid>0f54d91b-024f-479c-bcf4-329801564bf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transport MarketWadah untuk bertemunya Shipper dan Transporter.Coming Soon</value>
+      <webElementGuid>9afd7666-24a8-457f-9fd1-a1b9d35ef374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;generated_menu&quot;)/div[1]/div[2]/div[@class=&quot;card-border&quot;]</value>
+      <webElementGuid>203d9fc7-e515-4af7-bcd7-601ec6d1fabd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated_menu']/div/div[2]/div</value>
+      <webElementGuid>59a4dde8-0dbe-44b2-bc15-27ca6cedc114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temukan jasa pengurusan dan pengiriman barang Anda.'])[1]/following::div[2]</value>
+      <webElementGuid>2da87966-bff2-4518-97f0-46e6bb821fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intermodal Transportation'])[1]/following::div[3]</value>
+      <webElementGuid>e4a5b355-c942-4fad-b4c0-130417a85466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div</value>
+      <webElementGuid>87ea3cf0-5677-4613-863b-57ea29e526ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transport MarketWadah untuk bertemunya Shipper dan Transporter.Coming Soon' or . = 'Transport MarketWadah untuk bertemunya Shipper dan Transporter.Coming Soon')]</value>
+      <webElementGuid>034e33cc-8437-45d3-82b1-df69c5bb8b71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

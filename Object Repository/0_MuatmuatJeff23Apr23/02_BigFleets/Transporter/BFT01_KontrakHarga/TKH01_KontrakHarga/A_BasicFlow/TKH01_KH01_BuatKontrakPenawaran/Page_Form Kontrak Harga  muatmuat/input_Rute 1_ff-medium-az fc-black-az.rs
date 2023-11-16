@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Rute 1_ff-medium-az fc-black-az</name>
+   <tag></tag>
+   <elementGuidId>ffbe41db-df65-4bc8-ae63-548019848456</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dropdown > input.ff-medium-az.fc-black-az</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>46d6f98a-88ed-48d9-a2dd-a193c26d0e59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fef0f5e1-0e44-466b-8140-5cebb15b0d61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>148d88e5-9778-46b0-9262-bfc8bb7e5dd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Lokasi Pick Up</value>
+      <webElementGuid>1c5be942-4425-4fd6-979c-7e49296f00b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-medium-az fc-black-az</value>
+      <webElementGuid>2d9b65a5-bda3-4cc5-9d19-4ee60b33e4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-vue&quot;)/div[2]/div[@class=&quot;form-kontrak-container rutetransactionviewvalidate&quot;]/div[@class=&quot;form-kontrak-content-container&quot;]/div[@class=&quot;form-kontrak-column&quot;]/div[2]/div[@class=&quot;ff-demi-az&quot;]/div[@class=&quot;dropdown&quot;]/input[@class=&quot;ff-medium-az fc-black-az&quot;]</value>
+      <webElementGuid>913f6c41-891c-4ba4-b21e-fb8934767671</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='']</value>
+      <webElementGuid>783e6a23-7c6b-4847-9b7c-76b9a68910f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-vue']/div[2]/div[2]/div[3]/div[3]/div[2]/div/div/input</value>
+      <webElementGuid>699adb7c-a95a-416b-935c-f0fec78e58f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/input</value>
+      <webElementGuid>d2e25cb5-a2d2-4b38-bf44-95ab14750765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Lokasi Pick Up']</value>
+      <webElementGuid>8599e373-5010-4c1c-a4f6-08de1f03730b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_SK Kontrak Harga_fs-12-az</name>
+   <tag></tag>
+   <elementGuidId>c9ac3d90-0418-4a46-a752-f0ea9f578291</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.fs-12-az</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>ecc7e7f5-2e3f-4c10-8522-22fd93905c5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cols</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>185de4f7-72cd-439b-8c22-9561f2400917</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>21938ec4-6508-4eba-b67d-71814e99dcb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan syarat dan ketentuan yang disepakati
+Contoh : 1. Supir/driver wajib menggunakan rompi pada saat mengambil/mengirimkan barang
+2. Surat jalan harus diserahkan kembali maksimum 2 minggu setelah barang diterima</value>
+      <webElementGuid>5df8d824-9a81-4014-997d-abb5aa0db1a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-12-az</value>
+      <webElementGuid>e85df7bb-6ba3-4d92-9afd-0cb15d4bf638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-vue&quot;)/div[2]/div[@class=&quot;form-kontrak-container syaratketentuanview&quot;]/div[@class=&quot;form-kontrak-content-container&quot;]/div[@class=&quot;form-kontrak-column&quot;]/div[@class=&quot;alert-form-target&quot;]/textarea[@class=&quot;fs-12-az&quot;]</value>
+      <webElementGuid>a86323d4-13c1-4d7f-82a5-9dae9aa6d0a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='']</value>
+      <webElementGuid>71a0ee97-940e-44a7-967d-808fca6deb67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-vue']/div[2]/div[3]/div[3]/div/div[2]/textarea</value>
+      <webElementGuid>d928dd8e-d0b1-4857-9133-8fb60239d0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>874c6c72-ead3-433e-ba31-5eda389cc9d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Masukkan syarat dan ketentuan yang disepakati
+Contoh : 1. Supir/driver wajib menggunakan rompi pada saat mengambil/mengirimkan barang
+2. Surat jalan harus diserahkan kembali maksimum 2 minggu setelah barang diterima']</value>
+      <webElementGuid>b19d119d-c0a6-4089-ab9a-ddb72467ea96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

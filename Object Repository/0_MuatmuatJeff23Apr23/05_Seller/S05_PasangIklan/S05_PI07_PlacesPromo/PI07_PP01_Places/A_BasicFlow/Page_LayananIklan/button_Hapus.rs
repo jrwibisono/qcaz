@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Hapus</name>
+   <tag></tag>
+   <elementGuidId>0784d761-0ce6-45a1-ae92-4effe3c47152</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasangIklanForm']/div[14]/div[2]/div/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5e813a29-ce4d-464d-a54b-b4733ba94577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary-bdr-red btn-flex lh-normal BtnMinComponent</value>
+      <webElementGuid>2a09fe94-3061-4172-92f8-b92b3486b27a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hapus</value>
+      <webElementGuid>489dec8e-7669-417a-aafc-216ee5b7ed1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField no-border mt-12&quot;]/div[@class=&quot;d-flex flex-column PlusMinComponentContainer&quot;]/div[@class=&quot;PlusMinComponent d-flex flex-column&quot;]/div[@class=&quot;d-flex fs-14 ff-demi&quot;]/button[@class=&quot;btn-primary-bdr-red btn-flex lh-normal BtnMinComponent&quot;]</value>
+      <webElementGuid>b1631408-9ac6-43cf-a448-31c544473801</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[14]/div[2]/div/div[2]/div[2]/button</value>
+      <webElementGuid>ead3814b-ac04-45b3-9217-f9524ed9f722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[2]/following::button[1]</value>
+      <webElementGuid>0ff3502b-2950-4b94-97af-fb41b30a07f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::button[1]</value>
+      <webElementGuid>97e6d08f-9a3d-4be0-b274-544c8270f70e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[5]/preceding::button[1]</value>
+      <webElementGuid>fe0f5972-a82f-4418-b50d-5d21978b8a2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brosur'])[1]/preceding::button[2]</value>
+      <webElementGuid>042bab2f-41f1-4c32-9ff0-cc861f95b1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[2]/div/div[2]/div[2]/button</value>
+      <webElementGuid>271c7518-7a74-4d83-aced-389bebf0d535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Hapus' or . = 'Hapus')]</value>
+      <webElementGuid>7be1cc77-06e4-430c-8e75-93dbce2ea551</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

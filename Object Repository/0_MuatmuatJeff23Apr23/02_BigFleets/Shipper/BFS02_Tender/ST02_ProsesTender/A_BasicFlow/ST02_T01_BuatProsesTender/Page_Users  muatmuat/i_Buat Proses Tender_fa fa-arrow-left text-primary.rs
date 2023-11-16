@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Buat Proses Tender_fa fa-arrow-left text-primary</name>
+   <tag></tag>
+   <elementGuidId>6d389460-7daa-40c1-9c19-eff052a24437</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-arrow-left.text-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7071e8e7-ecef-4f4b-be3b-118871836369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-arrow-left text-primary</value>
+      <webElementGuid>6891aa51-9b59-46ff-940d-70d16b8e0999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bd0e3c68-75d3-46b3-9976-b8c2d81b8ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md pb-5 content-menu right-content mb-5 fiContainer&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;back-task&quot;]/a[@class=&quot;text-back text-icon-center&quot;]/i[@class=&quot;fa fa-arrow-left text-primary&quot;]</value>
+      <webElementGuid>3ad156c8-d78a-47ec-ba45-d3ece170623d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>78ec7b86-7d46-4157-bc96-19aa1a2db2c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

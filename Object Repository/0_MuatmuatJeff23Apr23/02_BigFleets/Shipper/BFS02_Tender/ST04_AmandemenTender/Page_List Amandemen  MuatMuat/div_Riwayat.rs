@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Riwayat</name>
+   <tag></tag>
+   <elementGuidId>5fd6a09e-cae3-4986-88b4-f6cb1ffeac9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#konftrans-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='konftrans-header']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>545e157b-ebdd-43e2-8993-43dd5295cf23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-4 tab-folder tab-folder-kontrak-harga tab-folder-inactive d-flex align-items-center flew-wrap</value>
+      <webElementGuid>937521fc-740a-43ba-a81d-11fb1098d1e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>konftrans-header</value>
+      <webElementGuid>9ae16fc8-fe3e-41af-a251-076c9ea9797a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>1fd1c7d7-1833-4050-9879-bb953de1cc98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Riwayat
+						
+						
+					</value>
+      <webElementGuid>ef9e68f5-edd9-41cb-9a21-244377147939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;konftrans-header&quot;)</value>
+      <webElementGuid>9e702e3f-2f25-4377-a05c-f6f2b662a6d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='konftrans-header']</value>
+      <webElementGuid>7d7670d3-0df4-4fa4-9f5e-bd56dafe0e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='summary-header']/div[3]</value>
+      <webElementGuid>a210bfd1-596c-49c1-bd38-dee3929de74a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/following::div[1]</value>
+      <webElementGuid>a79c1984-09c8-4fcf-a9f6-e3fc1d657643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan Jumlah Detail'])[1]/preceding::div[3]</value>
+      <webElementGuid>4300fccc-9a1a-45f9-be24-0fb056b1b99d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Riwayat']/parent::*</value>
+      <webElementGuid>ac865319-820a-4ab3-b2b9-4ae1366f9894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[3]</value>
+      <webElementGuid>fee527c9-7925-47a4-a128-a108c174d05f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'konftrans-header' and (text() = '
+						Riwayat
+						
+						
+					' or . = '
+						Riwayat
+						
+						
+					')]</value>
+      <webElementGuid>1b8764a4-c358-4a28-9d63-7c5f001a5188</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

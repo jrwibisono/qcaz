@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>dbb0cfea-83d8-42ad-821b-a0eb4ef10085</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#closemodalberhasil > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='closemodalberhasil']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>fd039b00-df3c-466a-bbdb-8e4ad2b13e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>21px</value>
+      <webElementGuid>3eb2949c-a01d-4e84-905a-b74fd9d74549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>21px</value>
+      <webElementGuid>73bc152f-94c6-4add-8695-8c6f1efd97f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/svg/Group 16437 (1).svg</value>
+      <webElementGuid>ced1abab-0503-4af2-9f21-1accc7d93f47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modalberhasil&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered modal-md justify-content-center&quot;]/div[@class=&quot;modal-content modal-confirm-content&quot;]/div[@class=&quot;modal-header&quot;]/button[@id=&quot;closemodalberhasil&quot;]/img[1]</value>
+      <webElementGuid>6968695a-9d45-4190-ab67-c1b4233ea192</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='closemodalberhasil']/img</value>
+      <webElementGuid>17843d60-a41b-49f2-ab44-7c9844b1ee0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/button/img</value>
+      <webElementGuid>a28f2692-f5d3-4607-8a33-83c36c11637a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/svg/Group 16437 (1).svg']</value>
+      <webElementGuid>e235660e-ed1a-465d-b314-db7b00a68535</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

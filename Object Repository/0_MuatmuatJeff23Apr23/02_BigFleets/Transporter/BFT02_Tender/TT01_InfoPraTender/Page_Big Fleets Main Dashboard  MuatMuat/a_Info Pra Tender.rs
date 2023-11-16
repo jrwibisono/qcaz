@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Info Pra Tender</name>
+   <tag></tag>
+   <elementGuidId>2d57fa88-bdd6-401c-b6c7-d7584ee8bf0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='InfoPraTenderRef']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#InfoPraTenderRef</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ca0aff8c-0971-4e5d-b57c-033cd10c4f67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>InfoPraTenderRef</value>
+      <webElementGuid>3999b0e7-3c7f-4817-82e3-eb8c75b43be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://bf.azlogistik.id/bigfleets/infoPratenderAktifGrid</value>
+      <webElementGuid>8c1ab3fc-f355-460b-8da5-28f2dc6cc0c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Info Pra Tender</value>
+      <webElementGuid>74ebc452-ce90-4730-bcc5-c785e9073899</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;InfoPraTenderRef&quot;)</value>
+      <webElementGuid>b776e609-8577-4bd1-9b28-7e87d0b74726</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='InfoPraTenderRef']</value>
+      <webElementGuid>d87e84fe-baf2-4dcf-a801-3465dc63a179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='InfoPraTenderSidebar']/a</value>
+      <webElementGuid>3930afd3-0bea-483e-9d3a-3d69e70963b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Info Pra Tender')]</value>
+      <webElementGuid>4e651598-3a50-4cc0-8953-da2d033a8b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tender'])[1]/following::a[1]</value>
+      <webElementGuid>d9e2a771-a238-48c0-a3b2-8d7dafdbb038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry'])[1]/following::a[2]</value>
+      <webElementGuid>be0bba58-ac42-4c75-ae5a-c94deddd633a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses Tender'])[1]/preceding::a[1]</value>
+      <webElementGuid>6bec6691-c7ec-4580-abb8-91cfe8a30a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SK Pemenang Tender'])[1]/preceding::a[2]</value>
+      <webElementGuid>c9acf4af-56d0-41d2-a67b-5d0c941b4cf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Info Pra Tender']/parent::*</value>
+      <webElementGuid>8d70440b-14f0-4385-aeb8-052b88938ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/bigfleets/infoPratenderAktifGrid')]</value>
+      <webElementGuid>75cf4e61-05fb-4016-82b8-d1338fb5433f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div[2]/ul/li/a</value>
+      <webElementGuid>28df144a-189c-428e-9f5b-f95699461ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'InfoPraTenderRef' and @href = 'https://bf.azlogistik.id/bigfleets/infoPratenderAktifGrid' and (text() = 'Info Pra Tender' or . = 'Info Pra Tender')]</value>
+      <webElementGuid>2fda8e0d-ce19-40f9-ac0c-78209f2ec76e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

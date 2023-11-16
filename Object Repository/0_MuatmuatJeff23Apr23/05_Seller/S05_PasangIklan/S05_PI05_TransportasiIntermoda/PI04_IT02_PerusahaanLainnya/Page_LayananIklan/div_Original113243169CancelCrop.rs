@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Original113243169CancelCrop</name>
+   <tag></tag>
+   <elementGuidId>c472cc92-e050-4959-a6cd-a3afaa1d371d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-footer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ModalCropImageComponent']/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b9b8a1e0-3213-4111-af5f-581c6da46d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-footer</value>
+      <webElementGuid>82f69f50-75f3-4293-a5e0-7ec06953d004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+				
+					Original
+					1:1
+					3:2
+					4:3
+					16:9
+				
+				Cancel
+				Crop
+			</value>
+      <webElementGuid>bd1eddea-124e-4abb-a831-a17b23524504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ModalCropImageComponent&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]</value>
+      <webElementGuid>30cb373f-41eb-438e-9360-d029c7cebda3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ModalCropImageComponent']/div/div/div[3]</value>
+      <webElementGuid>41135021-3893-46d2-9140-d2f8f9522bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crop Gambar'])[1]/following::div[8]</value>
+      <webElementGuid>fbc8a56f-f4cf-4703-8367-87648c786a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah Iklan'])[1]/following::div[12]</value>
+      <webElementGuid>59fb0fc6-e885-48e8-b4fc-38bc491922ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[3]</value>
+      <webElementGuid>96ddee2d-82bb-4a55-a810-e3627b7a630c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+				
+					Original
+					1:1
+					3:2
+					4:3
+					16:9
+				
+				Cancel
+				Crop
+			' or . = '
+				
+					Original
+					1:1
+					3:2
+					4:3
+					16:9
+				
+				Cancel
+				Crop
+			')]</value>
+      <webElementGuid>8de6a11c-03ba-44c6-b700-1d2d30da2458</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

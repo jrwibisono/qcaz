@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Organic Matter_unchecked-icon</name>
+   <tag></tag>
+   <elementGuidId>cbba46cb-941d-406d-9198-cafa2fcfe2df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.CheckBoxButtonItem.col-12.w-100.d-flex.align-items-center.px-0 > div.d-flex.align-items-start.mr-12 > div.checked-container.mr-12 > div.unchecked-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PasangIklanForm']/div[9]/div[2]/div[6]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aa64eb62-5996-49c9-93ab-4f01a8e78d8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unchecked-icon</value>
+      <webElementGuid>6a9b181d-0918-4ac6-91ab-da4bd9ee42ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField d-flex ff-medium fs-12  mt-8 row mx-0 no-border&quot;]/div[@class=&quot;CheckBoxButtonItem col-12 w-100 d-flex align-items-center px-0&quot;]/div[@class=&quot;d-flex align-items-start mr-12&quot;]/div[@class=&quot;checked-container mr-12&quot;]/div[@class=&quot;unchecked-icon&quot;]</value>
+      <webElementGuid>330eaa9b-7602-4a52-a0e2-17b7f113a5ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[9]/div[2]/div[6]/div/div/div</value>
+      <webElementGuid>9ead0a50-b69d-4cc4-b6c4-133143e499fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/div[6]/div/div/div</value>
+      <webElementGuid>6e7121c4-79ca-446b-beb4-2e36be783a44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

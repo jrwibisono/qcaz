@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Delete_popupOrderEntry</name>
+   <tag></tag>
+   <elementGuidId>1584824f-628a-46f9-94ea-bbb8095d5414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='closeSpecialFirstTimer']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#closeSpecialFirstTimer > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>104aa4cd-adc1-4220-8afb-d16443768417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/Subscription/close.svg</value>
+      <webElementGuid>fdc87a95-1073-41b5-b128-8603f110a51d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;closeSpecialFirstTimer&quot;)/img[1]</value>
+      <webElementGuid>ec90e847-eba3-4697-8251-41bc61e4986b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='closeSpecialFirstTimer']/img</value>
+      <webElementGuid>fa4ceaeb-cfd8-4733-a07a-2986eaeaf095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>b39ba3a5-fa20-4721-a3a9-66e859e4fddf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/Subscription/close.svg']</value>
+      <webElementGuid>0458dcd7-3a90-445a-b211-6c5ed5fa93a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

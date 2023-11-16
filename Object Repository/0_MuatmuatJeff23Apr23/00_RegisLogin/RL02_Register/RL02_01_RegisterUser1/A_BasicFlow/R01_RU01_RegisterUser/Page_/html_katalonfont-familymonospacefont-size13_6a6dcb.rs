@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>html_katalonfont-familymonospacefont-size13_6a6dcb</name>
+   <tag></tag>
+   <elementGuidId>2292807b-a62d-45e3-95bd-1ab00be1dde7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>html</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>html</value>
+      <webElementGuid>c7bef7f8-24b4-4826-98c9-8215fb9503d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}{&quot;Message&quot;:{&quot;Code&quot;:200,&quot;Text&quot;:&quot;OK (\uc131\uacf5)&quot;},&quot;Data&quot;:{&quot;Pin&quot;:&quot;834856&quot;,&quot;Created&quot;:&quot;2023-08-29 17:38:47&quot;},&quot;Type&quot;:&quot;TAN_Backdoor_OTP&quot;}</value>
+      <webElementGuid>0179443b-d6b6-4dd8-9ef7-f9bb8a708b7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]</value>
+      <webElementGuid>fd2897cf-6227-4235-9cbf-07cbafdd3905</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//html</value>
+      <webElementGuid>1b8965ea-6f2b-4248-a06c-62104331b5ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//html[(text() = '#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}{&quot;Message&quot;:{&quot;Code&quot;:200,&quot;Text&quot;:&quot;OK (\uc131\uacf5)&quot;},&quot;Data&quot;:{&quot;Pin&quot;:&quot;834856&quot;,&quot;Created&quot;:&quot;2023-08-29 17:38:47&quot;},&quot;Type&quot;:&quot;TAN_Backdoor_OTP&quot;}' or . = '#katalon{font-family:monospace;font-size:13px;background-color:rgba(0,0,0,.7);position:fixed;top:0;left:0;right:0;display:block;z-index:999999999;line-height: normal} #katalon div{padding:0;margin:0;color:#fff;} #katalon kbd{display:inline-block;padding:3px 5px;font:13px Consolas,&quot;Liberation Mono&quot;,Menlo,Courier,monospace;line-height:10px;color:#555;vertical-align:middle;background-color:#fcfcfc;border:1px solid #ccc;border-bottom-color:#bbb;border-radius:3px;box-shadow:inset 0 -1px 0 #bbb;font-weight: bold} div#katalon-spy_elementInfoDiv {color: lightblue; padding: 0px 5px 5px} div#katalon-spy_instructionDiv {padding: 5px 5px 2.5px}{&quot;Message&quot;:{&quot;Code&quot;:200,&quot;Text&quot;:&quot;OK (\uc131\uacf5)&quot;},&quot;Data&quot;:{&quot;Pin&quot;:&quot;834856&quot;,&quot;Created&quot;:&quot;2023-08-29 17:38:47&quot;},&quot;Type&quot;:&quot;TAN_Backdoor_OTP&quot;}')]</value>
+      <webElementGuid>f71811cc-ed61-4498-8fd6-8fdf03d77659</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

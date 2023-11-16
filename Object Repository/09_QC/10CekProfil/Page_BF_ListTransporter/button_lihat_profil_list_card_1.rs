@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_lihat_profil_list_card_1</name>
+   <tag></tag>
+   <elementGuidId>da7c7dac-cd72-45f3-831d-197c051aacdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[18]/div[2]/div[2]/div[7]/div/div/div[2]/div[5]/div/div[1]/a/button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[18]/div[2]/div[2]/div[7]/div/div/div[2]/div[5]/div/div[1]/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Profil</value>
+      <webElementGuid>1b2b0c5a-5157-4401-bf7b-2d48afa8faad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>36175ced-e85f-48b7-8c88-2987f2ff7bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnRegister</value>
+      <webElementGuid>be076b56-a4c8-4641-a77a-2dbb6aaff76b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[18]/div[2]/div[2]/div[7]/div/div/div[2]/div[5]/div/div[1]/a/button</value>
+      <webElementGuid>364d4202-5908-40ef-93b6-9697e867b67d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

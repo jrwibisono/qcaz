@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tanpa Realisasi</name>
+   <tag></tag>
+   <elementGuidId>2fbdf95f-9c52-447e-aa5a-670656a88eca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Urutkan']/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f214325e-9f93-4c95-8204-fff82ded352a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn dropdown-item layouting-oe list-oe ff-medium-az</value>
+      <webElementGuid>c5769141-061c-491c-a7c8-3ff002ef67fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1d2d9211-e953-4792-aa8d-9622da6a6ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tanpa Realisasi</value>
+      <webElementGuid>025b1f18-86ae-4072-af2d-6de4ca85e3c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page-container&quot;]/div[@class=&quot;order-entry-page-container&quot;]/div[2]/div[@class=&quot;d-flex justify-content-between headerPreviewProfile&quot;]/div[2]/div[@class=&quot;pagination-option-sort-group&quot;]/div[@class=&quot;dropdown show&quot;]/div[@id=&quot;Urutkan&quot;]/a[@class=&quot;btn dropdown-item layouting-oe list-oe ff-medium-az&quot;]</value>
+      <webElementGuid>ffc2595d-5fdb-484e-a379-550938364cd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Urutkan']/a[2]</value>
+      <webElementGuid>eeae5194-b038-40b3-913e-c16c411d5adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tanpa Realisasi')]</value>
+      <webElementGuid>dd5a5146-4577-4b0d-9aa4-8034dfc2fcfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dengan Realisasi'])[2]/following::a[1]</value>
+      <webElementGuid>4fafa023-8126-4533-9399-3c040443e2d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dengan Realisasi'])[1]/following::a[2]</value>
+      <webElementGuid>7c593dec-9344-4fc4-b1ed-3ae2e2de85b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Realisasi'])[1]/preceding::a[1]</value>
+      <webElementGuid>8fa74551-47a3-471b-8ca0-ef1c109c009a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Urutkan'])[1]/preceding::a[2]</value>
+      <webElementGuid>c29bb059-f03c-45d5-9e85-2816a6c2015a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tanpa Realisasi']/parent::*</value>
+      <webElementGuid>ee5d046f-49f9-4834-806a-5e75a4528758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/a[2]</value>
+      <webElementGuid>94eae3fd-1303-4dac-ad36-351041fe343f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Tanpa Realisasi' or . = 'Tanpa Realisasi')]</value>
+      <webElementGuid>b69845f3-b2e2-49bd-8529-d300c0f09358</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

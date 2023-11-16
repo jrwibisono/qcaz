@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Terapkan</name>
+   <tag></tag>
+   <elementGuidId>814c462d-b698-4829-8d26-6aa1d1f8f05e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-primary.d-flex.justify-content-center.align-items-center.ff-demi.filter-terapkan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd286b66-60b3-42ae-a410-11c31a6365d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary d-flex justify-content-center align-items-center ff-demi filter-terapkan</value>
+      <webElementGuid>247234b7-8c83-4e4b-9849-27c68b678b1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terapkan</value>
+      <webElementGuid>379cf505-5099-4d68-b542-98eeace4b0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;bg-menu-big&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;big-filter-parent w-100&quot;]/div[@class=&quot;w-100 d-flex flex-row big-filter&quot;]/div[@class=&quot;h-100 bg-white&quot;]/div[@class=&quot;bg-white w-100 d-flex justify-content-center align-items-center&quot;]/div[@class=&quot;btn-primary d-flex justify-content-center align-items-center ff-demi filter-terapkan&quot;]</value>
+      <webElementGuid>989a02f6-8cf5-4db0-9f7a-60f9384a0f84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::div[1]</value>
+      <webElementGuid>51d40234-ce09-4ca3-9a64-8567360fdb4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembayaran Kedaluwarsa'])[1]/following::div[3]</value>
+      <webElementGuid>3109f8f6-f222-4280-a466-167c4dc4ee73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk Lainnya'])[1]/preceding::div[1]</value>
+      <webElementGuid>ae298112-0364-458c-9105-f885d83fc3e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transportation Store'])[2]/preceding::div[2]</value>
+      <webElementGuid>87b1181e-6dc8-437a-8657-a25cf6438363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terapkan']/parent::*</value>
+      <webElementGuid>9d4fa154-d997-490a-b33c-d39aa7b8c252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>4876fa5c-783b-4487-8c62-7ca993ea9d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Terapkan' or . = 'Terapkan')]</value>
+      <webElementGuid>119793fc-4d38-447f-a78d-86c402fe29ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

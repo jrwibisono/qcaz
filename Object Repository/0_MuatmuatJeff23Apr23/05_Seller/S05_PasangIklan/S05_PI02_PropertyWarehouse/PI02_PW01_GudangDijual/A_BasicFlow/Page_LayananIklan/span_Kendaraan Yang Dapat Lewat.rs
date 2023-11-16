@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kendaraan Yang Dapat Lewat</name>
+   <tag></tag>
+   <elementGuidId>4ebb2c4a-d689-4978-8c91-62e7f478bd18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-selection__placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-et0a-container']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4324ac0e-d677-4ac3-9e7f-005be11f5b2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__placeholder</value>
+      <webElementGuid>b78cd625-7308-44a5-b0b8-7d936baa069c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kendaraan Yang Dapat Lewat</value>
+      <webElementGuid>02d73944-7dbd-4fd0-9126-aca45fb08063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-et0a-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
+      <webElementGuid>5570a689-fbac-44c4-a196-09c97ebb8f84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='select2-et0a-container']/span</value>
+      <webElementGuid>b78adfd3-26ad-4373-bc8b-f36e4810f923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::span[5]</value>
+      <webElementGuid>665a9036-0942-4eb9-9075-b87739896217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kendaraan Yang Dapat Lewat Lainnya'])[1]/preceding::span[3]</value>
+      <webElementGuid>275f8fb9-31e9-4ef8-945f-806884ab1969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span/span</value>
+      <webElementGuid>2ca5f07b-3c5a-40ad-8370-eb06684f0e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kendaraan Yang Dapat Lewat' or . = 'Kendaraan Yang Dapat Lewat')]</value>
+      <webElementGuid>b70472a0-7e81-430a-a2e2-0f159a56226e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

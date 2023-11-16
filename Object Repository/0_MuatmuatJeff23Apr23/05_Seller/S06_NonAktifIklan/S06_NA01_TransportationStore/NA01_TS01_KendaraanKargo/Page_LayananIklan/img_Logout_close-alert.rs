@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Logout_close-alert</name>
+   <tag></tag>
+   <elementGuidId>60f428e6-fd3a-4f55-9f0b-4103733894d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.close-alert</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>db672510-7e81-4039-b9e5-06cfa79b3de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>close-alert</value>
+      <webElementGuid>fdb15a81-ebe6-411f-9b1d-a1336353bfc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/icon/alert_header_close.svg</value>
+      <webElementGuid>ae3a1f49-1b7d-4f57-9fa4-76b47692a336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;bg-menu-big&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;alertfe&quot;]/div[@class=&quot;alert-custom&quot;]/div[@class=&quot;body-alert&quot;]/div[@class=&quot;header&quot;]/img[@class=&quot;close-alert&quot;]</value>
+      <webElementGuid>13f86a8a-1ea0-4433-a6dd-db0b28596ec3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[4]</value>
+      <webElementGuid>d4fdb5ed-a614-4cb7-9b24-2449366d8b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/icon/alert_header_close.svg']</value>
+      <webElementGuid>355744e7-2657-49b1-8e58-570ae55a1b25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

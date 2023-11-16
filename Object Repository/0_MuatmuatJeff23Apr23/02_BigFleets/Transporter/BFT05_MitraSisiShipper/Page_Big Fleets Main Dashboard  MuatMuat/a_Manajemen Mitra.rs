@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manajemen Mitra</name>
+   <tag></tag>
+   <elementGuidId>eb05d748-7148-4b60-af6c-89e5f13ff52e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ManajemenMitra > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='ManajemenMitra']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>214531ea-8fd0-465a-9ae9-492cd602db58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://bf.azlogistik.id/mitra/menuMitra</value>
+      <webElementGuid>85baeb6a-b837-44a2-b4fd-caa52758b921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manajemen Mitra</value>
+      <webElementGuid>c3a2ebaf-3e50-4524-8e2b-a44bb16d35f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ManajemenMitra&quot;)/a[1]</value>
+      <webElementGuid>19c28b06-67e9-464d-90a6-2720e9ab3b23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='ManajemenMitra']/a</value>
+      <webElementGuid>c22895df-9dc1-455c-9d3c-1a901d3fbd04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Manajemen Mitra')]</value>
+      <webElementGuid>d40b5cf5-82a0-4b71-947e-5f27b7e70259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipper'])[1]/following::a[1]</value>
+      <webElementGuid>6238b8af-2242-40e4-a095-1173761c31de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription'])[1]/following::a[2]</value>
+      <webElementGuid>41cb3276-4ba0-4318-a996-b5cab0ef146c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak Harga'])[1]/preceding::a[1]</value>
+      <webElementGuid>f7f6e8b6-54ba-4fad-aa82-4c17a25a21a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak dan Penawaran'])[1]/preceding::a[2]</value>
+      <webElementGuid>33f6d190-5dc2-4a26-9d0f-41289befb00f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manajemen Mitra']/parent::*</value>
+      <webElementGuid>2a1d7012-5e66-4c34-ba3a-85737ccaea7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/mitra/menuMitra')]</value>
+      <webElementGuid>6eb25d80-514f-4f5d-8b60-689c1d943667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a</value>
+      <webElementGuid>72eaf7da-4004-45d8-bee3-2fc314c28105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://bf.azlogistik.id/mitra/menuMitra' and (text() = 'Manajemen Mitra' or . = 'Manajemen Mitra')]</value>
+      <webElementGuid>ed300544-b02a-4852-baaa-3ff2cbbfba47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

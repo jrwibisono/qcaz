@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilih carrier</name>
+   <tag></tag>
+   <elementGuidId>27acaf9d-d8de-4d0e-b3c2-ea514a206626</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-selection__placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-jenis-carrier-rute-0-container']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fce3d4cf-048d-4c31-854e-991e026da60f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__placeholder</value>
+      <webElementGuid>9a3568ce-b9d5-459d-8f34-0df5cda880f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih carrier</value>
+      <webElementGuid>32658bd9-75c0-48be-8645-f47d6cf10914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-jenis-carrier-rute-0-container&quot;)/span[@class=&quot;select2-selection__placeholder&quot;]</value>
+      <webElementGuid>f96245a5-2cb8-44b3-adde-89132106c7a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='select2-jenis-carrier-rute-0-container']/span</value>
+      <webElementGuid>749f247b-0854-4255-a1d4-ee559e91dee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colt Diesel Engkel'])[4]/following::span[7]</value>
+      <webElementGuid>c64e88d7-52cb-46cf-a1b2-20874bbd7f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota Prabumulih'])[1]/following::span[11]</value>
+      <webElementGuid>f6620276-602b-426f-b616-6d24516dff11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit'])[3]/preceding::span[3]</value>
+      <webElementGuid>75dddf57-5957-49e4-8ea9-6fb1386cee2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/preceding::span[5]</value>
+      <webElementGuid>6db6a53d-dee8-4c15-b791-a66f318de188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih carrier']/parent::*</value>
+      <webElementGuid>7f3a9401-26e3-4a13-bdfd-37e015600271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span/span</value>
+      <webElementGuid>13adeae1-08c3-47f9-81a1-bb324eb224d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pilih carrier' or . = 'Pilih carrier')]</value>
+      <webElementGuid>c332f488-44cb-4c47-b223-5f679ac147cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

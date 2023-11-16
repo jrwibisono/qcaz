@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS05_SRTC000_ListRigidTruckCarrier</name>
+   <tag></tag>
+   <comment></comment>
+<<<<<<< HEAD
+   <testCaseGuid>39bc3abf-4a6d-42ca-b312-72aefa5b2bc9</testCaseGuid>
+=======
+   <testCaseGuid>ad037c02-8795-4aa6-9e45-db4bb56c5a86</testCaseGuid>
+>>>>>>> 93b01fe0d3fef5cf8149356bf70bcd7d404a7c7a
+</TestCaseEntity>

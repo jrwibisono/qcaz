@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>UploadFotoKK</name>
+   <tag></tag>
+   <elementGuidId>b278f067-439d-4424-8b75-4b9dfc314e26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;PasangIklanForm&quot;]/div[11]/div/div[2]/div/div[1]/input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[11]/div/div[2]/div/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[11]/div/div[2]/div/div[1]/input</value>
+      <webElementGuid>6ac3a824-d540-40c1-b497-f0c23bdbbdaa</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

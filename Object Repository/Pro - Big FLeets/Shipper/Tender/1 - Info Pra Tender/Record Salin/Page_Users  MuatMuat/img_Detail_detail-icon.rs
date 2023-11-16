@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Detail_detail-icon</name>
+   <tag></tag>
+   <elementGuidId>56d7b065-8ecd-4827-ae79-46a02baf2b41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dropdownmenu99 > img.detail-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='dropdownmenu99']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9c7ae528-77d6-4be7-ac9a-832ccc33d9d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>detail-icon</value>
+      <webElementGuid>b29a1ae3-5431-423e-9ce4-f1476346c18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/svg/titik 3.svg</value>
+      <webElementGuid>2197455d-d66b-4f6e-815b-9ffd92ca8c80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdownmenu99&quot;)/img[@class=&quot;detail-icon&quot;]</value>
+      <webElementGuid>3393680c-a13d-448f-88bb-14b1b9c88c2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='dropdownmenu99']/img</value>
+      <webElementGuid>c886d2f1-9516-4aab-bd36-215796c77022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div/div/div/button/img</value>
+      <webElementGuid>c3d75374-7b45-45ba-a912-4a5d735a4d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/svg/titik 3.svg']</value>
+      <webElementGuid>ae846e36-9d6a-4822-b600-c2a7336c2add</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

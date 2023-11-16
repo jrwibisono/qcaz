@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Kecamatan_custom-checkbox kecamatan-c_f2104f</name>
+   <tag></tag>
+   <elementGuidId>3d15f187-dc1e-4a01-a17a-c567e87a91a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Semua Kecamatan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.custom-checkbox.kecamatan-checkbox.kecamatan-checkbox-all.fi-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>04a4901b-4765-422a-b7f4-a45eb8c6c90f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox kecamatan-checkbox kecamatan-checkbox-all fi-checkbox</value>
+      <webElementGuid>5032634a-101c-4280-b8bc-9e6af78d2b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>pickup</value>
+      <webElementGuid>29c7a39d-7550-4b5b-97c3-1f96698001c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>81324ffa-ea3a-4b37-89eb-11bd79196e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Semua Kecamatan</value>
+      <webElementGuid>377984f1-409d-4f93-9bff-034ad8be05a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-kecamatan&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body d-flex flex-column&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/input[@class=&quot;custom-checkbox kecamatan-checkbox kecamatan-checkbox-all fi-checkbox&quot;]</value>
+      <webElementGuid>b15c2564-b7d5-4213-bc51-5ad291225e4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Semua Kecamatan']</value>
+      <webElementGuid>f9ff1574-149a-404b-9b56-08e281e30049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-kecamatan']/div/div/div[3]/div/div/input</value>
+      <webElementGuid>3c7f34d1-726b-4ba2-9242-449f8faefa2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div[3]/div/div/input</value>
+      <webElementGuid>592bf9de-a977-4b56-96d6-da44be42d065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>a1bd6ad6-f820-4539-9593-3a9456ac6bab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

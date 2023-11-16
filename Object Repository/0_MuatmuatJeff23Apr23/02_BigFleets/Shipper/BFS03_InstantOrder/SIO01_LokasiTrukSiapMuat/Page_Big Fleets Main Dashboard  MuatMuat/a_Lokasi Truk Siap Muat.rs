@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lokasi Truk Siap Muat</name>
+   <tag></tag>
+   <elementGuidId>44cfc240-b899-4878-a4dc-8d170d66316b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#LokasiTrukSiapMuat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='LokasiTrukSiapMuat']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>379841e7-a055-49fa-b5f4-8152d212ef6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>LokasiTrukSiapMuat</value>
+      <webElementGuid>6de62285-53db-4ff2-8486-007b730fd5b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://bf.azlogistik.id/bigfleets/location_ready</value>
+      <webElementGuid>841a565f-20ee-4c74-8a06-74874b3fa589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Lokasi Truk Siap Muat
+                        </value>
+      <webElementGuid>f5a49c68-3553-499e-bbd7-4a98bd1e87fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;LokasiTrukSiapMuat&quot;)</value>
+      <webElementGuid>f2c0d2d3-9326-4721-aec4-1bc5d2c3cccb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='LokasiTrukSiapMuat']</value>
+      <webElementGuid>3b64cac0-2bc3-4363-a482-29b7c57a8a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='LokasiTrukSiapMuatSidebar']/a</value>
+      <webElementGuid>894a700d-0022-404f-af24-a3c0736e4b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lokasi Truk Siap Muat')]</value>
+      <webElementGuid>2a88868a-d704-499d-a132-13c88254812c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Instant Order'])[1]/following::a[1]</value>
+      <webElementGuid>f904aaaa-be4c-4ce3-840f-37179a3702eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry'])[2]/following::a[2]</value>
+      <webElementGuid>471e2775-66f9-408e-9b22-49a012b01e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(12)'])[1]/preceding::a[1]</value>
+      <webElementGuid>b01d4c63-5a83-4376-a051-dbd42f5b447e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Permintaan Muat'])[1]/preceding::a[1]</value>
+      <webElementGuid>c51eb044-53d6-46d0-9a1d-132127e72ae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lokasi Truk Siap Muat']/parent::*</value>
+      <webElementGuid>ba64eee1-0304-4e05-aa20-45aadd154f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://bf.azlogistik.id/bigfleets/location_ready')]</value>
+      <webElementGuid>62a696a2-1052-488f-a8fe-2cc3e6b73443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/a</value>
+      <webElementGuid>132c572d-4b9a-4823-ac63-052d895ca9d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'LokasiTrukSiapMuat' and @href = 'https://bf.azlogistik.id/bigfleets/location_ready' and (text() = '
+                        Lokasi Truk Siap Muat
+                        ' or . = '
+                        Lokasi Truk Siap Muat
+                        ')]</value>
+      <webElementGuid>ddcf9992-cfe8-4bb1-8022-57901931e837</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>b5f4fb81-6c58-439a-bb0a-4af0d15909ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#closeSpecialFirstTimer > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='closeSpecialFirstTimer']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>cba838b7-f157-4889-ab13-6d3e79c90e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/Subscription/close.svg</value>
+      <webElementGuid>82dcc306-d311-45b5-aa11-6078bfcb30e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;closeSpecialFirstTimer&quot;)/img[1]</value>
+      <webElementGuid>c79e3430-1c8c-45c8-9d29-59b77100d46c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='closeSpecialFirstTimer']/img</value>
+      <webElementGuid>06e5025b-0169-414e-9873-e6e681d6d1ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>9dd784d6-60ec-4d36-8247-dbd5df35fabf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/Subscription/close.svg']</value>
+      <webElementGuid>59ee095b-e44c-4381-8530-76727b45b284</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

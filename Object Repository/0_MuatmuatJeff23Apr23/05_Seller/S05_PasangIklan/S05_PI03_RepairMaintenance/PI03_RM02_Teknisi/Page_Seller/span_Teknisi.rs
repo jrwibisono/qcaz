@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Teknisi</name>
+   <tag></tag>
+   <elementGuidId>74c0f6cd-55f8-4eff-9670-07a2b3148fc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='detail-kategori']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.fc-86.ff-demi.fs-14.lh-normal.truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6390a80e-adcb-4d71-b14f-eb7cf6a9e3ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fc-86 ff-demi fs-14 lh-normal truncate</value>
+      <webElementGuid>fc6bd0e0-9119-409d-a10a-11eeb792d546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Teknisi</value>
+      <webElementGuid>63218350-9eae-4d93-b475-8e70bb33280b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;detail-kategori&quot;)/a[@class=&quot;btn-bar sidebar-widget d-flex align-items-center justify-content-between&quot;]/span[@class=&quot;fc-86 ff-demi fs-14 lh-normal truncate&quot;]</value>
+      <webElementGuid>b9dd2ca3-34a4-40cd-aaf4-7de9857f05e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='detail-kategori']/a/span</value>
+      <webElementGuid>09d76a28-0ae1-4a34-b086-1582c8420509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Iklan Anda di Kategori'])[1]/following::span[1]</value>
+      <webElementGuid>9ffcb9e9-f308-443c-8168-3130f7dcd365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bengkel'])[1]/preceding::span[1]</value>
+      <webElementGuid>f1ba1b07-fec4-405c-82c2-c992ed5ad11b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perusahaan Lainnya'])[1]/preceding::span[2]</value>
+      <webElementGuid>8794daaa-65f9-48d1-909d-93e0ac45db7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Teknisi']/parent::*</value>
+      <webElementGuid>8492bede-37ad-4972-aa98-2ca007126155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>84febbf7-5b1a-4d6c-8e11-0d4514abdd4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Teknisi' or . = 'Teknisi')]</value>
+      <webElementGuid>db4c5498-b5fb-46e4-90c5-416aaa9e97ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

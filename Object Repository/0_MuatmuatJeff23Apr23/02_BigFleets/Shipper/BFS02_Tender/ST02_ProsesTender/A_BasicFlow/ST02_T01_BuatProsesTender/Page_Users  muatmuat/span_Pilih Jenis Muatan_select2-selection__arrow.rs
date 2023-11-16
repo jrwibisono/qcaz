@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pilih Jenis Muatan_select2-selection__arrow</name>
+   <tag></tag>
+   <elementGuidId>8d994844-704f-4a06-9b60-341d61c27c4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-frontend']/div/div[2]/div[2]/div/div[3]/span[2]/span/span/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--below.select2-container--open.select2-container--focus > span.selection > span.select2-selection.select2-selection--single > span.select2-selection__arrow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b245cb86-e382-4dfb-8b88-b00d3f16750d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__arrow</value>
+      <webElementGuid>9d179c92-0dca-4118-ab7f-00bd65b587f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>3c8ed88f-f419-45b0-b7d4-2f2afa1422bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-frontend&quot;)/div[@class=&quot;container px-0&quot;]/div[@class=&quot;card card-pratender mt-24&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row text-icon-center text-icon-center&quot;]/div[@class=&quot;col text-label d-flex text-icon-center&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]</value>
+      <webElementGuid>a6dd2e05-cc21-4ccd-8bd3-53b120845f1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-frontend']/div/div[2]/div[2]/div/div[3]/span[2]/span/span/span[2]</value>
+      <webElementGuid>a159a978-7b80-4ba8-b2ae-19b0e96b711d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Muatan'])[2]/following::span[1]</value>
+      <webElementGuid>9ea9fb6a-92b2-440d-b4b1-9be03a5d6265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Muatan*'])[1]/following::span[6]</value>
+      <webElementGuid>c6e209f7-e077-48a8-91d3-7d3b70084c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(opsional)'])[2]/preceding::span[2]</value>
+      <webElementGuid>54e960e9-75af-44ba-ba70-f732504c4770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span/span[2]</value>
+      <webElementGuid>ef0c910e-7a3c-4eb7-8eb0-12e141c8453f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

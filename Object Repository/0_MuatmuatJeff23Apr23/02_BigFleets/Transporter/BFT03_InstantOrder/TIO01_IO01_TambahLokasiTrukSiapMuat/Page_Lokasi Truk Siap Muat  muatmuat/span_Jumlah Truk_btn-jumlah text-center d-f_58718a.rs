@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Jumlah Truk_btn-jumlah text-center d-f_58718a</name>
+   <tag></tag>
+   <elementGuidId>ae61fb57-617f-45c2-ba95-cb5cf8239859</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-frontend']/div/div/div/div/div[2]/div/div[11]/div[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c35e1f2a-b2d3-4d09-9b36-4324242d8526</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-jumlah text-center d-flex align-items-center justify-content-center</value>
+      <webElementGuid>90ca3fe8-e4fd-4565-acb9-5f3e5ef9d48a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>plus</value>
+      <webElementGuid>63c13c77-0c2b-4b1d-8181-fda729c13ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-frontend&quot;)/div[@class=&quot;container px-5&quot;]/div[@class=&quot;d-flex  mb-3&quot;]/div[1]/div[1]/div[@class=&quot;card card-container&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;ml-44 pr-0 justify-content-start d-flex&quot;]/span[@class=&quot;btn-jumlah text-center d-flex align-items-center justify-content-center&quot;]</value>
+      <webElementGuid>8952a526-65b3-41ae-a5c7-82197fcc5345</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-frontend']/div/div/div/div/div[2]/div/div[11]/div[2]/span[2]</value>
+      <webElementGuid>ccd58106-4867-4af4-b35e-1f427751db17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Truk'])[1]/following::span[2]</value>
+      <webElementGuid>b39f0c0c-ab6a-4b46-a96e-b992c561571e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='m'])[1]/following::span[2]</value>
+      <webElementGuid>26c0b7d4-e930-4a5f-9a1d-8d188f049158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Siap Muat'])[1]/preceding::span[1]</value>
+      <webElementGuid>67292c93-5607-48c4-8ae1-27c404e7b91c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]/span[2]</value>
+      <webElementGuid>20011900-1b93-454e-8e71-5093752129dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

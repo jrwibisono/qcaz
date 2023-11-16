@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Shipper</name>
+   <tag></tag>
+   <elementGuidId>d86a9341-b673-457c-b75f-6e7d676ef9a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;shipperDiv&quot;]/div/div[2]/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.justify-content-center.ff-demi-az.fc-1b-az.fs-16-az.card-text.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e441eb6b-5c80-412d-bb54-c404f9876c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row justify-content-center ff-demi-az fc-1b-az fs-16-az card-text text-center</value>
+      <webElementGuid>d9332146-4c46-467c-b083-7d64e122fbfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Shipper
+                                </value>
+      <webElementGuid>2ccc8bec-7ed5-405a-9f85-55086013716f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shipperDiv&quot;)/div[@class=&quot;card-menu&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row justify-content-center ff-demi-az fc-1b-az fs-16-az card-text text-center&quot;]</value>
+      <webElementGuid>902d2181-11d4-4955-8d47-d8172a544ec7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shipperDiv']/div/div[2]/div</value>
+      <webElementGuid>2dd6b61f-8bd0-4822-9426-2573939d011d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda ingin Masuk Sebagai'])[1]/following::div[6]</value>
+      <webElementGuid>4f003606-d721-4c49-9b5e-776ed60bb48a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bergabung Sekarang'])[2]/following::div[8]</value>
+      <webElementGuid>f0abda6b-9f2f-4ee5-9ccd-822279c15664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shipper']/parent::*</value>
+      <webElementGuid>06e225e5-556d-4eda-b37e-8343a75954b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>a7ca1784-ddd8-4e9f-973c-266a86e6307f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                    Shipper
+                                ' or . = '
+                                    Shipper
+                                ')]</value>
+      <webElementGuid>53e14b52-16ec-40c8-b853-1e2b1f684557</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

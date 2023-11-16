@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih File</name>
+   <tag></tag>
+   <elementGuidId>4f4ef704-8356-41e7-aace-a1ce9a1ac644</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[1]/div[2]/div[2]/div[21]/div/div[3]/input[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-primary.btn-flex.w-100.ff-demi.uploadFile.DocumentOnly</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2c564e62-d53e-48a1-b0ea-2bb1797edb2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-primary btn-flex w-100 ff-demi uploadFile DocumentOnly</value>
+      <webElementGuid>76fbe837-7c2a-422d-a30e-865ea469c032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hitung</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>522d2db1-5e43-4ed6-92f9-c5b1248eb23d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih File</value>
+      <webElementGuid>1a27d92c-90e8-4661-8534-eec1a8e48378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;w-100 FileUpload&quot;]/div[@class=&quot;mt-8&quot;]/button[@class=&quot;btn-primary btn-flex w-100 ff-demi uploadFile DocumentOnly&quot;]</value>
+      <webElementGuid>bbc5edd7-cfee-45b3-9ccc-7a1a2615cae5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PasangIklanForm']/div[21]/div/div[3]/button</value>
+      <webElementGuid>a78d4614-b838-4d83-bcb5-8579855e53b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[17]/following::button[1]</value>
+      <webElementGuid>68b100d4-ebe6-434f-ac86-16909c2d6f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[18]/preceding::button[1]</value>
+      <webElementGuid>3c24062a-cc2d-4154-b540-c7eeccc15483</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih File']/parent::*</value>
+      <webElementGuid>1822cab5-050d-4272-8ec6-337dc2e56638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>0fe91cb7-04a7-4040-9142-f59e215653fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pilih File' or . = 'Pilih File')]</value>
+      <webElementGuid>2c2d9ff1-b3ee-406c-9293-3ed11b98ea88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
