@@ -19,4 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Property and Warehouse/Button Wishlist'), 0)
 
+if (Mobile.verifyElementExist(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Text Detail'), GlobalVariable.Timeout, FailureHandling.OPTIONAL)) {
+	Mobile.pressBack()
+	Mobile.tap(findTestObject('Object Repository/Muatmuat - Apps/Shipper/Buyer/Property and Warehouse/Button Wishlist Index 2'), 0)
+}
+
 Mobile.callTestCase(findTestCase('Test Cases/Muatmuat - Apps/Shipper/Buyer/Global/Popup User 0'), [:])
