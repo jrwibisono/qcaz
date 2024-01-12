@@ -171,49 +171,49 @@ WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Man
 shipperPic1 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picShipper1'))
 
 if (shipperPic1 == isi_shipperPic1) {
-    hasilCekPICShipper.add('PIC 1 Shipper Berubah!')
+    hasilCekPICShipper.add('V PIC 1 Shipper Berubah!')
 } else {
-    hasilCekPICShipper.add('PIC 1 Shipper Gagal Berubah!')
+    hasilCekPICShipper.add('X PIC 1 Shipper Gagal Berubah!')
 }
 
 shipperPicNumber1 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picNoShipper1'))
 
 if (shipperPicNumber1 == isi_shipperPicNumber1) {
-    hasilCekPICShipper.add('Nomor PIC 1 Shipper Berubah!')
+    hasilCekPICShipper.add('V Nomor PIC 1 Shipper Berubah!')
 } else {
-    hasilCekPICShipper.add('Nomor PIC 1 Shipper Gagal Berubah!')
+    hasilCekPICShipper.add('X Nomor PIC 1 Shipper Gagal Berubah!')
 }
 
 shipperPic2 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picShipper2'))
 
 if (shipperPic2 == isi_shipperPic2) {
-    hasilCekPICShipper.add('PIC 2 Shipper Berubah!')
+    hasilCekPICShipper.add('V PIC 2 Shipper Berubah!')
 } else {
-    hasilCekPICShipper.add('PIC 2 Shipper Gagal Berubah!')
+    hasilCekPICShipper.add('X PIC 2 Shipper Gagal Berubah!')
 }
 
 shipperPicNumber2 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picNoShipper2'))
 
 if (shipperPicNumber2 == isi_shipperPicNumber2) {
-    hasilCekPICShipper.add('Nomor PIC 2 Shipper Berubah!')
+    hasilCekPICShipper.add('V Nomor PIC 2 Shipper Berubah!')
 } else {
-    hasilCekPICShipper.add('Nomor PIC 2 Shipper Gagal Berubah!')
+    hasilCekPICShipper.add('X Nomor PIC 2 Shipper Gagal Berubah!')
 }
 
 shipperPic3 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picShipper3'))
 
 if (shipperPic3 == isi_shipperPic3) {
-    hasilCekPICShipper.add('PIC 3 Shipper Berubah!')
+    hasilCekPICShipper.add('V PIC 3 Shipper Berubah!')
 } else {
-    hasilCekPICShipper.add('PIC 3 Shipper Gagal Berubah!')
+    hasilCekPICShipper.add('X PIC 3 Shipper Gagal Berubah!')
 }
 
 shipperPicNumber3 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picNoShipper3'))
 
 if (shipperPicNumber3 == isi_shipperPicNumber3) {
-    hasilCekPICShipper.add('Nomor PIC 3 Shipper Berubah!')
+    hasilCekPICShipper.add('V Nomor PIC 3 Shipper Berubah!')
 } else {
-    hasilCekPICShipper.add('Nomor PIC 3 Shipper Gagal Berubah!')
+    hasilCekPICShipper.add('X Nomor PIC 3 Shipper Gagal Berubah!')
 }
 
 WebUI.scrollToPosition(0, 0)
@@ -248,50 +248,52 @@ WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Man
 transporterPic1 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picTransporter1'))
 
 if (transporterPic1 == isi_transporterPic1) {
-    hasilCekPICTransporter.add('PIC 1 Transporter Berubah!')
+    hasilCekPICTransporter.add('V PIC 1 Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('PIC 1 Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X PIC 1 Transporter Gagal Berubah!')
 }
 
 transporterPicNumber1 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picNoTransporter1'))
 
 if (transporterPicNumber1 == isi_transporterPicNumber1) {
-    hasilCekPICTransporter.add('Nomor PIC 1 Transporter Berubah!')
+    hasilCekPICTransporter.add('V Nomor PIC 1 Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('Nomor PIC 1 Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X Nomor PIC 1 Transporter Gagal Berubah!')
 }
 
 transporterPic2 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picTransporter2'))
 
 if (transporterPic2 == isi_transporterPic2) {
-    hasilCekPICTransporter.add('PIC 2 Transporter Berubah!')
+    hasilCekPICTransporter.add('V PIC 2 Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('PIC 2 Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X PIC 2 Transporter Gagal Berubah!')
 }
 
 transporterPicNumber2 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picNoTransporter2'))
 
 if (transporterPicNumber2 == isi_transporterPicNumber2) {
-    hasilCekPICTransporter.add('Nomor PIC 2 Transporter Berubah!')
+    hasilCekPICTransporter.add('V Nomor PIC 2 Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('Nomor PIC 2 Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X Nomor PIC 2 Transporter Gagal Berubah!')
 }
 
 transporterPic3 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picTransporter3'))
 
 if (transporterPic3 == isi_transporterPic3) {
-    hasilCekPICTransporter.add('PIC 3 Transporter Berubah!')
+    hasilCekPICTransporter.add('V PIC 3 Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('PIC 3 Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X PIC 3 Transporter Gagal Berubah!')
 }
 
 transporterPicNumber3 = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_picNoTransporter3'))
 
 if (transporterPicNumber3 == isi_transporterPicNumber3) {
-    hasilCekPICTransporter.add('Nomor PIC 3 Transporter Berubah!')
+    hasilCekPICTransporter.add('V Nomor PIC 3 Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('Nomor PIC 3 Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X Nomor PIC 3 Transporter Gagal Berubah!')
 }
+
+WebUI.scrollToPosition(0, 0)
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_ubahDataProfilPerusahaan'))
 
@@ -381,9 +383,9 @@ last_unit_armada = last_unit_armada.replace(' unit', '')
 last_unit_armada = last_unit_armada.replace(' Unit', '')
 
 if (last_unit_armada == input_unit_armada) {
-    hasilCekArmadaProfil.add('Unit Armada Profil Berhasil Ubah!')
+    hasilCekArmadaProfil.add('V Unit Armada Profil Berhasil Ubah!')
 } else {
-    hasilCekArmadaProfil.add('Unit Armada Profil Tidak Berhasil Ubah!')
+    hasilCekArmadaProfil.add('X Unit Armada Profil Tidak Berhasil Ubah!')
 }
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_profile_preview'))
@@ -397,9 +399,9 @@ last_unit_armada_preview = last_unit_armada_preview.replace(' unit', '')
 last_unit_armada_preview = last_unit_armada_preview.replace(' Unit', '')
 
 if (last_unit_armada_preview == input_unit_armada) {
-    hasilCekArmadaProfil.add('Unit Armada Profil Preview Berhasil Ubah!')
+    hasilCekArmadaProfil.add('V Unit Armada Profil Preview Berhasil Ubah!')
 } else {
-    hasilCekArmadaProfil.add('Unit Armada Profil Preview Tidak Berhasil Ubah!')
+    hasilCekArmadaProfil.add('X Unit Armada Profil Preview Tidak Berhasil Ubah!')
 }
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/img_header_general_back_to_main'))
@@ -435,49 +437,49 @@ WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/button_hub
 transporterPic1Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic1_hubungi'))
 
 if (transporterPic1Hubungi == isi_transporterPic1) {
-    hasilCekPICTransporter.add('PIC 1 List Transporter Berubah!')
+    hasilCekPICTransporter.add('V PIC 1 List Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('PIC 1 List Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X PIC 1 List Transporter Gagal Berubah!')
 }
 
 transporterPicNumber1Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic1no_hubungi'))
 
 if (transporterPicNumber1Hubungi == isi_transporterPicNumber1) {
-    hasilCekPICTransporter.add('Nomor PIC 1 List Transporter Berubah!')
+    hasilCekPICTransporter.add('V Nomor PIC 1 List Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('Nomor PIC 1 List Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X Nomor PIC 1 List Transporter Gagal Berubah!')
 }
 
 transporterPic2Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic2_hubungi'))
 
 if (transporterPic2Hubungi == isi_transporterPic2) {
-    hasilCekPICTransporter.add('PIC 2 List Transporter Berubah!')
+    hasilCekPICTransporter.add('V PIC 2 List Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('PIC 2 List Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X PIC 2 List Transporter Gagal Berubah!')
 }
 
 transporterPicNumber2Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic2no_hubungi'))
 
 if (transporterPicNumber2Hubungi == isi_transporterPicNumber2) {
-    hasilCekPICTransporter.add('Nomor PIC 2 List Transporter Berubah!')
+    hasilCekPICTransporter.add('V Nomor PIC 2 List Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('Nomor PIC 2 List Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X Nomor PIC 2 List Transporter Gagal Berubah!')
 }
 
 transporterPic3Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic3_hubungi'))
 
 if (transporterPic3Hubungi == isi_transporterPic3) {
-    hasilCekPICTransporter.add('PIC 3 List Transporter Berubah!')
+    hasilCekPICTransporter.add('V PIC 3 List Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('PIC 3 List Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X PIC 3 List Transporter Gagal Berubah!')
 }
 
 transporterPicNumber3Hubungi = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/div_transporter_pic3no_hubungi'))
 
 if (transporterPicNumber3Hubungi == isi_transporterPicNumber3) {
-    hasilCekPICTransporter.add('Nomor PIC 3 List Transporter Berubah!')
+    hasilCekPICTransporter.add('V Nomor PIC 3 List Transporter Berubah!')
 } else {
-    hasilCekPICTransporter.add('Nomor PIC 3 List Transporter Gagal Berubah!')
+    hasilCekPICTransporter.add('X Nomor PIC 3 List Transporter Gagal Berubah!')
 }
 
 WebUI.delay(5)
@@ -495,9 +497,9 @@ last_unit_armada_sisi_lawan = last_unit_armada_sisi_lawan.replace(' unit', '')
 last_unit_armada_sisi_lawan = last_unit_armada_sisi_lawan.replace(' Unit', '')
 
 if (last_unit_armada_sisi_lawan == input_unit_armada) {
-    hasilCekArmadaProfil.add('Unit Armada Profil Sisi Lawan Berhasil Ubah!')
+    hasilCekArmadaProfil.add('V Unit Armada Profil Sisi Lawan Berhasil Ubah!')
 } else {
-    hasilCekArmadaProfil.add('Unit Armada Profil Sisi Lawan Tidak Berhasil Ubah!')
+    hasilCekArmadaProfil.add('X Unit Armada Profil Sisi Lawan Tidak Berhasil Ubah!')
 }
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile_Sisi_Lawan/div_ganti_sisi_transporter'))
@@ -560,9 +562,9 @@ last_unit_armada_preview = last_unit_armada_preview.replace(' unit', '')
 last_unit_armada_preview = last_unit_armada_preview.replace(' Unit', '')
 
 if (last_unit_armada_preview == input2_unit_armada) {
-    hasilCekArmadaProfil.add('Unit Armada Profil Preview Berhasil Ubah Dari TM!')
+    hasilCekArmadaProfil.add('V Unit Armada Profil Preview Berhasil Ubah Dari TM!')
 } else {
-    hasilCekArmadaProfil.add('Unit Armada Profil Preview Tidak Berhasil Ubah Dari TM!')
+    hasilCekArmadaProfil.add('X Unit Armada Profil Preview Tidak Berhasil Ubah Dari TM!')
 }
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_preview_armadaNama_last'))
@@ -610,19 +612,90 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_BF_ListTransporter/button_close_hubungi'))
 
-not_run: last_nama_armada_sisi_lawan = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile_Sisi_Lawan/div_armada_profil_sisi_lawan_last'))
+WebUI.click(findTestObject('09_QC/10CekProfil/Page_BF_ListTransporter/button_lihat_profil_card_1'))
 
-not_run: last_unit_armada_sisi_lawan = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile_Sisi_Lawan/div_armada_profil_sisi_lawan_unit_last'))
+//last_nama_armada_sisi_lawan = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile_Sisi_Lawan/div_armada_profil_sisi_lawan_last'))
+//
+//last_nama_armada_sisi_lawan = last_nama_armada_sisi_lawan.replace(' unit', '')
+//
+//last_nama_armada_sisi_lawan = last_nama_armada_sisi_lawan.replace(' Unit', '')
+//
+//if (last_nama_armada_sisi_lawan == input2_unit_armada) {
+//    hasilCekArmadaProfil.add('Nama Armada Profil Sisi Lawan Berhasil Ubah Dari TM!')
+//} else {
+//    hasilCekArmadaProfil.add('Nama Armada Profil Sisi Lawan Tidak Berhasil Ubah Dari TM!')
+//}
+last_unit_armada_sisi_lawan = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile_Sisi_Lawan/div_armada_profil_sisi_lawan_unit_last'))
 
-String strHasilCekPICShipper = 'Hasil Cek PIC Shipper Profil: ' + hasilCekPICShipper.join(', ')
+last_unit_armada_sisi_lawan = last_unit_armada_sisi_lawan.replace(' unit', '')
+
+last_unit_armada_sisi_lawan = last_unit_armada_sisi_lawan.replace(' Unit', '')
+
+if (last_unit_armada_sisi_lawan == input2_unit_armada) {
+    hasilCekArmadaProfil.add('V Nama Armada Profil Sisi Lawan Berhasil Ubah Dari TM!')
+} else {
+    hasilCekArmadaProfil.add('X Nama Armada Profil Sisi Lawan Tidak Berhasil Ubah Dari TM!')
+}
+
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Home  muatmuat/div_Cs Muat Tujuh'))
+
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Home  muatmuat/a_Profile'))
+
+WebUI.waitForPageLoad(60)
+
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/a_data_transporter'))
+
+WebUI.waitForPageLoad(60)
+
+last_nama_armada = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_armadaNama_last'))
+
+last_unit_armada = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_armadaJumlahUnit_last'))
+
+last_unit_armada = last_unit_armada.replace(' unit', '')
+
+last_unit_armada = last_unit_armada.replace(' Unit', '')
+
+if (last_unit_armada == input2_unit_armada) {
+    hasilCekArmadaProfil.add('V Unit Armada Profil Berhasil Ubah Dari TM!')
+} else {
+    hasilCekArmadaProfil.add('X Unit Armada Profil Tidak Berhasil Ubah Dari TM!')
+}
+
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/button_profile_preview'))
+
+last_nama_armada_preview = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_preview_armadaNama_last'))
+
+last_unit_armada_preview = WebUI.getText(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/div_preview_armadaUnit_last'))
+
+last_unit_armada_preview = last_unit_armada_preview.replace(' unit', '')
+
+last_unit_armada_preview = last_unit_armada_preview.replace(' Unit', '')
+
+if (last_unit_armada_preview == input2_unit_armada) {
+    hasilCekArmadaProfil.add('V Unit Armada Profil Preview Berhasil Ubah Dari TM!')
+} else {
+    hasilCekArmadaProfil.add('X Unit Armada Profil Preview Tidak Berhasil Ubah Dari TM!')
+}
+
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Home  muatmuat/div_Cs Muat Tujuh'))
+
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Home  muatmuat/a_Profile'))
+
+WebUI.waitForPageLoad(60)
+
+WebUI.click(findTestObject('Object Repository/09_QC/10CekProfil/Page_Profile Management  muatmuat/a_data_transporter'))
+
+WebUI.waitForPageLoad(60)
+
+String strHasilCekPICShipper = 'Hasil Cek PIC Shipper Profil: \n' + hasilCekPICShipper.join('\n')
 
 println(strHasilCekPICShipper)
 
-String strHasilCekPICTransporter = 'Hasil Cek PIC Transporter: ' + hasilCekPICTransporter.join(', ')
+String strHasilCekPICTransporter = 'Hasil Cek PIC Transporter: \n' + hasilCekPICTransporter.join('\n')
 
 println(strHasilCekPICTransporter)
 
-String strHasilCekArmadaProfil = 'Hasil Cek Armada Profil: ' + hasilCekArmadaProfil.join(', ')
+String strHasilCekArmadaProfil = 'Hasil Cek Armada Profil: \n' + hasilCekArmadaProfil.join('\n')
 
 println(strHasilCekArmadaProfil)
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL02_B_R007_Register_User0_SK_CheckBack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c11326d0-043a-465b-9030-3c9714a335be</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d422985c-9e10-42bd-bbe4-39940f4cf362</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'77788899933'</defaultValue>
+      <description></description>
+      <id>d422985c-9e10-42bd-bbe4-39940f4cf362</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+</TestCaseEntity>

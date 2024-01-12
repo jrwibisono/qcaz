@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_chat</name>
+   <tag></tag>
+   <elementGuidId>fd8c8e0e-9143-4fc6-81d6-5d8da4e10e9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/_resources/themes/muat/image/icon/svg/messages-3-tua.svg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2) > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='userMasukContainer']/div/a[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>05d4b0ed-010f-4a28-ac33-6feceeb954df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/icon/svg/messages-3-tua.svg</value>
+      <webElementGuid>d77b7a0b-c29a-40bf-8328-11e0812db2f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;header-container fixed-top&quot;]/div[@class=&quot;fixed-top main-header&quot;]/div[1]/nav[@id=&quot;userMasukContainer&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/a[2]/img[1]</value>
+      <webElementGuid>bea0c682-335b-4280-af72-96ffc187676d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='userMasukContainer']/div/a[2]/img</value>
+      <webElementGuid>8235ea34-18d6-4ba2-a729-0d271743161a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/img</value>
+      <webElementGuid>ffd136fd-a9c1-42e4-8ee4-289f32aa9b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/icon/svg/messages-3-tua.svg']</value>
+      <webElementGuid>e8785904-65b3-4a11-8acb-c4308a480f46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

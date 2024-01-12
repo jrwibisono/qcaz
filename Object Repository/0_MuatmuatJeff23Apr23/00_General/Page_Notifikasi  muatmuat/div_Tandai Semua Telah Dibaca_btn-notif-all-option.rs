@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tandai Semua Telah Dibaca_btn-notif-all-option</name>
+   <tag></tag>
+   <elementGuidId>c27263a5-1fef-49da-b7c6-f9efae53c7c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='SingleGroupNotifBox']/div/div/div/div/</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-notif-all-option</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>082a6334-d5b1-4766-9a34-7155487fe9fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-notif-all-option</value>
+      <webElementGuid>7a71c964-e305-4b4a-9664-28dd2a96a698</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SingleGroupNotifBox&quot;)/div[1]/div[@class=&quot;notif-list-main-header&quot;]/div[@class=&quot;notif-list-main-header-right&quot;]/div[@class=&quot;btn-notif-all-option&quot;]</value>
+      <webElementGuid>ed551a61-00e5-4eae-9c36-f8c375b024da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SingleGroupNotifBox']/div/div/div/div</value>
+      <webElementGuid>afd795df-bf51-4ee2-9393-4b474fd2fd13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tandai Semua Telah Dibaca'])[1]/following::div[1]</value>
+      <webElementGuid>9da3c7bd-04b7-405f-8324-c1e8bca6336f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Notifikasi'])[2]/following::div[2]</value>
+      <webElementGuid>5d42de7b-4f53-4873-96eb-d44601d226e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan semua notifikasi'])[1]/preceding::div[1]</value>
+      <webElementGuid>34fe551b-05c0-4c19-aea3-b2936ef7db6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan semua yang belum dibaca'])[1]/preceding::div[2]</value>
+      <webElementGuid>40c0afa4-5eff-482a-85b6-573cda4bacaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>f39a01db-b897-4913-85ca-f9cbcf3971a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

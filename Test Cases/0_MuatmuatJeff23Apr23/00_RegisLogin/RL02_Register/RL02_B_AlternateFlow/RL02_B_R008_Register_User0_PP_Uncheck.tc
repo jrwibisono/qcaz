@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL02_B_R008_Register_User0_PP_Uncheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2840f3e3-7078-4380-b998-d01968de832f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b241c685-45af-4ba9-95e5-9e2663cdf465</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'77788899933'</defaultValue>
+      <description></description>
+      <id>b241c685-45af-4ba9-95e5-9e2663cdf465</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+</TestCaseEntity>

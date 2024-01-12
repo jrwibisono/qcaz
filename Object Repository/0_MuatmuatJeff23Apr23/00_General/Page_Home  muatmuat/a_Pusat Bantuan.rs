@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pusat Bantuan</name>
+   <tag></tag>
+   <elementGuidId>cf8472ad-6c5b-4a78-89e1-8f4ca286ea63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#NavFAQ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='NavFAQ']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5eaf0bed-ff65-4e11-b55a-8e5653078009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://rc.azlogistik.id/traffic/redirect_faq?from=gen</value>
+      <webElementGuid>60cfe1c0-dcb1-4296-a5d8-c828b857c3cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-demi-az fs-14 text-black line-height-16-8</value>
+      <webElementGuid>be79985e-376a-4b89-81a2-9c66c7ce8d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>NavFAQ</value>
+      <webElementGuid>d1a17574-d10c-4440-836a-f23518550c2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pusat Bantuan</value>
+      <webElementGuid>bb3495d0-aa72-4297-985c-9a246a1307ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;header-container fixed-top&quot;]/div[@class=&quot;fixed-top main-header&quot;]/div[1]/nav[@class=&quot;nav-menu d-lg-block&quot;]/ul[1]/li[3]/div[@class=&quot;nav-point-header-container&quot;]/a[@id=&quot;NavFAQ&quot;]</value>
+      <webElementGuid>2dd3a3cd-4976-4f67-ad12-f463ba74d950</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='NavFAQ']</value>
+      <webElementGuid>83f81b37-527e-4624-84b0-a05b9734a73c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pusat Bantuan')]</value>
+      <webElementGuid>7a0c5eeb-8edd-4d1f-b1f9-cda202dc2d76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::a[1]</value>
+      <webElementGuid>c5d0fe73-8419-40b5-bb74-1b60f394d8e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>ca586323-6af4-4f39-88b7-7c695b6f1bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::a[1]</value>
+      <webElementGuid>a869f271-3b4e-44b2-914a-db85a054bad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bergabung Bersama Kami'])[1]/preceding::a[2]</value>
+      <webElementGuid>2e268848-2386-47c7-8ce1-a52d1101ccf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pusat Bantuan']/parent::*</value>
+      <webElementGuid>809f311e-038d-40c2-9e32-02bee7004e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://rc.azlogistik.id/traffic/redirect_faq?from=gen')])[2]</value>
+      <webElementGuid>fb0988f3-22c0-4cdf-af0a-69b74d2b7cb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a</value>
+      <webElementGuid>6c896318-3602-4ec9-8c81-d5bb96e82b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://rc.azlogistik.id/traffic/redirect_faq?from=gen' and @id = 'NavFAQ' and (text() = 'Pusat Bantuan' or . = 'Pusat Bantuan')]</value>
+      <webElementGuid>2085cf44-54bd-4e0e-81d5-62b9f57ea474</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

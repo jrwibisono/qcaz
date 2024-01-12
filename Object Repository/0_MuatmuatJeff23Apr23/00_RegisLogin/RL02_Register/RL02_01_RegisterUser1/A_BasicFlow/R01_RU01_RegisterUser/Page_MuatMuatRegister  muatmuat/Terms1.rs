@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,7 +14,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[5]/div/div/div[2]/div[2]/div</value>
+         <value>//*[@id=&quot;SectionTermCondition&quot;]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

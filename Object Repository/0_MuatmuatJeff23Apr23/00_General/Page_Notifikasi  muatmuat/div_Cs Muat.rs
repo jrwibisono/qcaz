@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cs Muat</name>
+   <tag></tag>
+   <elementGuidId>917e8bf1-7c86-4454-a1d6-f85c4c8008b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.name-user-login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='userMasuk']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9fa1e7a8-7975-40a1-911c-492d397a1988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name-user-login</value>
+      <webElementGuid>47da4ffd-6162-43a5-a0c8-b9daef8668da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cs Muat ...</value>
+      <webElementGuid>c949cdee-870b-40f2-9c68-fab63365ce53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userMasuk&quot;)/div[@class=&quot;name-user-login&quot;]</value>
+      <webElementGuid>bc647d14-2a84-4a22-9550-63c7f7637884</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='userMasuk']/div</value>
+      <webElementGuid>e3f773d7-314a-4002-9fa1-9134de697ed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke Main Menu'])[1]/following::div[3]</value>
+      <webElementGuid>6b803055-9d84-4861-bceb-d45ccd5571de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seller/Partner Center'])[1]/following::div[7]</value>
+      <webElementGuid>bd59d586-d757-4a76-8765-ced1e3decc52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi'])[1]/preceding::div[1]</value>
+      <webElementGuid>93cf93a4-2476-4745-8e47-dd97ce662689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Notifikasi'])[1]/preceding::div[2]</value>
+      <webElementGuid>72246f07-d619-42ed-bd11-4f4e6031a0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cs Muat ...']/parent::*</value>
+      <webElementGuid>94c28155-19aa-4d04-8f92-7ca03ac97313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>79d1e895-f8b2-4d5d-99a4-f126623555aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cs Muat ...' or . = 'Cs Muat ...')]</value>
+      <webElementGuid>04820039-d7bf-4bf0-8378-c40ffe8e3bd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

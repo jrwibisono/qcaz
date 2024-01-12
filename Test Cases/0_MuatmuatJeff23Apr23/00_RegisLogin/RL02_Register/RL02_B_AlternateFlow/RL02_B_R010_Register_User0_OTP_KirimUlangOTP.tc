@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL02_B_R010_Register_User0_OTP_KirimUlangOTP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9fce8c5-7aad-44a6-822b-610ee9fdf48a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e13cc00b-ab80-4103-966d-0c6c0d94c9af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'77788899933'</defaultValue>
+      <description></description>
+      <id>e13cc00b-ab80-4103-966d-0c6c0d94c9af</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+</TestCaseEntity>

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[5]/div/div/div[2]/div[2]/div/div/div/ul[10]/li[5]</value>
+         <value>//*[@id=&quot;SectionTermCondition&quot;]/div/div/ul[10]/li[last()]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
