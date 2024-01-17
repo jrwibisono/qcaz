@@ -17,17 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L003_LoginBFShipper'), 
-    [:], FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.executeJavaScript('window.open();', [])
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS_Transporter/Page_Big Fleets Main Dashboard  muatmuat/a_Transporter'))
+currentWindow2 = WebUI.getWindowIndex()
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS_Transporter/Page_List Transporter  muatmuat/input_Transporter_search'), 
-    'muatmuat tujuh')
+//Switches tab #1
+WebUI.switchToWindowIndex(currentWindow2 + 1)
 
-WebUI.delay(5)
+WebUI.navigateToUrl(GlobalVariable.URLReport)
 
-not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS_Transporter/Page_List Transporter  muatmuat/span_Lihat Profil'))
+WebUI.waitForPageLoad(60)
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS_Transporter/Page_List Transporter  muatmuat/div_kebab'))
+WebUI.setText(findTestObject('8_Test/Report/report_textfield'), GlobalVariable.ReportText)
+
+WebUI.setText(findTestObject('8_Test/Report/wa_1'), '081336437133')
+
+WebUI.setText(findTestObject('8_Test/Report/wa_2'), '085174452288')
+
+WebUI.setText(findTestObject('8_Test/Report/wa_3'), '')
+
+WebUI.setText(findTestObject('8_Test/Report/wa_4'), '')
+
+WebUI.click(findTestObject('8_Test/Report/btn_submit_report'))
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.acceptAlert()
 

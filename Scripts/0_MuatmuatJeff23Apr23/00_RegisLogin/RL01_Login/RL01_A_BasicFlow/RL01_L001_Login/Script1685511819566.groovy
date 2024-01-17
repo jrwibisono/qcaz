@@ -99,3 +99,11 @@ WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_Bas
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/A_BasicFlow/RL01_L01_Login/Page_MuatMuatLogin  muatmuat/span_Masuk'))
 
+WebUI.waitForJQueryLoad(60)
+
+WebUI.waitForPageLoad(60)
+
+GlobalVariable.ReportText += (' ' + 'Login Berhasil')
+
+WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+
