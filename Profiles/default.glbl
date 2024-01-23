@@ -6,17 +6,17 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'D:\\Katalon muatmuat\\Apk\\muatmuatSellerRC_0410202301.apk'</initValue>
+      <initValue>'C:\\Users\\Dandy\\OneDrive\\Documents\\Apps\\mmShipperLIVE_1.0.29_0122202401.apk'</initValue>
       <name>Apk</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'089514566260'</initValue>
+      <initValue>'081336437133'</initValue>
       <name>EmailOrWhatsapp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Az123456789'</initValue>
+      <initValue>'87654321zA'</initValue>
       <name>Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

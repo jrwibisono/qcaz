@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>GlobalLive - BFFull</name>
+   <name>GlobalLive - User1</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
@@ -11,7 +11,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'77701002'</initValue>
+      <initValue>'085176813374'</initValue>
       <name>User</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -83,10 +83,5 @@
       <description></description>
       <initValue>''</initValue>
       <name>ReportText</name>
-   </GlobalVariableEntity>
-   <GlobalVariableEntity>
-      <description></description>
-      <initValue>true</initValue>
-      <name>Apk</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

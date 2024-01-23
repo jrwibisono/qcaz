@@ -103,7 +103,7 @@ WebUI.waitForJQueryLoad(60)
 
 WebUI.waitForPageLoad(60)
 
-GlobalVariable.ReportText += (' ' + 'Login Berhasil')
+GlobalVariable.ReportText += (' ' + 'Test Login Berhasil')
 
 WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 

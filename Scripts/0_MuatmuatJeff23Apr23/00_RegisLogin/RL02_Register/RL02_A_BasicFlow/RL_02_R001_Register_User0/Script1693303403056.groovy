@@ -18,8 +18,11 @@ import bsh.Variable as Variable
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-String noTelp = 77701038
-
+//String noTelp
+//
+//String email
+//
+//String password
 WebUI.openBrowser('')
 
 'Panggil ketika butuh whitelist'
@@ -35,7 +38,7 @@ WebUI.delay(1)
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_muatmuat Website  muatmuat/a_Bergabung Bersama Kami'))
 
 WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/inputRegisterUsername'), 
-    'Dandy Acht und Dreizig')
+    username)
 
 WebUI.delay(1)
 
@@ -45,17 +48,17 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLo
 WebUI.delay(1)
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/input_Email sudah terdaftar_inpEmail'), 
-    'dandy38@yopmail.com')
+    email)
 
 WebUI.delay(1)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/input_Email sudah terdaftar_inpPassword'), 
-    'NokjRRQ1061C/z540kKphA==')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/input_Email sudah terdaftar_inpPassword'), 
+    password)
 
 WebUI.delay(1)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/input_Email sudah terdaftar_inpKonfirmasiPassword'), 
-    'NokjRRQ1061C/z540kKphA==')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/input_Email sudah terdaftar_inpKonfirmasiPassword'), 
+    password)
 
 WebUI.delay(1)
 
@@ -103,6 +106,8 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogi
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_MuatMuatRegister  muatmuat/div_Selanjutnya'))
 
+WebUI.waitForPageLoad(60)
+
 WebUI.executeJavaScript('window.open();', [])
 
 currentWindow2 = WebUI.getWindowIndex()
@@ -112,6 +117,8 @@ WebUI.switchToWindowIndex(currentWindow2 + 1)
 
 //Cek URL CEK OTP NE
 //GlobalVariable.UrlCekOTP = ('https://rc.azlogistik.id/tan/viewotp?data=' + noTelp)
+String urlCekOtpOri = GlobalVariable.UrlCekOTP
+
 GlobalVariable.UrlCekOTP = (GlobalVariable.UrlCekOTP + noTelp)
 
 WebUI.navigateToUrl(GlobalVariable.UrlCekOTP)
@@ -141,6 +148,8 @@ not_run: WebUI.switchToWindowTitle('')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_/body_MessageCode200,TextOK (uc131uacf5),Dat_559c02'))
 
+GlobalVariable.UrlCekOTP = urlCekOtpOri
+
 WebUI.switchToWindowTitle('Verifikasi Whatsapp | muatmuat')
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Verifikasi Email  muatmuat/input_Masukkan OTP_OTPField1'), 
@@ -168,4 +177,6 @@ not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_
 not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/div_Lanjutkan'))
 
 not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/img'))
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_Home  muatmuat/button_close'))
 
