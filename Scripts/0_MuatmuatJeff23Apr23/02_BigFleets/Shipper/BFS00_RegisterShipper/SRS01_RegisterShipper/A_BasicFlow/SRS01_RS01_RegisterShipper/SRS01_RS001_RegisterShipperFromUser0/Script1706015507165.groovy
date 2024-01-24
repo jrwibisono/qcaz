@@ -18,11 +18,11 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 'Var Register'
-String username = 'Kal Tsit Acht und Funfzig'
+String username = 'Kal Tsit Nuen und Funfzig'
 
-String noTelp = '777010058'
+String noTelp = '777010059'
 
-String email = 'kaltsit58@yopmail.com'
+String email = 'kaltsit59@yopmail.com'
 
 String password = 'Az12345678'
 
@@ -68,7 +68,7 @@ WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS0
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/button_Simpan'))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/input_Nama Perusahaan_CompanyName'), 
-    'PT Kal Tsit Lima Delapan')
+    'PT Kal Tsit Lima Sembilan')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/span_Pilih badan usaha'))
 
@@ -216,4 +216,9 @@ WebUI.waitForJQueryLoad(60)
 WebUI.waitForPageLoad(60)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet Syarat Ketentuan  muatmuat/div_Jelajahi Produk Menarik Lainnya'))
+
+WebUI.waitForPageLoad(60)
+
+'Report WA'
+WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [('reportText') : 'Berhasil Daftar BF Shipper'], FailureHandling.CONTINUE_ON_FAILURE)
 

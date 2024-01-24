@@ -28,7 +28,7 @@ WebUI.navigateToUrl(GlobalVariable.URLReport)
 
 WebUI.waitForPageLoad(60)
 
-WebUI.setText(findTestObject('8_Test/Report/report_textfield'), GlobalVariable.ReportText)
+WebUI.setText(findTestObject('8_Test/Report/report_textfield'), reportText)
 
 WebUI.setText(findTestObject('8_Test/Report/wa_1'), '081336437133')
 
@@ -40,7 +40,7 @@ WebUI.setText(findTestObject('8_Test/Report/wa_4'), '')
 
 WebUI.click(findTestObject('8_Test/Report/btn_submit_report'))
 
-WebUI.waitForJQueryLoad(60)
+not_run: WebUI.waitForJQueryLoad(60)
 
-WebUI.acceptAlert()
+not_run: WebUI.acceptAlert()
 
