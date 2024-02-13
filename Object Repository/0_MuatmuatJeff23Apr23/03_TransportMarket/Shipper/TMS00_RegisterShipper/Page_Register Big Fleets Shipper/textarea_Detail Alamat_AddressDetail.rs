@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Detail Alamat_AddressDetail</name>
+   <tag></tag>
+   <elementGuidId>2a3511bd-153e-4b66-9ab1-372053455d57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@id='AddressDetail']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#AddressDetail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>d8fc288e-2d61-4c3e-9c5b-29db42472011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>AddressDetail</value>
+      <webElementGuid>e36b020c-f1c9-4de5-bfaf-b323ecca7baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-field-input filled-requirement-dataPerusahaan</value>
+      <webElementGuid>b7c5785e-1535-4fee-b0f6-5e0029d96a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>528507f7-b0b1-4f3b-a0fd-70425ce92dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan alamat lengkap dengan detail.
+Contoh:
+Nama Jalan (bila tidak ditemukan), Gedung,
+No. Rumah/Patokan, Blok/Unit</value>
+      <webElementGuid>2f3a66b5-8e50-45b4-a38c-3b8367239fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AddressDetail&quot;)</value>
+      <webElementGuid>486cf9f7-1122-47fa-b988-213fe78fadc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@id='AddressDetail']</value>
+      <webElementGuid>83bc71d0-ea74-4bf1-8be6-9bf03c07242f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fieldAddressDetail']/textarea</value>
+      <webElementGuid>5ec959c3-f3da-494c-8bf6-06804d400a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>0eab73dc-1958-42c3-96b3-9dfad5b871df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'AddressDetail' and @type = 'text' and @placeholder = 'Masukkan alamat lengkap dengan detail.
+Contoh:
+Nama Jalan (bila tidak ditemukan), Gedung,
+No. Rumah/Patokan, Blok/Unit']</value>
+      <webElementGuid>463d2037-fc1a-433e-9d5e-81008033b94d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

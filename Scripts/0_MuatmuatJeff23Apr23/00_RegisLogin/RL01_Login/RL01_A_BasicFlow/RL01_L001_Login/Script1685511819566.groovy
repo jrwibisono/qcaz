@@ -105,5 +105,5 @@ WebUI.waitForPageLoad(60)
 
 GlobalVariable.ReportText += (' ' + 'Test Login Berhasil')
 
-WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [:], FailureHandling.CONTINUE_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[2]</value>
+         <value>//*[@id=&quot;PasangIklanForm&quot;]/div[4]/div[2]/input</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>46519d25-9a5a-466c-a0f7-a43a2760dc08</webElementGuid>
+      <webElementGuid>93fb66e3-0472-45e5-ac1e-f5dd3e221d48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>FormatInteger</value>
-      <webElementGuid>cb3dd4eb-b145-49e4-bdb3-14eeed102696</webElementGuid>
+      <webElementGuid>a7ed6430-8bba-444a-84b9-6276323a3380</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>15e354ad-e924-43d1-b6bd-a061bca1bf23</webElementGuid>
+      <webElementGuid>0969bbd9-bfc4-4caa-9a71-3886fe922b0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Jarak Tempuh</value>
-      <webElementGuid>53540941-fa69-4fb9-b1ae-63bec89faa74</webElementGuid>
+      <webElementGuid>1c1dcb73-aaab-4dd1-a25d-d36069df188e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-feform_column</name>
       <type>Main</type>
       <value>JarakTempuh</value>
-      <webElementGuid>6733d755-9b6b-4736-92f9-8397048adc23</webElementGuid>
+      <webElementGuid>ea7f1f42-6c78-4dc9-b473-d423e9c574e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-alert_max_value</name>
       <type>Main</type>
       <value>Jarak tempuh melebihi batas ketentuan!</value>
-      <webElementGuid>aa613a0b-d755-420f-8ef8-427a77eca4a5</webElementGuid>
+      <webElementGuid>8aca9a9f-37ed-4352-bfe7-34f9217f142f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-alert_min_value</name>
       <type>Main</type>
       <value>Jarak tempuh tidak boleh dibawah ketentuan!</value>
-      <webElementGuid>4a2a9e23-a5c3-4367-b91a-62d03c53aff5</webElementGuid>
+      <webElementGuid>d69cd5d4-22cd-46a8-97bf-2e78e177690a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>data-alert_required</name>
       <type>Main</type>
       <value>Anda belum memasukkan jarak tempuh!</value>
-      <webElementGuid>c29deb02-a706-4e00-8d08-c7f1a67256d6</webElementGuid>
+      <webElementGuid>47cac5bf-67f5-4a57-9da4-035453527be6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>data-max_value</name>
       <type>Main</type>
       <value>9999999999999</value>
-      <webElementGuid>fb8cb88e-8015-4adf-8ae0-0ef0c30a2789</webElementGuid>
+      <webElementGuid>5d74a2e4-c3d7-416c-9d1e-e7489b094119</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>data-min_value</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>3a86d0c4-d87a-44ce-91d7-0d4cd2913652</webElementGuid>
+      <webElementGuid>aa4c2e3f-494b-4805-b49e-a19b7786bdda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;PasangIklanForm&quot;)/div[@class=&quot;FormComponentContainer&quot;]/div[@class=&quot;ComponentField d-flex ff-medium fs-12 component-262 component-input-border-container&quot;]/input[@class=&quot;FormatInteger&quot;]</value>
-      <webElementGuid>d1754d86-797c-48b1-b4d6-5f7116659a6d</webElementGuid>
+      <webElementGuid>6111f5df-2a02-4bc3-9d4a-32bb5ace8e4e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>91388ba3-1abf-48e1-9913-0538ceac0d8f</webElementGuid>
+      <webElementGuid>e3a724ae-a291-4d3c-b460-e47fd3a4c8d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='PasangIklanForm']/div[4]/div[2]/input</value>
-      <webElementGuid>daeeef92-09f3-42a0-86c2-abfe70804d0b</webElementGuid>
+      <webElementGuid>d379a6a6-8633-41b7-8e86-7057dbe09bf6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div[2]/input</value>
-      <webElementGuid>1d06af76-0a6f-4386-8cdc-5e841fb4fab6</webElementGuid>
+      <webElementGuid>e9007505-29ea-4cec-bbbf-dcbe105cc801</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Jarak Tempuh']</value>
-      <webElementGuid>f9f513a5-2f55-46f6-bb1d-49f632c34231</webElementGuid>
+      <webElementGuid>eb6b796b-cdcc-4855-9fba-4eb720ec7483</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

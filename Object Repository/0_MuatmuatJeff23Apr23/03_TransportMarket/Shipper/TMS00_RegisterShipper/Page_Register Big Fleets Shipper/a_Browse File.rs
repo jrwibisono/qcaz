@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Browse File</name>
+   <tag></tag>
+   <elementGuidId>fb07097f-627f-4731-a1dc-4ae681c64530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='addUpload']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#addUpload</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>31f4f9ff-3b3f-4c87-aa74-270f7bd12527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addUpload</value>
+      <webElementGuid>685a0c82-13ef-484d-83fa-ecc25ea947bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-12-az ff-demi-az fc-1b-az</value>
+      <webElementGuid>945a8624-7867-4e57-9adb-d713147c0b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>upfileFotoVideo()</value>
+      <webElementGuid>18ae1e6b-b945-45e6-bbd2-d8d42c29f15a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Browse File
+                        </value>
+      <webElementGuid>74557551-33bf-47a2-a3ef-bae214918ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addUpload&quot;)</value>
+      <webElementGuid>13738ccc-f4c3-4b3d-9df6-5e9025101804</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='addUpload']</value>
+      <webElementGuid>ecda4e31-0a16-4fa7-a85b-ad4673647f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ModalBox']/div/div/div[2]/div[6]/div[2]/a</value>
+      <webElementGuid>2dcf664e-d30e-4c7c-b40d-b26d13df3204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Browse File')]</value>
+      <webElementGuid>67d25a71-0254-47ab-b2d8-6f24226c8d5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Darurat'])[1]/following::a[1]</value>
+      <webElementGuid>44e6dfe4-fbc7-4780-b7c5-6eaba74b3342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[16]/preceding::a[1]</value>
+      <webElementGuid>e51982f3-5709-4e11-b865-21616f29f69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Browse File']/parent::*</value>
+      <webElementGuid>c22dcfde-4356-4e08-951a-9b144872ec4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/a</value>
+      <webElementGuid>1d1ea544-6d92-4529-80eb-300bb919ea56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'addUpload' and (text() = '
+                            Browse File
+                        ' or . = '
+                            Browse File
+                        ')]</value>
+      <webElementGuid>43162338-18f6-4871-b2a1-b74be66b5e4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

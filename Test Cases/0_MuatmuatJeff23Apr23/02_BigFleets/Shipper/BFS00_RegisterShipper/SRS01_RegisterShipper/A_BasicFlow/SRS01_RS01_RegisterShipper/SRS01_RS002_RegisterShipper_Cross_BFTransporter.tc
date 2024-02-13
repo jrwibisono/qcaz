@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SRS01_RS002_RegisterShipper_Cross_BFTransporter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2de54570-052e-48d9-8264-cfbc2a95020c</testCaseGuid>
+</TestCaseEntity>

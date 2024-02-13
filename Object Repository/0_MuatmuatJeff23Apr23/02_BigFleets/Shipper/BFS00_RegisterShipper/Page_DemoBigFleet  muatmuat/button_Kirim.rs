@@ -6,12 +6,12 @@
    <elementGuidId>2b8856f7-0d65-4ba5-ba1d-98bcaca89953</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btnSendKapasitasShipperBF</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;btnSendJumlahTrukBF&quot;]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='btnSendKapasitasShipperBF']</value>
+         <key>CSS</key>
+         <value>#btnSendKapasitasShipperBF</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>26ef8f30-a0e6-4364-97ea-a429e8181e90</webElementGuid>
+      <webElementGuid>c633b9e6-c6f7-4833-a4bb-b9ce2ebb5886</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>tombol-primary-az margin-remover</value>
-      <webElementGuid>cd374d4e-84f9-4774-a882-79e3448d2cb1</webElementGuid>
+      <webElementGuid>942b1ee9-87bc-410d-89a8-b2b59bf1f765</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnSendKapasitasShipperBF</value>
-      <webElementGuid>aee2f4b0-7656-4e30-bfdf-c325201dbad6</webElementGuid>
+      <webElementGuid>5dd93269-647e-4d21-b347-b912f951ec13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Kirim</value>
-      <webElementGuid>1ae75d30-2e3d-4cf5-b9fe-390ee4a5a403</webElementGuid>
+      <webElementGuid>7053bb29-94f7-4693-89b6-c1a8bb7346d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnSendKapasitasShipperBF&quot;)</value>
-      <webElementGuid>0f57db9f-f9eb-4d2b-8f9c-a660f3e8769e</webElementGuid>
+      <webElementGuid>56b0cd75-1c64-4f96-b717-d5990991121f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btnSendKapasitasShipperBF']</value>
-      <webElementGuid>58dc0e0e-f629-4f08-8d8c-e44e3576d874</webElementGuid>
+      <webElementGuid>ef120404-3e34-4dbd-8873-68ba3b955c25</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ContBtnKapasitasShipper']/button</value>
-      <webElementGuid>35dabf7d-1d4e-4bf1-80e8-6f542faff3a8</webElementGuid>
+      <webElementGuid>2549b261-346a-494e-980e-68c4efda5b89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='unit truk/hari'])[1]/following::button[1]</value>
-      <webElementGuid>4462e459-648b-4f0b-86fe-c0b89a336b53</webElementGuid>
+      <webElementGuid>de5158cf-a058-46a9-8eaa-31db3f8a7e53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke Demo Big Fleets'])[1]/preceding::button[2]</value>
-      <webElementGuid>8b9f032c-6dfa-4176-b2c9-053cf3379f21</webElementGuid>
+      <webElementGuid>4b264636-829d-4a1a-a0d0-cd45404227bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Transport Market'])[1]/preceding::button[3]</value>
-      <webElementGuid>38c05ad9-a8d6-4d78-bbf2-3ce7e509f1bd</webElementGuid>
+      <webElementGuid>c6e9cb69-ceae-49eb-bb06-c4a0f655ba79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Kirim']/parent::*</value>
-      <webElementGuid>f7deedbd-8105-4a5a-83d3-4fffccfa7042</webElementGuid>
+      <webElementGuid>ab58e0b0-237b-4870-a675-7a3234b508fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[4]/button</value>
-      <webElementGuid>e9d9f7f7-c931-44b7-a53f-994928c10635</webElementGuid>
+      <webElementGuid>d54eae30-5397-4942-95c1-8c6a16fc1033</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'btnSendKapasitasShipperBF' and (text() = 'Kirim' or . = 'Kirim')]</value>
-      <webElementGuid>ca7f664e-0f53-4043-aa9b-43983d4e4527</webElementGuid>
+      <webElementGuid>efd9e624-b3e4-4b7d-bc09-cf549ffa11e4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,23 +6,23 @@
    <elementGuidId>b01e2cfd-ff87-4a95-878c-83c2badf1b3d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/span/span/span[2]/ul/li[118]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '1990' or . = '1990')]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[@class = 'select2-results__option' and (text() = '1990' or . = '1990')]</value>
+         <key>XPATH</key>
+         <value>/html/body/span/span/span[2]/ul/li[118]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>select2-results__option</value>
-      <webElementGuid>fe67dce1-3e54-4a96-90e1-4e81b943efdf</webElementGuid>
+      <webElementGuid>28363e48-f997-400c-8645-e16f4daa1735</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,6 +30,6 @@
       <name>text</name>
       <type>Main</type>
       <value>1990</value>
-      <webElementGuid>ee476a56-6cf9-45cd-90ed-1303478f65f9</webElementGuid>
+      <webElementGuid>fc788318-1dd5-41e9-a1a9-2265352b46bd</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

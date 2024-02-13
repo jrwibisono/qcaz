@@ -6,27 +6,27 @@
    <elementGuidId>419741eb-12c5-427a-86a1-097a019bb7bd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[2]/div[1]/div/div[5]/div[2]/div[1]/div[1]/div[2]/div/div/button</value>
+         <key>BASIC</key>
+         <value>//button[(text() = 'Pasang Iklan' or . = 'Pasang Iklan')]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Pasang Iklan' or . = 'Pasang Iklan')]</value>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[1]/div/div[5]/div[2]/div[1]/div[1]/div[2]/div/div/button</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>button.fc-white.btn-primary.fs-14.text-icon-center.pasang-iklan.pasang-iklan-show.bdr-002.ff-demi</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e3030eca-63f9-4114-a774-68a08b8e19b0</webElementGuid>
+      <webElementGuid>666108b3-fa0e-4bb2-83f9-795df31bd137</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fc-white btn-primary fs-14 text-icon-center pasang-iklan pasang-iklan-show bdr-002  ff-demi</value>
-      <webElementGuid>e3039ca9-8a11-41c1-a1b3-61d441ad7e83</webElementGuid>
+      <webElementGuid>cbe815fe-0cb9-4870-8c7d-7f9cd7cb515f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>data-menuid</name>
       <type>Main</type>
       <value>688</value>
-      <webElementGuid>c97b7b61-9831-4023-a608-f72da0608ef1</webElementGuid>
+      <webElementGuid>1e1a31bc-dacb-4dc7-8f70-e40958ad4bc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,7 +50,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pasang Iklan</value>
-      <webElementGuid>2717daf6-2067-4438-9d87-234ceae8a00b</webElementGuid>
+      <webElementGuid>fddd5b2f-84c0-44f9-b301-dce4ac08c146</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;bg-menu-big&quot;]/div[@class=&quot;main&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;p-34-32 w-100 big-parent&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;w1 bdr-002 bg-f3 bdr-12 mt-24 paket-kiri bg-002&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center flex-row&quot;]/div[@class=&quot;d-flex align-items-center lh-normal&quot;]/div[@class=&quot;pasang-iklan-parent&quot;]/div[@class=&quot;pasang-iklan-button&quot;]/button[@class=&quot;fc-white btn-primary fs-14 text-icon-center pasang-iklan pasang-iklan-show bdr-002  ff-demi&quot;]</value>
-      <webElementGuid>c6a69a1f-bc3e-457d-bb96-809860a17375</webElementGuid>
+      <webElementGuid>34eb7779-6d9a-4472-ac7b-bf9c2d6f43c1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Paket'])[1]/following::button[1]</value>
-      <webElementGuid>2b86a88a-d403-4003-9bcc-96a58e5f8919</webElementGuid>
+      <webElementGuid>19bc326f-cefe-4102-824e-2c9f0e001f8f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Iklan'])[1]/preceding::button[1]</value>
-      <webElementGuid>cb2a4f02-63c7-41f6-b979-22720ac6e818</webElementGuid>
+      <webElementGuid>55a0e511-0fc4-436c-b489-a85ea83b6c81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Highlight'])[2]/preceding::button[1]</value>
-      <webElementGuid>fb28d367-0afe-49ad-8fae-20543085fa7e</webElementGuid>
+      <webElementGuid>0bdb539f-84eb-4adf-884a-ff1a7a854ccd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button</value>
-      <webElementGuid>0177f131-ed37-4a86-860e-b9249e341031</webElementGuid>
+      <webElementGuid>d19eb859-56d8-4cd4-81e7-c155e7aff76f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,6 +106,6 @@
 								
 								 Pasang Iklan
 							')]</value>
-      <webElementGuid>c5c19b6f-efc0-4202-b2a2-7251911bbd86</webElementGuid>
+      <webElementGuid>720192ec-32f8-43ff-8c47-b43b4cd398cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

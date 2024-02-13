@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jelajahi Produk Menarik Lainnya</name>
+   <tag></tag>
+   <elementGuidId>e73ddbe4-5ba8-44e5-a9f4-f2372090f958</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='btnMasuk']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnMasuk</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>644aa936-0712-451e-ba28-a041d66af538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-daftar</value>
+      <webElementGuid>13d39d94-a010-4ed9-a608-be393a7a4686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnMasuk</value>
+      <webElementGuid>06391568-f128-4aba-b777-e877ec1d9187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+        Jelajahi Produk Menarik Lainnya
+    </value>
+      <webElementGuid>168b6b4b-005f-475f-ace0-f0aa4879f442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnMasuk&quot;)</value>
+      <webElementGuid>9155f934-00df-43b6-abc7-3572a84df5d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='btnMasuk']</value>
+      <webElementGuid>f8c2207a-cb9c-45a6-aeee-3549023e8007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat Pendaftaran Anda Berhasil!'])[1]/following::div[2]</value>
+      <webElementGuid>7379e472-9ae2-4232-92ba-924f6167a880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kal Tsit...'])[1]/following::div[9]</value>
+      <webElementGuid>f6194a88-8359-47f6-a069-31a6542ab746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'btnMasuk', '&quot;', ')')])[1]/preceding::div[1]</value>
+      <webElementGuid>a89b45f3-c1f5-4570-b726-1ae8bccc3e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[6]</value>
+      <webElementGuid>058427b4-5854-49b1-aef8-84bf515117ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'btnMasuk' and (text() = ' 
+        Jelajahi Produk Menarik Lainnya
+    ' or . = ' 
+        Jelajahi Produk Menarik Lainnya
+    ')]</value>
+      <webElementGuid>235f4cca-f180-459f-a741-fa8719beeecf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
