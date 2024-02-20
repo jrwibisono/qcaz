@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TMSRS01_RS002_RegisterShipper_Cross_TMTransporter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c4eebef-b057-4fd3-9ea4-4f1902bdb564</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Selanjutnya_pop-up-header-close-btn _b3cf67</name>
+   <tag></tag>
+   <elementGuidId>0f2d7886-200d-480d-88e3-e0a7635666c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.pop-up-header-close-btn.btn-close-pop-up-navy-20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PopUpSurvey']/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ca150257-15b0-448f-a766-0208ad70b319</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pop-up-header-close-btn btn-close-pop-up-navy-20</value>
+      <webElementGuid>4ae7b636-b8c8-43a9-abef-8a0bf3d62be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopUpSurvey&quot;)/div[@class=&quot;pop-up-container-v2 pop-up&quot;]/div[@class=&quot;pop-up-header-container pop-up-header-pop-up-v2-405-63&quot;]/button[@class=&quot;pop-up-header-close-btn btn-close-pop-up-navy-20&quot;]</value>
+      <webElementGuid>532bc952-8487-4aa9-ac3c-f80aba6ab962</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopUpSurvey']/div[2]/div/button</value>
+      <webElementGuid>85eefb57-6f24-4373-a44e-206d47670442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[5]/following::button[1]</value>
+      <webElementGuid>368c1911-6cf7-4b47-bf73-11cbba7b6b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unggah Nanti'])[3]/following::button[2]</value>
+      <webElementGuid>57fea17c-95ca-481a-a8e5-aab7875477b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat Datang di Ekosistem muatmuat'])[1]/preceding::button[1]</value>
+      <webElementGuid>caa10730-6190-43cc-ab0f-8e40af29a364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Darimana Anda mengetahui muatmuat?'])[1]/preceding::button[1]</value>
+      <webElementGuid>8058296b-15ed-473f-ab74-95bdc85e1c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[2]/div/button</value>
+      <webElementGuid>971fe185-6129-42bd-b1e5-8f5cb7ef807f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

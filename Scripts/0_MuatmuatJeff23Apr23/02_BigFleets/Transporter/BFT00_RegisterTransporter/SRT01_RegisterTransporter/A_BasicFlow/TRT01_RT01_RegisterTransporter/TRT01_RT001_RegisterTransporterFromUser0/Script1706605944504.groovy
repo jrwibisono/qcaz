@@ -18,11 +18,11 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 'Var Register'
-String username = 'Kal Tsit Zwei und Siebenzig'
+String username = 'Vier Kal Tsit Ein'
 
-String noTelp = '777010072'
+String noTelp = '77704001'
 
-String email = 'kaltsit72@yopmail.com'
+String email = 'kaltsit0401@yopmail.com'
 
 String password = 'Az12345678'
 
@@ -30,310 +30,185 @@ String password = 'Az12345678'
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_A_BasicFlow/RL_02_R001_Register_User0'), 
     [('username') : username, ('noTelp') : noTelp, ('email') : email, ('password') : password], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Home  muatmuat/div_Big FleetsKomunitas eksklusif Shipper d_58c606'))
-
-'Masuk BF dari After Login'
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Home  muatmuat/button_Masuk Bigfleets'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_DemoBigFleet  muatmuat/button_Lanjutkan ke Big Fleets'))
+'Masuk ke Seller'
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_Home  muatmuat/a_SellerPartner Center'))
 
 WebUI.waitForPageLoad(60)
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_DemoBigFleet  muatmuat/button_Saya Transporter'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Daftar Menjadi Seller  Partner'))
 
-WebUI.delay(1)
+'Mulai Form Pg. 1'
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Selanjutnya_pop-up-header-close-btn _b3cf67'))
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_DemoBigFleet  muatmuat/button_Daftar Menjadi Transporter'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Perusahaan'))
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_DemoBigFleet  muatmuat/input_jumlah_truk'), 
-    '200')
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Transportation Store_ChkBoxPerusahaan925'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_DemoBigFleet  muatmuat/button_Kirim'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Dealer  Karoseri_ChkBoxPerusahaan96'))
 
-WebUI.waitForPageLoad(60)
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Repair  Maintenance Service_ChkBoxPer_86aca7'))
 
-'Jenis Truk 1'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_jenis_truk_1'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Intermodal Transportation_ChkBoxPerus_b490f3'))
 
-WebUI.waitForJQueryLoad(60)
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Places  Promo_ChkBoxPerusahaan579'))
 
-'Opsi Truk 1_1'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_truk_1-1_CDE'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Property  Warehouse_ChkBoxPerusahaan99'))
 
-WebUI.waitForJQueryLoad(60)
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Anda harus mengunggah Legalitas Perus_56df72'))
 
-'Jenis Carrier 1'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_jenis_carrier_1'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Selanjutnya'))
 
-WebUI.waitForJQueryLoad(60)
+'Upload Foto'
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload'))
 
-'Opsi Carrier 1_1'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_carrier_1-1_Box'))
+'Upload Foto?'
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/a_Browse File'), 
+    '')
 
-WebUI.delay(1)
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/div_Pangkas Foto Profil                    _fce5ce'))
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_jumlah_truk_1'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/span_Pangkas Foto Profil_cropper-face cropper-move'))
 
-WebUI.sendKeys(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_jumlah_truk_1'), 
-    Keys.chord(Keys.BACK_SPACE))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/div_Pangkas Foto Profil                    _fce5ce_1'))
 
-'Jumlah Unit 1'
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_jumlah_truk_1'), 
-    '100')
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/span_Pangkas Foto Profil_cropper-face cropper-move'))
 
-'Jenis Truk 2'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_jenis_truk_2'))
-
-WebUI.waitForJQueryLoad(60)
-
-'Opsi Truk 2_1'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_truk_2-1_CDE'))
-
-WebUI.waitForJQueryLoad(60)
-
-'Jenis Carrier 2'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_jenis_carrier_2'))
-
-WebUI.waitForJQueryLoad(60)
-
-'Opsi Carrier 2_2'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_carrier_2-2_bak-terbuka'))
-
-WebUI.delay(1)
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_jumlah_truk_2'))
-
-WebUI.sendKeys(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_jumlah_truk_2'), 
-    Keys.chord(Keys.BACK_SPACE))
-
-'Jumlah Unit 2'
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_jumlah_truk_2'), 
-    '50')
-
-'Jenis Truk 3'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_jenis_truk_3'))
-
-WebUI.waitForJQueryLoad(60)
-
-'Opsi Truk 3_1'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_truk_3-1_CDE'))
-
-WebUI.waitForJQueryLoad(60)
-
-'Jenis Carrier 3'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_jenis_carrier_3'))
-
-WebUI.waitForJQueryLoad(60)
-
-'Opsi Carrier 3_3'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_carrier_3-3_los-bak'))
-
-WebUI.delay(1)
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_jumlah_truk_3'))
-
-WebUI.sendKeys(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_jumlah_truk_3'), 
-    Keys.chord(Keys.BACK_SPACE))
-
-'Jumlah Unit 3'
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_jumlah_truk_3'), 
-    '50')
-
-'Upload Daftar Nopol'
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_nopol'), 
-    'C:\\Users\\Dandy\\Downloads\\Template Plate Truck 200.xlsx')
-
-'Upload STNK'
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_stnk'), 
-    'C:\\Users\\Dandy\\Downloads\\data (28).pdf')
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_Selanjutnya_transport'))
-
-'Button Upload Logo'
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/button_Upload'))
-
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/upload_foto_profil'), 
-    'C:\\Users\\Dandy\\Downloads\\53150.jpg')
-
-'Selesai Crop'
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/button_Simpan'))
+'Simpan Foto'
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Simpan'))
 
 'Nama Perusahaan'
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/input_Nama Perusahaan_CompanyName'), 
-    'PT Kal Tsit Tujuh Dua')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Nama Perusahaan_CompanyName'), 
+    'PT. Empat Kal Tsit Satu')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/span_Pilih badan usaha'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/span_Pilih badan usaha'))
 
-WebUI.waitForJQueryLoad(60)
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/div_Pilih bidang Usaha'))
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/li_badan_usaha_1_pt'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/a_Pertanian dan Perhutanan'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/div_Pilih Bidang Usaha'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Alamat Perusahaan_ValueAddres'), 
+    'kenjeran')
 
-WebUI.waitForJQueryLoad(60)
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/div_Jalan Kenjeran, Gading, Surabaya, Jawa _7e6936'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/a_Pertanian dan Perhutanan'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/textarea_Detail Alamat_AddressDetail'), 
+    'Kenjeran')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/input_Alamat Perusahaan_ValueAddres'), 
-    'Sirie sidoarjo')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_No. Telepon Perusahaan_CompanyPhone'), 
+    '77704001')
 
-WebUI.waitForJQueryLoad(60)
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Nama PIC Sales Marketing 1_Pic1Name'), 
+    'Doni')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/div_Pergudangan SIRIE D 18 Sidoarjo, Rangka_b4c6a5'))
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_No. HP PIC Sales Marketing 1_Pic1Phone'), 
+    '77704001')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/textarea_Detail Alamat_AddressDetail'), 
-    'Sirie sidoarjo')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Nama PIC Sales Marketing 2_Pic2Name'), 
+    'Roni')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/input_No. Telepon Perusahaan_CompanyPhone'), 
-    noTelp)
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_No. HP PIC Sales Marketing 2_Pic2Phone'), 
+    '7770400101')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/input_Nama PIC 1_Pic1Name'), 
-    'Budi')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Nama PIC Sales Marketing 3_Pic3Name'), 
+    'Boni')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/input_No. HP PIC 1_Pic1Phone'), 
-    noTelp)
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_No. HP PIC Sales Marketing 3_Pic3Phone'), 
+    '7770400102')
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_Selanjutnya_transport_2'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Selanjutnya_1'))
 
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_nib_transporter'), 
-    'C:\\Users\\Dandy\\Downloads\\Data (31).pdf')
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Selanjutnya_1_2'))
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_No. NIB_TxtNoNIB_transporter'), 
-    '1234567891234')
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Selanjutnya_1_2_3'))
 
-WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_No. NPWP Perusahaan_TxtNoNPWPPTCV_transporter'), 
-    '1234567891234567')
+'Form 3 - Legalitas'
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload_1'), 
+    '')
 
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/upload_npwp'), 
-    'C:\\Users\\Dandy\\Downloads\\Data (31).pdf')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_No. NIB_TxtNoNIBPTCV'), 
+    '7894561237894')
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/input_No. KTP PendaftarPemegang Akun_TxtNoK_ce3107'), 
-    '1234567891234567')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_No. NPWP Perusahaan_TxtNoNPWP'), 
+    '7894561237894561')
 
-'Upload KTP Pendaftar Akun'
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_ktp_pemegang_akun_transporter_pt'), 
-    'C:\\Users\\Dandy\\Downloads\\53152.jpg')
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload_1_2'), 
+    '')
 
-'Upload Cover Akta Pendirian'
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_akta_pendirian_transporter_pt'), 
-    'C:\\Users\\Dandy\\Downloads\\Data (31).pdf')
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_No. KTP PendaftarPemegang Akun_TxtNoK_ce3107'), 
+    '7894561237894561')
 
-WebUI.delay(1)
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload_1_2_3'), 
+    '')
 
-'Upload SK Kemenkumham dari akta pendirian'
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/upload_sk_kemnkumham_akta_pendirian'), 
-    'C:\\Users\\Dandy\\Downloads\\Data (31).pdf')
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload_1_2_3_4'), 
+    '')
 
-WebUI.delay(1)
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload_1_2_3_4_5'), 
+    '')
 
-'Upload Cover Akta Perubahan'
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_cover_akta_perubahan_pt'), 
-    'C:\\Users\\Dandy\\Downloads\\data (28).pdf')
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload_1_2_3_4_5_6'), 
+    '')
 
-WebUI.delay(1)
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload_1_2_3_4_5_6_7'), 
+    '')
 
-'Upload SK Kemenkumham dari Akta Perubahan'
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_sk_kemenkumham_akta_perubahan_pt'), 
-    'C:\\Users\\Dandy\\Downloads\\data (28).pdf')
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload_1_2_3_4_5_6_7_8'), 
+    '')
 
-WebUI.delay(1)
-
-'Upload Sertifikat Standar'
-WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_sertifikat_standar'), 
-    'C:\\Users\\Dandy\\Downloads\\data (28).pdf')
-
-WebUI.delay(1)
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_Daftar_transporter'))
-
-'Selesai Form'
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/div_Yakin_transporter'))
-
-'Awal Check SK'
-WebUI.waitForPageLoad(60)
-
-WebUI.scrollToElement(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/li_terms_sk_register_shipper'), 
-    1)
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet Syarat Ketentuan  muatmuat/input_Biaya Transporter_terms0'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet Syarat Ketentuan  muatmuat/input_Anda belum checklist ketentuan ini_terms1'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet Syarat Ketentuan  muatmuat/input_Anda belum checklist ketentuan ini_terms2'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet Syarat Ketentuan  muatmuat/input_Anda belum checklist ketentuan ini_terms3'))
-
-'Selesai Check SK'
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet Syarat Ketentuan  muatmuat/button_Selanjutnya'))
-
-'Halaman OTP'
-WebUI.waitForPageLoad(60)
-
-'Back Door'
-WebUI.executeJavaScript('window.open();', [])
-
-currentWindow2 = WebUI.getWindowIndex()
-
-//Switches tab #1
-WebUI.switchToWindowIndex(currentWindow2 + 1)
-
-//Cek URL CEK OTP NE
-//GlobalVariable.UrlCekOTP = ('https://rc.azlogistik.id/tan/viewotp?data=' + noTelp)
-String urlCekOtpOri = GlobalVariable.UrlCekOTP
-
-GlobalVariable.UrlCekOTP = (GlobalVariable.UrlCekOTP + email)
-
-WebUI.navigateToUrl(GlobalVariable.UrlCekOTP)
-
-String stringOTP = WebUI.getText(findTestObject('Object Repository/8_Test/CobaAmbilText/Page_/body_MessageCode200,TextOK (uc131uacf5),Dat_598ef3'))
-
-String[] OTP
-
-OTP = stringOTP.split('"')
-
-//for(String values : OTP) {
-//	println(values);
-//}
-String realOTP = OTP[13]
-
-println(realOTP)
-
-String[] splitOTP = realOTP.split('')
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_01_RegisterUser1/A_BasicFlow/R01_RU01_RegisterUser/Page_/body_MessageCode200,TextOK (uc131uacf5),Dat_559c02'))
-
-'Balik OTP'
-WebUI.switchToWindowTitle('Register Big Fleet OTP | muatmuat')
-
-GlobalVariable.UrlCekOTP = urlCekOtpOri
-
-'Isi OTP'
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet OTP  muatmuat/input_Masukkan OTP_OTPField1'), 
-    splitOTP[0])
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet OTP  muatmuat/input_Masukkan OTP_OTPField2'), 
-    splitOTP[1])
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet OTP  muatmuat/input_Masukkan OTP_OTPField3'), 
-    splitOTP[2])
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet OTP  muatmuat/input_Masukkan OTP_OTPField4'), 
-    splitOTP[3])
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet OTP  muatmuat/input_Masukkan OTP_OTPField5'), 
-    splitOTP[4])
-
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet OTP  muatmuat/input_Masukkan OTP_OTPField6'), 
-    splitOTP[5])
-
-WebUI.waitForJQueryLoad(60)
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Daftar'))
 
 WebUI.waitForPageLoad(60)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet Syarat Ketentuan  muatmuat/div_Jelajahi Produk Menarik Lainnya'))
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload Sekarang'), 
+    '')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Nama PIC Customer Invoice(bila ada)_t_b4660c'), 
+    'Deni')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_No. HP PIC Customer Invoice(bila ada)_f8f006'), 
+    '78945612378945')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload Sekarang_1_2'), 
+    '')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_Nama PIC Customer Invoice(bila ada)_t_ee599a'), 
+    'Reni')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/input_No. HP PIC Customer Invoice(bila ada)_d3dbca'), 
+    '78945612378945')
+
+WebUI.uploadFile(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Upload Sekarang_1'), 
+    '')
+
+'Daftar Form Special Legality'
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Daftar_1'))
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/button_Lanjutkan'))
+
+'OTP - Ganti Pakai TC OTP'
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_Register Seller OTP/input_Masukkan OTP_OTPField1'), 
+    '6')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_Register Seller OTP/input_Masukkan OTP_OTPField2'), 
+    '0')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_Register Seller OTP/input_Masukkan OTP_OTPField3'), 
+    '5')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_Register Seller OTP/input_Masukkan OTP_OTPField4'), 
+    '3')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_Register Seller OTP/input_Masukkan OTP_OTPField5'), 
+    '7')
+
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_Register Seller OTP/input_Masukkan OTP_OTPField6'), 
+    '7')
+
+'Selesai, Pergi Ke Halaman Seller'
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/05_Seller/S00_RegisterSeller/Page_muatmuat/div_Lanjutkan'))
 
 WebUI.waitForPageLoad(60)
 
 'Report WA'
-WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [('reportText') : 'Berhasil Daftar BF Transporter'], FailureHandling.CONTINUE_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [('reportText') : 'Berhasil Daftar BF Transporter'], FailureHandling.CONTINUE_ON_FAILURE)
 

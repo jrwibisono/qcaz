@@ -18,15 +18,15 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 'Var Register'
-String username = 'Kal Tsit Ein und Neunzig'
+String username = 'Acht Kal Tsit Zwei'
 
-String noTelp = '77701091'
+String noTelp = '77708002'
 
-String email = 'kaltsit91@yopmail.com'
+String email = 'kaltsit0802@yopmail.com'
 
 String password = 'Az12345678'
 
-String namaPerusahaan = 'PT. Kal Tsit Sembilan Satu'
+String namaPerusahaan = 'PT. Acht Kal Tsit Zwei'
 
 'Test Case Register'
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_A_BasicFlow/RL_02_R001_Register_User0'), 
@@ -165,7 +165,7 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 
 'Nama Perusahaan'
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/input_Nama Perusahaan_CompanyName'), 
-    'PT Kal Tsit Tujuh Dua')
+    namaPerusahaan)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/span_Pilih badan usaha'))
 
@@ -203,6 +203,8 @@ WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_nib_transporter'), 
     'C:\\Users\\Dandy\\Downloads\\Data (31).pdf')
 
+WebUI.delay(2)
+
 WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/input_No. NIB_TxtNoNIB_transporter'), 
     '1234567891234')
 
@@ -212,6 +214,8 @@ WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/upload_npwp'), 
     'C:\\Users\\Dandy\\Downloads\\Data (31).pdf')
 
+WebUI.delay(2)
+
 WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Shipper/TMS00_RegisterShipper/Page_Register Big Fleets Shipper/input_No. KTP Pendaftar_tm_transporter'), 
     '1234567891234567')
 
@@ -219,35 +223,37 @@ WebUI.setText(findTestObject('0_MuatmuatJeff23Apr23/03_TransportMarket/Shipper/T
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_ktp_pemegang_akun_transporter_pt'), 
     'C:\\Users\\Dandy\\Downloads\\53152.jpg')
 
+WebUI.delay(2)
+
 'Upload Cover Akta Pendirian'
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_akta_pendirian_transporter_pt'), 
     'C:\\Users\\Dandy\\Downloads\\Data (31).pdf')
 
-WebUI.delay(1)
+WebUI.delay(2)
 
 'Upload SK Kemenkumham dari akta pendirian'
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/upload_sk_kemnkumham_akta_pendirian'), 
     'C:\\Users\\Dandy\\Downloads\\Data (31).pdf')
 
-WebUI.delay(1)
+WebUI.delay(2)
 
 'Upload Cover Akta Perubahan'
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_cover_akta_perubahan_pt'), 
     'C:\\Users\\Dandy\\Downloads\\data (28).pdf')
 
-WebUI.delay(1)
+WebUI.delay(2)
 
 'Upload SK Kemenkumham dari Akta Perubahan'
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_sk_kemenkumham_akta_perubahan_pt'), 
     'C:\\Users\\Dandy\\Downloads\\data (28).pdf')
 
-WebUI.delay(1)
+WebUI.delay(2)
 
 'Upload Sertifikat Standar'
 WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/upload_sertifikat_standar'), 
     'C:\\Users\\Dandy\\Downloads\\data (28).pdf')
 
-WebUI.delay(1)
+WebUI.delay(2)
 
 WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT00_RegisterTransporter/Page_Register Big Fleets Shipper/button_Daftar_transporter'))
 
@@ -342,5 +348,5 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 WebUI.waitForPageLoad(60)
 
 'Report WA'
-WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [('reportText') : 'Berhasil Daftar TM Transporter'], FailureHandling.CONTINUE_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [('reportText') : 'Berhasil Daftar TM Transporter'], FailureHandling.CONTINUE_ON_FAILURE)
 

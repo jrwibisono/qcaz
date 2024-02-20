@@ -17,14 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-'Upload File Surat Jalan'
-WebUI.uploadFile(findTestObject(null), '')
+'Form Awal'
+WebUI.uploadFile(findTestObject('0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/upload_file_surat_jalan'), 
+    'C:\\Users\\Dandy\\Downloads\\Data (31).pdf')
 
-'Tombol Daftar'
-WebUI.click(findTestObject(null))
+WebUI.delay(2)
 
-WebUI.waitForPageLoad(0)
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleets Shipper/button_Selanjutnya'))
 
-'Tombol Jelajahi Produk Lainnya'
-WebUI.click(findTestObject(null))
+WebUI.waitForPageLoad(60)
+
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Shipper/BFS00_RegisterShipper/Page_Register Big Fleet Syarat Ketentuan  muatmuat/div_Jelajahi Produk Menarik Lainnya'))
+
+WebUI.waitForPageLoad(60)
 

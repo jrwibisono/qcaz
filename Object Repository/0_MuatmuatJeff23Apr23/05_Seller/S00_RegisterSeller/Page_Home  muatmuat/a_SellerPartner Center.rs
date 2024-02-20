@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SellerPartner Center</name>
+   <tag></tag>
+   <elementGuidId>106768d7-0e02-424b-9dfd-a41f02454d17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#redirectSeller</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='redirectSeller']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a8c9e81a-b3b6-468e-94f6-fd0d3d574e57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fs-12-az ff-demi-az text-white ta-center line-height-14-4 daftar-seller</value>
+      <webElementGuid>430182ac-b912-4d6a-a691-6cfe2775e1e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>redirectSeller</value>
+      <webElementGuid>3d4d150f-5903-4fbb-ba84-dc94486dd94f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seller/Partner Center</value>
+      <webElementGuid>b0be2fe9-54d0-4cfe-9674-72e195d8ff8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;redirectSeller&quot;)</value>
+      <webElementGuid>38deafea-1a19-4092-ae15-6cf3a5fde26d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='redirectSeller']</value>
+      <webElementGuid>c48b4f2c-afa8-4136-898d-78a7ed02c24f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Seller/Partner Center')]</value>
+      <webElementGuid>58d90267-acba-484c-9454-61b0294569f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Panduan User/CS'])[1]/following::a[2]</value>
+      <webElementGuid>21bc7027-8ce0-45f5-b3c4-3770fa18fd8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[2]</value>
+      <webElementGuid>a8dbb2cc-3114-414c-bda1-23a93fd93ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/preceding::a[3]</value>
+      <webElementGuid>9e986b6a-c05f-4b89-a29c-d7645d4d36c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Seller/Partner Center']/parent::*</value>
+      <webElementGuid>991ac1b2-4fbd-4d04-b13f-ae942351c912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>70e37cee-eff1-4d78-a4b6-735988841bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'redirectSeller' and (text() = 'Seller/Partner Center' or . = 'Seller/Partner Center')]</value>
+      <webElementGuid>783e65b6-cb47-4930-b8d3-5fa3d7bf9e50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

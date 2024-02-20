@@ -108,6 +108,8 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/00_RegisLogi
 
 WebUI.waitForPageLoad(60)
 
+WebUI.waitForPageLoad(60)
+
 WebUI.executeJavaScript('window.open();', [])
 
 currentWindow2 = WebUI.getWindowIndex()

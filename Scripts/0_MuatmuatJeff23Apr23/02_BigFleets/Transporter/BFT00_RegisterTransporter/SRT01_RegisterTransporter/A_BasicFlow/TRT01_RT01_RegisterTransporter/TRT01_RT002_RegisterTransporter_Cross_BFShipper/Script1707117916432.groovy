@@ -18,15 +18,15 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 'Var Register'
-String username = 'Zwei Kal Tsit Zwei und Zwanzig'
+String username = 'Zwei Kal Tsit Vier und Zwanzig'
 
-String noTelp = '77702022'
+String noTelp = '77702024'
 
-String email = 'zweikaltsit22@yopmail.com'
+String email = 'zweikaltsit24@yopmail.com'
 
 String password = 'Az12345678'
 
-String namaPerusahaan = 'PT Zwei Kal Tsit Zwei und Zwanzig'
+String namaPerusahaan = 'PT Zwei Kal Tsit Vier und Zwanzig'
 
 'Test Case Register'
 WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL02_Register/RL02_A_BasicFlow/RL_02_R001_Register_User0'), 
@@ -337,7 +337,7 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 WebUI.waitForPageLoad(60)
 
 'Report WA'
-WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [('reportText') : 'On Progress - Berhasil Daftar BF Transporter Cross Shipper'], 
+not_run: WebUI.callTestCase(findTestCase('8_Test/ReportOtomasi'), [('reportText') : 'On Progress - Berhasil Daftar BF Transporter Cross Shipper'], 
     FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('1_CSTicketingJeff01Jun23/02_Approve/02_03_Approve_Register'), [('namaPerusahaan') : namaPerusahaan], 
