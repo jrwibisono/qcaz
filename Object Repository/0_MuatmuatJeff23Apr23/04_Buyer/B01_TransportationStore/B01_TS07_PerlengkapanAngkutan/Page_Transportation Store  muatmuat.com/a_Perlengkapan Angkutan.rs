@@ -6,12 +6,12 @@
    <elementGuidId>eaae07bd-5aa7-43a2-b03e-8f19f1f9dd77</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-of-type(5) > a.text-nav-buyer.text-white.fs-16-az.ff-demi-az.lh-19-2</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='ContCategoryAdv']/div[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(5) > a.text-nav-buyer.text-white.fs-16-az.ff-demi-az.lh-19-2.spa-category</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4e345d25-a119-4355-985b-3e071dfaab53</webElementGuid>
+      <webElementGuid>e7a4e287-921f-4ac5-b70b-d35077c3a5f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://buyer.azlogistik.id/transportation-store?KategoriID=51&amp;subKategoriID=45</value>
-      <webElementGuid>a8144e57-e3f3-4834-a35c-ab17d844a240</webElementGuid>
+      <value>http://buyer.azlogistik.id/transportation-store?KategoriID=51&amp;subKategoriID=45</value>
+      <webElementGuid>5ea7b1b4-7419-4954-9356-f9bbe94dc64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>kategori</name>
+      <type>Main</type>
+      <value>51-45</value>
+      <webElementGuid>85faf1ef-7176-40dd-aba8-3f17e8dadca9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2</value>
-      <webElementGuid>aefe3413-489a-412b-b024-a198e484e0d3</webElementGuid>
+      <value>text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2 spa-category</value>
+      <webElementGuid>66cbc6d7-3818-4c85-9d66-7851bea4d2f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,15 +56,15 @@
       <value>Perlengkapan Angkutan
                                 
                                 </value>
-      <webElementGuid>a377a05d-38a1-4c85-9761-48fcdffbde21</webElementGuid>
+      <webElementGuid>eb8a5db3-28bc-40de-9122-2cfe8d4a88a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ContCategoryAdv&quot;)/div[5]/a[@class=&quot;text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2&quot;]</value>
-      <webElementGuid>aeb45bdc-5070-4d1d-b66d-86608d113fcf</webElementGuid>
+      <value>id(&quot;ContCategoryAdv&quot;)/div[5]/a[@class=&quot;text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2 spa-category&quot;]</value>
+      <webElementGuid>93867959-6507-4970-8fc1-a9c7a142867f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +72,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ContCategoryAdv']/div[5]/a</value>
-      <webElementGuid>4ebc367e-b084-45ee-9233-bb77321add9f</webElementGuid>
+      <webElementGuid>cc8e8d76-95c4-4387-97df-107fc4aa30bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +80,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Perlengkapan Angkutan')])[2]</value>
-      <webElementGuid>3ec84fbe-180a-42ec-a5a1-7fae6ca1535e</webElementGuid>
+      <webElementGuid>44f33eeb-23e7-4700-aae5-d663886504d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ban, Aki dan Oli'])[2]/following::a[1]</value>
-      <webElementGuid>a1fd5776-2034-49ed-947f-91fb81115667</webElementGuid>
+      <webElementGuid>a0150528-a95c-4f4c-95e4-1102bc71dc2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Suku Cadang'])[2]/following::a[2]</value>
-      <webElementGuid>d0037e48-1c6f-42ed-96de-d3d14d1a5040</webElementGuid>
+      <webElementGuid>b29e1af4-3f57-49fc-b1ff-212677e80544</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Container, Semi Trailer, Rigid Carrier'])[2]/preceding::a[1]</value>
-      <webElementGuid>cdb8c89f-0e5b-4978-9b63-4cebaad42c48</webElementGuid>
+      <webElementGuid>c8d16065-a76c-46ce-927f-f7df7047fae4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,15 +112,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kendaraan Kargo'])[2]/preceding::a[2]</value>
-      <webElementGuid>aaeb2ed2-15f9-4c22-8799-35a8c2d3822f</webElementGuid>
+      <webElementGuid>9f10dd3c-fca6-431b-8ae5-1c3c2c967484</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://buyer.azlogistik.id/transportation-store?KategoriID=51&amp;subKategoriID=45')]</value>
-      <webElementGuid>564d1054-af57-4170-9bff-3a19a5839d34</webElementGuid>
+      <value>//a[@href='http://buyer.azlogistik.id/transportation-store?KategoriID=51&amp;subKategoriID=45']</value>
+      <webElementGuid>99f99e46-b3ea-45d1-bc95-ce858be36dd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,18 +128,18 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/a</value>
-      <webElementGuid>31706ed6-ca5e-4491-8ccb-1ad432466932</webElementGuid>
+      <webElementGuid>79b99ef1-c6bd-4270-956b-58aeb0bda86b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://buyer.azlogistik.id/transportation-store?KategoriID=51&amp;subKategoriID=45' and (text() = 'Perlengkapan Angkutan
+      <value>//a[@href = 'http://buyer.azlogistik.id/transportation-store?KategoriID=51&amp;subKategoriID=45' and (text() = 'Perlengkapan Angkutan
                                 
                                 ' or . = 'Perlengkapan Angkutan
                                 
                                 ')]</value>
-      <webElementGuid>7726939b-e9ee-471c-ac08-fa94930e915c</webElementGuid>
+      <webElementGuid>c490d601-30dc-4061-8899-73a80f9e1ef2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

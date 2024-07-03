@@ -17,14 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_00_NoLogin'), 
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS05_RigidTruckCarrier/A_BasicFlow/TS05_BRTC001_User0_OpenList'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS05_RigidTruckCarrier/Page_muatmuat Website  muatmuat/div_Transportation StoreMarketplace kebutuh_d87c86'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS05_RigidTruckCarrier/Page_muatmuat Website  muatmuat/div_Transportation StoreMarketplace kebutuh_d87c86'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS05_RigidTruckCarrier/Page_Transportation Store  muatmuat.com/a_Container, Semi Trailer, Rigid Carrier'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS05_RigidTruckCarrier/Page_Transportation Store  muatmuat.com/a_Container, Semi Trailer, Rigid Carrier'))
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS05_RigidTruckCarrier/Page_Transportation Store  muatmuat.com/div_Rigid Truck Carrier'))
+not_run: WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS05_RigidTruckCarrier/Page_Transportation Store  muatmuat.com/div_Rigid Truck Carrier'))
 
 WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS05_RigidTruckCarrier/Page_Transportation Store  muatmuat.com/div_wishlist_card_satu'))
 
@@ -32,7 +32,7 @@ String CheckedText = WebUI.getText(findTestObject('0_MuatmuatJeff23Apr23/04_Buye
 
 String ResultText = ''
 
-if (CheckedText == 'Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat') {
+if (CheckedText == 'Daftar atau Masuk untuk menikmati akses penuh di muatmuat') {
     ResultText = 'MASIH USER 0'
 } else {
     ResultText = 'TIDAK TERDETEKSI'

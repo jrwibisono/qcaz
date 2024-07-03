@@ -6,11 +6,11 @@
    <elementGuidId>1cad944b-bfa3-4ec1-a8bc-1ffdefacc288</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;masukBergabung&quot;]/ul/li/div/a[1]</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>/html/body/header[1]/div[2]/div[2]/div/a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

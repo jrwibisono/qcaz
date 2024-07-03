@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lainnya</name>
+   <tag></tag>
+   <elementGuidId>78ddafe1-8ce8-4628-b118-7e96681cac7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContCategoryAdv']/div[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(6) > a.text-nav-buyer.text-white.fs-16-az.ff-demi-az.lh-19-2.spa-category</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3767e0cb-df78-4a28-8d32-562237e403df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://buyer.azlogistik.id/human-capital?KategoriID=47&amp;subKategoriID=52</value>
+      <webElementGuid>987fff97-0d26-4a56-83a2-7adf1074f7e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>kategori</name>
+      <type>Main</type>
+      <value>47-52</value>
+      <webElementGuid>6008da03-68f5-4d05-a772-b4e067580f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2 spa-category</value>
+      <webElementGuid>fc2d70ec-da3f-4f97-b0b8-c79db8777495</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lainnya
+                                
+                                </value>
+      <webElementGuid>7528c31a-aa1a-4b96-9822-6b891fc2ef21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContCategoryAdv&quot;)/div[6]/a[@class=&quot;text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2 spa-category&quot;]</value>
+      <webElementGuid>63d813d3-831e-457b-9c94-6619cec2423c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContCategoryAdv']/div[6]/a</value>
+      <webElementGuid>1a09bf3a-458e-4c58-850a-66c1d589ec7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lainnya')])[2]</value>
+      <webElementGuid>b3a49bcb-8991-4bce-9530-ada425354ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HR Consultant and Training'])[2]/following::a[1]</value>
+      <webElementGuid>cf95fc2a-6010-4e75-b39c-ddd7723160b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pencari Kerja'])[2]/following::a[2]</value>
+      <webElementGuid>39b5d2bf-11be-4ca0-97b3-488da086709c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Utama'])[1]/preceding::a[1]</value>
+      <webElementGuid>7f0c1032-e2f4-4541-be3b-3ca9b2e68dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[2]/preceding::a[1]</value>
+      <webElementGuid>753e49da-356b-4758-a487-7eb746bfc0e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://buyer.azlogistik.id/human-capital?KategoriID=47&amp;subKategoriID=52']</value>
+      <webElementGuid>59d61c09-4425-4bc4-8bf7-7a4d552998f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+      <webElementGuid>6458811f-3a1f-4334-badb-3040c51c269b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://buyer.azlogistik.id/human-capital?KategoriID=47&amp;subKategoriID=52' and (text() = 'Lainnya
+                                
+                                ' or . = 'Lainnya
+                                
+                                ')]</value>
+      <webElementGuid>65f36a4a-7bb6-499b-b0cc-864e0db00ef5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

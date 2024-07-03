@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = 'Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat' or . = 'Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat')]</value>
+         <value>//*[(text() = 'Daftar atau Masuk untuk menikmati akses penuh di muatmuat' or . = 'Daftar atau Masuk untuk menikmati akses penuh di muatmuat')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -21,7 +21,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat</value>
-      <webElementGuid>8d6468ae-e6ef-4daf-8c91-a4d9230b4a04</webElementGuid>
+      <value>Daftar atau Masuk untuk menikmati akses penuh di muatmuat</value>
+      <webElementGuid>f60c9ee0-48f1-4620-bf7f-785408e0315e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

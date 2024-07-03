@@ -6,12 +6,12 @@
    <elementGuidId>55386b18-1d69-4c1d-8420-1f7de590f2cd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='sub-category-div']/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ec64eb79-3129-49e0-a318-c56b99684f02</webElementGuid>
+      <webElementGuid>e28d471e-078a-4fa9-8a55-175bf10c15df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body sub-category-detail </value>
-      <webElementGuid>a7739f65-d1cd-4762-85a2-8ff32240fda8</webElementGuid>
+      <webElementGuid>35876c80-3c3e-4a59-b264-f2b6fd90acaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <value>
                                         Semi Trailer Carrier
                                     </value>
-      <webElementGuid>696cf447-e5d1-49d9-9827-6e52768a0fa5</webElementGuid>
+      <webElementGuid>8750244c-15fb-4eb6-bcf4-7ab5123e97d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sub-category-div&quot;)/div[@class=&quot;card border-0 card-sub-kategori&quot;]/div[@class=&quot;card-body sub-category-detail&quot;]</value>
-      <webElementGuid>44d3ff3b-cd6d-408a-b6cd-e06c561f22ee</webElementGuid>
+      <webElementGuid>f08e265c-6d60-476b-8372-0ce3f4e6bb08</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sub-category-div']/div[3]/div</value>
-      <webElementGuid>6a957778-8ac4-4d2b-8b96-c6e583d73867</webElementGuid>
+      <webElementGuid>4fc1396f-e25f-45a4-a287-7b44bd29fd63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rigid Truck Carrier'])[1]/following::div[2]</value>
-      <webElementGuid>1794cd3a-7ca1-4dc3-8407-ab9b2e032e64</webElementGuid>
+      <webElementGuid>2da856dc-85e1-455d-8048-005c055948fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Container'])[1]/following::div[4]</value>
-      <webElementGuid>89312978-86a3-4ded-83f5-a9a6435629e7</webElementGuid>
+      <webElementGuid>6561c80e-5fa5-45d5-85b1-946faf65d697</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbaru'])[1]/preceding::div[2]</value>
-      <webElementGuid>1c82eed6-cea2-4cef-a679-14823cbe7267</webElementGuid>
+      <webElementGuid>2bfce92a-f16c-4263-ac7b-4ef28e83b830</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,15 +88,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Semi Trailer Carrier']/parent::*</value>
-      <webElementGuid>3fe3ca03-6f89-4d78-83a4-d1931ff946af</webElementGuid>
+      <webElementGuid>d3d1b821-8ec5-4bc3-bf2e-b3252bcc2254</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[3]/div</value>
-      <webElementGuid>d0ad945e-71fc-48a1-be59-154104450a7a</webElementGuid>
+      <value>//div[2]/div/div[3]/div[3]/div</value>
+      <webElementGuid>4f9b177f-9f98-4b86-b5fd-02e4faa84752</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +108,6 @@
                                     ' or . = '
                                         Semi Trailer Carrier
                                     ')]</value>
-      <webElementGuid>5bd916e9-95cc-44b6-b27e-a973e5c17fcd</webElementGuid>
+      <webElementGuid>851dab74-f4fd-43a9-86e8-24401dffdb25</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

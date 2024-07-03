@@ -6,12 +6,12 @@
    <elementGuidId>dcd65d77-0488-4358-8300-b45d99b0e602</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sub-category-div']/div[2]/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sub-category-div']/div[2]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>fbbe1f8b-f860-4dfe-bf0d-60761267cbf1</webElementGuid>
+      <webElementGuid>5d97d22e-918e-43e8-b3dd-014434973df9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body sub-category-detail </value>
-      <webElementGuid>71cc584b-8231-4f65-b680-3a26f95f5ef1</webElementGuid>
+      <webElementGuid>9137c604-ceae-4ba6-9db8-b8579dc81237</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <value>
                                         Aki
                                     </value>
-      <webElementGuid>40628020-290e-44c2-8dd3-02d22ebb75dd</webElementGuid>
+      <webElementGuid>b148e013-57f3-423d-9f0b-17cc4b19618e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sub-category-div&quot;)/div[@class=&quot;card border-0 card-sub-kategori&quot;]/div[@class=&quot;card-body sub-category-detail&quot;]</value>
-      <webElementGuid>732e4ef9-9570-4d93-8862-6f29e50c36f7</webElementGuid>
+      <webElementGuid>0d86ceca-9511-41b1-b9e0-146d06aaee80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sub-category-div']/div[2]/div</value>
-      <webElementGuid>93faa692-d2c9-4f89-8a80-03eb4e619713</webElementGuid>
+      <webElementGuid>ff07a8b2-97d1-4050-9db8-402ebb420860</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,15 +64,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ban'])[1]/following::div[2]</value>
-      <webElementGuid>0ade2593-ee11-4e9a-8c05-d8c32afd549c</webElementGuid>
+      <webElementGuid>0a21a93a-99c8-4c1e-ae19-b54352cb8b7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/following::div[8]</value>
-      <webElementGuid>a9a99b61-bef3-44f2-8236-5e3dc8cd1697</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lainnya'])[5]/following::div[7]</value>
+      <webElementGuid>f7dbb313-4ad9-4df8-aed2-6886dbe21f46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Oli'])[1]/preceding::div[1]</value>
-      <webElementGuid>c40c258e-7a5b-42b4-ac3e-caf527517aad</webElementGuid>
+      <webElementGuid>d49fb41d-86f1-4309-bf6b-8b9e333990f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,15 +88,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Aki']/parent::*</value>
-      <webElementGuid>450e4e90-4d19-4b35-9f9a-03c98026d83b</webElementGuid>
+      <webElementGuid>55588049-f92a-4b5f-bb75-91f4f436b56f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div[2]/div[2]/div</value>
-      <webElementGuid>9bbfa982-9bfc-4cd5-845c-00c9d9289b11</webElementGuid>
+      <value>//div[2]/div/div[3]/div[2]/div</value>
+      <webElementGuid>3c54a831-6df9-4438-b317-73ede0b0f686</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +108,6 @@
                                     ' or . = '
                                         Aki
                                     ')]</value>
-      <webElementGuid>bbcb7b46-dd1c-4563-b894-67f52924718a</webElementGuid>
+      <webElementGuid>51b49f9d-0167-45f4-8647-57e4d4baa9c0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

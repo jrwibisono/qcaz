@@ -11,12 +11,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'muatmuat0000@yopmail.com'</initValue>
+      <initValue>'77707001'</initValue>
       <name>User</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Az1234567'</initValue>
+      <initValue>'Gundam00'</initValue>
       <name>User_Password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -68,5 +68,20 @@
       <description></description>
       <initValue>'https://rc.azlogistik.id/tan/viewotp?data=77788899931'</initValue>
       <name>UrlCekOTP</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://bf.azlogistik.id/admin'</initValue>
+      <name>URLCMSBF</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dandy@az.com'</initValue>
+      <name>UserCMSBF</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Saturnus2023'</initValue>
+      <name>PasswordCMSBF</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

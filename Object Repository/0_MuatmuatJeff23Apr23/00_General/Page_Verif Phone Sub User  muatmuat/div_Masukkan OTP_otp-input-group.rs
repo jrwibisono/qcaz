@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Masukkan OTP_otp-input-group</name>
+   <tag></tag>
+   <elementGuidId>59be35e7-269d-4ec1-8062-78e0c15e006c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.otp-input-group</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>edf21644-d055-4be9-a2d9-3ea37e50ff54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>otp-input-group</value>
+      <webElementGuid>df9a9ed4-5f83-4fa9-afd3-3dbd04d81802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;full-content-blue&quot;]/div[@class=&quot;otp-main-container bg-color-blue&quot;]/div[@class=&quot;otp-main-content-container&quot;]/div[@class=&quot;otp-form-container&quot;]/div[@class=&quot;otp-form-bot-container&quot;]/div[@class=&quot;otp-input-group&quot;]</value>
+      <webElementGuid>ab28d25b-374b-4a0c-be63-b1ccefb9c7ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>514049ad-aad8-4f70-8c61-7b5371a7ccf5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

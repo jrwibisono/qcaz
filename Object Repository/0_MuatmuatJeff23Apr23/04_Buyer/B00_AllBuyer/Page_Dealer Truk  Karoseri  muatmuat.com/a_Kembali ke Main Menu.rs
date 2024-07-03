@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kembali ke Main Menu</name>
+   <tag></tag>
+   <elementGuidId>8dfad90c-5cf9-449b-996b-52af5dcdb443</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='before-login']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-white.fs-14-az.ff-demi-az.lh-16-8.d-lg-block.d-none</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>209e6895-d5b1-412c-9c91-91717c792cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://rc.azlogistik.id/demobigfleet/dashboardDemo</value>
+      <webElementGuid>e46954a5-b019-4768-ae90-f58505ab6feb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white fs-14-az ff-demi-az lh-16-8  d-lg-block d-none</value>
+      <webElementGuid>c413958a-f85c-434d-abec-03a231ea32e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kembali ke Main Menu</value>
+      <webElementGuid>172a9af6-c8b7-4610-935f-6763bd2abe39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;before-login&quot;)/a[@class=&quot;text-white fs-14-az ff-demi-az lh-16-8  d-lg-block d-none&quot;]</value>
+      <webElementGuid>02ee532e-a754-49c4-b466-b7499ce688d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='before-login']/a</value>
+      <webElementGuid>c9057f67-4e6f-4def-91e4-bcc71dfafe35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kembali ke Main Menu')]</value>
+      <webElementGuid>e473ca41-3222-4e80-aec2-a278dec59dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasang Banner Ads'])[1]/preceding::a[1]</value>
+      <webElementGuid>b72e0794-c8d9-45d5-921b-dec5f577a5a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[1]/preceding::a[2]</value>
+      <webElementGuid>6affd74d-4322-4f2a-b42c-469d8818de4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kembali ke Main Menu']/parent::*</value>
+      <webElementGuid>a8bde7ee-d3b3-4937-8ca5-b70c21bc2dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://rc.azlogistik.id/demobigfleet/dashboardDemo')]</value>
+      <webElementGuid>43a9fe9c-30ee-4020-9cc4-840ed31951a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>cb47cf6f-59ff-4296-b95a-a1c687436277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://rc.azlogistik.id/demobigfleet/dashboardDemo' and (text() = 'Kembali ke Main Menu' or . = 'Kembali ke Main Menu')]</value>
+      <webElementGuid>358334dc-7a46-4900-a3da-ef5b8b1d93f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

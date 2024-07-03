@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Karoseri</name>
+   <tag></tag>
+   <elementGuidId>cd234f1c-7414-47bc-b2e1-9b56ac701a87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContCategoryAdv']/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > a.text-nav-buyer.text-white.fs-16-az.ff-demi-az.lh-19-2.spa-category</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5508e5b8-8e8d-4ad2-b146-91878810af00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://buyer.azlogistik.id/dealer-karoseri?KategoriID=41&amp;subKategoriID=25</value>
+      <webElementGuid>2276c21b-eeab-427a-b834-7b10dbf91186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>kategori</name>
+      <type>Main</type>
+      <value>41-25</value>
+      <webElementGuid>ee03f037-66e2-467a-8b6a-8e7988e0a967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2 spa-category</value>
+      <webElementGuid>6633e88d-cbed-4351-abb0-660f5928a136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Karoseri
+                                
+                                </value>
+      <webElementGuid>de3d5bb0-0fc1-403f-8000-8ea077e902b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContCategoryAdv&quot;)/div[3]/a[@class=&quot;text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2 spa-category&quot;]</value>
+      <webElementGuid>f4dce400-cf97-4c5e-88ad-46edfbc61052</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContCategoryAdv']/div[3]/a</value>
+      <webElementGuid>3371fc53-ef98-4108-bd49-407162f0b16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Karoseri')])[2]</value>
+      <webElementGuid>7757d3bc-0126-41a0-9be5-6a6bf2c325a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer Truk'])[2]/following::a[1]</value>
+      <webElementGuid>de7072bd-e6dc-40dd-a3ae-681acba599b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah'])[1]/following::a[2]</value>
+      <webElementGuid>fbe470fd-8588-41b9-b3f5-8bd8981c14aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lainnya'])[2]/preceding::a[1]</value>
+      <webElementGuid>a422c66f-0649-4c7d-9531-f6d4e331846a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Utama'])[1]/preceding::a[2]</value>
+      <webElementGuid>d0e05553-4b78-4fb6-bf1c-4f8dad576ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://buyer.azlogistik.id/dealer-karoseri?KategoriID=41&amp;subKategoriID=25']</value>
+      <webElementGuid>b6cb2008-e4df-4642-9c06-e5bcaad756d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/a</value>
+      <webElementGuid>47817ff8-9a05-4090-81de-e5ff69b72370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://buyer.azlogistik.id/dealer-karoseri?KategoriID=41&amp;subKategoriID=25' and (text() = 'Karoseri
+                                
+                                ' or . = 'Karoseri
+                                
+                                ')]</value>
+      <webElementGuid>5ed7d430-2e5e-4aa1-aaeb-10b81b812eef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

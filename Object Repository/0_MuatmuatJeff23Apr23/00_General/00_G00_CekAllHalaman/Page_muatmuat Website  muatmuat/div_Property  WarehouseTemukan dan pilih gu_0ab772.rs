@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Property  WarehouseTemukan dan pilih gu_0ab772</name>
+   <tag></tag>
+   <elementGuidId>dadc2ff3-828d-425e-b1b0-f179685d71c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > a:nth-of-type(3) > div.card-border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainerCard']/div[3]/a[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7736f13-8066-4671-85c5-66a6f25dbdcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-border</value>
+      <webElementGuid>5fb201a9-e459-4e7a-a117-c2ec1c86baeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Property &amp; WarehouseTemukan dan pilih gudang yang sesuai dengan kebutuhan Anda.</value>
+      <webElementGuid>5e0ed1d8-d3ca-445b-bf3c-de021121557f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainerCard&quot;)/div[3]/a[3]/div[@class=&quot;card-border&quot;]</value>
+      <webElementGuid>832c2e43-51a7-452c-a690-d91bebb7da3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainerCard']/div[3]/a[3]/div</value>
+      <webElementGuid>f071bed1-685a-455b-badf-b3dae3fb0847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari lowongan dan pelamar pekerjaan di bidang logistik.'])[1]/following::div[1]</value>
+      <webElementGuid>d07b40d3-278a-43de-a40d-0d2360143f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Human Capital'])[1]/following::div[2]</value>
+      <webElementGuid>9717a0c2-ee4b-4e99-a218-798c3b32048d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a[3]/div</value>
+      <webElementGuid>b595bc81-8e54-40b1-b06f-253306105eb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Property &amp; WarehouseTemukan dan pilih gudang yang sesuai dengan kebutuhan Anda.' or . = 'Property &amp; WarehouseTemukan dan pilih gudang yang sesuai dengan kebutuhan Anda.')]</value>
+      <webElementGuid>539b8be3-79d8-4972-b8f7-d9543fea18fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

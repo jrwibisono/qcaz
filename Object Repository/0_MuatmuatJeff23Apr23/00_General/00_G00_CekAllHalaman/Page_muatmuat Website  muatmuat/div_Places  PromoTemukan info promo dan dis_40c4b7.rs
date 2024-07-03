@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Places  PromoTemukan info promo dan dis_40c4b7</name>
+   <tag></tag>
+   <elementGuidId>d14ca245-e81f-4924-984c-cf4325e08612</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > a > div.card-border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainerCard']/div[3]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a1771c65-31d4-454a-be2b-4c2d3f577c29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-border</value>
+      <webElementGuid>029fa038-77b9-49ed-ba0f-ae19309b858b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Places &amp; PromoTemukan info promo dan discount kebutuhan logistik Anda di seluruh Indonesia.</value>
+      <webElementGuid>c5a1bd2f-8501-4cbb-963e-347e38058afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainerCard&quot;)/div[3]/a[1]/div[@class=&quot;card-border&quot;]</value>
+      <webElementGuid>2e7b18f1-4121-4188-86ce-8fe61b92c0e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainerCard']/div[3]/a/div</value>
+      <webElementGuid>7024b586-dd65-44bc-af64-5b961e9d5bcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temukan bengkel dan tenaga ahli kendaraan komersial.'])[1]/following::div[2]</value>
+      <webElementGuid>d7703d1a-7d5e-4092-9ba0-b90cb5785d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repair &amp; Maintenance Service'])[1]/following::div[3]</value>
+      <webElementGuid>0bcbe9b3-33c5-42c6-acf5-04acd849e898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div</value>
+      <webElementGuid>c3f60f26-712d-45dc-8bd7-7b84a816c0d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Places &amp; PromoTemukan info promo dan discount kebutuhan logistik Anda di seluruh Indonesia.' or . = 'Places &amp; PromoTemukan info promo dan discount kebutuhan logistik Anda di seluruh Indonesia.')]</value>
+      <webElementGuid>98f6fa39-cfb1-44ac-b32f-b2ac52ac42c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Admin Users Checking</name>
+   <tag></tag>
+   <elementGuidId>1b8f543d-c430-46f0-8670-8a671e3e4cb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='Menu-dbt_users_checkingAdmin']/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Menu-dbt_users_checkingAdmin > a > span.text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8cae388f-4df4-40b6-94a5-bba585d1d0bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c16f57e6-e5e4-43ab-ab82-6b35864d67fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin Users Checking</value>
+      <webElementGuid>e9b8937d-9097-4304-998f-00fbbea3c217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Menu-dbt_users_checkingAdmin&quot;)/a[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>f82ec5e6-e7c5-4601-bed5-98482637ba92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='Menu-dbt_users_checkingAdmin']/a/span[2]</value>
+      <webElementGuid>87d522b2-c9ee-4f1c-89d1-91e83f9b2ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security'])[1]/following::span[2]</value>
+      <webElementGuid>86733a10-d3cb-46c7-a88e-26418960c241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/following::span[4]</value>
+      <webElementGuid>16a5fcff-be2c-4542-b31a-824e35380afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Users Whitelist'])[1]/preceding::span[2]</value>
+      <webElementGuid>13ab57bc-35e6-4bce-a2fe-3628e1e0e68a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktivitas'])[1]/preceding::span[4]</value>
+      <webElementGuid>540c630b-1ff0-43f2-b742-31ff68fd2f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Admin Users Checking']/parent::*</value>
+      <webElementGuid>e53801d8-b2a4-4a76-b251-505f2cacdd34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span[2]</value>
+      <webElementGuid>7f89f3ed-bc07-47c4-9614-37e56745cc55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Admin Users Checking' or . = 'Admin Users Checking')]</value>
+      <webElementGuid>033d0656-bb94-40ae-9c69-5a020a27c7a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

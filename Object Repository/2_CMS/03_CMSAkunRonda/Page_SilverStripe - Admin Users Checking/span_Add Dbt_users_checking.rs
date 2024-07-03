@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Dbt_users_checking</name>
+   <tag></tag>
+   <elementGuidId>e9be20ad-c692-4d0a-88cb-12a0e1109b3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='Form_EditForm_dbt_users_checking']/div[2]/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.btn__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e2d82d59-e128-48d2-ba71-35e869a6980d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn__title</value>
+      <webElementGuid>d2bc8f6c-039e-4985-ba3a-259a7120d922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Dbt_users_checking</value>
+      <webElementGuid>7eecc7de-f3f6-41cb-9d64-da9cff1abf36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Form_EditForm_dbt_users_checking&quot;)/div[@class=&quot;toolbar--content ss-gridfield-buttonrow ss-gridfield-buttonrow-before&quot;]/div[@class=&quot;btn-toolbar&quot;]/a[@class=&quot;action action-detail btn btn-primary font-icon-plus-circled new new-link&quot;]/span[@class=&quot;btn__title&quot;]</value>
+      <webElementGuid>450add3d-1220-4c0f-80bb-29f78cf8448c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='Form_EditForm_dbt_users_checking']/div[2]/div[2]/a/span</value>
+      <webElementGuid>016f1c61-7f12-468c-8b3c-8b7fa497f163</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::span[1]</value>
+      <webElementGuid>35b76c91-9e09-4d03-822a-915aa7e5c734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/following::span[1]</value>
+      <webElementGuid>50d6a0fd-41dd-493d-9b5a-6bf11e03bd7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export to CSV'])[1]/preceding::span[1]</value>
+      <webElementGuid>95b65434-06ee-42f4-b1f8-9eee7b62cb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::span[2]</value>
+      <webElementGuid>b2a8ecfd-e781-4352-89e8-199142e81526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Dbt_users_checking']/parent::*</value>
+      <webElementGuid>2c5692de-bd2b-4cfe-a6f9-2b6e915f7bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a/span</value>
+      <webElementGuid>6176ae2f-8145-4c7c-9b05-3e9c67172f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Dbt_users_checking' or . = 'Add Dbt_users_checking')]</value>
+      <webElementGuid>024bdfa3-c065-468b-8cbf-cad349c358cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

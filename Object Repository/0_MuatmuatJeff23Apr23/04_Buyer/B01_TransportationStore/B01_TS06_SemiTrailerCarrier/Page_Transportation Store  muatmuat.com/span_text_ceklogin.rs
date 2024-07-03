@@ -6,12 +6,12 @@
    <elementGuidId>dfb7d57a-2781-4548-afbb-c53d2d5cf5da</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>/html/body/div[9]/div[1]/div[2]/div[2]/span</value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Daftar atau Masuk untuk menikmati akses penuh di muatmuat' or . = 'Daftar atau Masuk untuk menikmati akses penuh di muatmuat')]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat' or . = 'Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat')]</value>
+         <key>XPATH</key>
+         <value>/html/body/div[9]/div[1]/div[2]/div[2]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,7 +21,7 @@
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat</value>
-      <webElementGuid>3362f3d4-ce87-4805-9e19-62b1b692f7b8</webElementGuid>
+      <value>Daftar atau Masuk untuk menikmati akses penuh di muatmuat</value>
+      <webElementGuid>824dee59-80ab-4764-9c7b-859022513af7</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

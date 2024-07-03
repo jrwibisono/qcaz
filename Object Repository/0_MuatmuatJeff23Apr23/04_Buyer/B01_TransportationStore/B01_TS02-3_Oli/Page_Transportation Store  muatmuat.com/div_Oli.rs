@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b972afef-2520-42d2-9b58-e45d813b44e8</webElementGuid>
+      <webElementGuid>98f70cfa-49ef-4070-aac6-08d3ab1e58f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-body sub-category-detail </value>
-      <webElementGuid>43964315-8755-45d3-afb8-5e71d6ae8e6a</webElementGuid>
+      <webElementGuid>aaacfb5e-406c-49d8-b5e7-056df4a28ebb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <value>
                                         Oli
                                     </value>
-      <webElementGuid>4cbb1faa-5724-4b30-989a-e70f2aa99be8</webElementGuid>
+      <webElementGuid>589edcd8-b29c-462e-9464-49f027add0fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,7 +48,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sub-category-div&quot;)/div[@class=&quot;card border-0 card-sub-kategori&quot;]/div[@class=&quot;card-body sub-category-detail&quot;]</value>
-      <webElementGuid>e36e714c-d1d1-4b5d-bd1c-c0c0b8dab5a2</webElementGuid>
+      <webElementGuid>b832d007-62d9-44fa-8003-fafa6c35880d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sub-category-div']/div[3]/div</value>
-      <webElementGuid>331d36a1-2a55-4c7e-b424-688f82893c5c</webElementGuid>
+      <webElementGuid>4deb097d-f91a-4747-85a7-33b8e3e1c6a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Aki'])[1]/following::div[2]</value>
-      <webElementGuid>d7160bdc-6c7d-4c83-aba1-b82a1bb13dec</webElementGuid>
+      <webElementGuid>a16b9dc3-dc7f-4ee0-9a30-f220d6a98aa7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ban'])[1]/following::div[4]</value>
-      <webElementGuid>df9fd28e-276b-4308-9334-a2bffb66a6e9</webElementGuid>
+      <webElementGuid>8d544147-03ea-4677-a34b-4ff114dfe119</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbaru'])[1]/preceding::div[2]</value>
-      <webElementGuid>3b52ec14-bdb3-4ded-bf21-09b38312153a</webElementGuid>
+      <webElementGuid>c86a3d36-0f47-45b3-bc44-b0ca56723603</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,15 +88,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Oli']/parent::*</value>
-      <webElementGuid>9c3a1dfa-3f55-451d-8c6c-a543f102d4a0</webElementGuid>
+      <webElementGuid>00ca4289-6a63-442e-b535-1b9616d98e32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[3]/div</value>
-      <webElementGuid>433f688f-bbfa-4c49-88d7-0b570a80ad65</webElementGuid>
+      <value>//div[2]/div/div[3]/div[3]/div</value>
+      <webElementGuid>e672d291-2cea-4a32-be2c-d2e57424644f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +108,6 @@
                                     ' or . = '
                                         Oli
                                     ')]</value>
-      <webElementGuid>5fea3779-4d66-435a-b0c4-8e4626a2b92c</webElementGuid>
+      <webElementGuid>12079967-d90f-44b2-a63f-2799afe0ac26</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

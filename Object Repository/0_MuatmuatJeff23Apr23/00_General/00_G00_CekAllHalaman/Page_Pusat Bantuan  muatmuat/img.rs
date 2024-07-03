@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>b23632ae-d624-4901-a232-d2a07987b318</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.logo > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='NavBar']/div/div/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d02ea419-767b-406d-b2a2-704b3ee8a72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/img/e.png</value>
+      <webElementGuid>3ac38c42-fca0-413f-b20f-1000d71f8a5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;NavBar&quot;)/div[@class=&quot;container-fluid flex&quot;]/div[@class=&quot;Left&quot;]/a[1]/div[@class=&quot;logo&quot;]/img[1]</value>
+      <webElementGuid>824061da-46d9-494c-a678-c64de7fb0dc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='NavBar']/div/div/a/div/img</value>
+      <webElementGuid>c89f92fd-4a90-4e1e-9b8f-c8419aac977d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/img</value>
+      <webElementGuid>06665fd4-7b5b-4f62-97df-67445d8e6548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/img/e.png']</value>
+      <webElementGuid>c9c90cae-a43a-4d98-ba34-db82f02549ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

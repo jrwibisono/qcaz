@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>7d7378a0-281d-4219-9914-f3fb72d38300</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#berhasilHapusRole > div.modal-dialog.modal-dialog-centered > div.modal-content > div.modal-header.modal-header-muat.border-0 > button.button-modal-az > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='berhasilHapusRole']/div/div/div/button/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2735aa1c-eef3-4b91-96f7-2ca2cc0a940b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/icon/group-delete.svg</value>
+      <webElementGuid>fcb89a2c-0166-4383-9455-42597ee7dd81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;berhasilHapusRole&quot;)/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header modal-header-muat border-0&quot;]/button[@class=&quot;button-modal-az&quot;]/img[1]</value>
+      <webElementGuid>7a076edd-c1c2-4370-a795-28c32ff2c35e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='berhasilHapusRole']/div/div/div/button/img</value>
+      <webElementGuid>1c6df796-4296-4779-b84c-83606f251eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/button/img</value>
+      <webElementGuid>6580715a-6cab-480d-94f6-dd4fd3c800d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/icon/group-delete.svg']</value>
+      <webElementGuid>cb8cd81b-0a2d-46e2-8683-64f067924fc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

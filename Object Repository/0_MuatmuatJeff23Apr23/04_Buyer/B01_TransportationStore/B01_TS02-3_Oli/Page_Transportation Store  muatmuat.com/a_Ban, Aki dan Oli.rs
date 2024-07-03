@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7677281f-592e-4432-8a8c-ece4ff43e1be</webElementGuid>
+      <webElementGuid>4ae6e8ff-3961-4fed-8a60-beee5a18da8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://buyer.azlogistik.id/transportation-store?KategoriID=48&amp;subKategoriID=36</value>
-      <webElementGuid>d6bc1707-aa65-4194-9857-fbb78cb3a7ba</webElementGuid>
+      <webElementGuid>23425761-6a71-4a9f-9612-cc6f72180261</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2</value>
-      <webElementGuid>6e852836-ec96-41b5-8861-0df9632f94a0</webElementGuid>
+      <webElementGuid>0971d2bc-014b-435b-8703-f8a80d2210eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -48,7 +48,7 @@
       <value>Ban, Aki dan Oli
                                 
                                 </value>
-      <webElementGuid>df7cd8e6-f467-488d-ac3e-a998f24c869d</webElementGuid>
+      <webElementGuid>2bfc88ad-b032-4ada-86c0-d2ce3204ff48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -56,7 +56,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ContCategoryAdv&quot;)/div[4]/a[@class=&quot;text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2&quot;]</value>
-      <webElementGuid>9b134d52-7700-466c-aedc-75d431c79155</webElementGuid>
+      <webElementGuid>daea87c1-d75a-4a62-a6f9-5b54d7e3f420</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ContCategoryAdv']/div[4]/a</value>
-      <webElementGuid>2562c025-0a39-4649-ac5f-bc4b8e66e97f</webElementGuid>
+      <webElementGuid>5f7b920d-7b85-4ee4-a181-bfa456741c68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Ban, Aki dan Oli')])[2]</value>
-      <webElementGuid>2814046a-9739-4dae-a764-7793454ce62c</webElementGuid>
+      <webElementGuid>bd4113b0-2733-4553-8f6d-22b095408e5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Suku Cadang'])[2]/following::a[1]</value>
-      <webElementGuid>fe34f842-a364-4b9d-ac56-06caa2c4a51e</webElementGuid>
+      <webElementGuid>db277edc-aea5-486e-b7a4-f1c1a895931b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Suku Cadang'])[2]/following::a[2]</value>
-      <webElementGuid>df37afed-ec96-4f4b-8d8b-f0b962584e51</webElementGuid>
+      <webElementGuid>7857cdc6-c630-45f7-a47a-9265377f7534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Perlengkapan Angkutan'])[2]/preceding::a[1]</value>
-      <webElementGuid>84e54fd9-4325-40ce-b7a8-6fdc273991a7</webElementGuid>
+      <webElementGuid>1d3748f0-b209-4345-b510-4d338df5d660</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Container, Semi Trailer, Rigid Carrier'])[2]/preceding::a[2]</value>
-      <webElementGuid>ff8f1ea3-c28b-4fd5-934d-2146a5eb7925</webElementGuid>
+      <webElementGuid>45869101-523a-4d21-b52f-f8ccb4dc4f04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,7 +112,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://buyer.azlogistik.id/transportation-store?KategoriID=48&amp;subKategoriID=36')]</value>
-      <webElementGuid>b8661850-c8fe-4572-affe-d902fac83b24</webElementGuid>
+      <webElementGuid>7eb12a09-58b7-455d-a7a3-f2fc85ca308a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,7 +120,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/a</value>
-      <webElementGuid>8c2dc48f-4311-48a2-93c1-2a53e5acc079</webElementGuid>
+      <webElementGuid>46ab0520-3f17-4106-ae09-2fec5de93c59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -132,6 +132,6 @@
                                 ' or . = 'Ban, Aki dan Oli
                                 
                                 ')]</value>
-      <webElementGuid>a6b0d45c-462f-4ab5-9734-96fa293f6d5b</webElementGuid>
+      <webElementGuid>ad74fed0-d44f-448e-a662-43422f0e398b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

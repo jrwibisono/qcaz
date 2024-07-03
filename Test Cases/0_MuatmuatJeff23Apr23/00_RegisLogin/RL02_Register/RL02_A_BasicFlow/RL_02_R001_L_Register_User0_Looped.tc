@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL_02_R001_L_Register_User0_Looped</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55ff7ec3-b922-4d10-9d15-78e77044138a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca2e4ce8-cc31-422b-a6c8-4b0c46d934f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'77788899933'</defaultValue>
+      <description></description>
+      <id>ca2e4ce8-cc31-422b-a6c8-4b0c46d934f3</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+</TestCaseEntity>

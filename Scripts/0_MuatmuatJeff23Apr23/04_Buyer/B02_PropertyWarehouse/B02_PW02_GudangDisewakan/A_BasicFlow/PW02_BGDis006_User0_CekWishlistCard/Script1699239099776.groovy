@@ -17,12 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_00_NoLogin'), 
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/04_Buyer/B02_PropertyWarehouse/B02_PW02_GudangDisewakan/A_BasicFlow/PW02_BGDis001_User0_OpenList'), 
     [:], FailureHandling.CONTINUE_ON_FAILURE)
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B02_PropertyWarehouse/B02_PW02_GudangDisewakan/Page_muatmuat Website  muatmuat/div_Property  WarehouseTemukan dan pilih gu_0ab772'))
-
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B02_PropertyWarehouse/B02_PW02_GudangDisewakan/Page_Property  Warehouse  muatmuat.com/a_Gudang Disewakan'))
 
 WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B02_PropertyWarehouse/B02_PW02_GudangDisewakan/Page_Property  Warehouse  muatmuat.com/div_wishlist_card_satu'))
 
@@ -30,7 +26,7 @@ String CheckedText = WebUI.getText(findTestObject('0_MuatmuatJeff23Apr23/04_Buye
 
 String ResultText = ''
 
-if (CheckedText == 'Silahkan Masuk atau Daftar terlebih dahulu jika belum punya akun muatmuat') {
+if (CheckedText == 'Daftar atau Masuk untuk menikmati akses penuh di muatmuat') {
     ResultText = 'MASIH USER 0'
 } else {
     ResultText = 'TIDAK TERDETEKSI'
