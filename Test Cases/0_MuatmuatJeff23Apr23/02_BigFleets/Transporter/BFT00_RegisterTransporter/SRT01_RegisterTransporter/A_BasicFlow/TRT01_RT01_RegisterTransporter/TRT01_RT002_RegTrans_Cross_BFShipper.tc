@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TRT01_RT002_RegisterTransporter_Cross_BFShipper</name>
+   <name>TRT01_RT002_RegTrans_Cross_BFShipper</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>d1d90369-8e04-4666-8ee3-e466486df182</testCaseGuid>
 </TestCaseEntity>

@@ -4,9 +4,12 @@
    <name>main</name>
    <tag></tag>
    <UUID>d9e112be-8709-4f43-9efa-d8f892abb1cb</UUID>
+   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>FREE</modifiedEdition>
+   <modifiedVersion>9.5.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\QC\katalon\qcaz\main.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\USER\Katalon Studio\muatmuat\main.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

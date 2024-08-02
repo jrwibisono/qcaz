@@ -64,7 +64,7 @@ WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFlee
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/a_Kota Surabaya'))
 
-WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/input_Rute 1_ff-medium-az fc-black-az_1'), 
+WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/input_Rute 1'), 
     'Denpasar')
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/a_Kota Denpasar'))
@@ -84,7 +84,7 @@ WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/input_Towing'), 
     '90.0000')
 
-WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/div_SK Kontrak Harga_alert-form-target'))
+WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/div_SK KH_alert-form'))
 
 WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/02_BigFleets/Transporter/BFT01_KontrakHarga/TKH01_KontrakHarga/A_BasicFlow/TKH01_KH01_BuatKontrakPenawaran/Page_Form Kontrak Harga  muatmuat/textarea_SK Kontrak Harga_fs-12-az'), 
     '1. Apa saja')
