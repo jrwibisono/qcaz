@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_MessageCode200,TextOK (uc131uacf5),Dat_559c02</name>
+   <tag></tag>
+   <elementGuidId>8a74194d-badc-475f-bcc3-480c0242e679</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>7c047e71-81f2-4a31-9fc4-347532f21226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>{&quot;Message&quot;:{&quot;Code&quot;:200,&quot;Text&quot;:&quot;OK (\uc131\uacf5)&quot;},&quot;Data&quot;:{&quot;Pin&quot;:&quot;834856&quot;,&quot;Created&quot;:&quot;2023-08-29 17:38:47&quot;},&quot;Type&quot;:&quot;TAN_Backdoor_OTP&quot;}/html[1]/body[1]</value>
+      <webElementGuid>f58be89b-aefa-4e4e-b268-fc64c8146471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>de5462bc-eb90-4aa9-8292-fc63561ee2a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>d99d9626-5825-4f5a-911f-f5eaa98c3430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = '{&quot;Message&quot;:{&quot;Code&quot;:200,&quot;Text&quot;:&quot;OK (\uc131\uacf5)&quot;},&quot;Data&quot;:{&quot;Pin&quot;:&quot;834856&quot;,&quot;Created&quot;:&quot;2023-08-29 17:38:47&quot;},&quot;Type&quot;:&quot;TAN_Backdoor_OTP&quot;}/html[1]/body[1]' or . = '{&quot;Message&quot;:{&quot;Code&quot;:200,&quot;Text&quot;:&quot;OK (\uc131\uacf5)&quot;},&quot;Data&quot;:{&quot;Pin&quot;:&quot;834856&quot;,&quot;Created&quot;:&quot;2023-08-29 17:38:47&quot;},&quot;Type&quot;:&quot;TAN_Backdoor_OTP&quot;}/html[1]/body[1]')]</value>
+      <webElementGuid>7b162aa8-f7e8-4baf-8912-03638c7bc374</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

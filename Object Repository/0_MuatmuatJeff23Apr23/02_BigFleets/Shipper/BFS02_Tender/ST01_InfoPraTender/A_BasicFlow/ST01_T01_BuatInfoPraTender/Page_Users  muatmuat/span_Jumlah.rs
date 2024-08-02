@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Jumlah</name>
+   <tag></tag>
+   <elementGuidId>12f5ee4b-03a8-4697-ba4e-e9836260dcb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col.text-value.d-flex.align-items-center.text-icon-center > span.ff-demi.fs-12.fc-86.mr-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='unit-truk-0']/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fcc48c6-83f5-4705-99e5-c3bfb4d55471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-demi fs-12 fc-86 mr-12</value>
+      <webElementGuid>afe7e34b-5137-4cb4-ad01-6ee5a34fa37c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jumlah*</value>
+      <webElementGuid>7535e55f-e610-4899-9ce9-b1eeb512b07e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;unit-truk-0&quot;)/div[@class=&quot;row mt-24&quot;]/div[@class=&quot;col text-value d-flex align-items-center text-icon-center&quot;]/span[@class=&quot;ff-demi fs-12 fc-86 mr-12&quot;]</value>
+      <webElementGuid>34701602-1ff6-4a93-909a-89bf21c929f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='unit-truk-0']/div/div[2]/span</value>
+      <webElementGuid>18b2f2f8-5dd3-46e7-8984-ad5bb01348fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Volume'])[1]/following::span[1]</value>
+      <webElementGuid>42a05136-6289-4582-9143-91df14dae354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berat'])[1]/following::span[1]</value>
+      <webElementGuid>bc2e1fc0-9cad-4eb0-a516-c616777a344b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit'])[1]/preceding::span[1]</value>
+      <webElementGuid>85334bf2-aea8-435d-8ac4-63e8c1543bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Truk*'])[1]/preceding::span[2]</value>
+      <webElementGuid>c15ab3eb-d50f-4c14-849f-87d4eee4cd8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jumlah*']/parent::*</value>
+      <webElementGuid>48bfb151-e50b-4a1d-a858-600c1c6eb815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/span</value>
+      <webElementGuid>a467d95e-ba9f-4497-90ad-0416825cac30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Jumlah*' or . = 'Jumlah*')]</value>
+      <webElementGuid>109ca9e1-42f9-419d-8023-3338cbc15bea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

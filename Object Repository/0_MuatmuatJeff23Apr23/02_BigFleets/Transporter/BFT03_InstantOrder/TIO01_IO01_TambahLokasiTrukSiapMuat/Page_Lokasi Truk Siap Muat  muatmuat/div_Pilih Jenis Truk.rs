@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pilih Jenis Truk</name>
+   <tag></tag>
+   <elementGuidId>9b6394bc-4963-46cb-b9cf-5c6fe61a723f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#jenis_truk</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jenis_truk']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d21b3e6-7abd-4752-b02f-60f0a53780af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ff-demi fs-12  fc-86  px-8 jenis_truk lh-normal  d-flex align-items-center text-2-line</value>
+      <webElementGuid>079fa5d2-b175-4ccb-af98-e479ee322425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>jenis_truk</value>
+      <webElementGuid>fc81d390-e91c-4b42-94d5-84f8365f569e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d0f50e2d-3c01-427d-a695-b05d3a9ac284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 
+                                  Pilih Jenis Truk
+                              </value>
+      <webElementGuid>72686c92-0d9d-4acd-b12a-7df13426e8d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jenis_truk&quot;)</value>
+      <webElementGuid>d3b840e2-b0fc-4207-b0e7-79cad1f4e0d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='jenis_truk']</value>
+      <webElementGuid>c128af08-db25-4b15-a66a-bc24a34dd537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-frontend']/div/div/div/div/div[2]/div/div[6]/div[2]/div/div/div</value>
+      <webElementGuid>041db94a-900b-47ee-b5bf-08ab3a9eda3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jenis Truk'])[1]/following::div[4]</value>
+      <webElementGuid>0d3448cf-d93a-47bd-9114-be5b04bb888f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WIT'])[1]/following::div[8]</value>
+      <webElementGuid>0e159674-43be-43aa-b32f-439646aefd85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colt Diesel Engkel'])[1]/preceding::div[2]</value>
+      <webElementGuid>f40cc2f0-3a36-46e9-888a-a6931f065a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colt Diesel Double'])[1]/preceding::div[2]</value>
+      <webElementGuid>48b0b1e6-858f-45cd-972e-f5e9e34be59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Jenis Truk']/parent::*</value>
+      <webElementGuid>291f4d7f-f310-4853-92f2-c72c6ad405aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div</value>
+      <webElementGuid>0dbf51fb-dcbb-4b6b-89ec-49b02b1bc2b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'jenis_truk' and (text() = ' 
+                                  Pilih Jenis Truk
+                              ' or . = ' 
+                                  Pilih Jenis Truk
+                              ')]</value>
+      <webElementGuid>8524cf3f-2065-42a3-94cb-47ff3075b926</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

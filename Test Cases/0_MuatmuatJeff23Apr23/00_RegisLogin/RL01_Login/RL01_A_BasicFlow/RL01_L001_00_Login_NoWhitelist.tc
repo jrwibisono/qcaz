@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL01_L001_00_Login_NoWhitelist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8855cae8-5382-4099-b5e4-ab49f312fd00</testCaseGuid>
+</TestCaseEntity>

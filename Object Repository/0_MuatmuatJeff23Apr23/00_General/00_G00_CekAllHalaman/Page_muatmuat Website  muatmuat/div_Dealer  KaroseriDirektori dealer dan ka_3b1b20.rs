@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dealer  KaroseriDirektori dealer dan ka_3b1b20</name>
+   <tag></tag>
+   <elementGuidId>b0d529b2-1d56-4ecc-9047-173c31d17fe3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > a:nth-of-type(2) > div.card-border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainerCard']/div[2]/a[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fa2b9775-660d-468e-9eca-43ac1cbc1f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-border</value>
+      <webElementGuid>38c96f48-c392-4a03-ae82-4f2589fd0bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dealer &amp; KaroseriDirektori dealer dan karoseri se-Indonesia.</value>
+      <webElementGuid>50d55aa8-a9dc-452b-b151-013f421f09ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainerCard&quot;)/div[2]/a[2]/div[@class=&quot;card-border&quot;]</value>
+      <webElementGuid>21546203-769c-4875-92a0-7332f4340857</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainerCard']/div[2]/a[2]/div</value>
+      <webElementGuid>36c1c6c6-9bbf-475f-9c6f-20e7c3617b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketplace kebutuhan logistik terlengkap.'])[1]/following::div[1]</value>
+      <webElementGuid>6271c74c-6a77-4616-aa43-779580af3565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transportation Store'])[1]/following::div[2]</value>
+      <webElementGuid>59b3accc-de9e-4542-b454-bc066051e9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]/div</value>
+      <webElementGuid>c889551b-0dc8-4e65-8b11-48239dd0175a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Dealer &amp; KaroseriDirektori dealer dan karoseri se-Indonesia.' or . = 'Dealer &amp; KaroseriDirektori dealer dan karoseri se-Indonesia.')]</value>
+      <webElementGuid>40e03d90-0251-4e59-b7c0-3aa241287c12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

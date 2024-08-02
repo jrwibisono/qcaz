@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transporter</name>
+   <tag></tag>
+   <elementGuidId>3a73024b-d8b6-4dc6-8505-06abba4b68ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#transporterDiv > div.card-menu > div.card-body > div.row.justify-content-center.ff-demi-az.fc-1b-az.fs-16-az.card-text.text-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='transporterDiv']/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25f785d0-ff53-43a9-8b74-7073b91ecee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row justify-content-center ff-demi-az fc-1b-az fs-16-az card-text text-center</value>
+      <webElementGuid>b8ab3106-c159-45eb-ac1c-dd152b0d3cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Transporter
+                                    </value>
+      <webElementGuid>0af070c6-093a-42c2-9057-3b3e804b557d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transporterDiv&quot;)/div[@class=&quot;card-menu&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row justify-content-center ff-demi-az fc-1b-az fs-16-az card-text text-center&quot;]</value>
+      <webElementGuid>b7a968a7-050b-4028-86bf-694aed84d833</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='transporterDiv']/div/div[2]/div</value>
+      <webElementGuid>4ce526ae-6931-4fe0-86d2-87c7d3aba7ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transporter']/parent::*</value>
+      <webElementGuid>97c52d70-c499-4203-bb1a-4d941c928e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>4eac619a-0ae2-45cd-b046-ef4fa74db623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                        Transporter
+                                    ' or . = '
+                                        Transporter
+                                    ')]</value>
+      <webElementGuid>eca0cdff-4e11-48ad-b061-4deba8edb699</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

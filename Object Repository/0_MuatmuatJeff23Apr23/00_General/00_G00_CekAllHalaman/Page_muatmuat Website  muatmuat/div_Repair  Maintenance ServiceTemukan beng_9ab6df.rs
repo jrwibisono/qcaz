@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Repair  Maintenance ServiceTemukan beng_9ab6df</name>
+   <tag></tag>
+   <elementGuidId>914af49e-ecc2-475d-8624-de35c9563e42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > a:nth-of-type(3) > div.card-border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainerCard']/div[2]/a[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a2ed331-1115-478c-9800-29aea4269abe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-border</value>
+      <webElementGuid>5299e73a-7b30-4304-bdc4-5e106f05078f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Repair &amp; Maintenance ServiceTemukan bengkel dan tenaga ahli kendaraan komersial.</value>
+      <webElementGuid>4201908c-40c7-43c6-8997-47d6687465e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainerCard&quot;)/div[2]/a[3]/div[@class=&quot;card-border&quot;]</value>
+      <webElementGuid>1f11535b-b5fc-4a2a-88bb-41406f3d35f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainerCard']/div[2]/a[3]/div</value>
+      <webElementGuid>05e30667-0b78-4e09-8ad3-6c4ecb47600d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direktori dealer dan karoseri se-Indonesia.'])[1]/following::div[1]</value>
+      <webElementGuid>aeca4b29-cc28-4df4-933c-2f83f65601b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer &amp; Karoseri'])[1]/following::div[2]</value>
+      <webElementGuid>024c2e2a-2091-4a47-b8cf-5643656677a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[3]/div</value>
+      <webElementGuid>621c435c-13fc-42a8-91ce-b77adb98e1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Repair &amp; Maintenance ServiceTemukan bengkel dan tenaga ahli kendaraan komersial.' or . = 'Repair &amp; Maintenance ServiceTemukan bengkel dan tenaga ahli kendaraan komersial.')]</value>
+      <webElementGuid>58c62247-09fa-4bb9-9ab0-c803da4f74a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Menunggu Konfirmasi   Anda (0)</name>
+   <tag></tag>
+   <elementGuidId>b056b0ff-d3eb-47ac-9fb9-a8e237aeb9e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#konfanda-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='konfanda-header']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e005aa7e-194a-451b-be2f-28d5b6a1713b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-4 tab-folder tab-folder-kontrak-harga tab-folder-inactive</value>
+      <webElementGuid>dd0f649c-fa8a-46fb-b6d2-2481e4470e06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>konfanda-header</value>
+      <webElementGuid>ede08a25-9cfd-4fb7-9b9f-f3ac28602c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-menu</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>622790c3-9867-49bf-a1d3-aaa4c0bfb46e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						Menunggu Konfirmasi   Anda 
+						(0)
+					</value>
+      <webElementGuid>d72673ff-df38-49d3-84cb-5af25bd92625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;konfanda-header&quot;)</value>
+      <webElementGuid>0b8b37ce-1b93-43c7-b8a3-f21bb7cd7969</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='konfanda-header']</value>
+      <webElementGuid>43bd4846-1d8d-439b-a387-cd5f6a51c535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='summary-header']/div[2]</value>
+      <webElementGuid>95e5b0a7-6124-42ce-aa97-f119f9803209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Amandemen'])[1]/following::div[1]</value>
+      <webElementGuid>db9ffa76-789a-40c5-abe1-9a457ff6415c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/following::div[8]</value>
+      <webElementGuid>d36af2b5-66dd-4142-9691-03baebc28149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat'])[1]/preceding::div[1]</value>
+      <webElementGuid>cb6f52df-d612-485d-95aa-438056895307</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>049b2417-409e-402a-9efa-46c5036b6761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'konfanda-header' and (text() = '
+						Menunggu Konfirmasi   Anda 
+						(0)
+					' or . = '
+						Menunggu Konfirmasi   Anda 
+						(0)
+					')]</value>
+      <webElementGuid>00da2436-092e-4c33-a780-b41fb846b85c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

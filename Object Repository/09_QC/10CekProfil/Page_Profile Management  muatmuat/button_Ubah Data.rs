@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ubah Data</name>
+   <tag></tag>
+   <elementGuidId>42adcb59-d005-4bd5-9d32-cd63156da598</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ubahDataPerusahaan</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='ubahDataPerusahaan']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e5bc316a-7f38-4d43-881d-57b0b0622b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tombol-primary-az</value>
+      <webElementGuid>f68a1c22-db3b-4c3f-ab7d-6adabef07f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ubahDataPerusahaan</value>
+      <webElementGuid>231d13c1-fcdd-4f08-9670-65522c284a3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Ubah Data
+                                        </value>
+      <webElementGuid>9daafa89-1372-46aa-85b4-1073edb7944a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ubahDataPerusahaan&quot;)</value>
+      <webElementGuid>80d1b367-c79b-40ea-bbe9-254df0b57842</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='ubahDataPerusahaan']</value>
+      <webElementGuid>de449f49-ace8-4ea5-8780-a30cb654bcbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='containerLihatDataPerusahaan']/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>04c0a639-90a2-4893-8faf-7ee483ca28ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Perusahaan akan ditampilkan pada profil Anda untuk pengguna lainnya'])[1]/following::button[1]</value>
+      <webElementGuid>faf25501-b8d0-4d0c-8b1e-3639582b61eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Perusahaan'])[1]/following::button[1]</value>
+      <webElementGuid>47d8e34c-fad9-48d4-8987-fcdc64ab4465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logo Perusahaan'])[1]/preceding::button[1]</value>
+      <webElementGuid>fa60ca68-a32f-4749-b78b-df97a2f4b25b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Perusahaan'])[1]/preceding::button[1]</value>
+      <webElementGuid>dc1a1374-d12a-4989-ace9-e18f9634c667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ubah Data']/parent::*</value>
+      <webElementGuid>c7da221f-24a0-4ae2-a252-eb6ae52dab27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>498e6161-f461-4d08-bd75-0b14ff3b2a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'ubahDataPerusahaan' and (text() = '
+                                            Ubah Data
+                                        ' or . = '
+                                            Ubah Data
+                                        ')]</value>
+      <webElementGuid>2878624d-efb3-4cc9-bd4f-02e345b330df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

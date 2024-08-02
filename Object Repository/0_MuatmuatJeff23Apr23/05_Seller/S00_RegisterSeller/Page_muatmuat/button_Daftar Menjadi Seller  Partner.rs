@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Daftar Menjadi Seller  Partner</name>
+   <tag></tag>
+   <elementGuidId>c28a5610-61ed-4ab3-b624-78893fc2ae4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#BtnRegisterSeller</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='BtnRegisterSeller']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15f70b85-078e-4bcb-8c7e-04ae9b0ead96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tombol-primary-outline-az margin-remover</value>
+      <webElementGuid>9e9b6a15-259d-4fd5-9e47-992f71583e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>BtnRegisterSeller</value>
+      <webElementGuid>f1a461f3-f786-4073-ad3d-2813e555f710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Menjadi Seller / Partner</value>
+      <webElementGuid>ccbdfbf5-d87e-4ca0-9421-9ba1b1c6241d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BtnRegisterSeller&quot;)</value>
+      <webElementGuid>b60eac4a-9c51-4ff9-8d6e-026d769c188b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='BtnRegisterSeller']</value>
+      <webElementGuid>57bbafbf-e5b6-45c5-85ec-411d6ff5ec90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContBtnRegisterSeller']/button</value>
+      <webElementGuid>10ea319d-3a4d-4f43-9e3b-ce803505df93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jangkau konsumen tanpa batas!'])[1]/following::button[1]</value>
+      <webElementGuid>ee614f44-11f0-4722-bd7d-d7db3070c2be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendaftaraan Anda Ditolak'])[1]/following::button[1]</value>
+      <webElementGuid>5c985bd2-f6ee-4625-bb99-3ed53c1d88c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transportation Store'])[1]/preceding::button[1]</value>
+      <webElementGuid>b70a2606-6d55-42bb-af27-102b92056d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer &amp; Karoseri'])[1]/preceding::button[1]</value>
+      <webElementGuid>c7558716-2b2e-4f71-bb7f-ef8b73c1186b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Menjadi Seller / Partner']/parent::*</value>
+      <webElementGuid>672e0e2a-7a67-4399-b858-79fd902c1346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/button</value>
+      <webElementGuid>d4fd1797-ab56-408d-836e-445e9d85b554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'BtnRegisterSeller' and (text() = 'Daftar Menjadi Seller / Partner' or . = 'Daftar Menjadi Seller / Partner')]</value>
+      <webElementGuid>cfcbd48e-6d32-4ce3-aa6d-b992d63b39ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

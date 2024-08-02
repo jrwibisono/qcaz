@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lainnya</name>
+   <tag></tag>
+   <elementGuidId>c7132d08-1015-4033-b5ae-339c968e52aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ContCategoryAdv']/div[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(8) > a.text-nav-buyer.text-white.fs-16-az.ff-demi-az.lh-19-2.spa-category</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>396494c9-e30d-4a1d-a020-72e765012c5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://buyer.azlogistik.id/intermoda?KategoriID=39&amp;subKategoriID=35</value>
+      <webElementGuid>06f3ad8d-65e7-46b3-bc10-67cbf574baa9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>kategori</name>
+      <type>Main</type>
+      <value>39-35</value>
+      <webElementGuid>b9f96d20-231b-4c52-9054-33ebb302dc95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2 spa-category</value>
+      <webElementGuid>40eedff7-7952-405e-8f9d-b42989cc1938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lainnya
+                                
+                                </value>
+      <webElementGuid>55d2d753-43ba-417f-87d7-4e87a4ae4474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContCategoryAdv&quot;)/div[8]/a[@class=&quot;text-nav-buyer text-white fs-16-az ff-demi-az lh-19-2 spa-category&quot;]</value>
+      <webElementGuid>98a0d80d-5f57-4b28-9198-cac2bf8069f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ContCategoryAdv']/div[8]/a</value>
+      <webElementGuid>46b003b2-32ab-4cbc-89af-7f0fd269cee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lainnya')])[2]</value>
+      <webElementGuid>e62e98c0-b7df-41d0-a2c8-4b1a52704545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Freight Forwarding'])[2]/following::a[2]</value>
+      <webElementGuid>d53875f3-8be9-4d5a-bf7b-092bdebf7405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Air Freight'])[2]/following::a[3]</value>
+      <webElementGuid>87becd66-90e6-48d7-a721-ed094ac89915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Utama'])[1]/preceding::a[1]</value>
+      <webElementGuid>cb72b5f2-8204-4e5e-8652-4a357b6daba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wishlist'])[2]/preceding::a[1]</value>
+      <webElementGuid>3974f5da-91f3-4320-917e-df9bbeaa66ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://buyer.azlogistik.id/intermoda?KategoriID=39&amp;subKategoriID=35']</value>
+      <webElementGuid>6654f868-4eba-4167-8c54-680824a337a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/a</value>
+      <webElementGuid>45cfd4a6-698f-4de0-a4a1-9cdb761e98ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://buyer.azlogistik.id/intermoda?KategoriID=39&amp;subKategoriID=35' and (text() = 'Lainnya
+                                
+                                ' or . = 'Lainnya
+                                
+                                ')]</value>
+      <webElementGuid>f8ff711b-7286-4720-bf62-f967d48e3ad2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

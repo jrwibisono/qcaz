@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Big FleetsKomunitas eksklusif untuk BIG_d7e5d3</name>
+   <tag></tag>
+   <elementGuidId>198a40e8-b1a4-4a11-9a07-8e7076513eae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[(text() = 'Big Fleets' or . = 'Big Fleets')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='generated_menu']/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-border</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e25a109b-0dde-4d7a-a0d2-415ebcbf08bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-border</value>
+      <webElementGuid>6c38a5ad-9ce1-4c2d-92bb-9d0bea5d9c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Big Fleets</value>
+      <webElementGuid>63e2e1ed-56b1-41c7-a00f-e5d84d4e218a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;generated_menu&quot;)/div[1]/a[1]/div[@class=&quot;card-border&quot;]</value>
+      <webElementGuid>9609bc19-23fa-4c7a-bba7-bf79ecf52ee4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='generated_menu']/div/a/div</value>
+      <webElementGuid>a2f41baa-31d8-488b-8ca5-25add984ad0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Kebutuhan Logistik Anda'])[1]/following::div[3]</value>
+      <webElementGuid>98dbabf5-c025-402f-9d50-e330d5340e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semoga harimu menyenangkan di tempat kerja'])[1]/following::div[5]</value>
+      <webElementGuid>d571ed09-3c55-4611-aeb8-31a172bcafd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/div</value>
+      <webElementGuid>8b9a447e-c494-48ee-9a6d-1d863eba555d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Big FleetsKomunitas eksklusif untuk BIG Shipper dan Transporter.' or . = 'Big FleetsKomunitas eksklusif untuk BIG Shipper dan Transporter.')]</value>
+      <webElementGuid>067fd822-4fbe-4a91-8a1a-38d9c0297bc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

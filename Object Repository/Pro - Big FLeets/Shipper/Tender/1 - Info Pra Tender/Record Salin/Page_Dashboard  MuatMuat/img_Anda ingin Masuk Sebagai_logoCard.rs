@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Anda ingin Masuk Sebagai_logoCard</name>
+   <tag></tag>
+   <elementGuidId>5c7e9f4e-aa43-4184-96b3-cdfa551d3a54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.logoCard</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shipperDiv']/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2e7a2539-4d0f-4de9-8a0b-0607ca00b246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logoCard</value>
+      <webElementGuid>7edcb18f-e19b-43d8-94f3-8747a0a83384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/ecosystem/Icon_Dashboard/Shipper_or_Buyer.svg</value>
+      <webElementGuid>809ff892-e409-45ea-ad77-b0811c8ea9cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shipperDiv&quot;)/div[@class=&quot;card-menu&quot;]/div[@class=&quot;card-img-top text-center&quot;]/img[@class=&quot;logoCard&quot;]</value>
+      <webElementGuid>2c824eb6-fdc7-4861-b487-aff5cc9624ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shipperDiv']/div/div/img</value>
+      <webElementGuid>e150d253-8a72-47de-acc1-847aaa9ef0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[2]/div/div/div/img</value>
+      <webElementGuid>b6c12cd8-3606-4a0e-a64f-79ce34baa23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/ecosystem/Icon_Dashboard/Shipper_or_Buyer.svg']</value>
+      <webElementGuid>45c2c096-2950-42ba-bbd8-155b36ca6508</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

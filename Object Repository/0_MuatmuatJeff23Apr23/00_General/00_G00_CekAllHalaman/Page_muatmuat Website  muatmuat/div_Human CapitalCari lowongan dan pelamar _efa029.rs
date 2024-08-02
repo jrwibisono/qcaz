@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Human CapitalCari lowongan dan pelamar _efa029</name>
+   <tag></tag>
+   <elementGuidId>317a069f-e367-4e53-a253-feb99334251e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > a:nth-of-type(2) > div.card-border</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainerCard']/div[3]/a[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dcc1d3e9-e45b-430c-badd-f5016e039924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-border</value>
+      <webElementGuid>5da3e3c1-9c3c-482e-a55f-80e5f2331559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Human CapitalCari lowongan dan pelamar pekerjaan di bidang logistik.</value>
+      <webElementGuid>2da99df8-1956-47bf-9655-95a83b962172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainerCard&quot;)/div[3]/a[2]/div[@class=&quot;card-border&quot;]</value>
+      <webElementGuid>373816f0-cb95-4548-a6a1-32a1c156d0bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainerCard']/div[3]/a[2]/div</value>
+      <webElementGuid>a1c5789f-e8b7-419d-8072-96232394a168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temukan info promo dan discount kebutuhan logistik Anda di seluruh Indonesia.'])[1]/following::div[1]</value>
+      <webElementGuid>f5cb4421-007a-4812-86f9-988222e75cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Places &amp; Promo'])[1]/following::div[2]</value>
+      <webElementGuid>142dec95-2dc1-4779-8baa-66fd2f190c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a[2]/div</value>
+      <webElementGuid>8e14c910-c15b-4d10-a97e-90824f66df8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Human CapitalCari lowongan dan pelamar pekerjaan di bidang logistik.' or . = 'Human CapitalCari lowongan dan pelamar pekerjaan di bidang logistik.')]</value>
+      <webElementGuid>5908cec1-08bd-48d3-8b9b-7bbba3a0b328</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_data_shipper</name>
+   <tag></tag>
+   <elementGuidId>a1e54e47-9328-4f37-9d08-881b4238c822</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;menuDataShipper&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menuDataShipper</value>
+      <webElementGuid>4f2a407d-c87b-40ab-97cd-a7bcf99d0d0b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

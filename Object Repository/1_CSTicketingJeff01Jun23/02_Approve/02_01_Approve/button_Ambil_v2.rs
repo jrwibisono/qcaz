@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ambil_v2</name>
+   <tag></tag>
+   <elementGuidId>ed28d9f8-8307-4ec5-8ad4-b21f6ad22b07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/main/div[2]/div[2]/div[2]/div/table/tbody/tr[1]/td[6]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>body > div > main > div.col-span-12.md\:col-span-12.lg\:col-span-9.xl\:col-span-10.max-lg\:p-4.lg\:p-4.bg-white.rounded > div.my-2 > div.overflow-x-auto.relative.shadow-md.sm\:rounded-lg > div > table > tbody > tr:nth-child(1) > td.py-6.px-2.text-center.grid.grid-cols-1 > button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>487058e8-cb91-4795-9d84-94d4661edc11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>ticketConfirmation(1045, 'Apakah anda yakin akan mengambil tiket ID', 'ambil')</value>
+      <webElementGuid>7c5121c0-2fcf-417f-a56a-a6477554070a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5ced5a80-fd84-4c5b-9f0d-3ed93fe1d42d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-medium text-blue-600  hover:underline</value>
+      <webElementGuid>3afbd369-29a0-4a76-b790-dd0b7c0ade31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ambil</value>
+      <webElementGuid>c10e4c2f-76dc-4fe6-bedd-eefc3dd76c47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;font-sans antialiased&quot;]/div[@class=&quot;min-h-screen bg-gray-100&quot;]/main[@class=&quot;lg:container max-lg:px-4 mx-auto py-4 grid grid-cols-12 lg:space-x-1&quot;]/div[@class=&quot;col-span-12 md:col-span-12 lg:col-span-9 xl:col-span-10 max-lg:p-4  lg:p-4 bg-white rounded&quot;]/div[@class=&quot;my-2&quot;]/div[@class=&quot;overflow-x-auto relative shadow-md sm:rounded-lg&quot;]/div[@class=&quot;min-h-[50vh]&quot;]/table[@class=&quot;w-full text-sm text-left text-gray-500&quot;]/tbody[1]/tr[@class=&quot;bg-white border-b hover:bg-gray-50&quot;]/td[@class=&quot;py-6 px-2 text-center grid grid-cols-1&quot;]/button[@class=&quot;font-medium text-blue-600  hover:underline&quot;]</value>
+      <webElementGuid>a6d4cf08-6a6a-47b0-9ce6-127fa4a4dd08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;ticketConfirmation(1045, 'Apakah anda yakin akan mengambil tiket ID', 'ambil')&quot;]</value>
+      <webElementGuid>e1a4b214-1e87-4c46-a555-8b2e9e536ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rinda'])[1]/following::button[1]</value>
+      <webElementGuid>cc0cdb23-faf6-4a75-bdf9-b79f64e7be16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending External'])[2]/following::button[1]</value>
+      <webElementGuid>0c12a56e-adf2-4ff0-86e8-3f53af075578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending External'])[3]/preceding::button[1]</value>
+      <webElementGuid>ca384fa4-25ca-4f74-89b0-a26079cf6a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rinda'])[2]/preceding::button[1]</value>
+      <webElementGuid>f3e8cd81-1122-4e39-9f6e-3f7608dff538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ambil']/parent::*</value>
+      <webElementGuid>44b910ef-6f72-4a69-9f33-4c9997f09874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/button</value>
+      <webElementGuid>2f650759-e603-4ea7-bd59-eaa30c740217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@href = '#' and (text() = 'Ambil' or . = 'Ambil')]</value>
+      <webElementGuid>badc3671-f643-4662-8df3-05e76424a252</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

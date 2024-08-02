@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>1152de25-e04d-490e-8232-c7341492b2ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='redirect-back']/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.icon-back > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2f17642d-624a-4a7c-8812-707eda73ea5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/icon/icon-back-blue.svg</value>
+      <webElementGuid>e5da3706-e2aa-425e-8fe9-3ea2996d7682</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;redirect-back&quot;)/div[@class=&quot;icon-back&quot;]/img[1]</value>
+      <webElementGuid>12b409d2-93b9-45cd-a6ab-3440fe6f072a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='redirect-back']/div/img</value>
+      <webElementGuid>ff0ec920-7aee-4f90-8b78-88fafade7adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/img</value>
+      <webElementGuid>24b12976-39fb-49d7-bea2-689d8068697a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/icon/icon-back-blue.svg']</value>
+      <webElementGuid>dd1fa003-ed30-4537-a5f0-f903725318cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

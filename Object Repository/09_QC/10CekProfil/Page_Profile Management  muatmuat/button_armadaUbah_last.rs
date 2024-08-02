@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_armadaUbah_last</name>
+   <tag></tag>
+   <elementGuidId>82cc5511-d32f-4d44-8013-d563360bbb20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;badanArmada&quot;]/div[last()]/div[5]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;badanArmada&quot;]/div[last()]/div[5]/button[count(. | //*[(text() = 'Ubah' or . = 'Ubah')]) = count(//*[(text() = 'Ubah' or . = 'Ubah')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;badanArmada&quot;]/div[last()]/div[5]/button</value>
+      <webElementGuid>41201699-a537-41b4-a1b1-15b7e6b857a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ubah</value>
+      <webElementGuid>49f21474-1719-4a0d-a53b-97b1adaa72eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;badanArmada&quot;]/div[last()]/div[5]/button</value>
+      <webElementGuid>55855923-d858-40c1-a47a-153d17c3541f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

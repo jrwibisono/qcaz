@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>ee624e9f-b3b6-4157-9f75-e648d47e9f65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#closemodalconfirmselesai > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='closemodalconfirmselesai']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>92f3c0ee-2309-46eb-9080-d1fe981445d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/icon/group-delete.svg</value>
+      <webElementGuid>8aa382df-a5fa-4f13-b04d-337fb34eba86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;closemodalconfirmselesai&quot;)/img[1]</value>
+      <webElementGuid>997b3968-a104-47c3-8e7e-999dccf6cd74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='closemodalconfirmselesai']/img</value>
+      <webElementGuid>a52bea75-cce8-4c20-8321-5794947fbd20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/button/img</value>
+      <webElementGuid>680ad19f-6c70-4062-9e87-7df59ab0e41b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/icon/group-delete.svg']</value>
+      <webElementGuid>09ee2f7e-51d5-4420-8ba3-ba0e4838faef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

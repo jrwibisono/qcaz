@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Tampilkan semua yang belum dibaca</name>
+   <tag></tag>
+   <elementGuidId>3a3f5768-e058-4043-8321-8983b5badda7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1f554d2f-9960-4218-b210-e348eb66ef69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tampilkan semua yang belum dibaca</value>
+      <webElementGuid>2cc0ff88-4111-4519-945a-6ba4cb9875b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;NotifFilterReadContainer&quot;)/div[@class=&quot;option-container&quot;]/label[1]</value>
+      <webElementGuid>1e28fa9e-f660-48eb-8051-59524b4153cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='NotifFilterReadContainer']/div[2]/label</value>
+      <webElementGuid>fd53c581-1415-4dcb-8b61-c9e59ba030a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan semua notifikasi'])[1]/following::label[1]</value>
+      <webElementGuid>ce261825-8719-49f4-a0b1-07cc5d8204b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tandai Semua Telah Dibaca'])[1]/following::label[2]</value>
+      <webElementGuid>55c11997-4284-4c5b-9b76-97e98fc842f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tampilkan semua yang belum dibaca']/parent::*</value>
+      <webElementGuid>768a96dd-cf42-4116-a75a-c58ad17f6a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>4862b6ad-5745-4322-bcd2-aa9b62a16d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Tampilkan semua yang belum dibaca' or . = 'Tampilkan semua yang belum dibaca')]</value>
+      <webElementGuid>7c250779-b932-430a-acef-b5f8f95fa900</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

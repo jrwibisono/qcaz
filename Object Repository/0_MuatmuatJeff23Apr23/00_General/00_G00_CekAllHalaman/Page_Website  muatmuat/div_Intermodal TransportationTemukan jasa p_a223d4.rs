@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Intermodal TransportationTemukan jasa p_a223d4</name>
+   <tag></tag>
+   <elementGuidId>36590425-101f-432d-a080-f328eec5c87d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainContainerCard']/div/a[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2) > div.card-border</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d516ef10-bf2d-4ba8-8cd5-7b9d1d3ecb95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-border</value>
+      <webElementGuid>3f3f0277-926d-4da3-bfea-f1a688416577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intermodal TransportationTemukan jasa pengurusan dan pengiriman barang Anda.</value>
+      <webElementGuid>1392cc46-966f-42de-9a49-c43cd733222f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContainerCard&quot;)/div[1]/a[2]/div[@class=&quot;card-border&quot;]</value>
+      <webElementGuid>5e88344a-b22e-4c8d-80c9-038b8c169cdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContainerCard']/div/a[2]/div</value>
+      <webElementGuid>4b2de848-c84e-4e38-b360-e257d4239838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komunitas eksklusif Shipper dan Transporter terbesar di Indonesia.'])[1]/following::div[1]</value>
+      <webElementGuid>3cbcb3fa-12c2-47a3-b371-56c948d04008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Big Fleets'])[1]/following::div[2]</value>
+      <webElementGuid>08f79c84-b9df-473b-b199-5f0f47484d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a[2]/div</value>
+      <webElementGuid>1ebf818c-a7a7-4921-8340-c9f659aea8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Intermodal TransportationTemukan jasa pengurusan dan pengiriman barang Anda.' or . = 'Intermodal TransportationTemukan jasa pengurusan dan pengiriman barang Anda.')]</value>
+      <webElementGuid>3ce49924-f7c7-4f2d-ba20-efac8339523c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

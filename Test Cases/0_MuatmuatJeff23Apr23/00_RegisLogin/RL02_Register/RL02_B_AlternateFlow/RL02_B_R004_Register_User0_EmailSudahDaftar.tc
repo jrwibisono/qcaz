@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL02_B_R004_Register_User0_EmailSudahDaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81853e5b-b9fd-46f1-97ea-f03d943e3e5e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eaff13a8-b03c-4a9d-9dbf-f4a24b99168e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'77788899933'</defaultValue>
+      <description></description>
+      <id>eaff13a8-b03c-4a9d-9dbf-f4a24b99168e</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+</TestCaseEntity>

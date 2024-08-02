@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OpsiPilihWarnaKK1</name>
+   <tag></tag>
+   <elementGuidId>67725449-8099-4dff-8ba7-b9e52b5fd3ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>OpsiPilihWarnaKK1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'select2-results__option' and (text() = 'blue' or . = 'blue')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option</value>
+      <webElementGuid>e5c68ea8-bbc2-4818-a575-1f0a35ae32b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>blue</value>
+      <webElementGuid>22dfe2a5-838b-43f8-8a63-1b73c978160a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

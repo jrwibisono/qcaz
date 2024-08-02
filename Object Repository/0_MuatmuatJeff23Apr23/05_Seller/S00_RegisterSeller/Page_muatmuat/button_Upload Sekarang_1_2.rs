@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload Sekarang_1_2</name>
+   <tag></tag>
+   <elementGuidId>e371bba7-38ce-4403-97ad-7a1b3af923ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;fileKhusus-101&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnFileKhusus-101</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>69a6d744-4abe-4e55-ac88-dd8b2ef6e8f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnFileKhusus-101</value>
+      <webElementGuid>02486e03-1e11-456e-8785-8ef14295e979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tombol-primary-az mx-0 btnFileKhusus</value>
+      <webElementGuid>f78441e1-ec45-45c3-9856-d2d71bacd2bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                        Upload Sekarang
+                                    </value>
+      <webElementGuid>047e0f4a-696b-4630-988c-4964a9fd8666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnFileKhusus-101&quot;)</value>
+      <webElementGuid>b0cb9700-5483-4d18-9ef3-0d235808f081</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnFileKhusus-101']</value>
+      <webElementGuid>2c6bb822-d521-406c-9090-f9e79da79ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='htmlAppendInfoLegalitas']/div[2]/div[2]/div[2]/div[3]/button[2]</value>
+      <webElementGuid>513fdbda-b644-4096-8bdf-6c370092f275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lewati'])[2]/following::button[1]</value>
+      <webElementGuid>e6384f6f-7229-4b38-84d9-746c4800864c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format file jpg/png/pdf/zip max.5MB'])[2]/preceding::button[1]</value>
+      <webElementGuid>2967cc90-cafb-4dec-a468-57c7f4afefc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[3]/button[2]</value>
+      <webElementGuid>dc003bc3-6aba-448d-a961-7da1b1dfed60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnFileKhusus-101' and (text() = '
+                                        Upload Sekarang
+                                    ' or . = '
+                                        Upload Sekarang
+                                    ')]</value>
+      <webElementGuid>e4b4fbb2-bb03-4feb-bea7-6379b92ccdee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

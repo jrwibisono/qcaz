@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_(opsional)</name>
+   <tag></tag>
+   <elementGuidId>15a8061b-2d02-4c0a-9f31-52efd4a67d67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.text-input > span.ff-regular.fs-12.fc-86</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form-frontend']/div/div[5]/div/div/div/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>80a86650-f310-4309-a81b-42ddd6e8dcdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ff-regular fs-12 fc-86</value>
+      <webElementGuid>0ee95961-afdb-4c73-8284-75b4d2b65229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(opsional)</value>
+      <webElementGuid>d4354531-9012-4fe8-ada5-fb6b30a91754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-frontend&quot;)/div[@class=&quot;container px-0 d-flex&quot;]/div[@class=&quot;mx-4&quot;]/div[@class=&quot;card card-container&quot;]/div[@class=&quot;card-body px-30&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-3 pr-0&quot;]/label[@class=&quot;text-input&quot;]/span[@class=&quot;ff-regular fs-12 fc-86&quot;]</value>
+      <webElementGuid>3f953c01-e1f4-4176-9cb3-16218f58fdbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-frontend']/div/div[5]/div/div/div/div/label/span</value>
+      <webElementGuid>63b0b8b3-13a3-4b2d-bb3e-86e87beeabe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Koli'])[1]/following::span[1]</value>
+      <webElementGuid>baf59a63-8dbf-4b61-a161-b5761fe4d8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/label/span</value>
+      <webElementGuid>81858c09-facf-4ca3-9fc6-e371d13007a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '(opsional)' or . = '(opsional)')]</value>
+      <webElementGuid>5ca494aa-f2ae-44f9-9477-e5b0e761a474</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

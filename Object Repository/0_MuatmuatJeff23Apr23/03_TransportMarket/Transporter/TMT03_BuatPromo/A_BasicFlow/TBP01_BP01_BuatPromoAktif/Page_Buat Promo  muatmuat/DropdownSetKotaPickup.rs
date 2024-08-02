@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DropdownSetKotaPickup</name>
+   <tag></tag>
+   <elementGuidId>c03a319e-a4c1-41de-acc3-86e8fe1e6d08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;main-window&quot;]/div[4]/div[2]/div/div[2]/div[1]/div[1]/div[2]/div[2]/span/span[1]/span/span[2]/b</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

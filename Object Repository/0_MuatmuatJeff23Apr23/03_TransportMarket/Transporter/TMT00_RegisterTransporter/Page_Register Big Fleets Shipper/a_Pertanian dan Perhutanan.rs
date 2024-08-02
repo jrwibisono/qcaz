@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pertanian dan Perhutanan</name>
+   <tag></tag>
+   <elementGuidId>b3e32dac-64ac-42ce-bfdf-6f47c6ac6236</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bidang-usaha-dropdown']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4bee890-1ce7-4765-8dd5-baab5a014d52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item dropdown-item-bidang-usaha ff-medium-az fs-12-az </value>
+      <webElementGuid>2bee386d-c181-4655-aaf5-b7d12a8b2b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>4a71c70f-6255-47a0-a01b-56e4c7660088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pertanian dan Perhutanan</value>
+      <webElementGuid>29865487-cb5d-4052-be38-76c216372a23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bidang-usaha-dropdown&quot;)/a[@class=&quot;dropdown-item dropdown-item-bidang-usaha ff-medium-az fs-12-az&quot;]</value>
+      <webElementGuid>13d3f111-26f3-4837-83e9-a9431bcae85c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bidang-usaha-dropdown']/a</value>
+      <webElementGuid>e8980050-ce38-4782-afa4-2d7939b671a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pertanian dan Perhutanan')]</value>
+      <webElementGuid>0200989a-2443-4075-a0a6-1482225c54db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bidang Usaha Lainnya'])[1]/following::a[1]</value>
+      <webElementGuid>e6a5126f-0ba8-4830-a5b2-62a32d71dcb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Bidang Usaha'])[2]/following::a[2]</value>
+      <webElementGuid>26dc7b05-c5bd-42d6-bfc7-02484582628a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peternakan'])[1]/preceding::a[1]</value>
+      <webElementGuid>ab91c417-1c38-4e13-a6ca-d26d44a50cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perikanan'])[1]/preceding::a[2]</value>
+      <webElementGuid>1602efed-60d9-4bf9-b2be-dfae87dba0a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pertanian dan Perhutanan']/parent::*</value>
+      <webElementGuid>9612d626-8431-4fbd-a2b6-d4d61fd1cb8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/a</value>
+      <webElementGuid>483f8a3d-c972-4903-bb02-da7be17d6a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Pertanian dan Perhutanan' or . = 'Pertanian dan Perhutanan')]</value>
+      <webElementGuid>dea6e864-e2c7-4d8e-8a16-e22c4bd579eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

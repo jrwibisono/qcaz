@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Harga Promo (Rp)_btn-add pointer</name>
+   <tag></tag>
+   <elementGuidId>9686a148-f5be-49e3-8e21-7296a3fa615e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fleet_list']/div/img[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.btn-add.pointer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b7ff350b-0c7f-4afa-a0d3-e5810207752e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-add pointer</value>
+      <webElementGuid>39ae6ecc-550c-4b93-be75-e617a1642735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/images/ic_btn_add.svg</value>
+      <webElementGuid>e1e6ee4a-c9f5-47f9-b8b5-24d0b808d49d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fleet_list&quot;)/div[@class=&quot;d-flex align-items-center armada-item&quot;]/img[@class=&quot;btn-add pointer&quot;]</value>
+      <webElementGuid>8e63188c-3e43-45a3-b9b3-3ac7f5c566cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fleet_list']/div/img[2]</value>
+      <webElementGuid>be5426fb-1b24-4cc6-a9ee-02c206cc12f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/img[2]</value>
+      <webElementGuid>0b3190c9-3843-498b-8f9c-57f47f932745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/images/ic_btn_add.svg']</value>
+      <webElementGuid>7d3e09ac-53c6-472d-9e2c-8543abf509da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

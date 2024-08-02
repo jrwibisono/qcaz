@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_nomorWA</name>
+   <tag></tag>
+   <elementGuidId>d9a313fe-3617-4540-a077-5f4a00d0230f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pane-side']/div[2]/div/div/div[12]/div/div/div/div[2]/div[2]/div/span/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(contains(text(), 'Dandy') or contains(., 'Dandy'))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._199zF._3j691._2IMPQ > div._8nE1Y > div._2KKXC > div.vQ0w7 > span.p357zi0d.r15c9g6i > span.ggj6brxn.gfz4du6o.r7fjleex.g0rxnol2.lhj4utae.le5p0ye3.l7jjieqr._11JPr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>38557fdc-c771-455e-918d-8fd82d432ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>ltr</value>
+      <webElementGuid>16358b8a-afba-4005-9078-0cf8dce8c979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ggj6brxn gfz4du6o r7fjleex g0rxnol2 lhj4utae le5p0ye3 l7jjieqr _11JPr</value>
+      <webElementGuid>17289489-9abe-4e0d-817c-eaeed020593b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dandy</value>
+      <webElementGuid>0074842f-1294-48a8-940e-dd937eb6ed56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pane-side&quot;)/div[2]/div[1]/div[@class=&quot;_3YS_f _2A1R8&quot;]/div[@class=&quot;lhggkp7q ln8gz9je rx9719la&quot;]/div[@class=&quot;g0rxnol2&quot;]/div[1]/div[@class=&quot;_199zF _3j691 _2IMPQ&quot;]/div[@class=&quot;_8nE1Y&quot;]/div[@class=&quot;_2KKXC&quot;]/div[@class=&quot;vQ0w7&quot;]/span[@class=&quot;p357zi0d r15c9g6i&quot;]/span[@class=&quot;ggj6brxn gfz4du6o r7fjleex g0rxnol2 lhj4utae le5p0ye3 l7jjieqr _11JPr&quot;]</value>
+      <webElementGuid>ced57d34-e66e-4db2-942f-caac80f1f073</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pane-side']/div[2]/div/div/div[12]/div/div/div/div[2]/div[2]/div/span/span</value>
+      <webElementGuid>8538af6c-cb37-4673-892e-9283f80506ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thursday'])[1]/following::span[3]</value>
+      <webElementGuid>afcce0be-9328-4f76-b216-ac4a40bf469a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(You)'])[1]/following::span[4]</value>
+      <webElementGuid>8b748d64-59c8-46f7-ac2e-27e8a5b12664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ingfo'])[1]/preceding::span[6]</value>
+      <webElementGuid>54c95e04-90d2-4f61-9c80-8732bfb354a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='yesterday'])[3]/preceding::span[7]</value>
+      <webElementGuid>ade3686d-5ffb-4d5d-ab81-0f488dd3dcf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div/div[2]/div[2]/div/span/span</value>
+      <webElementGuid>ae97f8a9-dcfc-45c3-8e4d-e6451d80fd48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '086087088023 
+Az12345678' or . = '086087088023 
+Az12345678')]</value>
+      <webElementGuid>dd029884-fc7b-49d4-aa4c-ccf4355e3269</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

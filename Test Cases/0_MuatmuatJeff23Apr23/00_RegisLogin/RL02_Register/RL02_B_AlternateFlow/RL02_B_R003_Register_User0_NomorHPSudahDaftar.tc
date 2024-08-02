@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL02_B_R003_Register_User0_NomorHPSudahDaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>522d46c5-a065-48b6-916d-2e0a7253e658</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b198d564-2265-4c0b-97df-814c402b23fd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'77788899933'</defaultValue>
+      <description></description>
+      <id>b198d564-2265-4c0b-97df-814c402b23fd</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+</TestCaseEntity>

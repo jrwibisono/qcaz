@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Info Permintaan Muat</name>
+   <tag></tag>
+   <elementGuidId>ae81b3f0-e638-45c5-98eb-4899d27933ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#InfoPermintaanMuat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='InfoPermintaanMuat']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>16829273-5abc-42e9-9873-4cc0962b7ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>InfoPermintaanMuat</value>
+      <webElementGuid>8f70a62b-e851-4b22-863c-199d8cc0c31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://qc.assetlogistik.com/bigfleets/permintaanMuatAktifGrid</value>
+      <webElementGuid>cdbab2c6-5d0a-448e-a37f-7ad6ab39d22f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Info Permintaan Muat </value>
+      <webElementGuid>6b4d91e2-5772-4c11-a7c6-6f59ea7a7499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;InfoPermintaanMuat&quot;)</value>
+      <webElementGuid>859596cd-75a0-4e2b-967d-8625bbbb1c88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='InfoPermintaanMuat']</value>
+      <webElementGuid>bb768fde-376a-44c7-9e89-0f37f52016ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='InfoPermintaanMuatSidebar']/a</value>
+      <webElementGuid>9901e537-2b3e-4f2d-8aaa-fa661c8cd5cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Info Permintaan Muat')]</value>
+      <webElementGuid>ed20609d-f0b1-4fad-bfe2-225640a1b4ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(12)'])[1]/following::a[1]</value>
+      <webElementGuid>0885b424-cee6-4845-8ec0-e251e3cc69bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lokasi Truk Siap Muat'])[1]/following::a[1]</value>
+      <webElementGuid>98623eb4-2204-4c88-b2c8-5b3ae5b515cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(3)'])[2]/preceding::a[1]</value>
+      <webElementGuid>ed0e614e-5b3c-44ec-9291-710c279e9453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Entry'])[3]/preceding::a[1]</value>
+      <webElementGuid>8a3cb70e-0fee-45bd-8fb1-ea8b4d69dd21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Info Permintaan Muat']/parent::*</value>
+      <webElementGuid>502cf497-f112-4c2c-b5f7-bc2e4d0d8f1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://qc.assetlogistik.com/bigfleets/permintaanMuatAktifGrid')]</value>
+      <webElementGuid>00a89193-b46c-4cfe-a64c-8a3c45f83cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[2]/a</value>
+      <webElementGuid>0e12640c-40eb-4a87-8de5-e9ce14122af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'InfoPermintaanMuat' and @href = 'https://qc.assetlogistik.com/bigfleets/permintaanMuatAktifGrid' and (text() = 'Info Permintaan Muat ' or . = 'Info Permintaan Muat ')]</value>
+      <webElementGuid>0b10a51e-7ac9-48eb-b83a-7aaaa4c7be77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

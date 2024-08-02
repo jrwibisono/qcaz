@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_notifi</name>
+   <tag></tag>
+   <elementGuidId>01e8c617-b3a8-429f-99df-3bf38c3850c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@src = '/_resources/themes/muat/image/icon/svg/icon-header-new-bigfleet-notification.svg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(3) > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='userMasukContainer']/div/a[3]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ee8add85-c94f-4891-bd92-32cfe9077456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_resources/themes/muat/image/icon/svg/icon-header-new-bigfleet-notification.svg</value>
+      <webElementGuid>457137f5-751b-48ad-a706-272311040dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;header-container fixed-top&quot;]/div[@class=&quot;fixed-top main-header&quot;]/div[1]/nav[@id=&quot;userMasukContainer&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/a[3]/img[1]</value>
+      <webElementGuid>2acb067a-038c-4722-968d-df60703d8ecf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='userMasukContainer']/div/a[3]/img</value>
+      <webElementGuid>e6ebfa93-0e28-487a-9f70-7f056c29e62c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/img</value>
+      <webElementGuid>7c490a2c-90ff-437b-b028-ba5160c816d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/_resources/themes/muat/image/icon/svg/icon-header-new-bigfleet-notification.svg']</value>
+      <webElementGuid>e31e45d6-724e-46b3-910d-4c53a72382db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL02_B_R006_Register_User0_SK_Uncheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cbb392e-a351-4cfa-9900-2146f52eee8b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5eb86d9c-cda0-40e4-aac4-07619826eba3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'77788899933'</defaultValue>
+      <description></description>
+      <id>5eb86d9c-cda0-40e4-aac4-07619826eba3</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+</TestCaseEntity>

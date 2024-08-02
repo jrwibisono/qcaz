@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RL02_B_R011_Register_User0_OTP_InputSalah</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c5620fd-d402-4f8b-bf75-85a1cf33ab3d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d4eef4e3-e179-4a8d-93d9-1e1b492ef8e1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'77788899933'</defaultValue>
+      <description></description>
+      <id>d4eef4e3-e179-4a8d-93d9-1e1b492ef8e1</id>
+      <masked>false</masked>
+      <name>noTelp</name>
+   </variable>
+</TestCaseEntity>
