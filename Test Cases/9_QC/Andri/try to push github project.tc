@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Andri</name>
+   <name>try to push github project</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>f7984708-f9aa-4385-a532-375f4c113ddb</testCaseGuid>
 </TestCaseEntity>

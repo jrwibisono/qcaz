@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_SK Kontrak Harga_alert-form-target</name>
+   <name>div_SK KH_alert-form</name>
    <tag></tag>
    <elementGuidId>7a646e40-9aa8-406c-9d14-40135f9b2f6c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.form-kontrak-column > div.alert-form-target</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='app-vue']/div[2]/div[3]/div[3]/div/div[2]</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-kontrak-column > div.alert-form-target</value>
+      </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
