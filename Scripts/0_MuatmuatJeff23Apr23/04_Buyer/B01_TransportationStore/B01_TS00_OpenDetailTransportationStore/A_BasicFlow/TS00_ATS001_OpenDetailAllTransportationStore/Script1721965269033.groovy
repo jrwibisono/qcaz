@@ -17,16 +17,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_00_NoLogin'), 
-    [:], FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_Login'), [:], 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_muatmuat Website  muatmuat/button_Temukan keperluan pengemasan produk _b2e74a'))
 
 'Masuk Transportation Store'
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_muatmuat Website  muatmuat/img_Intermodal Transportation_image-item-category'))
 
+WebUI.waitForPageLoad(60)
+
+WebUI.waitForJQueryLoad(60)
+
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/a_Kendaraan Kargo'))
+
+WebUI.waitForPageLoad(60)
+
+WebUI.waitForJQueryLoad(60)
+
 'Loop Kendaraan Kargo'
-for (def row = 1; row <= findTestData('transportation_store_kendaraan_kargo').getRowNumbers(); row++) {
+for (def row = 1; row <= findTestData('DataBuyer/TS01_01_buyer_transportation_store_kendaraan_kargo').getRowNumbers(); row++) {
     'Load Page - Awal Loop'
     WebUI.waitForPageLoad(60)
 
@@ -34,7 +44,7 @@ for (def row = 1; row <= findTestData('transportation_store_kendaraan_kargo').ge
 
     'Search Text'
     WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/input_Pencarian Terakhir_form-pencarian'), 
-        'kargo')
+        findTestData('DataBuyer/TS01_01_buyer_transportation_store_kendaraan_kargo').getValue(12, row))
 
     'Search Button'
     WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/img_Pencarian Terakhir_icon-search-white-24'))

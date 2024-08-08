@@ -6,12 +6,12 @@
    <elementGuidId>1e18d162-eed0-44e2-b4eb-cd43d8cb269d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-of-type(3) > a:nth-of-type(2) > div.card-border</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;menuCategory&quot;]/a[7]/div/div/div[1]/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='mainContainerCard']/div[3]/a[2]/div</value>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > a:nth-of-type(2) > div.card-border</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>ca8a9e39-86ca-43a9-ac94-1dbcbec85066</webElementGuid>
+      <webElementGuid>dcea9b78-aa64-4e6f-a3a2-6e17a9d700e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-border</value>
-      <webElementGuid>01d68d6a-5b6e-4236-bb15-4218ac8cb103</webElementGuid>
+      <webElementGuid>f08bd04c-40e1-4330-a715-a29b75dd0273</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Human CapitalCari lowongan dan pelamar pekerjaan di bidang logistik.</value>
-      <webElementGuid>f9b56d7f-99da-46fc-bed0-ed2d5506a689</webElementGuid>
+      <webElementGuid>9d8dfa26-8fb3-4146-85d3-5de5af188404</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mainContainerCard&quot;)/div[3]/a[2]/div[@class=&quot;card-border&quot;]</value>
-      <webElementGuid>482f727a-8f76-4c19-883f-c891d997a60d</webElementGuid>
+      <webElementGuid>cdf97f78-e979-4479-b5e7-91ec07abbfd5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mainContainerCard']/div[3]/a[2]/div</value>
-      <webElementGuid>276783b5-318a-4970-97b1-bd418db53756</webElementGuid>
+      <webElementGuid>737ad685-761b-4926-af10-8f956bb0995e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Temukan info promo dan discount kebutuhan logistik Anda di seluruh Indonesia.'])[1]/following::div[1]</value>
-      <webElementGuid>5d3ba0b3-8353-4056-aa83-2318452aa806</webElementGuid>
+      <webElementGuid>694a58c1-fcbb-43ae-a97f-2b41dd449730</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Places &amp; Promo'])[1]/following::div[2]</value>
-      <webElementGuid>a9f03b39-ea04-4a78-b360-a239e7f499fe</webElementGuid>
+      <webElementGuid>58df5939-6260-4c92-b458-05da6650d303</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a[2]/div</value>
-      <webElementGuid>36139fb7-6194-4e18-a51b-d71635d78b20</webElementGuid>
+      <webElementGuid>ead19429-cfba-4a58-8bd4-8ea017059d53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Human CapitalCari lowongan dan pelamar pekerjaan di bidang logistik.' or . = 'Human CapitalCari lowongan dan pelamar pekerjaan di bidang logistik.')]</value>
-      <webElementGuid>945758e7-c15c-4fa6-9eaf-f999bc467ca8</webElementGuid>
+      <webElementGuid>beb45628-a905-40ac-a578-a8e2eb67559c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

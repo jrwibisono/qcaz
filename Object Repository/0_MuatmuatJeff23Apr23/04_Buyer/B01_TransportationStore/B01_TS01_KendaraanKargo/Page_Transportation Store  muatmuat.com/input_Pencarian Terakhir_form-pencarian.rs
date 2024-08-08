@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='form-pencarian']</value>
+         <value>//*[@id=&quot;form-pencarian&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6d6df2ba-7414-4367-a181-1577a8370769</webElementGuid>
+      <webElementGuid>ac7756e9-f943-4e83-b9ee-4523e62d90ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bcfccf36-e767-4407-8f3a-40b418f47bac</webElementGuid>
+      <webElementGuid>2c782ad0-c235-44e2-a438-0a462dc9d5cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input-no-style input-pencarian</value>
-      <webElementGuid>05237e55-d5fe-4aab-8af2-41a08f4698d6</webElementGuid>
+      <webElementGuid>aa5e5212-dc26-4eb6-b75b-7aa9a0cb84b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>form-pencarian</value>
-      <webElementGuid>edf16d1f-a292-49b8-ad05-270f198c7bdd</webElementGuid>
+      <webElementGuid>a73e3637-15d7-4546-ae09-cd78af8574aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>b786ca56-2d64-4db5-9d31-6c359d8c533e</webElementGuid>
+      <webElementGuid>de16dc05-7a56-47c2-82b2-a0419a7acbc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Masukan Pencarian</value>
-      <webElementGuid>3a422fc6-fb1b-4d08-bb3a-13f609832ff3</webElementGuid>
+      <webElementGuid>8f7a9e0e-c69c-47e1-8445-f0a999bc1c80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form-pencarian&quot;)</value>
-      <webElementGuid>eb8f6f35-6a3c-494c-9645-28230c5a36ef</webElementGuid>
+      <webElementGuid>39a4be20-e9ee-4b36-80ca-b23ed182b7ec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='form-pencarian']</value>
-      <webElementGuid>ab84af88-efd8-47ef-b73e-33fe1335db44</webElementGuid>
+      <webElementGuid>cabc27ad-eb91-4d31-a6c8-bab7e6eea606</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headerBuyerBox']/div[2]/div[2]/input</value>
-      <webElementGuid>736e3ef6-ab69-4a85-b4c6-391026761af1</webElementGuid>
+      <webElementGuid>e3589ff9-f092-4eea-897c-53107c48ba2f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>2101ce2b-01f9-4911-98cb-38e3937827f4</webElementGuid>
+      <webElementGuid>f35f8e3c-80d2-4dd2-bc49-214da800c0f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'form-pencarian' and @placeholder = 'Masukan Pencarian']</value>
-      <webElementGuid>597a4af6-3e65-4d21-92c1-38bf904a4c43</webElementGuid>
+      <webElementGuid>5b2cf8de-267a-4f80-95a2-1f761a8c37ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

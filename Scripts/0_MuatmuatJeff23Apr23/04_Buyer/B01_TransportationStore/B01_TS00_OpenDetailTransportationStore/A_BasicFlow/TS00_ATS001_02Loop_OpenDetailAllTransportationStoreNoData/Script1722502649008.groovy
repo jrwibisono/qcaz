@@ -17,41 +17,83 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_00_NoLogin'), 
-    [:], FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/RL01_A_BasicFlow/RL01_L001_Login'), [:], 
+    FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_muatmuat Website  muatmuat/button_Temukan keperluan pengemasan produk _b2e74a'))
 
 'Masuk Transportation Store'
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_muatmuat Website  muatmuat/img_Intermodal Transportation_image-item-category'))
 
-int iklan = 1
+WebUI.waitForPageLoad(60)
 
-card_iklan = WebUI.modifyObjectProperty(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B00_AllBuyer/Page_Transportation Store  muatmuat.com/div_card'), 
-    'xpath', 'equals', ('id("grid-card-api")/div[' + iklan) + ']', true)
+WebUI.waitForJQueryLoad(60)
 
-boolean foundPart = WebUI.verifyElementPresent(card_iklan, 30)
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/a_Kendaraan Kargo'))
 
-//if() {
-//	
-//}
-//
-while (foundPart) {
-    'Mulai While'
-    WebUI.click(card_iklan)
+WebUI.waitForPageLoad(60)
 
-    'Btn Back'
-    WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B00_AllBuyer/Page_Transportation Store  muatmuat.com/img'))
+WebUI.waitForJQueryLoad(60)
 
-    iklan++
+boolean btn_next = true
 
-    card_iklan = WebUI.modifyObjectProperty(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B00_AllBuyer/Page_Transportation Store  muatmuat.com/div_card'), 
-        'xpath', 'equals', ('id("grid-card-api")/div[' + iklan) + ']', true)
+// Loop Page
+while (btn_next) {
+	
+	int iklan = 1
+	
+	card_iklan = WebUI.modifyObjectProperty(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B00_AllBuyer/Page_Transportation Store  muatmuat.com/div_card'),
+		'xpath', 'equals', ('id("grid-card-api")/div[' + iklan) + ']', true)
+	
+	
+//	foundPart = true
+	
+	boolean foundPart = WebUI.verifyElementPresent(card_iklan, 30, FailureHandling.OPTIONAL)
+	
+	WebUI.waitForPageLoad(60)
+	
+	WebUI.waitForJQueryLoad(60)
+	
+	// Loop Card
+    while (foundPart) {
+        'Mulai While'
+        
+        WebUI.click(card_iklan)
 
-    foundPart = WebUI.verifyElementPresent(card_iklan, 30, FailureHandling.OPTIONAL)
+        WebUI.waitForPageLoad(60)
 
-	if((foundPart == false) || (iklan > 12)) {
-		break
-	}
+        WebUI.waitForJQueryLoad(60)
+
+        'Btn Back'
+        WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B00_AllBuyer/Page_Transportation Store  muatmuat.com/img'))
+
+        iklan++
+
+        card_iklan = WebUI.modifyObjectProperty(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B00_AllBuyer/Page_Transportation Store  muatmuat.com/div_card'), 
+            'xpath', 'equals', ('id("grid-card-api")/div[' + iklan) + ']', true)
+
+		WebUI.waitForPageLoad(60)
+		
+		WebUI.waitForJQueryLoad(60)
+		
+        foundPart = WebUI.verifyElementPresent(card_iklan, 30, FailureHandling.OPTIONAL)
+
+        if ((foundPart == false) || (iklan > 15)) {
+            break
+        }
+    }
+    
+    WebUI.waitForPageLoad(60)
+
+    WebUI.waitForJQueryLoad(60)
+
+    btn_next = WebUI.verifyElementPresent(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B00_AllBuyer/Page_Transportation Store  muatmuat.com/div_next_page'), 
+        30, FailureHandling.OPTIONAL)
+
+    if (btn_next == false) {
+        break
+    } else {
+        WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B00_AllBuyer/Page_Transportation Store  muatmuat.com/div_next_page'))
+    }
 }
 

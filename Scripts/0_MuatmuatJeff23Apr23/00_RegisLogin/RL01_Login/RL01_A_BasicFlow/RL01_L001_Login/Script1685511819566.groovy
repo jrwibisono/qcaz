@@ -87,6 +87,10 @@ WebUI.switchToWindowIndex(currentWindow2 + 1)
 
 WebUI.navigateToUrl(GlobalVariable.URLMuatmuat)
 
+WebUI.waitForPageLoad(60)
+
+WebUI.waitForJQueryLoad(60)
+
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B00_AllBuyer/Page_muatmuat Website  muatmuat/button_Temukan keperluan pengemasan produk _b2e74a'))
 
 WebUI.click(findTestObject('8_Test/02_CobaLoginMuatmuatDenganWhiteList/Page_Request Whitelist  muatmuat/Login'))

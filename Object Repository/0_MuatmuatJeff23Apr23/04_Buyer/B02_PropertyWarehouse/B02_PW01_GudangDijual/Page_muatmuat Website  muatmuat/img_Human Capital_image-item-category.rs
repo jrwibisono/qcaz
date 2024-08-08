@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='menuCategory']/a[8]/div/div/div/img</value>
+         <value>//*[@id=&quot;menuCategory&quot;]/a[8]/div/div/div[1]/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>abcc0088-5dfd-44f4-814c-de20289a52db</webElementGuid>
+      <webElementGuid>b692c621-46f6-43ff-9d90-93004936369d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>image-item-category</value>
-      <webElementGuid>2efe8323-860e-4f85-aad9-7ed998839204</webElementGuid>
+      <webElementGuid>daf01640-6144-4168-9b5a-53245a5092e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +37,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://azlogistik-rc.s3.ap-southeast-3.amazonaws.com/content-general/assets/icon/kategori_menu/10.png</value>
-      <webElementGuid>34bd244b-a05f-4482-a9ae-d305e7007721</webElementGuid>
+      <webElementGuid>c4afa7bd-52d2-4606-9ce8-821ecb9291b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menuCategory&quot;)/a[@class=&quot;kategori-class&quot;]/div[@class=&quot;item-category&quot;]/div[@class=&quot;container-content-category&quot;]/div[@class=&quot;image-container-category&quot;]/img[@class=&quot;image-item-category&quot;]</value>
-      <webElementGuid>87a91cbb-1ba5-47ab-ac5d-84c2ecf9577f</webElementGuid>
+      <webElementGuid>8f20ed8a-99a8-4cc0-8403-8e50be69501e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='menuCategory']/a[8]/div/div/div/img</value>
-      <webElementGuid>79ef2c73-65ef-4be3-b58b-a0267605204e</webElementGuid>
+      <webElementGuid>c347cfd0-3f6c-402d-8bff-d1ae71a69b38</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[contains(@src,'https://azlogistik-rc.s3.ap-southeast-3.amazonaws.com/content-general/assets/icon/kategori_menu/10.png')]</value>
-      <webElementGuid>c8f360de-6e41-4f2d-bab0-36b0288f9db0</webElementGuid>
+      <webElementGuid>47cbb38f-ce1e-45e5-92af-3619b13cb356</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[8]/div/div/div/img</value>
-      <webElementGuid>a651afc0-d084-4250-b3d8-9aa098440f79</webElementGuid>
+      <webElementGuid>dad6f17d-aab2-4780-9ef1-dcfb2ba51b9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://azlogistik-rc.s3.ap-southeast-3.amazonaws.com/content-general/assets/icon/kategori_menu/10.png']</value>
-      <webElementGuid>3500579c-0523-43ee-b40e-959a44122bdc</webElementGuid>
+      <webElementGuid>96080a5a-f478-457d-a311-f7145d2ca7ef</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
