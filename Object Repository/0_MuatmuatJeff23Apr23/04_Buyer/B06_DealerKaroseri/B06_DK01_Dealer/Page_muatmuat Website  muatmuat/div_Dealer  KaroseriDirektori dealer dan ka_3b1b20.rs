@@ -6,12 +6,12 @@
    <elementGuidId>cadf5172-856b-4f25-8682-4f6a246375ab</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-of-type(2) > a:nth-of-type(2) > div.card-border</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;menuCategory&quot;]/a[5]/div/div/div[1]/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='mainContainerCard']/div[2]/a[2]/div</value>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > a:nth-of-type(2) > div.card-border</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>07f33302-db45-4ea5-bbcd-0257de655ca2</webElementGuid>
+      <webElementGuid>ede6de4e-d0de-4f07-9537-df6050f98445</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-border</value>
-      <webElementGuid>0512e304-9e55-4922-9951-6516bad82108</webElementGuid>
+      <webElementGuid>c1391adc-7daf-4ebf-bff0-023d87650644</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Dealer &amp; KaroseriDirektori dealer dan karoseri se-Indonesia.</value>
-      <webElementGuid>c5443780-1eae-4439-8fd6-ac1de9cbd7fc</webElementGuid>
+      <webElementGuid>e1fceb23-69a8-4ace-898a-b62f6375761c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mainContainerCard&quot;)/div[2]/a[2]/div[@class=&quot;card-border&quot;]</value>
-      <webElementGuid>1b0d2152-7918-402f-8682-da5e3e80b18d</webElementGuid>
+      <webElementGuid>619bc15b-1988-46b4-8ebc-9aefbdb94ee4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mainContainerCard']/div[2]/a[2]/div</value>
-      <webElementGuid>a7bda3cd-48ff-4484-873f-26f3aa2742af</webElementGuid>
+      <webElementGuid>fdd06a3d-1d00-4dac-a5f4-bd83870e1c23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketplace kebutuhan logistik terlengkap.'])[1]/following::div[1]</value>
-      <webElementGuid>8f5e55d9-1ad4-4375-9923-d37a79af1363</webElementGuid>
+      <webElementGuid>fbe0ad89-1f32-4ce4-b158-b6727dbb35c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transportation Store'])[1]/following::div[2]</value>
-      <webElementGuid>ac8d36fa-47d1-486b-8235-59b0f033117c</webElementGuid>
+      <webElementGuid>6439b16c-b97c-4c01-b346-b568308987b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a[2]/div</value>
-      <webElementGuid>9c29ebac-67c9-4e8c-82eb-6a35373d2a22</webElementGuid>
+      <webElementGuid>5bc19171-0469-4956-be41-4dd2d90577a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Dealer &amp; KaroseriDirektori dealer dan karoseri se-Indonesia.' or . = 'Dealer &amp; KaroseriDirektori dealer dan karoseri se-Indonesia.')]</value>
-      <webElementGuid>34a3e390-22f1-4dae-bec0-95f1621f4f7c</webElementGuid>
+      <webElementGuid>e045fd6e-fd12-472f-ba11-20895ccabe35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

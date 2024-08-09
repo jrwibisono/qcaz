@@ -22,24 +22,24 @@ WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_muatmuat Website  muatmuat/button_Temukan keperluan pengemasan produk _b2e74a'))
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B08_FinanceAssurance/Page_Home  muatmuat/img_BARU_image-item-category'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B06_DealerKaroseri/B06_DK01_Dealer/Page_muatmuat Website  muatmuat/div_Dealer  KaroseriDirektori dealer dan ka_3b1b20'))
 
 WebUI.waitForPageLoad(60)
 
 WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B08_FinanceAssurance/Page_Finance  Insurance  muatmuat.com/a_Lainnya'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B06_DealerKaroseri/B06_DK01_Dealer/Page_Dealer Truk  Karoseri  muatmuat.com/a_dealer'))
 
 WebUI.waitForPageLoad(60)
 
 WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B08_FinanceAssurance/Page_Finance  Insurance  muatmuat.com/div_Perusahaan Lainnya'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B06_DealerKaroseri/B06_DK01_Dealer/Page_Dealer Truk  Karoseri  muatmuat.com/div_dealer'))
 
 WebUI.waitForJQueryLoad(60)
 
 'Loop Kendaraan Kargo'
-for (def row = 1; row <= findTestData('DataBuyer/B08_FA00_07_buyer_finance_assurance_perusahaan_lainnya').getRowNumbers(); row++) {
+for (def row = 1; row <= findTestData('DataBuyer/B06_DK00_01_buyer_dealer_karoseri_dealer').getRowNumbers(); row++) {
     'Load Page - Awal Loop'
     WebUI.waitForPageLoad(60)
 
@@ -47,7 +47,7 @@ for (def row = 1; row <= findTestData('DataBuyer/B08_FA00_07_buyer_finance_assur
 
     'Search Text'
     WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/input_Pencarian Terakhir_form-pencarian'), 
-        findTestData('DataBuyer/B08_FA00_07_buyer_finance_assurance_perusahaan_lainnya').getValue(12, row))
+        findTestData('DataBuyer/B06_DK00_01_buyer_dealer_karoseri_dealer').getValue(12, row))
 
     'Search Button'
     WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/img_Pencarian Terakhir_icon-search-white-24'))

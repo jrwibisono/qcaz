@@ -6,12 +6,12 @@
    <elementGuidId>04ab7aca-9cf2-4b7e-a26d-14dcc56c6ed3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div:nth-of-type(3) > a > div.card-border</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;menuCategory&quot;]/a[9]/div/div/div[1]/img</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='mainContainerCard']/div[3]/a/div</value>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > a > div.card-border</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>efc4fba0-34b3-4da3-909a-2becdf318215</webElementGuid>
+      <webElementGuid>72000703-b6f5-4b6f-863a-c8efd2710902</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>card-border</value>
-      <webElementGuid>2530ca08-4e25-402c-b830-466017ec3839</webElementGuid>
+      <webElementGuid>ba1e6ba8-f17c-464b-ba6f-c0498ee411ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Places &amp; PromoTemukan info promo dan discount kebutuhan logistik Anda di seluruh Indonesia.</value>
-      <webElementGuid>bcc89272-05f8-4026-8577-b6bdd6d1e049</webElementGuid>
+      <webElementGuid>8c4ec868-c566-4e69-858a-0b95ac27ecfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;mainContainerCard&quot;)/div[3]/a[1]/div[@class=&quot;card-border&quot;]</value>
-      <webElementGuid>ad8b97a8-1ab8-48b2-84ed-784d6d161529</webElementGuid>
+      <webElementGuid>a8e591e9-e56c-4506-bc19-a51e16d59a3d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='mainContainerCard']/div[3]/a/div</value>
-      <webElementGuid>b22a1bd5-3299-472d-b05e-83df045dc2c8</webElementGuid>
+      <webElementGuid>91e789a0-8a17-4ec5-bf37-5a5ad36d0770</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Temukan bengkel dan tenaga ahli kendaraan komersial.'])[1]/following::div[2]</value>
-      <webElementGuid>efa73ba1-2af4-440a-97bf-3bccbc69360b</webElementGuid>
+      <webElementGuid>0cbee5ed-a939-4dcc-9d92-13c494dd120b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Repair &amp; Maintenance Service'])[1]/following::div[3]</value>
-      <webElementGuid>247f14cf-8c6e-4b84-a08d-c65d857e6c8d</webElementGuid>
+      <webElementGuid>e6db3557-3960-42bd-a968-57b571228688</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a/div</value>
-      <webElementGuid>99eaa5e7-8310-40df-b36d-e9bbd25d5184</webElementGuid>
+      <webElementGuid>b8dee0dd-7059-4af9-b1ae-d72211a87ee5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Places &amp; PromoTemukan info promo dan discount kebutuhan logistik Anda di seluruh Indonesia.' or . = 'Places &amp; PromoTemukan info promo dan discount kebutuhan logistik Anda di seluruh Indonesia.')]</value>
-      <webElementGuid>f0b6bba8-726c-487a-b9b8-0d99a3e750e3</webElementGuid>
+      <webElementGuid>5662e0f0-e537-49c9-8162-dbf5bda2c391</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

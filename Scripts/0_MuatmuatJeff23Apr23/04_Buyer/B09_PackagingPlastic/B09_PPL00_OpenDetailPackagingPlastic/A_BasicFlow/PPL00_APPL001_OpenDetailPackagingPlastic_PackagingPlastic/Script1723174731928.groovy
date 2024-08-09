@@ -22,24 +22,20 @@ WebUI.callTestCase(findTestCase('0_MuatmuatJeff23Apr23/00_RegisLogin/RL01_Login/
 
 WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_muatmuat Website  muatmuat/button_Temukan keperluan pengemasan produk _b2e74a'))
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B08_FinanceAssurance/Page_Home  muatmuat/img_BARU_image-item-category'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B09_PackagingPlastic/Page_Home  muatmuat/img_BARU_image-item-category'))
 
 WebUI.waitForPageLoad(60)
 
 WebUI.waitForJQueryLoad(60)
 
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B08_FinanceAssurance/Page_Finance  Insurance  muatmuat.com/a_Lainnya'))
+WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B09_PackagingPlastic/Page_Packaging  Plastic  muatmuat.com/a_Packaging  Plastic'))
 
 WebUI.waitForPageLoad(60)
-
-WebUI.waitForJQueryLoad(60)
-
-WebUI.click(findTestObject('0_MuatmuatJeff23Apr23/04_Buyer/B08_FinanceAssurance/Page_Finance  Insurance  muatmuat.com/div_Perusahaan Lainnya'))
 
 WebUI.waitForJQueryLoad(60)
 
 'Loop Kendaraan Kargo'
-for (def row = 1; row <= findTestData('DataBuyer/B08_FA00_07_buyer_finance_assurance_perusahaan_lainnya').getRowNumbers(); row++) {
+for (def row = 1; row <= findTestData('DataBuyer/B09_PPL00_01_buyer_plastic_packaging_plastic_packaging').getRowNumbers(); row++) {
     'Load Page - Awal Loop'
     WebUI.waitForPageLoad(60)
 
@@ -47,7 +43,7 @@ for (def row = 1; row <= findTestData('DataBuyer/B08_FA00_07_buyer_finance_assur
 
     'Search Text'
     WebUI.setText(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/input_Pencarian Terakhir_form-pencarian'), 
-        findTestData('DataBuyer/B08_FA00_07_buyer_finance_assurance_perusahaan_lainnya').getValue(12, row))
+        findTestData('DataBuyer/B09_PPL00_01_buyer_plastic_packaging_plastic_packaging').getValue(12, row))
 
     'Search Button'
     WebUI.click(findTestObject('Object Repository/0_MuatmuatJeff23Apr23/04_Buyer/B01_TransportationStore/B01_TS01_KendaraanKargo/Page_Transportation Store  muatmuat.com/img_Pencarian Terakhir_icon-search-white-24'))
